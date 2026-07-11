@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>Morgen-Briefing</title>
 <link rel="icon" href="data:,">
+<script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/globe.gl"></script>
 <style>
   :root {
@@ -50,6 +51,24 @@
     color: var(--text-dim);
     font-size: 0.75rem;
     margin: -6px 0 10px;
+  }
+  #legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    font-size: 0.72rem;
+    color: var(--text-dim);
+    margin: 0 0 14px;
+  }
+  #legend .item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  #legend .swatch {
+    width: 9px; height: 9px; border-radius: 50%;
+    display: inline-block;
   }
   main {
     max-width: 900px;
@@ -158,6 +177,12 @@
 
 <div id="globeViz"></div>
 <div id="globeHint">Globus ziehen zum Drehen · Marker antippen für die Meldung</div>
+<div id="legend">
+  <span class="item"><span class="swatch" style="background:#ff3b30"></span>Konflikt / Krieg</span>
+  <span class="item"><span class="swatch" style="background:#ff9500"></span>Umweltkatastrophe</span>
+  <span class="item"><span class="swatch" style="background:#ffd60a"></span>Spannung</span>
+  <span class="item"><span class="swatch" style="background:#34c759"></span>Handelsroute</span>
+</div>
 
 <main>
   <nav class="tabs" id="tabs"></nav>
@@ -259,35 +284,117 @@ function buildContent(categories, articles) {
   }
 }
 
-function buildGlobe(categories, articles) {
+async function loadCountryBorders() {
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/vasturiano/globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const geo = await res.json();
+    return geo.features || [];
+  } catch (err) {
+    console.warn('Konnte Ländergrenzen nicht laden:', err);
+    return [];
+  }
+}
+
+function eventColor(article, colorById) {
+  const map = { conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759' };
+  return map[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
+}
+
+function createDomeMesh(color) {
+  const geometry = new THREE.SphereGeometry(1.35, 16, 8, 0, Math.PI * 2, 0, Math.PI / 2);
+  const material = new THREE.MeshBasicMaterial({
+    color, transparent: true, opacity: 0.88,
+  });
+  return new THREE.Mesh(geometry, material);
+}
+
+function openArticle(article) {
+  const section = document.querySelector(`section#cat-${article.category}`);
+  if (section) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  window.open(article.url, '_blank', 'noopener');
+}
+
+async function buildGlobe(categories, articles, eventColors) {
   const colorById = Object.fromEntries(categories.map(c => [c.id, c.color]));
-  const points = articles
+
+  const markers = articles
     .filter(a => a.location && typeof a.location.lat === 'number')
     .map(a => ({
       lat: a.location.lat,
       lng: a.location.lon,
-      size: 0.5,
-      color: colorById[a.category] || CATEGORY_FALLBACK_COLOR,
+      color: eventColor(a, colorById),
       article: a,
     }));
+
+  const pulses = articles
+    .filter(a => a.event_type === 'conflict' || a.event_type === 'disaster')
+    .filter(a => a.location && typeof a.location.lat === 'number')
+    .map(a => ({
+      lat: a.location.lat,
+      lng: a.location.lon,
+      color: eventColor(a, colorById),
+    }));
+
+  const arcs = [];
+  articles.forEach(a => {
+    (a.connections || []).forEach(c => {
+      if (!c.from || !c.to) return;
+      arcs.push({
+        startLat: c.from.lat, startLng: c.from.lon,
+        endLat: c.to.lat, endLng: c.to.lon,
+        color: eventColor(a, colorById),
+        article: a,
+      });
+    });
+  });
+
+  const countries = await loadCountryBorders();
 
   const el = document.getElementById('globeViz');
   const globe = Globe()(el)
     .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
     .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
     .backgroundColor('rgba(0,0,0,0)')
-    .pointsData(points)
-    .pointLat('lat')
-    .pointLng('lng')
-    .pointColor('color')
-    .pointAltitude(0.02)
-    .pointRadius('size')
-    .pointLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
-    .onPointClick(d => {
-      const cardLink = document.querySelector(`section#cat-${d.article.category}`);
-      if (cardLink) cardLink.scrollIntoView({behavior: 'smooth', block: 'start'});
-      window.open(d.article.url, '_blank', 'noopener');
-    })
+
+    // Country borders overlay
+    .polygonsData(countries)
+    .polygonCapColor(() => 'rgba(91,155,213,0.04)')
+    .polygonSideColor(() => 'rgba(0,0,0,0.1)')
+    .polygonStrokeColor(() => 'rgba(210,220,235,0.45)')
+    .polygonAltitude(0.006)
+    .polygonLabel(d => d.properties && d.properties.NAME || '')
+
+    // Event markers as small domes
+    .objectsData(markers)
+    .objectLat('lat')
+    .objectLng('lng')
+    .objectAltitude(0.012)
+    .objectFacesSurface(true)
+    .objectThreeObject(d => createDomeMesh(d.color))
+    .objectLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
+    .onObjectClick(d => openArticle(d.article))
+
+    // Pulsing rings for conflicts & environmental disasters
+    .ringsData(pulses)
+    .ringLat('lat')
+    .ringLng('lng')
+    .ringColor(d => t => `rgba(${d.color === '#ff3b30' ? '255,59,48' : '255,149,0'},${1 - t})`)
+    .ringMaxRadius(3.2)
+    .ringPropagationSpeed(2.2)
+    .ringRepeatPeriod(1200)
+
+    // Connections: conflict fronts & trade routes
+    .arcsData(arcs)
+    .arcColor(d => [d.color, d.color])
+    .arcAltitude(0.25)
+    .arcStroke(0.4)
+    .arcDashLength(0.4)
+    .arcDashGap(0.25)
+    .arcDashAnimateTime(3500)
+    .arcLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
+    .onArcClick(d => openArticle(d.article))
+
     .width(el.clientWidth)
     .height(el.clientHeight);
 
@@ -311,7 +418,7 @@ function buildGlobe(categories, articles) {
 
   buildTabs(data.categories, data.articles);
   buildContent(data.categories, data.articles);
-  buildGlobe(data.categories, data.articles);
+  buildGlobe(data.categories, data.articles, data.event_colors || {});
 })();
 </script>
 </body>
