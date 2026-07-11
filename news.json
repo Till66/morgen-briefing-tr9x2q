@@ -1,57 +1,552 @@
 {
-  "generated_at": "2026-07-11T06:00:00+02:00",
+  "generated_at": "2026-07-11T07:06:59.915542+00:00",
   "categories": [
-    { "id": "politik", "label": "Politik", "color": "#5b9bd5" },
-    { "id": "wirtschaft", "label": "Wirtschaft", "color": "#4caf50" },
-    { "id": "konflikte", "label": "Kriege & Konflikte", "color": "#e74c3c" },
-    { "id": "welt", "label": "Weltgeschehen", "color": "#f39c12" },
-    { "id": "sport", "label": "Sport", "color": "#9b59b6" }
+    {
+      "id": "politik",
+      "label": "Politik",
+      "color": "#5b9bd5"
+    },
+    {
+      "id": "wirtschaft",
+      "label": "Wirtschaft",
+      "color": "#4caf50"
+    },
+    {
+      "id": "konflikte",
+      "label": "Kriege & Konflikte",
+      "color": "#e74c3c"
+    },
+    {
+      "id": "welt",
+      "label": "Weltgeschehen",
+      "color": "#f39c12"
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "color": "#9b59b6"
+    }
   ],
   "articles": [
     {
-      "title": "Bundestag berät über neuen Haushalt",
-      "summary": "Die Koalition stellt den Etat für das kommende Jahr vor. Beispiel-Eintrag, wird beim ersten automatischen Lauf durch echte Meldungen ersetzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/",
+      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
+      "summary": "Grünes Licht für die Reform der gesetzlichen Krankenversicherung: Die Bundesregierung will die Ausgaben im Gesundheitssystem bremsen. Ein Überblick, mit welchen Einschnitten und Zuzahlungen Versicherte nun rechnen müssen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
       "category": "politik",
-      "location": { "name": "Berlin", "lat": 52.52, "lon": 13.405 },
-      "published": "2026-07-11T05:10:00Z"
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 21:02:57 +0200"
     },
     {
-      "title": "DAX legt zum Wochenstart zu",
-      "summary": "Die Frankfurter Börse startet mit Kursgewinnen in die neue Woche. Beispiel-Eintrag.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/",
+      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
+      "summary": "Nicht nur in Südeuropa, auch in Deutschland drohen aufgrund der Hitze Waldbrände. Laut Deutschem Wetterdienst wird am Wochenende teilweise die höchste Warnstufe erreicht - unter anderem im Südwesten des Landes.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html",
+      "category": "politik",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 19:20:03 +0200"
+    },
+    {
+      "title": "Bundestag weitet Befugnisse von Bundespolizei deutlich aus",
+      "summary": "Der Bundestag hat ein neues Bundespolizeigesetz verabschiedet. Die 55.000 Beamten sollen mehr Möglichkeiten erhalten, Personen zu überwachen und Drohnen abzuwehren. Außerdem soll in bestimmten Fällen eine Live-Gesichtserkennung möglich sein.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 17:38:36 +0200"
+    },
+    {
+      "title": "Wie die Koalition ihre Gesundheitsreform durchbrachte",
+      "summary": "Trotz heftiger Kritik haben Bundestag und Bundesrat das Sparpaket für die gesetzliche Krankenversicherung verabschiedet. Die erste größere Reform der schwarz-roten Koalition ist damit beschlossen. Von Isabell Karras.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 17:21:04 +0200"
+    },
+    {
+      "title": "Berlins Regierender Bürgermeister Wegner tritt bei Wahl nicht mehr an",
+      "summary": "Berlins Regierender Bürgermeister Wegner tritt bei der nächsten Wahl nicht mehr an, bleibt aber bis September im Amt. Rund um den großen Stromausfall in der Hauptstadt im Januar habe er \"kommunikative Fehler\" gemacht, räumte er ein.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/wegner-wahl-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 15:59:49 +0200"
+    },
+    {
+      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
+      "summary": "Kernpunkte der von der Ampel-Regierung eingeführten Regelungen sind gekippt: Der Bundestag hat das neue Gebäudemodernisierungsgesetz beschlossen. Auch der Bundesrat hat zugestimmt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 15:19:02 +0200"
+    },
+    {
+      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
+      "summary": "Amtsgeschäfte im Ausweichquartier: Bundespräsident Steinmeier hat seinen neuen Amtssitz bezogen - ein Gebäude ohne Stuck, Gold, und Prunk. Nötig macht das die Sanierung von Schloss Bellevue. Von Tina Handel.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 13:05:14 +0200"
+    },
+    {
+      "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
+      "summary": "Krankenhäuser und ganze Berufsgruppen sehen sich durch die Reform der Krankenkassen vor Problemen. Sie warnen vor Abstrichen bei der Versorgung. Die bereits schwierigen Arbeitsbedingungen haben Folgen. Von Teresa Peters.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html",
+      "category": "politik",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 12:06:43 +0200"
+    },
+    {
+      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
+      "summary": "OpenAI entwickelt ein neues Produkt - auch mit früheren Apple-Mitarbeitern im Team. Nun wirft der Tech-Gigant Apple dem Unternehmen Diebstahl von Geschäftsgeheimnissen vor. Im Fokus stehen auch zwei hochrangige Mitarbeiter.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html",
       "category": "wirtschaft",
-      "location": { "name": "Frankfurt", "lat": 50.1109, "lon": 8.6821 },
-      "published": "2026-07-11T05:20:00Z"
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Sat, 11 Jul 2026 04:46:18 +0200"
     },
     {
-      "title": "Weitere Angriffe im Grenzgebiet gemeldet",
-      "summary": "Beide Seiten berichten von neuen Gefechten. Beispiel-Eintrag, wird durch echte Meldungen ersetzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/",
+      "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
+      "summary": "Der Einbau einer Erdgas-Heizung in Neubauten ist künftig wieder möglich - wobei Experten vor den Kosten warnen. Und der Staat zahlt weniger Förderung für den Umstieg auf Wärmepumpen. Ein Überblick.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 18:53:16 +0200"
+    },
+    {
+      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
+      "summary": "Kernpunkte der von der Ampel-Regierung eingeführten Regelungen sind gekippt: Der Bundestag hat das neue Gebäudemodernisierungsgesetz beschlossen. Auch der Bundesrat hat zugestimmt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 15:19:02 +0200"
+    },
+    {
+      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
+      "summary": "Das Bundeskartellamt zieht eine positive Bilanz des Tankrabatts: Rund 80 Prozent der Steuersenkung wurden an Verbraucher weitergegeben. Das Bundeskartellamt spricht von einer Preislücke von knapp vier Cent.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 14:59:08 +0200"
+    },
+    {
+      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
+      "summary": "Nach der VW-Aufsichtsratssitzung bleiben Fragen offen. Vorstandschef Blume soll sich nun \"unmissverständlich\" zu den Sparplänen äußern, fordert der Betriebsrat. Der Autobauer leidet weiter unter schwachen Verkäufen in China, wie neue Zahlen zeigen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "published": "Fri, 10 Jul 2026 12:03:39 +0200"
+    },
+    {
+      "title": "Streit über Wochenarbeitszeit: Zurück zur 40-Stunden-Woche?",
+      "summary": "Krise in der Autobranche, hohe Produktionskosten in der deutschen Industrie: Immer häufiger fordern Stimmen aus der Wirtschaft, dass in Deutschland wieder länger gearbeitet werden müsse. Von Thomas Denzel.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitszeit-40-stunden-woche-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 06:15:09 +0200"
+    },
+    {
+      "title": "Wie Volkswagen sich in China neu erfinden will",
+      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
+    },
+    {
+      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
+      "category": "wirtschaft",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
+    },
+    {
+      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "summary": "Schüsse aus Polizeiwaffen gelten in Frankreich künftig als Notwehr. Opfer müssen beweisen, dass der Beamte die Waffe regelwidrig benutzt hat. Kritiker sind entsetzt und fürchten Straflosigkeit. Von Julia Borutta.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html",
       "category": "konflikte",
-      "location": { "name": "Ukraine", "lat": 48.3794, "lon": 31.1656 },
-      "published": "2026-07-11T04:50:00Z"
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "published": "Fri, 10 Jul 2026 19:46:55 +0200"
     },
     {
-      "title": "Gipfeltreffen in Brüssel beginnt",
-      "summary": "Staats- und Regierungschefs beraten über gemeinsame Politik. Beispiel-Eintrag.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/",
+      "title": "US-Präsident Trump will Handel mit Spanien einstellen",
+      "summary": "Schon länger kritisiert US-Präsident Trump den NATO-Partner Spanien: zu geringe Verteidigungsausgaben, mangelnde Unterstützung im Iran-Krieg. Nun kündigte er an, den Handel zu stoppen. Das dürfte aber schwierig werden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "published": "Wed, 08 Jul 2026 13:26:17 +0200"
+    },
+    {
+      "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
+      "summary": "Das Rahmenabkommen ist aufgekündigt, es gibt immer wieder Angriffe - doch die USA wollen mit Iran weiterverhandeln. Laut Medienberichten aber nur unter Auflagen: Die Straße von Hormus müsse sicher passierbar sein.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/usa-iran-174.html",
+      "category": "konflikte",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "published": "Sat, 11 Jul 2026 09:03:57 +0200"
+    },
+    {
+      "title": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
+      "summary": "Ukraine, Iran und vor allem das Geld: Die Themen des NATO-Gipfels in der Türkei bergen Konfliktpotenzial. Kanzler Merz hofft auf den \"Geist von Ankara\" - aber die Ausgangslage ist schwierig. Das Wichtigste im Überblick.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/nato-gipfel-212.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "published": "Tue, 07 Jul 2026 13:43:14 +0200"
+    },
+    {
+      "title": "Ukraine attackiert erneut russische Energieanlagen",
+      "summary": "Russischen Angaben zufolge hat die Ukraine das Land in der vergangenen Nacht erneut mit Hunderten Drohnen attackiert. Viele der Angriffe zielten auf Raffinerien und Ölanlagen. Todesopfer oder Verletzte wurden bisher nicht gemeldet.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-raffinerien-russland-100.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "published": "Fri, 10 Jul 2026 11:17:02 +0200"
+    },
+    {
+      "title": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
+      "summary": "Erneut heulten in der Nacht in Kiew die Sirenen. Auch Charkiw geriet ins Visier russischer Angriffe. Landesweit wurden mindestens sieben Todesopfer gemeldet. Die Ukraine griff ihrerseits Industrieanlagen in Russland an.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "published": "Wed, 08 Jul 2026 11:26:30 +0200"
+    },
+    {
+      "title": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
+      "summary": "Die Ukraine hat Russland offenbar mit Hunderten Drohnen angriffen - ein Großteil davon soll die Hauptstadt Moskau angesteuert haben. In anderen Regionen brachen Brände in Industrieanlagen aus, ein Toter wird gemeldet.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "published": "Tue, 07 Jul 2026 11:43:30 +0200"
+    },
+    {
+      "title": "Ukraine meldet mehrere Tote nach russischen Angriffen",
+      "summary": "Luftalarm im ganzen Land, Explosionen in Kiew: Russland hat die Ukraine in der Nacht erneut attackiert - und das kurz vor einem NATO-Gipfel in der Türkei. Den Behörden zufolge gibt es mindestens 17 Tote.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html",
+      "category": "konflikte",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "published": "Mon, 06 Jul 2026 15:17:29 +0200"
+    },
+    {
+      "title": "Belgien plant Straßenmaut für alle Autos",
+      "summary": "Das Autofahren in Belgien soll künftig Geld kosten. Alle drei Regionen des Landes einigten sich auf eine Mautplakette für Pkw - für Belgier als auch für Ausländer. Die Kosten sollen sich je nach Fahrzeug unterscheiden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
       "category": "welt",
-      "location": { "name": "Brüssel", "lat": 50.8503, "lon": 4.3517 },
-      "published": "2026-07-11T05:00:00Z"
+      "location": {
+        "name": "Belgien",
+        "lat": 50.5039,
+        "lon": 4.4699
+      },
+      "published": "Sat, 11 Jul 2026 02:04:33 +0200"
     },
     {
-      "title": "Nationalmannschaft gewinnt Testspiel",
-      "summary": "Ein souveräner Auftritt vor heimischem Publikum. Beispiel-Eintrag.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/sport/",
+      "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
+      "summary": "Die britische Polizei hat einen 26-jährigen Briten festgenommen. Er soll die rechtskonservative Ex-Ministerin Ann Widdecombe ermordet haben. Die 78-Jährige war am Donnerstag tot aufgefunden worden. Das Motiv ist weiter unklar.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html",
+      "category": "welt",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 21:27:29 +0200"
+    },
+    {
+      "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
+      "summary": "Die französische Regierung stimmt die Bevölkerung auf den Höhepunkt der dritten Hitzewelle des Jahres ein. Ein neuer Zivilschutzplan soll nun Alte, Alleinstehende und Obdachlose besser schützen. Von Cai Rienäcker.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html",
+      "category": "welt",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "published": "Fri, 10 Jul 2026 19:02:48 +0200"
+    },
+    {
+      "title": "Britischer Rechtspopulist: \"Teflon-Image von Farage hat Kratzer\"",
+      "summary": "An Nigel Farage, Brexit-Wortführer der ersten Stunde und Gesicht des britischen Rechtspopulismus, schien jede Kritik abzuperlen. Doch jetzt gerät er unter Druck - und seine Flucht nach vorne scheint nicht recht zu funktionieren. Von M. Aden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/nigel-farage-skandal-100.html",
+      "category": "welt",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 15:43:22 +0200"
+    },
+    {
+      "title": "EU sieht Suchtgefahr bei Facebook und Instagram",
+      "summary": "Facebook und Instagram können Kinder und Jugendliche süchtig machen - zu dieser Einschätzung kommt die EU-Kommission und fordert vom Mutterkonzern Meta besseren Schutz. Doch unter Zeitdruck steht das US-Unternehmen damit nicht.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-meta-suchtgefahr-100.html",
+      "category": "welt",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 14:05:35 +0200"
+    },
+    {
+      "title": "Tote bei Waldbrand im Süden Spaniens",
+      "summary": "Trockenes Wetter, hohe Temperaturen: Immer wieder kommt es in Spanien zu schweren Waldbränden. Bei einem Feuer in Andalusien starben nun mindestens zwölf Menschen - darunter offenbar auch Briten.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "category": "welt",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "published": "Sat, 11 Jul 2026 05:09:44 +0200"
+    },
+    {
+      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
+      "summary": "Direkt nach dem Urteil gegen sie hat die französische Rechtsnationalistin Marine Le Pen mit dem Wahlkampf begonnen. Ihre Anhänger haben mit ihrer strafrechtlichen Verurteilung offenbar kein Problem. Von Cai Rienäcker.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
+      "category": "welt",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Wed, 08 Jul 2026 18:57:40 +0200"
+    },
+    {
+      "title": "Trump sorgt beim NATO-Gipfel mit neuer Grönland-Aussage für Ärger",
+      "summary": "Beim NATO-Gipfel sorgen diverse Äußerungen des US-Präsidenten für Unmut. Trump erhob auch erneut Anspruch auf Grönland, Dänemark reagierte deutlich. NATO-Chef Rutte sieht die Einigkeit des Bündnisses jedoch nicht in Gefahr.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/nato-gipfel-trump-groenland-100.html",
+      "category": "welt",
+      "location": {
+        "name": "Dänemark",
+        "lat": 56.2639,
+        "lon": 9.5018
+      },
+      "published": "Wed, 08 Jul 2026 10:16:48 +0200"
+    },
+    {
+      "title": "Bordeaux",
+      "summary": "Seit neun Jahren hat kein deutscher Radprofi mehr einen Massensprint bei der Tour de France gewonnen. Pascal Ackermann, Phil Bauhaus und Max Kanter geben die Hoffnung aber nicht auf.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/die-zuversicht-dass-einmal-alles-zusammenkommt,tour-de-france-7-etappe-analyse-100.html",
       "category": "sport",
-      "location": { "name": "München", "lat": 48.1351, "lon": 11.582 },
-      "published": "2026-07-11T05:30:00Z"
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 20:18:32 +0200"
+    },
+    {
+      "title": "Tour: Merlier rast in Bordeaux zum Sieg - Kanter Vierter",
+      "summary": "Tim Merlier hat die 7. Etappe der Tour de France gewonnen. Der Belgier siegte in Bordeaux im Massensprint. Der Deutsche Max Kanter wurde Vierter.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/merlier-der-schnellste-in-bordeaux-kanter-vierter,etappenbericht-7-102.html",
+      "category": "sport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 18:08:01 +0200"
+    },
+    {
+      "title": "Das Maß aller Dinge: Muchova und Noskova im Wimbledon-Finale",
+      "summary": "Im Finale von Wimbledon stehen sich mit Karolina Muchova und Linda Noskova zwei Tschechinnen gegenüber. Tschechisches Tennis gehört seit Jahrzehnten zur Weltspitze, aber in Wimbledon sind unsere Nachbarn besonders erfolgreich.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/tschechisches-tennis-mass-aller-dinge,vorschau-finale-muchova-noskova-100.html",
+      "category": "sport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 12:47:35 +0200"
+    },
+    {
+      "title": "Finale in Wimbledon: Alexander Zverev ist \"unglaublich glücklich\"",
+      "summary": "Alexander Zverev steht erstmals in seiner Karriere im Finale in Wimbledon. In einem ab dem zweiten Satz einseitigen Match gewann er gegen den Briten Arthur Fery mit 7:6, 6:2, 6:4.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/unglaublich-gluecklich-zverev-schlaegt-fery-klar-und-steht-im-finale,bericht-halbfinale-zverev-fery-100.html",
+      "category": "sport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 19:42:18 +0200"
+    },
+    {
+      "title": "Sinner schlägt Djokovic und folgt Zverev ins Finale",
+      "summary": "Titelverteidiger Jannik Sinner ist der Gegner von Alexander Zverev im Endspiel von Wimbledon. Der italienische Tennis-Weltranglisten-Erste setzte sich im zweiten Halbfinale des Rasenklassikers gegen den serbischen Rekord-Grand-Slam-Sieger Novak Djokovic durch.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/sinner-schlaegt-djokovic-und-folgt-zverev-ins-finale,bericht-halbfinale-sinner-djokovic-100.html",
+      "category": "sport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 19:59:33 +0200"
+    },
+    {
+      "title": "Liveblog Wimbledon Aktuell: Zverev im Finale gegen Sinner, Frauen-Endspiel am Samstag",
+      "summary": "Alexander Zverev muss im Finale von Wimbledon gegen Jannik Sinner ran. Alle News rund um Wimbledon täglich in unserem Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/zverev-im-finale-gegen-sinner-frauen-endspiel-am-samstag,wimbledon-liveblog-100.html",
+      "category": "sport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "published": "Fri, 10 Jul 2026 21:57:03 +0200"
+    },
+    {
+      "title": "Torwartfehler und Jokertor: Spanien gewinnt gegen Belgien",
+      "summary": "Wie schon im Achtelfinale gegen Portugal war es Joker Mikel Merino, der die Spanier im Viertelfinale gegen Belgien spät auf die Siegerstraße brachte. Er profitierte von einem groben Fehler.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/merino-trifft-wieder-spaet-torwartfehler-bringt-spanien-ins-halbfinale,wm-spielbericht-spanien-belgien-100.html",
+      "category": "sport",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "published": "Fri, 10 Jul 2026 22:59:24 +0200"
+    },
+    {
+      "title": "WM 2026: Mikel Merino bleibt Spaniens Last-Minute-Versicherung",
+      "summary": "Spanien tut sich gegen Portugal lange schwer, Spanien tut sich gegen Belgien lange schwer - erlöst werden die Iberer zweimal von Mikel Merino. Wohl dem, der so einen Joker in seinen Reihen hat.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/mikel-merino-bleibt-spaniens-last-minute-versicherung,merino-nach-viertelfinale-100.html",
+      "category": "sport",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "published": "Sat, 11 Jul 2026 00:36:56 +0200"
     }
   ]
 }
