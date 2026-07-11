@@ -1,38 +1,42 @@
 #!/usr/bin/env python3
 """
 Fetches current quotes + a short price history (for sparkline charts) for
-a curated list of major world stocks/indices from Stooq's free, no-API-key
-CSV endpoints, and writes stocks.json for the dashboard's ticker section.
+a curated list of major world stocks/indices from Yahoo Finance's free,
+no-API-key chart endpoint, and writes stocks.json for the dashboard's
+ticker section.
 
 Runs server-side (GitHub Actions), so there's no CORS concern - the
 frontend just reads the resulting static JSON file.
+
+(Previously used Stooq's CSV endpoints, but Stooq's quote endpoint now
+returns "Access denied" for server-side/automated requests, so we moved
+to Yahoo Finance's chart API, which returns both the current price and a
+ready-made close-price history in a single request per symbol.)
 """
-import csv
-import io
 import json
 import sys
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
-USER_AGENT = "Mozilla/5.0 (compatible; MorningNewsDashboard/1.0)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
-# symbol -> display name. Feel free to add/remove tickers here; the
-# frontend renders whatever ends up in stocks.json automatically.
+# Yahoo Finance symbol -> display name. Feel free to add/remove tickers
+# here; the frontend renders whatever ends up in stocks.json automatically.
 SYMBOLS = [
-    ("^spx", "S&P 500"),
-    ("^dji", "Dow Jones"),
-    ("^ndq", "Nasdaq Composite"),
-    ("^dax", "DAX"),
-    ("^nkx", "Nikkei 225"),
-    ("^hsi", "Hang Seng"),
-    ("aapl.us", "Apple"),
-    ("msft.us", "Microsoft"),
-    ("googl.us", "Alphabet (Google)"),
-    ("amzn.us", "Amazon"),
-    ("nvda.us", "Nvidia"),
-    ("tsla.us", "Tesla"),
-    ("meta.us", "Meta"),
+    ("^GSPC", "S&P 500"),
+    ("^DJI", "Dow Jones"),
+    ("^IXIC", "Nasdaq Composite"),
+    ("^GDAXI", "DAX"),
+    ("^N225", "Nikkei 225"),
+    ("^HSI", "Hang Seng"),
+    ("AAPL", "Apple"),
+    ("MSFT", "Microsoft"),
+    ("GOOGL", "Alphabet (Google)"),
+    ("AMZN", "Amazon"),
+    ("NVDA", "Nvidia"),
+    ("TSLA", "Tesla"),
+    ("META", "Meta"),
 ]
 
 
@@ -42,77 +46,50 @@ def fetch_url(url: str) -> str:
         return resp.read().decode("utf-8", errors="replace")
 
 
-def fetch_quotes(symbols):
-    # Symbols like "^spx" contain characters (^) that must be percent-encoded
-    # for the querystring, otherwise Stooq responds with a bare 404.
-    joined = ",".join(urllib.parse.quote(s, safe="") for s, _ in symbols)
-    url = f"https://stooq.com/q/l/?s={joined}&f=sd2t2ohlcv&h&e=csv"
-    text = fetch_url(url)
-    reader = csv.DictReader(io.StringIO(text))
-    quotes = {}
-    for row in reader:
-        symbol = (row.get("Symbol") or "").lower()
-        close = row.get("Close")
-        open_ = row.get("Open")
-        if not symbol or close in (None, "N/D"):
-            continue
-        try:
-            close_f = float(close)
-            open_f = float(open_) if open_ not in (None, "N/D") else close_f
-        except ValueError:
-            continue
-        quotes[symbol] = {
-            "price": close_f,
-            "open": open_f,
-            "change_pct": round((close_f - open_f) / open_f * 100, 2) if open_f else 0,
-        }
-    return quotes
-
-
-def fetch_history(symbol, days=30):
-    d2 = datetime.now(timezone.utc).date()
-    d1 = d2 - timedelta(days=days * 2)  # extra buffer for weekends/holidays
+def fetch_symbol(symbol, days=30):
+    """Returns (price, change_pct, history) for one symbol via Yahoo
+    Finance's chart endpoint, or None on failure."""
     url = (
-        f"https://stooq.com/q/d/l/?s={urllib.parse.quote(symbol, safe='')}&i=d"
-        f"&d1={d1.strftime('%Y%m%d')}&d2={d2.strftime('%Y%m%d')}"
+        "https://query1.finance.yahoo.com/v8/finance/chart/"
+        f"{urllib.parse.quote(symbol, safe='')}?range=3mo&interval=1d"
     )
     try:
-        text = fetch_url(url)
-        reader = csv.DictReader(io.StringIO(text))
+        data = json.loads(fetch_url(url))
+        result = (data.get("chart") or {}).get("result") or []
+        if not result:
+            return None
+        r = result[0]
+        meta = r.get("meta") or {}
+        price = meta.get("regularMarketPrice")
+        prev_close = meta.get("chartPreviousClose") or meta.get("previousClose")
+        if price is None:
+            return None
+
         closes = []
-        for row in reader:
-            close = row.get("Close")
-            if close in (None, "N/D", ""):
-                continue
-            try:
-                closes.append(float(close))
-            except ValueError:
-                continue
-        return closes[-days:]
+        quotes = (r.get("indicators") or {}).get("quote") or []
+        if quotes:
+            closes = [c for c in (quotes[0].get("close") or []) if c is not None]
+        history = closes[-days:] if closes else []
+
+        change_pct = round((price - prev_close) / prev_close * 100, 2) if prev_close else 0
+        return {"price": price, "change_pct": change_pct, "history": history}
     except Exception as exc:
-        print(f"Warning: failed to fetch history for {symbol}: {exc}", file=sys.stderr)
-        return []
+        print(f"Warning: failed to fetch {symbol}: {exc}", file=sys.stderr)
+        return None
 
 
 def main():
-    try:
-        quotes = fetch_quotes(SYMBOLS)
-    except Exception as exc:
-        print(f"Warning: failed to fetch quotes: {exc}", file=sys.stderr)
-        quotes = {}
-
     stocks = []
     for symbol, name in SYMBOLS:
-        q = quotes.get(symbol)
+        q = fetch_symbol(symbol)
         if not q:
             continue
-        history = fetch_history(symbol)
         stocks.append({
-            "symbol": symbol.upper(),
+            "symbol": symbol.lstrip("^"),
             "name": name,
             "price": q["price"],
             "change_pct": q["change_pct"],
-            "history": history,
+            "history": q["history"],
         })
 
     output = {
