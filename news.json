@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-07-11T06:00:00+02:00",
+  "categories": [
+    { "id": "politik", "label": "Politik", "color": "#5b9bd5" },
+    { "id": "wirtschaft", "label": "Wirtschaft", "color": "#4caf50" },
+    { "id": "konflikte", "label": "Kriege & Konflikte", "color": "#e74c3c" },
+    { "id": "welt", "label": "Weltgeschehen", "color": "#f39c12" },
+    { "id": "sport", "label": "Sport", "color": "#9b59b6" }
+  ],
+  "articles": [
+    {
+      "title": "Bundestag berät über neuen Haushalt",
+      "summary": "Die Koalition stellt den Etat für das kommende Jahr vor. Beispiel-Eintrag, wird beim ersten automatischen Lauf durch echte Meldungen ersetzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/",
+      "category": "politik",
+      "location": { "name": "Berlin", "lat": 52.52, "lon": 13.405 },
+      "published": "2026-07-11T05:10:00Z"
+    },
+    {
+      "title": "DAX legt zum Wochenstart zu",
+      "summary": "Die Frankfurter Börse startet mit Kursgewinnen in die neue Woche. Beispiel-Eintrag.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/",
+      "category": "wirtschaft",
+      "location": { "name": "Frankfurt", "lat": 50.1109, "lon": 8.6821 },
+      "published": "2026-07-11T05:20:00Z"
+    },
+    {
+      "title": "Weitere Angriffe im Grenzgebiet gemeldet",
+      "summary": "Beide Seiten berichten von neuen Gefechten. Beispiel-Eintrag, wird durch echte Meldungen ersetzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/",
+      "category": "konflikte",
+      "location": { "name": "Ukraine", "lat": 48.3794, "lon": 31.1656 },
+      "published": "2026-07-11T04:50:00Z"
+    },
+    {
+      "title": "Gipfeltreffen in Brüssel beginnt",
+      "summary": "Staats- und Regierungschefs beraten über gemeinsame Politik. Beispiel-Eintrag.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/",
+      "category": "welt",
+      "location": { "name": "Brüssel", "lat": 50.8503, "lon": 4.3517 },
+      "published": "2026-07-11T05:00:00Z"
+    },
+    {
+      "title": "Nationalmannschaft gewinnt Testspiel",
+      "summary": "Ein souveräner Auftritt vor heimischem Publikum. Beispiel-Eintrag.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/",
+      "category": "sport",
+      "location": { "name": "München", "lat": 48.1351, "lon": 11.582 },
+      "published": "2026-07-11T05:30:00Z"
+    }
+  ]
+}
