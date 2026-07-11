@@ -70,14 +70,136 @@
     display: inline-block;
   }
   .dome-marker {
-    width: 15px;
-    height: 15px;
+    width: 9px;
+    height: 9px;
     border-radius: 50%;
     background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), var(--c, #5b9bd5) 42%, var(--c, #5b9bd5) 100%);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.55), inset 0 -2px 4px rgba(0,0,0,0.35);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.55), inset 0 -1px 3px rgba(0,0,0,0.35);
     cursor: pointer;
     transform: translate(-50%, -50%);
   }
+  .city-marker {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), #7ec8ff 45%, #2f7dc4 100%);
+    box-shadow: 0 0 5px rgba(126,200,255,0.8), 0 1px 3px rgba(0,0,0,0.5);
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+  }
+
+  #cityPanelOverlay {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 900;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+  #cityPanelOverlay.open { opacity: 1; pointer-events: auto; }
+  #cityPanel {
+    position: fixed;
+    top: 0; right: 0;
+    width: 340px;
+    max-width: 88vw;
+    height: 100vh;
+    background: var(--panel);
+    border-left: 1px solid var(--panel-border);
+    box-shadow: -8px 0 24px rgba(0,0,0,0.4);
+    z-index: 901;
+    overflow-y: auto;
+    padding: 20px 20px 40px;
+    transform: translateX(100%);
+    transition: transform 0.25s ease;
+  }
+  #cityPanel.open { transform: translateX(0); }
+  #cityPanel .closeBtn {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 6px 10px;
+    cursor: pointer;
+    float: right;
+    font-size: 0.85rem;
+  }
+  #cityPanel h2 {
+    margin: 0 0 2px;
+    font-size: 1.3rem;
+  }
+  #cityPanel .subtitle {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-bottom: 18px;
+  }
+  #cityPanel .section {
+    margin-bottom: 18px;
+  }
+  #cityPanel .section h3 {
+    font-size: 0.9rem;
+    margin: 0 0 8px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  #cityPanel .row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.88rem;
+    padding: 4px 0;
+    border-bottom: 1px solid var(--panel-border);
+    gap: 10px;
+  }
+  #cityPanel .row .k { color: var(--text-dim); }
+  #cityPanel .row .v { text-align: right; }
+  #cityPanel .known-for {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    color: var(--text);
+  }
+
+  #stocksSection {
+    margin-top: 12px;
+  }
+  #stocksSection h2 {
+    font-size: 1.1rem;
+    margin: 0 0 12px;
+    padding-left: 2px;
+  }
+  .stocks-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+  }
+  .stock-box {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: 12px;
+    padding: 12px 14px;
+  }
+  .stock-box .symbol {
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .stock-box .name {
+    color: var(--text-dim);
+    font-size: 0.72rem;
+    margin-bottom: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .stock-box .price {
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+  .stock-box .change {
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .stock-box .change.up { color: #34c759; }
+  .stock-box .change.down { color: #ff3b30; }
+  .stock-box svg { display: block; margin-top: 6px; }
   main {
     max-width: 900px;
     margin: 0 auto;
@@ -190,15 +312,57 @@
   <span class="item"><span class="swatch" style="background:#ff9500"></span>Umweltkatastrophe</span>
   <span class="item"><span class="swatch" style="background:#ffd60a"></span>Spannung</span>
   <span class="item"><span class="swatch" style="background:#34c759"></span>Handelsroute</span>
+  <span class="item"><span class="swatch" style="background:#0a84ff"></span>Blockade</span>
+  <span class="item"><span class="swatch" style="background:#7ec8ff"></span>Stadt (Profil antippen)</span>
 </div>
 
 <main>
   <nav class="tabs" id="tabs"></nav>
   <div id="content"></div>
+
+  <div id="stocksSection">
+    <h2>📈 Aktienmärkte</h2>
+    <div class="stocks-grid" id="stocksGrid"></div>
+  </div>
 </main>
+
+<div id="cityPanelOverlay"></div>
+<div id="cityPanel"></div>
 
 <script>
 const CATEGORY_FALLBACK_COLOR = '#5b9bd5';
+
+// Static reference data for the 26 permanently-shown world cities. Not
+// tied to the daily news pipeline - population/area etc. are approximate
+// reference figures. Live weather + local time are fetched on click.
+const CITY_PROFILES = [
+  { name: 'New York City', country: 'USA', flag: '🇺🇸', region: 'New York', continent: 'Nordamerika', lat: 40.7128, lon: -74.0060, population: '8,3 Mio.', area: '780 km²', timezone: 'America/New_York', currency: 'US-Dollar (USD)', language: 'Englisch', capital: false, feature: 'Finanzzentrum', knownFor: 'Globales Finanz- und Kulturzentrum mit der Wall Street.', airport: 'John F. Kennedy International', station: 'Grand Central Terminal' },
+  { name: 'London', country: 'Vereinigtes Königreich', flag: '🇬🇧', region: 'England', continent: 'Europa', lat: 51.5072, lon: -0.1276, population: '9,0 Mio.', area: '1.572 km²', timezone: 'Europe/London', currency: 'Pfund Sterling (GBP)', language: 'Englisch', capital: true, feature: 'Finanz- und Kulturzentrum', knownFor: 'Historische Weltstadt und globales Finanzzentrum (City of London).', airport: 'Heathrow Airport', station: "King's Cross" },
+  { name: 'Paris', country: 'Frankreich', flag: '🇫🇷', region: 'Île-de-France', continent: 'Europa', lat: 48.8566, lon: 2.3522, population: '2,1 Mio.', area: '105 km²', timezone: 'Europe/Paris', currency: 'Euro (EUR)', language: 'Französisch', capital: true, feature: 'Kulturhauptstadt', knownFor: 'Mode-, Kunst- und Kulturmetropole an der Seine.', airport: 'Charles de Gaulle', station: 'Gare du Nord' },
+  { name: 'Tokio', country: 'Japan', flag: '🇯🇵', region: 'Kanto', continent: 'Asien', lat: 35.6762, lon: 139.6503, population: '14 Mio. (37 Mio. Ballungsraum)', area: '2.194 km²', timezone: 'Asia/Tokyo', currency: 'Yen (JPY)', language: 'Japanisch', capital: true, feature: 'größte Metropolregion der Welt', knownFor: 'Technologie- und Wirtschaftszentrum Asiens.', airport: 'Haneda / Narita', station: 'Tokio Hauptbahnhof' },
+  { name: 'Peking', country: 'China', flag: '🇨🇳', region: 'Peking', continent: 'Asien', lat: 39.9042, lon: 116.4074, population: '21,9 Mio.', area: '16.410 km²', timezone: 'Asia/Shanghai', currency: 'Renminbi (CNY)', language: 'Mandarin', capital: true, feature: 'politisches Zentrum Chinas', knownFor: 'Politisches und kulturelles Zentrum mit der Verbotenen Stadt.', airport: 'Beijing Capital / Daxing', station: 'Beijing Railway Station' },
+  { name: 'Shanghai', country: 'China', flag: '🇨🇳', region: 'Shanghai', continent: 'Asien', lat: 31.2304, lon: 121.4737, population: '24,9 Mio.', area: '6.340 km²', timezone: 'Asia/Shanghai', currency: 'Renminbi (CNY)', language: 'Mandarin', capital: false, feature: 'größtes Finanzzentrum Chinas', knownFor: "Chinas wirtschaftliches Powerhouse und Hafenmetropole.", airport: 'Pudong International', station: 'Shanghai Hongqiao' },
+  { name: 'Hongkong', country: 'China (SVR)', flag: '🇭🇰', region: 'Sonderverwaltungszone', continent: 'Asien', lat: 22.3193, lon: 114.1694, population: '7,4 Mio.', area: '1.114 km²', timezone: 'Asia/Hong_Kong', currency: 'Hongkong-Dollar (HKD)', language: 'Kantonesisch / Englisch', capital: false, feature: 'internationales Finanzzentrum', knownFor: 'Eines der wichtigsten Finanzzentren Asiens.', airport: 'Hong Kong International', station: 'Hong Kong West Kowloon' },
+  { name: 'Singapur', country: 'Singapur', flag: '🇸🇬', region: 'Stadtstaat', continent: 'Asien', lat: 1.3521, lon: 103.8198, population: '5,9 Mio.', area: '734 km²', timezone: 'Asia/Singapore', currency: 'Singapur-Dollar (SGD)', language: 'Englisch, Malaiisch, Mandarin, Tamil', capital: true, feature: 'Handels- und Finanzzentrum Südostasiens', knownFor: 'Wichtigster Handelshafen und Finanzplatz Südostasiens.', airport: 'Changi Airport', station: 'Woodlands MRT' },
+  { name: 'Dubai', country: 'Vereinigte Arabische Emirate', flag: '🇦🇪', region: 'Emirat Dubai', continent: 'Asien', lat: 25.2048, lon: 55.2708, population: '3,5 Mio.', area: '4.114 km²', timezone: 'Asia/Dubai', currency: 'VAE-Dirham (AED)', language: 'Arabisch', capital: false, feature: 'Handels- und Tourismuszentrum', knownFor: 'Wüstenmetropole mit spektakulärer Skyline und globalem Handelsknoten.', airport: 'Dubai International', station: 'Union Station (Metro)' },
+  { name: 'Los Angeles', country: 'USA', flag: '🇺🇸', region: 'Kalifornien', continent: 'Nordamerika', lat: 34.0522, lon: -118.2437, population: '3,9 Mio.', area: '1.302 km²', timezone: 'America/Los_Angeles', currency: 'US-Dollar (USD)', language: 'Englisch', capital: false, feature: 'Film- und Unterhaltungsindustrie', knownFor: 'Zentrum der globalen Film- und Unterhaltungsindustrie (Hollywood).', airport: 'LAX', station: 'Union Station LA' },
+  { name: 'Washington, D.C.', country: 'USA', flag: '🇺🇸', region: 'District of Columbia', continent: 'Nordamerika', lat: 38.9072, lon: -77.0369, population: '690.000', area: '177 km²', timezone: 'America/New_York', currency: 'US-Dollar (USD)', language: 'Englisch', capital: true, feature: 'politisches Zentrum', knownFor: 'Regierungssitz der USA mit Weißem Haus und Kapitol.', airport: 'Reagan National', station: 'Union Station' },
+  { name: 'Berlin', country: 'Deutschland', flag: '🇩🇪', region: 'Berlin', continent: 'Europa', lat: 52.52, lon: 13.405, population: '3,85 Mio.', area: '891 km²', timezone: 'Europe/Berlin', currency: 'Euro (EUR)', language: 'Deutsch', capital: true, feature: 'politisches und kulturelles Zentrum', knownFor: 'Hauptstadt Deutschlands mit bewegter Geschichte und lebendiger Kulturszene.', airport: 'Berlin Brandenburg (BER)', station: 'Berlin Hauptbahnhof' },
+  { name: 'Moskau', country: 'Russland', flag: '🇷🇺', region: 'Zentralrussland', continent: 'Europa/Asien', lat: 55.7558, lon: 37.6173, population: '12,6 Mio.', area: '2.511 km²', timezone: 'Europe/Moscow', currency: 'Rubel (RUB)', language: 'Russisch', capital: true, feature: 'politisches Zentrum Russlands', knownFor: 'Hauptstadt Russlands mit Kreml und Rotem Platz.', airport: 'Scheremetjewo', station: 'Moskauer Hauptbahnhöfe' },
+  { name: 'Istanbul', country: 'Türkei', flag: '🇹🇷', region: 'Marmararegion', continent: 'Europa/Asien', lat: 41.0082, lon: 28.9784, population: '15,5 Mio.', area: '5.461 km²', timezone: 'Europe/Istanbul', currency: 'Türkische Lira (TRY)', language: 'Türkisch', capital: false, feature: 'Handelsdrehscheibe zwischen Europa und Asien', knownFor: 'Einzige Millionenstadt der Welt auf zwei Kontinenten.', airport: 'Istanbul Airport', station: 'Sirkeci Bahnhof' },
+  { name: 'Rom', country: 'Italien', flag: '🇮🇹', region: 'Latium', continent: 'Europa', lat: 41.9028, lon: 12.4964, population: '2,86 Mio.', area: '1.285 km²', timezone: 'Europe/Rome', currency: 'Euro (EUR)', language: 'Italienisch', capital: true, feature: 'historisches und kulturelles Zentrum', knownFor: 'Die "Ewige Stadt" mit antiken Ruinen und dem Vatikan.', airport: 'Fiumicino', station: 'Roma Termini' },
+  { name: 'Madrid', country: 'Spanien', flag: '🇪🇸', region: 'Autonome Gemeinschaft Madrid', continent: 'Europa', lat: 40.4168, lon: -3.7038, population: '3,3 Mio.', area: '604 km²', timezone: 'Europe/Madrid', currency: 'Euro (EUR)', language: 'Spanisch', capital: true, feature: 'politisches und kulturelles Zentrum Spaniens', knownFor: 'Hauptstadt Spaniens mit Kunstmuseen wie dem Prado.', airport: 'Adolfo Suárez Madrid-Barajas', station: 'Madrid Atocha' },
+  { name: 'Sydney', country: 'Australien', flag: '🇦🇺', region: 'New South Wales', continent: 'Ozeanien', lat: -33.8688, lon: 151.2093, population: '5,3 Mio.', area: '12.368 km²', timezone: 'Australia/Sydney', currency: 'Australischer Dollar (AUD)', language: 'Englisch', capital: false, feature: 'größte Stadt Australiens', knownFor: 'Wahrzeichen Opernhaus und Hafenbrücke.', airport: 'Kingsford Smith Airport', station: 'Central Station' },
+  { name: 'Toronto', country: 'Kanada', flag: '🇨🇦', region: 'Ontario', continent: 'Nordamerika', lat: 43.6532, lon: -79.3832, population: '2,9 Mio.', area: '630 km²', timezone: 'America/Toronto', currency: 'Kanadischer Dollar (CAD)', language: 'Englisch', capital: false, feature: 'größtes Wirtschaftszentrum Kanadas', knownFor: 'Multikulturelle Wirtschaftsmetropole Kanadas.', airport: 'Toronto Pearson', station: 'Union Station Toronto' },
+  { name: 'Mexiko-Stadt', country: 'Mexiko', flag: '🇲🇽', region: 'Bundesdistrikt', continent: 'Nordamerika', lat: 19.4326, lon: -99.1332, population: '9,2 Mio. (21 Mio. Ballungsraum)', area: '1.485 km²', timezone: 'America/Mexico_City', currency: 'Mexikanischer Peso (MXN)', language: 'Spanisch', capital: true, feature: 'politisches und wirtschaftliches Zentrum', knownFor: 'Eine der größten Metropolregionen der Welt.', airport: 'Aeropuerto Internacional CDMX', station: 'Buenavista' },
+  { name: 'São Paulo', country: 'Brasilien', flag: '🇧🇷', region: 'Bundesstaat São Paulo', continent: 'Südamerika', lat: -23.5505, lon: -46.6333, population: '12,3 Mio.', area: '1.521 km²', timezone: 'America/Sao_Paulo', currency: 'Real (BRL)', language: 'Portugiesisch', capital: false, feature: 'größte Stadt Südamerikas', knownFor: 'Wirtschaftsmotor Brasiliens und Südamerikas.', airport: 'Guarulhos', station: 'Luz Station' },
+  { name: 'Buenos Aires', country: 'Argentinien', flag: '🇦🇷', region: 'Autonome Stadt Buenos Aires', continent: 'Südamerika', lat: -34.6037, lon: -58.3816, population: '3,1 Mio. (15 Mio. Ballungsraum)', area: '203 km²', timezone: 'America/Argentina/Buenos_Aires', currency: 'Argentinischer Peso (ARS)', language: 'Spanisch', capital: true, feature: 'politisches und kulturelles Zentrum Argentiniens', knownFor: 'Das "Paris Südamerikas" mit Tango-Tradition.', airport: 'Ezeiza', station: 'Retiro' },
+  { name: 'Kairo', country: 'Ägypten', flag: '🇪🇬', region: 'Gouvernement Kairo', continent: 'Afrika', lat: 30.0444, lon: 31.2357, population: '10 Mio. (21 Mio. Ballungsraum)', area: '3.085 km²', timezone: 'Africa/Cairo', currency: 'Ägyptisches Pfund (EGP)', language: 'Arabisch', capital: true, feature: 'größte Stadt Afrikas', knownFor: 'Nahe den Pyramiden von Gizeh gelegene Millionenmetropole.', airport: 'Cairo International', station: 'Ramses Station' },
+  { name: 'Johannesburg', country: 'Südafrika', flag: '🇿🇦', region: 'Gauteng', continent: 'Afrika', lat: -26.2041, lon: 28.0473, population: '5,8 Mio.', area: '1.645 km²', timezone: 'Africa/Johannesburg', currency: 'Rand (ZAR)', language: 'Englisch, Zulu u.a.', capital: false, feature: 'größtes Wirtschaftszentrum Afrikas', knownFor: 'Wirtschaftliches Herz Südafrikas, einst Goldminenstadt.', airport: 'O.R. Tambo International', station: 'Park Station' },
+  { name: 'Mumbai', country: 'Indien', flag: '🇮🇳', region: 'Maharashtra', continent: 'Asien', lat: 19.0760, lon: 72.8777, population: '12,5 Mio. (21 Mio. Ballungsraum)', area: '603 km²', timezone: 'Asia/Kolkata', currency: 'Indische Rupie (INR)', language: 'Hindi, Marathi, Englisch', capital: false, feature: 'Finanzzentrum Indiens', knownFor: 'Finanzhauptstadt Indiens und Zentrum von Bollywood.', airport: 'Chhatrapati Shivaji International', station: 'Chhatrapati Shivaji Terminus' },
+  { name: 'Delhi', country: 'Indien', flag: '🇮🇳', region: 'Unionsterritorium Delhi', continent: 'Asien', lat: 28.6139, lon: 77.2090, population: '11 Mio. (32 Mio. Ballungsraum)', area: '1.484 km²', timezone: 'Asia/Kolkata', currency: 'Indische Rupie (INR)', language: 'Hindi, Englisch', capital: true, feature: 'politisches Zentrum Indiens', knownFor: 'Hauptstadt Indiens mit jahrtausendealter Geschichte.', airport: 'Indira Gandhi International', station: 'New Delhi Railway Station' },
+  { name: 'Seoul', country: 'Südkorea', flag: '🇰🇷', region: 'Sonderstadt Seoul', continent: 'Asien', lat: 37.5665, lon: 126.9780, population: '9,4 Mio. (25 Mio. Ballungsraum)', area: '605 km²', timezone: 'Asia/Seoul', currency: 'Won (KRW)', language: 'Koreanisch', capital: true, feature: 'Technologie- und Kulturzentrum', knownFor: 'Hauptstadt Südkoreas, Zentrum von K-Pop und Technologie.', airport: 'Incheon International', station: 'Seoul Station' },
+];
 
 async function loadData() {
   try {
@@ -304,9 +468,16 @@ async function loadCountryBorders() {
   }
 }
 
+const EVENT_RING_COLORS = { conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759', blockade: '#0a84ff' };
+
 function eventColor(article, colorById) {
-  const map = { conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759' };
-  return map[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
+  return EVENT_RING_COLORS[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
+}
+
+function hexToRgb(hex) {
+  const m = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex || '#ff3b30');
+  if (!m) return '255,59,48';
+  return [1, 2, 3].map(i => parseInt(m[i], 16)).join(',');
 }
 
 function createDomeElement(color, article) {
@@ -324,26 +495,205 @@ function openArticle(article) {
   window.open(article.url, '_blank', 'noopener');
 }
 
-async function buildGlobe(categories, articles, eventColors) {
-  const colorById = Object.fromEntries(categories.map(c => [c.id, c.color]));
+function createCityElement(city) {
+  const el = document.createElement('div');
+  el.className = 'city-marker';
+  el.title = city.name;
+  el.onclick = (e) => { e.stopPropagation(); openCityPanel(city); };
+  return el;
+}
 
-  const markers = articles
+const WEATHER_CODES = {
+  0: 'Klarer Himmel', 1: 'Überwiegend klar', 2: 'Teilweise bewölkt', 3: 'Bedeckt',
+  45: 'Nebel', 48: 'Reifnebel', 51: 'Leichter Nieselregen', 53: 'Nieselregen',
+  55: 'Starker Nieselregen', 61: 'Leichter Regen', 63: 'Regen', 65: 'Starker Regen',
+  71: 'Leichter Schneefall', 73: 'Schneefall', 75: 'Starker Schneefall',
+  80: 'Regenschauer', 81: 'Regenschauer', 82: 'Heftige Regenschauer',
+  95: 'Gewitter', 96: 'Gewitter mit Hagel', 99: 'Schweres Gewitter',
+};
+
+async function fetchWeather(lat, lon) {
+  try {
+    const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    return data.current_weather || null;
+  } catch (err) {
+    console.warn('Wetter konnte nicht geladen werden:', err);
+    return null;
+  }
+}
+
+function localTimeFor(timezone) {
+  try {
+    return new Date().toLocaleString('de-DE', {
+      timeZone: timezone, hour: '2-digit', minute: '2-digit',
+      weekday: 'short', day: '2-digit', month: '2-digit',
+    }) + ' Uhr';
+  } catch (err) {
+    return '–';
+  }
+}
+
+async function openCityPanel(city) {
+  const panel = document.getElementById('cityPanel');
+  const overlay = document.getElementById('cityPanelOverlay');
+
+  panel.innerHTML = `
+    <button class="closeBtn" id="cityPanelClose">✕ Schließen</button>
+    <h2>${city.flag} ${city.name}</h2>
+    <div class="subtitle">${city.country} · ${city.continent}</div>
+
+    <div class="section">
+      <h3>🏙️ Stadtprofil</h3>
+      <div class="row"><span class="k">Land</span><span class="v">${city.country}</span></div>
+      <div class="row"><span class="k">Region</span><span class="v">${city.region}</span></div>
+      <div class="row"><span class="k">Kontinent</span><span class="v">${city.continent}</span></div>
+      <div class="row"><span class="k">Einwohner</span><span class="v">${city.population}</span></div>
+      <div class="row"><span class="k">Fläche</span><span class="v">${city.area}</span></div>
+      <div class="row"><span class="k">Zeitzone</span><span class="v">${city.timezone}</span></div>
+      <div class="row"><span class="k">Koordinaten</span><span class="v">${city.lat.toFixed(2)}°, ${city.lon.toFixed(2)}°</span></div>
+      <div class="row"><span class="k">Währung</span><span class="v">${city.currency}</span></div>
+      <div class="row"><span class="k">Amtssprache</span><span class="v">${city.language}</span></div>
+    </div>
+
+    <div class="section">
+      <h3>🌤️ Aktuelles</h3>
+      <div class="row"><span class="k">Ortszeit</span><span class="v">${localTimeFor(city.timezone)}</span></div>
+      <div id="weatherRows">
+        <div class="row"><span class="k">Wetter</span><span class="v">Lädt…</span></div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>📍 Lage</h3>
+      <div class="row"><span class="k">Nachbarregion</span><span class="v">${city.region}</span></div>
+      <a href="https://www.openstreetmap.org/?mlat=${city.lat}&mlon=${city.lon}#map=10/${city.lat}/${city.lon}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--accent)">Auf Karte öffnen ↗</a>
+    </div>
+
+    <div class="section">
+      <h3>🏛️ Bedeutung</h3>
+      <div class="row"><span class="k">Hauptstadt?</span><span class="v">${city.capital ? 'Ja' : 'Nein'}</span></div>
+      <div class="row"><span class="k">Merkmal</span><span class="v">${city.feature}</span></div>
+      <div class="known-for">⭐ ${city.knownFor}</div>
+    </div>
+
+    <div class="section">
+      <h3>🚆 Erreichbarkeit</h3>
+      <div class="row"><span class="k">Flughafen</span><span class="v">${city.airport}</span></div>
+      <div class="row"><span class="k">Bahnhof</span><span class="v">${city.station}</span></div>
+    </div>
+  `;
+
+  document.getElementById('cityPanelClose').onclick = closeCityPanel;
+  overlay.onclick = closeCityPanel;
+  panel.classList.add('open');
+  overlay.classList.add('open');
+
+  const weather = await fetchWeather(city.lat, city.lon);
+  const weatherRows = document.getElementById('weatherRows');
+  if (weatherRows) {
+    if (weather) {
+      const desc = WEATHER_CODES[weather.weathercode] || 'Unbekannt';
+      weatherRows.innerHTML = `
+        <div class="row"><span class="k">Temperatur</span><span class="v">${Math.round(weather.temperature)} °C</span></div>
+        <div class="row"><span class="k">Wetterlage</span><span class="v">${desc}</span></div>
+      `;
+    } else {
+      weatherRows.innerHTML = `<div class="row"><span class="k">Wetter</span><span class="v">Nicht verfügbar</span></div>`;
+    }
+  }
+}
+
+function closeCityPanel() {
+  document.getElementById('cityPanel').classList.remove('open');
+  document.getElementById('cityPanelOverlay').classList.remove('open');
+}
+
+function sparklineSvg(history, color) {
+  if (!history || history.length < 2) return '';
+  const w = 130, h = 34;
+  const min = Math.min(...history), max = Math.max(...history);
+  const range = (max - min) || 1;
+  const points = history.map((v, i) => {
+    const x = (i / (history.length - 1)) * w;
+    const y = h - ((v - min) / range) * h;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><polyline points="${points}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+
+async function loadStocks() {
+  try {
+    const res = await fetch('stocks.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch (err) {
+    console.warn('Konnte stocks.json nicht laden:', err);
+    return null;
+  }
+}
+
+function renderStocks(data) {
+  const grid = document.getElementById('stocksGrid');
+  if (!data || !data.stocks || data.stocks.length === 0) {
+    grid.innerHTML = '<div class="empty">Noch keine Kursdaten verfügbar.</div>';
+    return;
+  }
+  grid.innerHTML = data.stocks.map(s => {
+    const up = s.change_pct >= 0;
+    const color = up ? '#34c759' : '#ff3b30';
+    return `
+      <div class="stock-box">
+        <div class="symbol">${s.symbol}</div>
+        <div class="name">${s.name}</div>
+        <div class="price">${s.price.toLocaleString('de-DE', {maximumFractionDigits: 2})}</div>
+        <div class="change ${up ? 'up' : 'down'}">${up ? '▲' : '▼'} ${Math.abs(s.change_pct).toFixed(2)}%</div>
+        ${sparklineSvg(s.history, color)}
+      </div>`;
+  }).join('');
+}
+
+async function buildGlobe(categories, articles, eventColors, crises) {
+  const colorById = Object.fromEntries(categories.map(c => [c.id, c.color]));
+  crises = crises || [];
+
+  const newsMarkers = articles
     .filter(a => a.location && typeof a.location.lat === 'number')
     .map(a => ({
+      kind: 'event',
       lat: a.location.lat,
       lng: a.location.lon,
       color: eventColor(a, colorById),
       article: a,
     }));
 
-  const pulses = articles
-    .filter(a => a.event_type === 'conflict' || a.event_type === 'disaster')
-    .filter(a => a.location && typeof a.location.lat === 'number')
-    .map(a => ({
-      lat: a.location.lat,
-      lng: a.location.lon,
-      color: eventColor(a, colorById),
-    }));
+  const cityMarkers = CITY_PROFILES.map(city => ({
+    kind: 'city',
+    lat: city.lat,
+    lng: city.lon,
+    city,
+  }));
+
+  const markers = [...newsMarkers, ...cityMarkers];
+
+  // Pulsing rings driven by the persistent crisis log: ONE big slow ring
+  // for a disaster (whole affected area), MANY small overlapping rings
+  // for a conflict (intensity = how many small pulses = how "hot" it is),
+  // and a ring at the exact chokepoint for a shipping blockade.
+  const pulses = [];
+  crises.forEach(c => {
+    const color = EVENT_RING_COLORS[c.type] || '#ff3b30';
+    if (c.type === 'disaster') {
+      pulses.push({ lat: c.location.lat, lng: c.location.lon, color, big: true });
+    } else if (c.type === 'conflict') {
+      (c.subpoints && c.subpoints.length ? c.subpoints : [c.location]).forEach(p => {
+        pulses.push({ lat: p.lat, lng: p.lon, color, big: false });
+      });
+    } else if (c.type === 'blockade') {
+      pulses.push({ lat: c.location.lat, lng: c.location.lon, color, big: true });
+    }
+  });
 
   const arcs = [];
   articles.forEach(a => {
@@ -356,6 +706,18 @@ async function buildGlobe(categories, articles, eventColors) {
         article: a,
       });
     });
+  });
+  // Shipping lanes through blockaded chokepoints
+  crises.forEach(c => {
+    if (c.type === 'blockade' && c.chokepoint_lane && c.chokepoint_lane.length === 2) {
+      const [from, to] = c.chokepoint_lane;
+      arcs.push({
+        startLat: from[0], startLng: from[1],
+        endLat: to[0], endLng: to[1],
+        color: EVENT_RING_COLORS.blockade,
+        article: { title: `Handelsroute blockiert: ${c.label}`, url: '#', category: 'wirtschaft' },
+      });
+    }
   });
 
   const countries = await loadCountryBorders();
@@ -374,23 +736,27 @@ async function buildGlobe(categories, articles, eventColors) {
     .polygonAltitude(0.006)
     .polygonLabel(d => d.properties && d.properties.NAME || '')
 
-    // Event markers as small glossy domes (CSS-based, avoids THREE.js version conflicts)
+    // Event & city markers (small glossy CSS domes/dots - avoids THREE.js version conflicts)
     .htmlElementsData(markers)
     .htmlLat('lat')
     .htmlLng('lng')
     .htmlAltitude(0.012)
-    .htmlElement(d => createDomeElement(d.color, d.article))
+    .htmlElement(d => d.kind === 'city' ? createCityElement(d.city) : createDomeElement(d.color, d.article))
 
-    // Pulsing rings for conflicts & environmental disasters
+    // Pulsing rings driven by the persistent crisis log: one large slow
+    // ring per disaster/blockade, many small overlapping rings per conflict
     .ringsData(pulses)
     .ringLat('lat')
     .ringLng('lng')
-    .ringColor(d => t => `rgba(${d.color === '#ff3b30' ? '255,59,48' : '255,149,0'},${1 - t})`)
-    .ringMaxRadius(3.2)
-    .ringPropagationSpeed(2.2)
-    .ringRepeatPeriod(1200)
+    .ringColor(d => {
+      const rgb = hexToRgb(d.color);
+      return t => `rgba(${rgb},${1 - t})`;
+    })
+    .ringMaxRadius(d => d.big ? 6 : 2.2)
+    .ringPropagationSpeed(d => d.big ? 1.4 : 2.4)
+    .ringRepeatPeriod(d => d.big ? 1800 : 1000)
 
-    // Connections: conflict fronts & trade routes
+    // Connections: conflict fronts, trade routes & blockaded shipping lanes
     .arcsData(arcs)
     .arcColor(d => [d.color, d.color])
     .arcAltitude(0.25)
@@ -399,7 +765,7 @@ async function buildGlobe(categories, articles, eventColors) {
     .arcDashGap(0.25)
     .arcDashAnimateTime(3500)
     .arcLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
-    .onArcClick(d => openArticle(d.article))
+    .onArcClick(d => { if (d.article.url && d.article.url !== '#') openArticle(d.article); })
 
     .width(el.clientWidth)
     .height(el.clientHeight);
@@ -424,7 +790,10 @@ async function buildGlobe(categories, articles, eventColors) {
 
   buildTabs(data.categories, data.articles);
   buildContent(data.categories, data.articles);
-  buildGlobe(data.categories, data.articles, data.event_colors || {});
+  buildGlobe(data.categories, data.articles, data.event_colors || {}, data.crises || []);
+
+  const stocksData = await loadStocks();
+  renderStocks(stocksData);
 })();
 </script>
 </body>
