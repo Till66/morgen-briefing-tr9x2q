@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Morgen-Briefing</title>
+<link rel="icon" href="data:,">
+<script src="https://cdn.jsdelivr.net/npm/globe.gl"></script>
+<style>
+  :root {
+    --bg: #0b0e14;
+    --panel: #131722;
+    --panel-border: #232838;
+    --text: #e6e8ee;
+    --text-dim: #8b93a7;
+    --accent: #5b9bd5;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    padding: 20px 20px 8px;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  header .meta {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+  }
+  #globeViz {
+    width: 100%;
+    height: 46vh;
+    min-height: 320px;
+    max-height: 520px;
+    position: relative;
+    touch-action: none;
+  }
+  #globeHint {
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 0.75rem;
+    margin: -6px 0 10px;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 8px 16px 60px;
+  }
+  nav.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 24px;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    padding: 10px 0;
+    z-index: 10;
+  }
+  nav.tabs button {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    color: var(--text);
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+  nav.tabs button.active {
+    border-color: var(--dot, var(--accent));
+    background: color-mix(in srgb, var(--dot, var(--accent)) 18%, var(--panel));
+  }
+  section.category {
+    margin-bottom: 34px;
+  }
+  section.category h2 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1.1rem;
+    margin: 0 0 12px;
+    padding-left: 2px;
+  }
+  section.category h2 .dot {
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--dot, var(--accent));
+    flex-shrink: 0;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, transform 0.1s ease;
+  }
+  .card:hover { border-color: var(--dot, var(--accent)); }
+  .card:active { transform: scale(0.99); }
+  .card a { color: inherit; text-decoration: none; display: block; }
+  .card .title {
+    font-weight: 600;
+    font-size: 0.98rem;
+    margin-bottom: 4px;
+    line-height: 1.35;
+  }
+  .card .summary {
+    color: var(--text-dim);
+    font-size: 0.87rem;
+    line-height: 1.4;
+    margin-bottom: 8px;
+  }
+  .card .footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+  }
+  .card .location {
+    color: var(--dot, var(--accent));
+  }
+  .empty {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    padding: 10px 2px;
+  }
+  .status {
+    text-align: center;
+    color: var(--text-dim);
+    padding: 40px 16px;
+    font-size: 0.9rem;
+  }
+  @media (max-width: 480px) {
+    header h1 { font-size: 1.25rem; }
+    #globeViz { height: 40vh; min-height: 260px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🌍 Morgen-Briefing</h1>
+  <div class="meta" id="generatedAt">Lade Daten…</div>
+</header>
+
+<div id="globeViz"></div>
+<div id="globeHint">Globus ziehen zum Drehen · Marker antippen für die Meldung</div>
+
+<main>
+  <nav class="tabs" id="tabs"></nav>
+  <div id="content"></div>
+</main>
+
+<script>
+const CATEGORY_FALLBACK_COLOR = '#5b9bd5';
+
+async function loadData() {
+  try {
+    const res = await fetch('news.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch (err) {
+    document.getElementById('content').innerHTML =
+      '<div class="status">Konnte news.json nicht laden. Läuft die Seite über einen Webserver (nicht als lokale Datei)?<br><small>' +
+      err.message + '</small></div>';
+    return null;
+  }
+}
+
+function formatTime(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return '';
+  return d.toLocaleString('de-DE', {
+    weekday: 'long', day: '2-digit', month: 'long',
+    hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Berlin'
+  }) + ' Uhr';
+}
+
+function buildTabs(categories, articles) {
+  const tabs = document.getElementById('tabs');
+  tabs.innerHTML = '';
+  const allBtn = document.createElement('button');
+  allBtn.textContent = 'Alle';
+  allBtn.className = 'active';
+  allBtn.onclick = () => selectCategory(null, allBtn);
+  tabs.appendChild(allBtn);
+
+  categories.forEach(cat => {
+    const count = articles.filter(a => a.category === cat.id).length;
+    if (count === 0) return;
+    const btn = document.createElement('button');
+    btn.textContent = cat.label;
+    btn.style.setProperty('--dot', cat.color);
+    btn.onclick = () => selectCategory(cat.id, btn);
+    tabs.appendChild(btn);
+  });
+}
+
+function selectCategory(catId, btnEl) {
+  document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
+  btnEl.classList.add('active');
+  document.querySelectorAll('section.category').forEach(sec => {
+    sec.style.display = (!catId || sec.dataset.catId === catId) ? '' : 'none';
+  });
+}
+
+function buildContent(categories, articles) {
+  const content = document.getElementById('content');
+  content.innerHTML = '';
+
+  categories.forEach(cat => {
+    const catArticles = articles.filter(a => a.category === cat.id);
+    if (catArticles.length === 0) return;
+
+    const section = document.createElement('section');
+    section.className = 'category';
+    section.dataset.catId = cat.id;
+    section.id = 'cat-' + cat.id;
+
+    const h2 = document.createElement('h2');
+    h2.innerHTML = `<span class="dot" style="background:${cat.color}"></span> ${cat.label}`;
+    section.appendChild(h2);
+
+    catArticles.forEach(a => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.style.setProperty('--dot', cat.color);
+      card.innerHTML = `
+        <a href="${a.url}" target="_blank" rel="noopener">
+          <div class="title">${a.title}</div>
+          <div class="summary">${a.summary || ''}</div>
+          <div class="footer">
+            <span>${a.source || ''}</span>
+            <span class="location">${a.location && a.location.name ? '📍 ' + a.location.name : ''}</span>
+          </div>
+        </a>`;
+      section.appendChild(card);
+    });
+
+    content.appendChild(section);
+  });
+
+  if (content.innerHTML === '') {
+    content.innerHTML = '<div class="status">Noch keine Nachrichten verfügbar.</div>';
+  }
+}
+
+function buildGlobe(categories, articles) {
+  const colorById = Object.fromEntries(categories.map(c => [c.id, c.color]));
+  const points = articles
+    .filter(a => a.location && typeof a.location.lat === 'number')
+    .map(a => ({
+      lat: a.location.lat,
+      lng: a.location.lon,
+      size: 0.5,
+      color: colorById[a.category] || CATEGORY_FALLBACK_COLOR,
+      article: a,
+    }));
+
+  const el = document.getElementById('globeViz');
+  const globe = Globe()(el)
+    .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
+    .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
+    .backgroundColor('rgba(0,0,0,0)')
+    .pointsData(points)
+    .pointLat('lat')
+    .pointLng('lng')
+    .pointColor('color')
+    .pointAltitude(0.02)
+    .pointRadius('size')
+    .pointLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
+    .onPointClick(d => {
+      const cardLink = document.querySelector(`section#cat-${d.article.category}`);
+      if (cardLink) cardLink.scrollIntoView({behavior: 'smooth', block: 'start'});
+      window.open(d.article.url, '_blank', 'noopener');
+    })
+    .width(el.clientWidth)
+    .height(el.clientHeight);
+
+  globe.controls().autoRotate = true;
+  globe.controls().autoRotateSpeed = 0.6;
+  globe.controls().enableZoom = true;
+
+  window.addEventListener('resize', () => {
+    globe.width(el.clientWidth).height(el.clientHeight);
+  });
+
+  return globe;
+}
+
+(async function init() {
+  const data = await loadData();
+  if (!data) return;
+
+  document.getElementById('generatedAt').textContent =
+    'Stand: ' + formatTime(data.generated_at);
+
+  buildTabs(data.categories, data.articles);
+  buildContent(data.categories, data.articles);
+  buildGlobe(data.categories, data.articles);
+})();
+</script>
+</body>
+</html>
