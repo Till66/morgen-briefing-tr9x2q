@@ -11,6 +11,7 @@ import csv
 import io
 import json
 import sys
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
@@ -42,7 +43,9 @@ def fetch_url(url: str) -> str:
 
 
 def fetch_quotes(symbols):
-    joined = ",".join(s for s, _ in symbols)
+    # Symbols like "^spx" contain characters (^) that must be percent-encoded
+    # for the querystring, otherwise Stooq responds with a bare 404.
+    joined = ",".join(urllib.parse.quote(s, safe="") for s, _ in symbols)
     url = f"https://stooq.com/q/l/?s={joined}&f=sd2t2ohlcv&h&e=csv"
     text = fetch_url(url)
     reader = csv.DictReader(io.StringIO(text))
@@ -70,7 +73,7 @@ def fetch_history(symbol, days=30):
     d2 = datetime.now(timezone.utc).date()
     d1 = d2 - timedelta(days=days * 2)  # extra buffer for weekends/holidays
     url = (
-        f"https://stooq.com/q/d/l/?s={symbol}&i=d"
+        f"https://stooq.com/q/d/l/?s={urllib.parse.quote(symbol, safe='')}&i=d"
         f"&d1={d1.strftime('%Y%m%d')}&d2={d2.strftime('%Y%m%d')}"
     )
     try:
