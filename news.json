@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:06:59.915542+00:00",
+  "generated_at": "2026-07-11T07:41:15.646914+00:00",
   "categories": [
     {
       "id": "politik",
@@ -27,6 +27,13 @@
       "color": "#9b59b6"
     }
   ],
+  "event_colors": {
+    "conflict": "#ff3b30",
+    "disaster": "#ff9500",
+    "tension": "#ffd60a",
+    "trade": "#34c759",
+    "standard": null
+  },
   "articles": [
     {
       "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
@@ -34,11 +41,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 21:02:57 +0200"
     },
     {
@@ -47,11 +56,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 19:20:03 +0200"
     },
     {
@@ -60,11 +71,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 17:38:36 +0200"
     },
     {
@@ -73,11 +86,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 17:21:04 +0200"
     },
     {
@@ -86,11 +101,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/wegner-wahl-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 15:59:49 +0200"
     },
     {
@@ -99,11 +116,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 15:19:02 +0200"
     },
     {
@@ -112,11 +131,13 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 13:05:14 +0200"
     },
     {
@@ -125,12 +146,29 @@
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html",
       "category": "politik",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 12:06:43 +0200"
+    },
+    {
+      "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
+      "summary": "Mit Vollgas in den Urlaub? Für den Geldbeutel keine gute Idee. Wer auf ein paar Kleinigkeiten beim Fahren achtet, kann Sprit sparen. Und kommt vielleicht sogar entspannter an. Von Wiebke Neelsen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/spritsparen-autofahren-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "published": "Sat, 11 Jul 2026 09:11:12 +0200"
     },
     {
       "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
@@ -138,11 +176,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Sat, 11 Jul 2026 04:46:18 +0200"
     },
     {
@@ -151,11 +191,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 18:53:16 +0200"
     },
     {
@@ -164,11 +206,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 15:19:02 +0200"
     },
     {
@@ -177,11 +221,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 14:59:08 +0200"
     },
     {
@@ -190,11 +236,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": "China",
         "lat": 35.8617,
         "lon": 104.1954
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 12:03:39 +0200"
     },
     {
@@ -203,11 +251,13 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitszeit-40-stunden-woche-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 06:15:09 +0200"
     },
     {
@@ -216,25 +266,14 @@
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
       "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": "China",
         "lat": 35.8617,
         "lon": 104.1954
       },
+      "connections": [],
       "published": "Thu, 09 Jul 2026 08:06:58 +0200"
-    },
-    {
-      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
-      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
-      "category": "wirtschaft",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
     },
     {
       "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
@@ -242,11 +281,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Frankreich",
         "lat": 46.2276,
         "lon": 2.2137
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 19:46:55 +0200"
     },
     {
@@ -255,25 +296,55 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Spanien",
         "lat": 40.4637,
         "lon": -3.7492
       },
+      "connections": [
+        {
+          "from": {
+            "name": "Spanien",
+            "lat": 40.4637,
+            "lon": -3.7492
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
       "published": "Wed, 08 Jul 2026 13:26:17 +0200"
     },
     {
       "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
-      "summary": "Das Rahmenabkommen ist aufgekündigt, es gibt immer wieder Angriffe - doch die USA wollen mit Iran weiterverhandeln. Laut Medienberichten aber nur unter Auflagen: Die Straße von Hormus müsse sicher passierbar sein.",
+      "summary": "Das Rahmenabkommen ist aufgekündigt, es gibt immer wieder Angriffe - doch die USA wollen mit Iran weiterverhandeln. Teheran müsse zusichern, dass die Straße von Hormus ohne Gefahren passierbar ist.",
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/usa-iran-174.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "USA",
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "published": "Sat, 11 Jul 2026 09:03:57 +0200"
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
+      "published": "Sat, 11 Jul 2026 09:12:28 +0200"
     },
     {
       "title": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
@@ -281,11 +352,26 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/nato-gipfel-212.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Ankara",
+        "lat": 39.9334,
+        "lon": 32.8597
       },
+      "connections": [
+        {
+          "from": {
+            "name": "Ankara",
+            "lat": 39.9334,
+            "lon": 32.8597
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
       "published": "Tue, 07 Jul 2026 13:43:14 +0200"
     },
     {
@@ -294,11 +380,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-raffinerien-russland-100.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Ukraine",
         "lat": 48.3794,
         "lon": 31.1656
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 11:17:02 +0200"
     },
     {
@@ -307,11 +395,26 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Ukraine",
         "lat": 48.3794,
         "lon": 31.1656
       },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          }
+        }
+      ],
       "published": "Wed, 08 Jul 2026 11:26:30 +0200"
     },
     {
@@ -320,11 +423,26 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Russland",
         "lat": 61.524,
         "lon": 105.3188
       },
+      "connections": [
+        {
+          "from": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          },
+          "to": {
+            "name": "Moskau",
+            "lat": 55.7558,
+            "lon": 37.6173
+          }
+        }
+      ],
       "published": "Tue, 07 Jul 2026 11:43:30 +0200"
     },
     {
@@ -333,11 +451,26 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html",
       "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": "Ukraine",
         "lat": 48.3794,
         "lon": 31.1656
       },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          }
+        }
+      ],
       "published": "Mon, 06 Jul 2026 15:17:29 +0200"
     },
     {
@@ -346,11 +479,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": "Belgien",
         "lat": 50.5039,
         "lon": 4.4699
       },
+      "connections": [],
       "published": "Sat, 11 Jul 2026 02:04:33 +0200"
     },
     {
@@ -359,11 +494,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 21:27:29 +0200"
     },
     {
@@ -372,11 +509,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html",
       "category": "welt",
+      "event_type": "disaster",
       "location": {
         "name": "Frankreich",
         "lat": 46.2276,
         "lon": 2.2137
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 19:02:48 +0200"
     },
     {
@@ -385,11 +524,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/nigel-farage-skandal-100.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 15:43:22 +0200"
     },
     {
@@ -398,11 +539,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/eu-meta-suchtgefahr-100.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 14:05:35 +0200"
     },
     {
@@ -411,11 +554,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
       "category": "welt",
+      "event_type": "disaster",
       "location": {
         "name": "Spanien",
         "lat": 40.4637,
         "lon": -3.7492
       },
+      "connections": [],
       "published": "Sat, 11 Jul 2026 05:09:44 +0200"
     },
     {
@@ -424,11 +569,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Wed, 08 Jul 2026 18:57:40 +0200"
     },
     {
@@ -437,11 +584,13 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/nato-gipfel-trump-groenland-100.html",
       "category": "welt",
+      "event_type": "standard",
       "location": {
         "name": "Dänemark",
         "lat": 56.2639,
         "lon": 9.5018
       },
+      "connections": [],
       "published": "Wed, 08 Jul 2026 10:16:48 +0200"
     },
     {
@@ -450,11 +599,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/radsport/tourdefrance/die-zuversicht-dass-einmal-alles-zusammenkommt,tour-de-france-7-etappe-analyse-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 20:18:32 +0200"
     },
     {
@@ -463,11 +614,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/radsport/tourdefrance/merlier-der-schnellste-in-bordeaux-kanter-vierter,etappenbericht-7-102.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 18:08:01 +0200"
     },
     {
@@ -476,11 +629,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/tennis/wimbledon/tschechisches-tennis-mass-aller-dinge,vorschau-finale-muchova-noskova-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 12:47:35 +0200"
     },
     {
@@ -489,11 +644,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/tennis/wimbledon/unglaublich-gluecklich-zverev-schlaegt-fery-klar-und-steht-im-finale,bericht-halbfinale-zverev-fery-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 19:42:18 +0200"
     },
     {
@@ -502,11 +659,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/tennis/wimbledon/sinner-schlaegt-djokovic-und-folgt-zverev-ins-finale,bericht-halbfinale-sinner-djokovic-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 19:59:33 +0200"
     },
     {
@@ -515,11 +674,13 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/tennis/wimbledon/zverev-im-finale-gegen-sinner-frauen-endspiel-am-samstag,wimbledon-liveblog-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 21:57:03 +0200"
     },
     {
@@ -528,25 +689,29 @@
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.tagesschau.de/sport/merino-trifft-wieder-spaet-torwartfehler-bringt-spanien-ins-halbfinale,wm-spielbericht-spanien-belgien-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": "Spanien",
         "lat": 40.4637,
         "lon": -3.7492
       },
+      "connections": [],
       "published": "Fri, 10 Jul 2026 22:59:24 +0200"
     },
     {
-      "title": "WM 2026: Mikel Merino bleibt Spaniens Last-Minute-Versicherung",
-      "summary": "Spanien tut sich gegen Portugal lange schwer, Spanien tut sich gegen Belgien lange schwer - erlöst werden die Iberer zweimal von Mikel Merino. Wohl dem, der so einen Joker in seinen Reihen hat.",
+      "title": "Lammens und Courtois - Torhüter-Tragik bei Belgiens bitterem WM-Aus",
+      "summary": "Belgien agiert im WM-Viertelfinale gegen Favorit Spanien lange auf Augenhöhe, dann übernehmen die beiden Keeper der \"Roten Teufel\" unfreiwillig die Hauptrollen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/mikel-merino-bleibt-spaniens-last-minute-versicherung,merino-nach-viertelfinale-100.html",
+      "url": "https://www.tagesschau.de/sport/lammens-lapsus-torhueter-tragik-bei-belgiens-bitterem-aus,belgien-courtois-lammens-100.html",
       "category": "sport",
+      "event_type": "standard",
       "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
+        "name": "Belgien",
+        "lat": 50.5039,
+        "lon": 4.4699
       },
-      "published": "Sat, 11 Jul 2026 00:36:56 +0200"
+      "connections": [],
+      "published": "Sat, 11 Jul 2026 01:10:14 +0200"
     }
   ]
 }
