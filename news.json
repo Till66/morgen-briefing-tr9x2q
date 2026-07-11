@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:41:15.646914+00:00",
+  "generated_at": "2026-07-11T08:36:00.151596+00:00",
   "categories": [
     {
       "id": "politik",
@@ -32,6 +32,7 @@
     "disaster": "#ff9500",
     "tension": "#ffd60a",
     "trade": "#34c759",
+    "blockade": "#0a84ff",
     "standard": null
   },
   "articles": [
@@ -48,6 +49,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 21:02:57 +0200"
     },
     {
@@ -63,6 +65,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:20:03 +0200"
     },
     {
@@ -78,6 +81,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 17:38:36 +0200"
     },
     {
@@ -93,6 +97,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 17:21:04 +0200"
     },
     {
@@ -108,6 +113,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 15:59:49 +0200"
     },
     {
@@ -123,6 +129,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 15:19:02 +0200"
     },
     {
@@ -138,6 +145,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 13:05:14 +0200"
     },
     {
@@ -153,6 +161,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 12:06:43 +0200"
     },
     {
@@ -168,6 +177,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Sat, 11 Jul 2026 09:11:12 +0200"
     },
     {
@@ -183,6 +193,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Sat, 11 Jul 2026 04:46:18 +0200"
     },
     {
@@ -198,6 +209,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 18:53:16 +0200"
     },
     {
@@ -213,6 +225,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 15:19:02 +0200"
     },
     {
@@ -228,6 +241,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 14:59:08 +0200"
     },
     {
@@ -243,6 +257,7 @@
         "lon": 104.1954
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 12:03:39 +0200"
     },
     {
@@ -258,6 +273,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 06:15:09 +0200"
     },
     {
@@ -273,6 +289,7 @@
         "lon": 104.1954
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Thu, 09 Jul 2026 08:06:58 +0200"
     },
     {
@@ -288,6 +305,7 @@
         "lon": 2.2137
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:46:55 +0200"
     },
     {
@@ -316,6 +334,7 @@
           }
         }
       ],
+      "chokepoint_lane": null,
       "published": "Wed, 08 Jul 2026 13:26:17 +0200"
     },
     {
@@ -324,25 +343,22 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/usa-iran-174.html",
       "category": "konflikte",
-      "event_type": "conflict",
+      "event_type": "blockade",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Straße von Hormus",
+        "lat": 26.5,
+        "lon": 56.25
       },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
+      "connections": [],
+      "chokepoint_lane": [
+        [
+          26.7,
+          52.5
+        ],
+        [
+          25.0,
+          58.5
+        ]
       ],
       "published": "Sat, 11 Jul 2026 09:12:28 +0200"
     },
@@ -372,6 +388,7 @@
           }
         }
       ],
+      "chokepoint_lane": null,
       "published": "Tue, 07 Jul 2026 13:43:14 +0200"
     },
     {
@@ -387,6 +404,7 @@
         "lon": 31.1656
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 11:17:02 +0200"
     },
     {
@@ -415,6 +433,7 @@
           }
         }
       ],
+      "chokepoint_lane": null,
       "published": "Wed, 08 Jul 2026 11:26:30 +0200"
     },
     {
@@ -443,6 +462,7 @@
           }
         }
       ],
+      "chokepoint_lane": null,
       "published": "Tue, 07 Jul 2026 11:43:30 +0200"
     },
     {
@@ -471,6 +491,7 @@
           }
         }
       ],
+      "chokepoint_lane": null,
       "published": "Mon, 06 Jul 2026 15:17:29 +0200"
     },
     {
@@ -486,6 +507,7 @@
         "lon": 4.4699
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Sat, 11 Jul 2026 02:04:33 +0200"
     },
     {
@@ -501,6 +523,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 21:27:29 +0200"
     },
     {
@@ -516,6 +539,7 @@
         "lon": 2.2137
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:02:48 +0200"
     },
     {
@@ -531,6 +555,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 15:43:22 +0200"
     },
     {
@@ -546,6 +571,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 14:05:35 +0200"
     },
     {
@@ -561,6 +587,7 @@
         "lon": -3.7492
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Sat, 11 Jul 2026 05:09:44 +0200"
     },
     {
@@ -576,6 +603,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Wed, 08 Jul 2026 18:57:40 +0200"
     },
     {
@@ -591,6 +619,7 @@
         "lon": 9.5018
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Wed, 08 Jul 2026 10:16:48 +0200"
     },
     {
@@ -606,6 +635,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 20:18:32 +0200"
     },
     {
@@ -621,7 +651,24 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 18:08:01 +0200"
+    },
+    {
+      "title": "8. Etappe der Tour de France - Périgueux - Bergerac (182 km)",
+      "summary": "Endlich können die Sprinter wieder zeigen, wie schnell sie sind. Fast komplett flach verläuft die 8. Tour-Etappe.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/8-etappe-perigueux-bergerac-182-km,etappe-acht-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 16 Jun 2026 10:41:29 +0200"
     },
     {
       "title": "Das Maß aller Dinge: Muchova und Noskova im Wimbledon-Finale",
@@ -636,7 +683,40 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 12:47:35 +0200"
+    },
+    {
+      "title": "Liveblog Wimbledon Aktuell: Zverev im Finale gegen Sinner, Frauen-Endspiel heute ab 17 Uhr live",
+      "summary": "Alexander Zverev muss am Sonntag im Finale von Wimbledon gegen Jannik Sinner ran. Karolina Muchova trifft heute auf Linda Noskova. Alle News rund um Wimbledon täglich in unserem Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/zverev-im-finale-gegen-sinner-frauen-endspiel-heute-ab-17-uhr-live,wimbledon-liveblog-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 09:52:37 +0200"
+    },
+    {
+      "title": "So hat Zverev sich ins Wimbledon-Finale gespielt",
+      "summary": "Alexander Zverev steht zum ersten Mal im Finale von Wimbledon. Auf dem Weg dahin bewies er gute Nerven, bezwang seinen Angstgegner und ließ sich auch von einer Sperrstunde nicht verunsichern.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/wimbledon/mit-jeder-runde-staerker-zverevs-weg-ins-finale,zverev-weg-in-das-finale-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 10 Jul 2026 20:18:10 +0200"
     },
     {
       "title": "Finale in Wimbledon: Alexander Zverev ist \"unglaublich glücklich\"",
@@ -651,6 +731,7 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:42:18 +0200"
     },
     {
@@ -666,52 +747,188 @@
         "lon": 10.4515
       },
       "connections": [],
+      "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:59:33 +0200"
-    },
+    }
+  ],
+  "crises": [
     {
-      "title": "Liveblog Wimbledon Aktuell: Zverev im Finale gegen Sinner, Frauen-Endspiel am Samstag",
-      "summary": "Alexander Zverev muss im Finale von Wimbledon gegen Jannik Sinner ran. Alle News rund um Wimbledon täglich in unserem Liveblog.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/zverev-im-finale-gegen-sinner-frauen-endspiel-am-samstag,wimbledon-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
+      "id": "conflict-frankreich",
+      "type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
       },
-      "connections": [],
-      "published": "Fri, 10 Jul 2026 21:57:03 +0200"
+      "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 45.915260152718346,
+          "lon": -0.6345767860051894
+        },
+        {
+          "lat": 44.0141308962731,
+          "lon": 1.6519135338238935
+        }
+      ]
     },
     {
-      "title": "Torwartfehler und Jokertor: Spanien gewinnt gegen Belgien",
-      "summary": "Wie schon im Achtelfinale gegen Portugal war es Joker Mikel Merino, der die Spanier im Viertelfinale gegen Belgien spät auf die Siegerstraße brachte. Er profitierte von einem groben Fehler.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/merino-trifft-wieder-spaet-torwartfehler-bringt-spanien-ins-halbfinale,wm-spielbericht-spanien-belgien-100.html",
-      "category": "sport",
-      "event_type": "standard",
+      "id": "conflict-spanien",
+      "type": "conflict",
       "location": {
         "name": "Spanien",
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "connections": [],
-      "published": "Fri, 10 Jul 2026 22:59:24 +0200"
+      "label": "US-Präsident Trump will Handel mit Spanien einstellen",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 40.92892614533669,
+          "lon": -4.11890833208638
+        },
+        {
+          "lat": 39.99204498382368,
+          "lon": -2.76568715045687
+        }
+      ]
     },
     {
-      "title": "Lammens und Courtois - Torhüter-Tragik bei Belgiens bitterem WM-Aus",
-      "summary": "Belgien agiert im WM-Viertelfinale gegen Favorit Spanien lange auf Augenhöhe, dann übernehmen die beiden Keeper der \"Roten Teufel\" unfreiwillig die Hauptrollen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/lammens-lapsus-torhueter-tragik-bei-belgiens-bitterem-aus,belgien-courtois-lammens-100.html",
-      "category": "sport",
-      "event_type": "standard",
+      "id": "blockade-stra-e-von-hormus",
+      "type": "blockade",
       "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
+        "name": "Straße von Hormus",
+        "lat": 26.5,
+        "lon": 56.25
       },
-      "connections": [],
-      "published": "Sat, 11 Jul 2026 01:10:14 +0200"
+      "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": [
+        [
+          26.7,
+          52.5
+        ],
+        [
+          25.0,
+          58.5
+        ]
+      ],
+      "subpoints": []
+    },
+    {
+      "id": "conflict-ankara",
+      "type": "conflict",
+      "location": {
+        "name": "Ankara",
+        "lat": 39.9334,
+        "lon": 32.8597
+      },
+      "label": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 37.400643139275175,
+          "lon": 34.646879573156674
+        },
+        {
+          "lat": 37.96611668381819,
+          "lon": 35.69618429620929
+        }
+      ]
+    },
+    {
+      "id": "conflict-ukraine",
+      "type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 3,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.25173135613434,
+          "lon": 31.76776877693361
+        },
+        {
+          "lat": 49.61653462013684,
+          "lon": 31.229752132967523
+        },
+        {
+          "lat": 46.29297767277247,
+          "lon": 30.806974836359494
+        }
+      ]
+    },
+    {
+      "id": "conflict-russland",
+      "type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 62.13926280306635,
+          "lon": 104.05053692769644
+        },
+        {
+          "lat": 62.66278424887983,
+          "lon": 103.3482246131157
+        }
+      ]
+    },
+    {
+      "id": "disaster-frankreich",
+      "type": "disaster",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "disaster-spanien",
+      "type": "disaster",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Tote bei Waldbrand im Süden Spaniens",
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
