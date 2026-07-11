@@ -1,20 +1,33 @@
 #!/usr/bin/env python3
 """
 Fetches news from RSS feeds, sorts into categories, geocodes mentioned
-locations (countries AND cities) with a static lookup table, detects
-event types (conflict / disaster / tension / trade) for map styling,
-finds connections between locations for arcs (trade routes, conflict
-fronts), and writes news.json for the dashboard frontend to consume.
+locations (countries AND cities), detects event types (conflict /
+disaster / tension / trade / blockade), and maintains a PERSISTENT crisis
+state (ongoing_events.json) so that wars, disasters and blockades stay
+visible on the map for as long as they remain active - not just on the
+day they're in the headlines.
+
+Outputs:
+  - news.json           (articles for the category lists + map markers)
+  - ongoing_events.json (persistent crisis state, committed back to repo)
 """
+import hashlib
 import json
+import os
 import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date
 from html import unescape
 
 USER_AGENT = "Mozilla/5.0 (compatible; MorningNewsDashboard/1.0)"
+ONGOING_EVENTS_PATH = "ongoing_events.json"
+
+# How long a crisis stays on the map after it was last mentioned in the
+# news, and how its "intensity" (number of pulse markers) grows/decays.
+COOLDOWN_DAYS = 6
+MAX_INTENSITY = 8
 
 
 def fetch_url(url: str) -> str:
@@ -107,13 +120,44 @@ TRADE_KEYWORDS = [
     "freihandelsabkommen", "lieferkette", "abkommen", "deal", "investition",
     "exporte", "importe",
 ]
+BLOCKADE_KEYWORDS = [
+    "blockade", "blockiert", "sperrung", "gesperrt", "seeweg", "abgeriegelt",
+    "riegelt ab", "schifffahrt", "tanker",
+]
 
 EVENT_COLORS = {
     "conflict": "#ff3b30",
     "disaster": "#ff9500",
     "tension": "#ffd60a",
     "trade": "#34c759",
+    "blockade": "#0a84ff",
     "standard": None,  # falls back to category color
+}
+
+# Known maritime chokepoints - if a blockade article mentions one of these,
+# we pin it to the exact strait/canal instead of the whole country, and draw
+# a short shipping-lane arc through it.
+CHOKEPOINTS = {
+    "hormus": {
+        "name": "Straße von Hormus", "lat": 26.5, "lon": 56.25,
+        "lane": [(26.7, 52.5), (25.0, 58.5)],
+    },
+    "suez": {
+        "name": "Suezkanal", "lat": 30.5, "lon": 32.35,
+        "lane": [(31.5, 32.3), (29.9, 32.55)],
+    },
+    "malakka": {
+        "name": "Straße von Malakka", "lat": 2.5, "lon": 101.5,
+        "lane": [(5.3, 97.9), (1.3, 103.8)],
+    },
+    "bab-el-mandeb": {
+        "name": "Bab-el-Mandeb", "lat": 12.5, "lon": 43.3,
+        "lane": [(15.6, 41.9), (11.6, 45.05)],
+    },
+    "panama": {
+        "name": "Panamakanal", "lat": 9.08, "lon": -79.68,
+        "lane": [(9.4, -79.9), (8.9, -79.5)],
+    },
 }
 
 # ---------------------------------------------------------------------------
@@ -230,7 +274,8 @@ PLACES = {
     "Manila": (14.5995, 120.9842), "Hanoi": (21.0278, 105.8342),
     "Singapur": (1.3521, 103.8198), "Kuala Lumpur": (3.139, 101.6869),
     "Genf": (46.2044, 6.1432), "Straßburg": (48.5734, 7.7521),
-    "Den Haag": (52.0705, 4.3007),
+    "Den Haag": (52.0705, 4.3007), "Hongkong": (22.3193, 114.1694),
+    "Toronto": (43.6532, -79.3832),
 }
 PLACE_PATTERN = re.compile(
     r"\b(" + "|".join(re.escape(p) for p in sorted(PLACES, key=len, reverse=True)) + r")\b",
@@ -260,12 +305,22 @@ def find_all_locations(text: str, limit: int = 4):
     return seen
 
 
+def find_chokepoint(text: str):
+    lower = text.lower()
+    for key, cp in CHOKEPOINTS.items():
+        if key in lower or cp["name"].lower() in lower:
+            return cp
+    return None
+
+
 def matches_keywords(text: str, keywords) -> bool:
     lower = text.lower()
     return any(kw in lower for kw in keywords)
 
 
-def detect_event_type(category_id: str, text: str) -> str:
+def detect_event_type(category_id: str, text: str):
+    if matches_keywords(text, BLOCKADE_KEYWORDS) and find_chokepoint(text):
+        return "blockade"
     if category_id == "konflikte":
         return "conflict"
     if category_id == "welt" and matches_keywords(text, DISASTER_KEYWORDS):
@@ -306,6 +361,12 @@ def fetch_category(cat):
 
             event_type = detect_event_type(cat["id"], haystack)
 
+            chokepoint = find_chokepoint(haystack) if event_type == "blockade" else None
+            if chokepoint:
+                primary_location = {
+                    "name": chokepoint["name"], "lat": chokepoint["lat"], "lon": chokepoint["lon"],
+                }
+
             # Connections (arcs) only make sense for conflict fronts and
             # trade routes, and only when we actually found 2+ distinct places.
             connections = []
@@ -324,11 +385,99 @@ def fetch_category(cat):
                 "event_type": event_type,
                 "location": primary_location,
                 "connections": connections,
+                "chokepoint_lane": chokepoint["lane"] if chokepoint else None,
                 "published": published,
             })
             if len(items) >= MAX_PER_CATEGORY:
                 break
     return items
+
+
+def slugify(name: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", (name or "unbekannt").lower()).strip("-")
+    return slug or hashlib.md5((name or "").encode()).hexdigest()[:8]
+
+
+def load_ongoing_events():
+    if os.path.exists(ONGOING_EVENTS_PATH):
+        try:
+            with open(ONGOING_EVENTS_PATH, "r", encoding="utf-8") as f:
+                return json.load(f).get("events", [])
+        except Exception:
+            return []
+    return []
+
+
+def deterministic_offsets(seed: str, count: int, spread: float = 3.0):
+    """Stable pseudo-random lat/lon offsets so a crisis's small pulse
+    markers don't jump around between daily runs."""
+    offsets = []
+    for i in range(count):
+        h = hashlib.md5(f"{seed}-{i}".encode()).hexdigest()
+        dx = (int(h[:8], 16) / 0xFFFFFFFF - 0.5) * 2 * spread
+        dy = (int(h[8:16], 16) / 0xFFFFFFFF - 0.5) * 2 * spread
+        offsets.append((dx, dy))
+    return offsets
+
+
+def update_ongoing_events(articles, today: str):
+    """Merge today's crisis-type articles into the persistent event log,
+    ageing out entries that haven't been mentioned in a while."""
+    existing = {e["id"]: e for e in load_ongoing_events()}
+    seen_today = set()
+
+    for a in articles:
+        if a["event_type"] not in ("conflict", "disaster", "blockade"):
+            continue
+        loc = a["location"]
+        if not loc or loc.get("name") is None:
+            continue
+        eid = f"{a['event_type']}-{slugify(loc['name'])}"
+        seen_today.add(eid)
+        if eid in existing:
+            ev = existing[eid]
+            ev["last_seen"] = today
+            ev["intensity"] = min(MAX_INTENSITY, ev.get("intensity", 1) + 1)
+            ev["label"] = a["title"]
+        else:
+            existing[eid] = {
+                "id": eid,
+                "type": a["event_type"],
+                "location": loc,
+                "label": a["title"],
+                "first_seen": today,
+                "last_seen": today,
+                "intensity": 1,
+                "chokepoint_lane": a.get("chokepoint_lane"),
+            }
+
+    # Decay/prune: anything not mentioned today loses a bit of intensity;
+    # once it's both low-intensity AND stale beyond the cooldown, drop it.
+    survivors = []
+    for eid, ev in existing.items():
+        if eid not in seen_today:
+            ev["intensity"] = max(0, ev.get("intensity", 1) - 1)
+            last_seen = date.fromisoformat(ev["last_seen"])
+            days_stale = (date.fromisoformat(today) - last_seen).days
+            if days_stale > COOLDOWN_DAYS and ev["intensity"] <= 0:
+                continue  # considered resolved -> drop
+        survivors.append(ev)
+
+    # Precompute map-ready geometry for each surviving crisis.
+    for ev in survivors:
+        loc = ev["location"]
+        if ev["type"] == "conflict":
+            ev["subpoints"] = [
+                {"lat": loc["lat"] + dy, "lon": loc["lon"] + dx}
+                for dx, dy in deterministic_offsets(ev["id"], max(2, ev["intensity"]))
+            ]
+        else:
+            ev["subpoints"] = []
+
+    with open(ONGOING_EVENTS_PATH, "w", encoding="utf-8") as f:
+        json.dump({"events": survivors, "updated_at": today}, f, ensure_ascii=False, indent=2)
+
+    return survivors
 
 
 def main():
@@ -339,6 +488,9 @@ def main():
         except Exception as exc:  # keep going even if one feed fails
             print(f"Warning: failed to fetch category {cat['id']}: {exc}", file=sys.stderr)
 
+    today = date.today().isoformat()
+    crises = update_ongoing_events(articles, today)
+
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "categories": [
@@ -346,12 +498,13 @@ def main():
         ],
         "event_colors": EVENT_COLORS,
         "articles": articles,
+        "crises": crises,
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {len(articles)} articles to news.json")
+    print(f"Wrote {len(articles)} articles and {len(crises)} ongoing crises to news.json")
 
 
 if __name__ == "__main__":
