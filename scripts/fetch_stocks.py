@@ -61,7 +61,6 @@ def fetch_symbol(symbol, days=30):
         r = result[0]
         meta = r.get("meta") or {}
         price = meta.get("regularMarketPrice")
-        prev_close = meta.get("chartPreviousClose") or meta.get("previousClose")
         if price is None:
             return None
 
@@ -71,6 +70,11 @@ def fetch_symbol(symbol, days=30):
             closes = [c for c in (quotes[0].get("close") or []) if c is not None]
         history = closes[-days:] if closes else []
 
+        # Use yesterday's close (second-to-last daily close in the series)
+        # for the day-over-day change, not "chartPreviousClose" - that field
+        # is the close at the START of the whole requested range (here: ~3
+        # months ago), which produces wildly inflated percentages.
+        prev_close = closes[-2] if len(closes) >= 2 else meta.get("previousClose")
         change_pct = round((price - prev_close) / prev_close * 100, 2) if prev_close else 0
         return {"price": price, "change_pct": change_pct, "history": history}
     except Exception as exc:
