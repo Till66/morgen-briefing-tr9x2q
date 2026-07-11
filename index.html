@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>Morgen-Briefing</title>
 <link rel="icon" href="data:,">
-<script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/globe.gl"></script>
 <style>
   :root {
@@ -69,6 +68,15 @@
   #legend .swatch {
     width: 9px; height: 9px; border-radius: 50%;
     display: inline-block;
+  }
+  .dome-marker {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), var(--c, #5b9bd5) 42%, var(--c, #5b9bd5) 100%);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.55), inset 0 -2px 4px rgba(0,0,0,0.35);
+    cursor: pointer;
+    transform: translate(-50%, -50%);
   }
   main {
     max-width: 900px;
@@ -301,12 +309,13 @@ function eventColor(article, colorById) {
   return map[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
 }
 
-function createDomeMesh(color) {
-  const geometry = new THREE.SphereGeometry(1.35, 16, 8, 0, Math.PI * 2, 0, Math.PI / 2);
-  const material = new THREE.MeshBasicMaterial({
-    color, transparent: true, opacity: 0.88,
-  });
-  return new THREE.Mesh(geometry, material);
+function createDomeElement(color, article) {
+  const el = document.createElement('div');
+  el.className = 'dome-marker';
+  el.style.setProperty('--c', color);
+  el.title = article.title;
+  el.onclick = () => openArticle(article);
+  return el;
 }
 
 function openArticle(article) {
@@ -365,15 +374,12 @@ async function buildGlobe(categories, articles, eventColors) {
     .polygonAltitude(0.006)
     .polygonLabel(d => d.properties && d.properties.NAME || '')
 
-    // Event markers as small domes
-    .objectsData(markers)
-    .objectLat('lat')
-    .objectLng('lng')
-    .objectAltitude(0.012)
-    .objectFacesSurface(true)
-    .objectThreeObject(d => createDomeMesh(d.color))
-    .objectLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
-    .onObjectClick(d => openArticle(d.article))
+    // Event markers as small glossy domes (CSS-based, avoids THREE.js version conflicts)
+    .htmlElementsData(markers)
+    .htmlLat('lat')
+    .htmlLng('lng')
+    .htmlAltitude(0.012)
+    .htmlElement(d => createDomeElement(d.color, d.article))
 
     // Pulsing rings for conflicts & environmental disasters
     .ringsData(pulses)
