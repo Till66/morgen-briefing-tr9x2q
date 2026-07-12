@@ -88,6 +88,158 @@
     transform: translate(-50%, -50%);
   }
 
+  /* --- Animated event/crisis markers ---------------------------------- */
+  /* All of these render via globe.gl's htmlElementsData layer, which is a
+     DOM overlay positioned above the WebGL canvas - so they always sit on
+     top of the globe render itself, as required. */
+  .crisis-marker, .marker-conflict-dot {
+    position: relative;
+    transform: translate(-50%, -50%);
+    pointer-events: auto;
+  }
+
+  /* Naturkatastrophen & Blockade: one big circle expanding from inside to
+     outside, fading as it grows. Intense events add extra "shockwave" rings. */
+  .marker-bigpulse { width: 14px; height: 14px; }
+  .marker-bigpulse.marker-big { width: 22px; height: 22px; cursor: pointer; }
+  .marker-bigpulse .core {
+    position: absolute; inset: 0; border-radius: 50%;
+    background: radial-gradient(circle, var(--c, #ff9500), transparent 70%);
+    animation: bigPulse 2.4s ease-out infinite;
+  }
+  .marker-bigpulse .shock {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 2px solid var(--c, #ff9500);
+    animation: bigPulse 2.4s ease-out infinite;
+  }
+  .marker-bigpulse .shock2 { animation-delay: 0.8s; }
+  .marker-bigpulse .shock3 { animation-delay: 1.6s; }
+  @keyframes bigPulse { 0% { transform: scale(1); opacity: 1; } 100% { transform: scale(4); opacity: 0; } }
+
+  /* Krieg/Konflikte: many small overlapping red circles, each pulsing at a
+     slightly different speed so the region reads as "unruhig und aktiv". */
+  .marker-conflict-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: radial-gradient(circle, #ff8a80, #ff3b30);
+    box-shadow: 0 0 6px rgba(255,59,48,0.9);
+    animation: conflictPulse var(--dur, 1.2s) ease-in-out infinite;
+    animation-delay: var(--delay, 0s);
+  }
+  @keyframes conflictPulse { 0%, 100% { transform: scale(0.85); opacity: 0.7; } 50% { transform: scale(1.6); opacity: 1; } }
+
+  /* Unwetter: rotating "storm eye" disc, spin speed scales with intensity. */
+  .marker-storm { width: 16px; height: 16px; }
+  .marker-storm.marker-big { width: 24px; height: 24px; cursor: pointer; }
+  .marker-storm .disc {
+    width: 100%; height: 100%; border-radius: 50%;
+    background: conic-gradient(from 0deg, rgba(38,198,218,0.05), rgba(38,198,218,0.95), rgba(38,198,218,0.05));
+    animation-name: stormSpin; animation-timing-function: linear; animation-iteration-count: infinite;
+  }
+  @keyframes stormSpin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+  /* Waldbrand: flickering flame with rising smoke over a pulsing orange halo. */
+  .marker-wildfire { width: 16px; height: 16px; }
+  .marker-wildfire.marker-big { width: 22px; height: 22px; cursor: pointer; }
+  .marker-wildfire .halo {
+    position: absolute; inset: 0; border-radius: 50%;
+    background: rgba(255,87,34,0.35);
+    animation: wildfirePulse 2.6s ease-in-out infinite;
+  }
+  .marker-wildfire .flame {
+    position: absolute; left: 50%; top: 55%; transform: translate(-50%, -50%);
+    font-size: 12px; animation: flameFlicker 0.6s ease-in-out infinite alternate;
+  }
+  .marker-wildfire .smoke {
+    position: absolute; left: 50%; top: 0; width: 4px; height: 4px; border-radius: 50%;
+    background: rgba(190,190,190,0.55); animation: smokeRise 2s ease-out infinite;
+  }
+  @keyframes wildfirePulse { 0%, 100% { transform: scale(0.9); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
+  @keyframes flameFlicker { from { transform: translate(-50%, -50%) scale(0.9) rotate(-4deg); } to { transform: translate(-50%, -50%) scale(1.15) rotate(4deg); } }
+  @keyframes smokeRise { 0% { transform: translate(-50%, 0) scale(0.6); opacity: 0.6; } 100% { transform: translate(-50%, -16px) scale(1.5); opacity: 0; } }
+
+  /* Gesundheitswarnung: calm violet ring expanding evenly, no flashing. */
+  .marker-health { width: 14px; height: 14px; }
+  .marker-health.marker-big { width: 20px; height: 20px; cursor: pointer; }
+  .marker-health .ring {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 2px solid rgba(156,39,176,0.85);
+    animation: healthRing 2.8s ease-in-out infinite;
+  }
+  @keyframes healthRing { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(3.2); opacity: 0; } }
+
+  /* Proteste/Unruhen: fast pulsing orange ring with a lightly blinking center. */
+  .marker-protest { width: 12px; height: 12px; }
+  .marker-protest.marker-big { width: 18px; height: 18px; cursor: pointer; }
+  .marker-protest .ring {
+    position: absolute; inset: 0; border-radius: 50%;
+    background: rgba(255,122,0,0.4);
+    animation: protestPulse 0.55s ease-in-out infinite;
+  }
+  .marker-protest .dot {
+    position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px;
+    border-radius: 50%; background: #ff7a00;
+    animation: protestBlink 0.55s ease-in-out infinite;
+  }
+  @keyframes protestPulse { 0%, 100% { transform: scale(0.8); opacity: 0.5; } 50% { transform: scale(1.5); opacity: 0.9; } }
+  @keyframes protestBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+  /* Strom-/Internetausfälle: lightning bolt flash with a slow outward ring. */
+  .marker-outage { width: 14px; height: 14px; }
+  .marker-outage.marker-big { width: 20px; height: 20px; cursor: pointer; }
+  .marker-outage .ring {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 2px solid rgba(255,235,59,0.75);
+    animation: outageRing 2.4s ease-out infinite;
+  }
+  .marker-outage .bolt {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    font-size: 10px; animation: boltFlash 1.6s steps(1) infinite;
+  }
+  @keyframes outageRing { 0% { transform: scale(0.6); opacity: 0.8; } 100% { transform: scale(2.6); opacity: 0; } }
+  @keyframes boltFlash { 0%, 100% { opacity: 0; } 8%, 18% { opacity: 1; } 22%, 100% { opacity: 0; } }
+
+  /* Große Verkehrsereignisse: a point with a slowly circling radar-style ring. */
+  .marker-transport { width: 14px; height: 14px; }
+  .marker-transport.marker-big { width: 18px; height: 18px; cursor: pointer; }
+  .marker-transport .dot {
+    position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px;
+    border-radius: 50%; background: #78909c;
+  }
+  .marker-transport .orbit {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 1.5px dashed rgba(120,144,156,0.85);
+    animation: transportOrbit 3s linear infinite;
+  }
+  @keyframes transportOrbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+  /* Politische Ereignisse: a calm, slow blue ring - no flashy effects. */
+  .marker-political { width: 12px; height: 12px; }
+  .marker-political.marker-big { width: 16px; height: 16px; cursor: pointer; }
+  .marker-political .ring {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 2px solid rgba(30,136,229,0.75);
+    animation: politicalRing 3.6s ease-in-out infinite;
+  }
+  @keyframes politicalRing { 0%, 100% { transform: scale(0.85); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
+
+  /* Großveranstaltungen: soft golden pulse with small lights orbiting around it. */
+  .marker-celebration { width: 16px; height: 16px; }
+  .marker-celebration.marker-big { width: 22px; height: 22px; cursor: pointer; }
+  .marker-celebration .core {
+    position: absolute; inset: 0; border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,215,0,0.95), rgba(255,215,0,0.3) 70%, transparent 100%);
+    animation: celebrationPulse 2.2s ease-in-out infinite;
+  }
+  .marker-celebration .spark {
+    position: absolute; width: 3px; height: 3px; border-radius: 50%; background: #fff6c8;
+    top: 50%; left: 50%; margin: -1.5px 0 0 -1.5px;
+    animation: sparkOrbit 2.4s linear infinite;
+  }
+  .marker-celebration .spark2 { animation-delay: -0.8s; }
+  .marker-celebration .spark3 { animation-delay: -1.6s; }
+  @keyframes celebrationPulse { 0%, 100% { transform: scale(0.9); opacity: 0.7; } 50% { transform: scale(1.25); opacity: 1; } }
+  @keyframes sparkOrbit { from { transform: rotate(0deg) translateX(9px) rotate(0deg); } to { transform: rotate(360deg) translateX(9px) rotate(-360deg); } }
+
   #cityPanelOverlay {
     position: fixed; inset: 0;
     background: rgba(0,0,0,0.5);
@@ -313,6 +465,14 @@
   <span class="item"><span class="swatch" style="background:#ffd60a"></span>Spannung</span>
   <span class="item"><span class="swatch" style="background:#34c759"></span>Handelsroute</span>
   <span class="item"><span class="swatch" style="background:#0a84ff"></span>Blockade</span>
+  <span class="item"><span class="swatch" style="background:#26c6da"></span>Unwetter</span>
+  <span class="item"><span class="swatch" style="background:#ff5722"></span>Waldbrand</span>
+  <span class="item"><span class="swatch" style="background:#9c27b0"></span>Gesundheitswarnung</span>
+  <span class="item"><span class="swatch" style="background:#ff7a00"></span>Proteste / Unruhen</span>
+  <span class="item"><span class="swatch" style="background:#ffeb3b"></span>Stromausfall</span>
+  <span class="item"><span class="swatch" style="background:#78909c"></span>Verkehrsereignis</span>
+  <span class="item"><span class="swatch" style="background:#1e88e5"></span>Politisches Ereignis</span>
+  <span class="item"><span class="swatch" style="background:#ffd700"></span>Großveranstaltung</span>
   <span class="item"><span class="swatch" style="background:#7ec8ff"></span>Stadt (Profil antippen)</span>
 </div>
 
@@ -468,16 +628,20 @@ async function loadCountryBorders() {
   }
 }
 
-const EVENT_RING_COLORS = { conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759', blockade: '#0a84ff' };
+const EVENT_RING_COLORS = {
+  conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759', blockade: '#0a84ff',
+  storm: '#26c6da', wildfire: '#ff5722', health: '#9c27b0', protest: '#ff7a00', outage: '#ffeb3b',
+  transport: '#78909c', political: '#1e88e5', celebration: '#ffd700',
+};
+
+// Event types that get the "one big pulsing circle" treatment (Naturkatastrophen
+// & Blockade), vs. the bespoke per-type animations below, vs. "conflict" which
+// gets many small overlapping dots instead of a single marker.
+const BIGPULSE_TYPES = new Set(['disaster', 'blockade']);
+const SPECIAL_TYPES = new Set(['storm', 'wildfire', 'health', 'protest', 'outage', 'transport', 'political', 'celebration']);
 
 function eventColor(article, colorById) {
   return EVENT_RING_COLORS[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
-}
-
-function hexToRgb(hex) {
-  const m = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex || '#ff3b30');
-  if (!m) return '255,59,48';
-  return [1, 2, 3].map(i => parseInt(m[i], 16)).join(',');
 }
 
 function createDomeElement(color, article) {
@@ -487,6 +651,103 @@ function createDomeElement(color, article) {
   el.title = article.title;
   el.onclick = () => openArticle(article);
   return el;
+}
+
+// One large circle that pulses from inside to outside, fading as it grows.
+// Used for Naturkatastrophen and Blockade markers, both as a small per-article
+// dot and (with opts.big) as the large persistent crisis overlay - with extra
+// "shockwave" rings layered in for higher-intensity/severe events.
+function bigPulseElement(color, opts = {}) {
+  const wrap = document.createElement('div');
+  wrap.className = 'crisis-marker marker-bigpulse' + (opts.big ? ' marker-big' : '');
+  const intensity = opts.intensity || 1;
+  let html = `<div class="core" style="--c:${color}"></div>`;
+  if (opts.big && intensity >= 4) html += `<div class="shock shock2" style="--c:${color}"></div>`;
+  if (opts.big && intensity >= 7) html += `<div class="shock shock3" style="--c:${color}"></div>`;
+  wrap.innerHTML = html;
+  applyMarkerInteractivity(wrap, opts);
+  return wrap;
+}
+
+// The bespoke animations for storm/wildfire/health/protest/outage/transport/
+// political/celebration markers described in the map legend.
+function createAnimatedMarker(type, opts = {}) {
+  const wrap = document.createElement('div');
+  wrap.className = `crisis-marker marker-${type}` + (opts.big ? ' marker-big' : '');
+  const intensity = opts.intensity || 1;
+  switch (type) {
+    case 'storm': {
+      wrap.innerHTML = `<div class="disc"></div>`;
+      const spin = Math.max(1.1, 3.2 - intensity * 0.22);
+      wrap.querySelector('.disc').style.animationDuration = spin + 's';
+      break;
+    }
+    case 'wildfire':
+      wrap.innerHTML = `<div class="halo"></div><div class="smoke"></div><div class="flame">🔥</div>`;
+      break;
+    case 'health':
+      wrap.innerHTML = `<div class="ring"></div>`;
+      break;
+    case 'protest':
+      wrap.innerHTML = `<div class="ring"></div><div class="dot"></div>`;
+      break;
+    case 'outage':
+      wrap.innerHTML = `<div class="ring"></div><div class="bolt">⚡</div>`;
+      break;
+    case 'transport':
+      wrap.innerHTML = `<div class="orbit"></div><div class="dot"></div>`;
+      break;
+    case 'political':
+      wrap.innerHTML = `<div class="ring"></div>`;
+      break;
+    case 'celebration':
+      wrap.innerHTML = `<div class="core"></div><div class="spark"></div><div class="spark spark2"></div><div class="spark spark3"></div>`;
+      break;
+    default:
+      wrap.innerHTML = `<div class="ring"></div>`;
+  }
+  applyMarkerInteractivity(wrap, opts);
+  return wrap;
+}
+
+// Krieg/Konflikte: many small overlapping red circles, each pulsing at a
+// randomized speed/offset so a conflict zone reads as "unruhig und aktiv".
+function createConflictDot() {
+  const el = document.createElement('div');
+  el.className = 'marker-conflict-dot';
+  const dur = (0.9 + Math.random() * 0.9).toFixed(2);
+  const delay = (Math.random() * 1.6).toFixed(2);
+  el.style.setProperty('--dur', dur + 's');
+  el.style.setProperty('--delay', delay + 's');
+  return el;
+}
+
+function applyMarkerInteractivity(el, opts) {
+  if (opts.title) el.title = opts.title;
+  if (opts.onclick) {
+    el.style.cursor = 'pointer';
+    el.onclick = (e) => { e.stopPropagation(); opts.onclick(); };
+  }
+}
+
+// Per-article marker: today's news dot, styled per event_type.
+function createEventMarker(m) {
+  const { type, color, article } = m;
+  const onclick = () => openArticle(article);
+  if (type === 'conflict') return createConflictDot();
+  if (BIGPULSE_TYPES.has(type)) return bigPulseElement(color, { title: article.title, onclick });
+  if (SPECIAL_TYPES.has(type)) return createAnimatedMarker(type, { title: article.title, onclick });
+  return createDomeElement(color, article);
+}
+
+// Persistent crisis overlay marker (from ongoing_events.json), rendered larger
+// and, for disaster/storm/wildfire/etc., scaled/escalated with intensity.
+function createCrisisOverlay(c) {
+  const color = EVENT_RING_COLORS[c.type] || '#ff3b30';
+  const onclick = c.url && c.url !== '#' ? () => window.open(c.url, '_blank', 'noopener') : null;
+  const opts = { big: true, intensity: c.intensity, title: c.label, onclick };
+  if (BIGPULSE_TYPES.has(c.type)) return bigPulseElement(color, opts);
+  return createAnimatedMarker(c.type, opts);
 }
 
 function openArticle(article) {
@@ -665,6 +926,7 @@ async function buildGlobe(categories, articles, eventColors, crises) {
       lat: a.location.lat,
       lng: a.location.lon,
       color: eventColor(a, colorById),
+      type: a.event_type,
       article: a,
     }));
 
@@ -675,25 +937,25 @@ async function buildGlobe(categories, articles, eventColors, crises) {
     city,
   }));
 
-  const markers = [...newsMarkers, ...cityMarkers];
-
-  // Pulsing rings driven by the persistent crisis log: ONE big slow ring
-  // for a disaster (whole affected area), MANY small overlapping rings
-  // for a conflict (intensity = how many small pulses = how "hot" it is),
-  // and a ring at the exact chokepoint for a shipping blockade.
-  const pulses = [];
+  // Persistent crisis overlays driven by ongoing_events.json: ONE big
+  // pulsing circle for disaster/blockade (and the bespoke storm/wildfire/
+  // health/protest/outage animations), MANY small overlapping red dots for
+  // a conflict (count scales with intensity = how "hot" the conflict is).
+  const crisisMarkers = [];
   crises.forEach(c => {
-    const color = EVENT_RING_COLORS[c.type] || '#ff3b30';
-    if (c.type === 'disaster') {
-      pulses.push({ lat: c.location.lat, lng: c.location.lon, color, big: true });
-    } else if (c.type === 'conflict') {
+    if (c.type === 'conflict') {
       (c.subpoints && c.subpoints.length ? c.subpoints : [c.location]).forEach(p => {
-        pulses.push({ lat: p.lat, lng: p.lon, color, big: false });
+        crisisMarkers.push({ kind: 'conflict-dot', lat: p.lat, lng: p.lon });
       });
-    } else if (c.type === 'blockade') {
-      pulses.push({ lat: c.location.lat, lng: c.location.lon, color, big: true });
+    } else {
+      crisisMarkers.push({
+        kind: 'crisis', type: c.type, lat: c.location.lat, lng: c.location.lon,
+        intensity: c.intensity, label: c.label, url: c.url,
+      });
     }
   });
+
+  const markers = [...newsMarkers, ...cityMarkers, ...crisisMarkers];
 
   const arcs = [];
   articles.forEach(a => {
@@ -736,27 +998,22 @@ async function buildGlobe(categories, articles, eventColors, crises) {
     .polygonAltitude(0.006)
     .polygonLabel(d => d.properties && d.properties.NAME || '')
 
-    // Event & city markers (small glossy CSS domes/dots - avoids THREE.js version conflicts)
+    // Event, city & crisis markers - all CSS-animated divs rendered via
+    // globe.gl's htmlElementsData layer, which sits on top of the WebGL
+    // canvas as a DOM overlay, so every marker/animation is always drawn
+    // above the globe surface itself.
     .htmlElementsData(markers)
     .htmlLat('lat')
     .htmlLng('lng')
-    .htmlAltitude(0.012)
-    .htmlElement(d => d.kind === 'city' ? createCityElement(d.city) : createDomeElement(d.color, d.article))
-
-    // Pulsing rings driven by the persistent crisis log: one large slow
-    // ring per disaster/blockade, many small overlapping rings per conflict
-    .ringsData(pulses)
-    .ringLat('lat')
-    .ringLng('lng')
-    .ringColor(d => {
-      const rgb = hexToRgb(d.color);
-      return t => `rgba(${rgb},${1 - t})`;
+    .htmlAltitude(d => d.kind === 'crisis' ? 0.016 : (d.kind === 'conflict-dot' ? 0.014 : 0.012))
+    .htmlElement(d => {
+      if (d.kind === 'city') return createCityElement(d.city);
+      if (d.kind === 'conflict-dot') return createConflictDot();
+      if (d.kind === 'crisis') return createCrisisOverlay(d);
+      return createEventMarker(d);
     })
-    .ringMaxRadius(d => d.big ? 6 : 2.2)
-    .ringPropagationSpeed(d => d.big ? 1.4 : 2.4)
-    .ringRepeatPeriod(d => d.big ? 1800 : 1000)
 
-    // Connections: conflict fronts, trade routes & blockaded shipping lanes
+    // Connections: conflict fronts, trade routes, transport routes & blockaded shipping lanes
     .arcsData(arcs)
     .arcColor(d => [d.color, d.color])
     .arcAltitude(0.25)
