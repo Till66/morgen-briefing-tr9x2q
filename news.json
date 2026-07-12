@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T06:17:32.915351+00:00",
+  "generated_at": "2026-07-12T10:13:20.828944+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,38 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Familienministerin Prien will beim Unterhaltsvorschuss sparen",
+      "summary": "Zahlt ein Elternteil keinen Unterhalt für gemeinsame Kinder, springt der Staat ein. Laut Familienministerin Prien sind die Kosten aber zu hoch. Der Vorschuss soll bald nur noch für Kinder bis zum 15. Lebensjahr gewährt werden.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/prien-unterhaltsvorschuss-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 11:59:54 +0200"
+    },
+    {
+      "title": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
+      "summary": "Das heiße und trockene Wetter lässt die Waldbrandgefahr steigen. Der Deutsche Wetterdienst meldet für viele Regionen eine hohe oder sogar sehr hohe Gefahr. Feuerwehren fordern Geld für mehr Technik, um sich besser wappnen zu können.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 10:45:23 +0200"
+    },
     {
       "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
       "summary": "Die extreme Hitzewelle treibt die Menschen in Seen, Flüsse und ans Meer. Die dramatische Folge: Im Juni gab es laut DLRG so viele Badetote wie seit mehr als 20 Jahren nicht zum Start des Sommers.",
@@ -141,12 +173,12 @@
       "published": "Sat, 11 Jul 2026 10:50:25 +0200"
     },
     {
-      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
-      "summary": "Das Sparpaket im Gesundheitswesen ist beschlossene Sache - Kritik gibt es weiter: etwa daran, dass der Bundesrat darauf verzichtete nachzuverhandeln. Der Deutsche Landkreistag warnt vor zusätzlichen Kosten für die Kommunen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html",
-      "category": "politik",
-      "event_type": "standard",
+      "title": "Warum die Ausweitung der Sonntagsöffnungszeiten schwierig ist",
+      "summary": "Die Bundesregierung will längere Arbeitszeiten in Bäckereien an Sonn- und Feiertagen erlauben. Handelsverbände fordern, dass auch der Einzelhandel öffnen darf. Was gilt und was möglich wäre. Von B.-H. Otte.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/faq-sonntagsarbeit-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -154,23 +186,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 11:10:12 +0200"
-    },
-    {
-      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
-      "summary": "Grünes Licht für die Reform der gesetzlichen Krankenversicherung: Die Bundesregierung will die Ausgaben im Gesundheitssystem bremsen. Ein Überblick, mit welchen Einschnitten und Zuzahlungen Versicherte nun rechnen müssen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 21:02:57 +0200"
+      "published": "Sun, 12 Jul 2026 08:46:21 +0200"
     },
     {
       "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
@@ -189,100 +205,36 @@
       "published": "Sun, 12 Jul 2026 04:35:03 +0200"
     },
     {
-      "title": "Sanierung als Alternative: Marode Brücke abreißen - muss das sein?",
-      "summary": "Tausende deutsche Autobahnbrücken sind marode. Bislang heißt das in den meisten Fällen: Abriss und Neubau. Doch das dauert Jahrzehnte, und die Kosten sind enorm. Muss wirklich immer neu gebaut werden? Von Christof Dörr.",
+      "title": "Streit über Wochenarbeitszeit: Zurück zur 40-Stunden-Woche?",
+      "summary": "Krise in der Autobranche, hohe Produktionskosten in der deutschen Industrie: Immer häufiger fordern Stimmen aus der Wirtschaft, dass in Deutschland wieder länger gearbeitet werden müsse. Von Thomas Denzel.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/marode-bruecken-alternativen-abriss-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitszeit-40-stunden-woche-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
+        "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 15:35:57 +0200"
+      "published": "Fri, 10 Jul 2026 06:15:09 +0200"
     },
     {
-      "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
-      "summary": "Mit Vollgas in den Urlaub? Für den Geldbeutel keine gute Idee. Wer auf ein paar Kleinigkeiten beim Fahren achtet, kann Sprit sparen. Und kommt vielleicht sogar entspannter an. Von Wiebke Neelsen.",
+      "title": "Wie Volkswagen sich in China neu erfinden will",
+      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/spritsparen-autofahren-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 09:11:12 +0200"
-    },
-    {
-      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
-      "summary": "OpenAI entwickelt ein neues Produkt - auch mit früheren Apple-Mitarbeitern im Team. Nun wirft der Tech-Gigant Apple dem Unternehmen Diebstahl von Geschäftsgeheimnissen vor. Im Fokus stehen auch zwei hochrangige Mitarbeiter.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 04:46:18 +0200"
-    },
-    {
-      "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
-      "summary": "Der Einbau einer Erdgas-Heizung in Neubauten ist künftig wieder möglich - wobei Experten vor den Kosten warnen. Und der Staat zahlt weniger Förderung für den Umstieg auf Wärmepumpen. Ein Überblick.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 18:53:16 +0200"
-    },
-    {
-      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
-      "summary": "Kernpunkte der von der Ampel-Regierung eingeführten Regelungen sind gekippt: Der Bundestag hat das neue Gebäudemodernisierungsgesetz beschlossen. Auch der Bundesrat hat zugestimmt.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 15:19:02 +0200"
-    },
-    {
-      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
-      "summary": "Das Bundeskartellamt zieht eine positive Bilanz des Tankrabatts: Rund 80 Prozent der Steuersenkung wurden an Verbraucher weitergegeben. Das Bundeskartellamt spricht von einer Preislücke von knapp vier Cent.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 14:59:08 +0200"
+      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
     },
     {
       "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
@@ -301,6 +253,54 @@
       "published": "Fri, 10 Jul 2026 12:03:39 +0200"
     },
     {
+      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
+    },
+    {
+      "title": "Beratungen von VW-Aufsichtsrat enden ohne Klarheit zu Sparplänen",
+      "summary": "Mit Spannung wurde die Aufsichtsratssitzung bei VW verfolgt - doch bislang schweigt der Konzern zu möglichen Entlassungen oder Schließungen. Betriebsratschefin Cavallo verlangt Klarheit. Von Hilke Janssen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/vw-zukunftsplan-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 09 Jul 2026 22:43:27 +0200"
+    },
+    {
+      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
+      "summary": "Der Aufsichtsrat des Autokonzerns Volkswagen berät über Sparmaßnahmen. Harte Einschnitte und die mögliche Schließung mehrerer Werke stehen im Raum. Bei den Beschäftigten sind die Sorgen groß. Von Annette Deutskens.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-aufsichtsratssitzung-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 09 Jul 2026 17:01:28 +0200"
+    },
+    {
       "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "summary": "Schüsse aus Polizeiwaffen gelten in Frankreich künftig als Notwehr. Opfer müssen beweisen, dass der Beamte die Waffe regelwidrig benutzt hat. Kritiker sind entsetzt und fürchten Straflosigkeit. Von Julia Borutta.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -315,35 +315,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Fri, 10 Jul 2026 19:46:55 +0200"
-    },
-    {
-      "title": "US-Präsident Trump will Handel mit Spanien einstellen",
-      "summary": "Schon länger kritisiert US-Präsident Trump den NATO-Partner Spanien: zu geringe Verteidigungsausgaben, mangelnde Unterstützung im Iran-Krieg. Nun kündigte er an, den Handel zu stoppen. Das dürfte aber schwierig werden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Spanien",
-            "lat": 40.4637,
-            "lon": -3.7492
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Wed, 08 Jul 2026 13:26:17 +0200"
     },
     {
       "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
@@ -503,6 +474,51 @@
       "published": "Mon, 06 Jul 2026 15:17:29 +0200"
     },
     {
+      "title": "Krieg gegen die Ukraine: Trump spricht mit Putin und Selenskyj",
+      "summary": "Thema war auch der russische Angriffskrieg gegen das Nachbarland: US-Präsident Trump hat mit Kremlchef Putin und dem ukrainischen Präsidenten Selenskyj telefoniert. Russland meldet massive Drohnenangriffe auf eigene Städte.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-trump-putin-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 05 Jul 2026 09:49:18 +0200"
+    },
+    {
+      "title": "Le Pen im Wahlkampf: Weitermachen, als sei sie freigesprochen worden",
+      "summary": "Es bleibt ungewiss, ob Marine Le Pen bei der Präsidentschaftswahl im kommenden Jahr kandidieren kann. Bis ein Berufungsgericht darüber urteilt, macht sie Wahlkampf - in einem für sie symbolischen Ort. Von M. Strempel.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/lepen-wahlkampf-kommunen-rn-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 10:39:00 +0200"
+    },
+    {
       "title": "Flammen in Andalusien breiten sich aus",
       "summary": "Seit Donnerstag brennen im Süden Spanien große Waldflächen, zwölf Menschen starben. Nun mussten wieder Hunderte in Sicherheit gebracht werden. Die Feuerwehr macht aber Fortschritte bei der Brandbekämpfung.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -615,24 +631,40 @@
       "published": "Fri, 10 Jul 2026 14:05:35 +0200"
     },
     {
-      "title": "Tote bei Waldbrand im Süden Spaniens",
-      "summary": "Trockenes Wetter, hohe Temperaturen: Immer wieder kommt es in Spanien zu schweren Waldbränden. Bei einem Feuer in Andalusien starben nun mindestens zwölf Menschen - darunter offenbar auch Briten.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
+      "title": "Ärger um Gelb-Rot für Embolo - und Regelauslegung der FIFA",
+      "summary": "Der folgenschwere Platzverweis für den Schweizer Breel Embolo hat zwei Aspekte: eine unnötige Schwalbe und eine Regeländerung, die die FIFA auf eigene Art auslegt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/aerger-um-gelb-rot-fuer-embolo-und-regelauslegung-der-fifa,wm-schweiz-argentinien-embolo-schwalbe-100.html",
+      "category": "sport",
+      "event_type": "standard",
       "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 05:09:44 +0200"
+      "published": "Sun, 12 Jul 2026 11:44:28 +0200"
     },
     {
-      "title": "WM 2026: Argentinien zieht gegen Schweiz glanzlos ins Halbfinale ein",
-      "summary": "Argentinien steht bei der WM 2026 in der Vorschlussrunde. Dem Titelverteidiger reicht eine durchschnittliche Leistung, um sich nach Verlängerung gegen die Schweiz durchzusetzen. Bei den Eidgenossen sorgt eine Gelb-Rote Karte für Wirbel.",
+      "title": "WM-Spiel Norwegen gegen England - VAR-Stress wegen Sky-Cam und Haaland-Schubser",
+      "summary": "Das WM-Viertelfinale zwischen Norwegen und England hat zwei große Aufreger: Vor dem Tor von Jude Bellingham soll der Ball die Spidercam touchiert haben, zudem wurde ein Tor der Norweger aberkannt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/var-stress-wegen-Spidercam-und-haaland-schubser,wm-var-stress-norwegen-england-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 01:55:08 +0200"
+    },
+    {
+      "title": "Glanzloser Sieg: Argentinien gewinnt gegen die Schweiz",
+      "summary": "Lionel Messis grandiose Tor-Serie ist beendet – aber der Titel-Traum lebt: Argentinien hat nach großem Kampf das Halbfinale erreicht. Gamechanger war ein kurioser Platzverweis für Breel Embolo.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.tagesschau.de/sport/mit-traumtor-von-alvarez-argentinien-zieht-ins-halbfinale-ein,wm-spielbericht-argentinien-schweiz-100.html",
       "category": "sport",
@@ -645,70 +677,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sun, 12 Jul 2026 06:51:00 +0200"
-    },
-    {
-      "title": "WM-News: Kurios: Schwalben-Gelb-Rot für Breel Embolo nach VAR-Eingriff",
-      "summary": "Nach dem VAR-Zoff bei Norwegens Niederlage gegen England ging es zwischen Argentinien und der Schweiz nahtlos weiter: Breel Embolo bekam nachträglich Gelb-Rot wegen einer Schwalbe. Alle News und kuriosen Geschichten die WM 2026 im Liveblog.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/kurios-schwalben-gelb-rot-fuer-embolo-nach-var-eingriff,wm-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Argentinien",
-        "lat": -38.4161,
-        "lon": -63.6167
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 06:45:42 +0200"
-    },
-    {
-      "title": "WM 2026 - So viel mehr als Haaland - Norwegen rudert stolz nach Hause",
-      "summary": "Norwegen war gegen England nah dran am Halbfinale - doch die Latte, der VAR, eine Spider-Cam und Jude Bellingham standen im Weg. Trotzdem dürfen die Skandinavier voller Stolz nach Hause rudern.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/so-viel-mehr-als-haaland-norwegen-rudert-stolz-nach-hause,wm-nachbericht-norwegen-wm-ueberraschung-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Norwegen",
-        "lat": 60.472,
-        "lon": 8.4689
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 07:22:17 +0200"
-    },
-    {
-      "title": "WM: Jude Bellingham ist auch gegen Norwegen Englands \"Gamechanger\"",
-      "summary": "Gegen Norwegen weckt Jude Bellingham mit einer Weltklasseaktion die \"Three Lions\" aus ihrer Lethargie. Der 23-Jährige ist erneut der Mann für die wichtigen Tore.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/jude-bellingham-ist-erneut-englands-gamechanger,jude-bellingham-englands-matchwinner-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Norwegen",
-        "lat": 60.472,
-        "lon": 8.4689
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 07:16:25 +0200"
-    },
-    {
-      "title": "WM-Spiel Norwegen gegen England - VAR-Stress wegen Sky-Cam und Haaland-Schubser",
-      "summary": "Das WM-Viertelfinale zwischen Norwegen und England hat zwei große Aufreger: Vor dem Tor von Jude Bellingham soll der Ball die Spider-Cam touchiert haben, zudem wurde ein Tor der Norweger aberkannt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/var-stress-wegen-spider-cam-und-haaland-schubser,wm-var-stress-norwegen-england-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Norwegen",
-        "lat": 60.472,
-        "lon": 8.4689
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 01:55:08 +0200"
     },
     {
       "title": "WM 2026 - Traumtore und VAR-Zoff: England stoppt Norwegens Höhenflug",
@@ -727,20 +695,36 @@
       "published": "Sun, 12 Jul 2026 06:12:34 +0200"
     },
     {
-      "title": "Kurz nach der WM: Südafrikaner Jayden Adams stirbt mit 25 Jahren",
-      "summary": "Der Fußballprofi Jayden Adams ist im Alter von 25 Jahren gestorben. Der südafrikanische Nationalspieler hatte noch vor knapp zwei Wochen drei WM-Spiele bestritten.",
+      "title": "WM-News: Argentinien gegen England am Mittwoch live im Ersten",
+      "summary": "Die ARD überträgt das zweite WM-Halbfinale. Senegal feuert den gesamten Trainerstab. Alle News und kuriosen Geschichten die WM 2026 im Liveblog.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/suedafrikanischer-wm-teilnehmer-adams-stirbt-mit-25,wm-jayden-adams-suedafrika-wm-teilnehmer-stirbt-im-alter-von-25-jahren-100.html",
+      "url": "https://www.tagesschau.de/sport/kurios-schwalben-gelb-rot-fuer-embolo-nach-var-eingriff,wm-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 16:25:36 +0200"
+      "published": "Sun, 12 Jul 2026 10:03:53 +0200"
+    },
+    {
+      "title": "WM 2026 - So viel mehr als Haaland - Norwegen rudert stolz nach Hause",
+      "summary": "Norwegen war gegen England nah dran am Halbfinale - doch die Latte, der VAR, eine Spider-Cam und Jude Bellingham standen im Weg. Trotzdem dürfen die Skandinavier voller Stolz nach Hause rudern.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/so-viel-mehr-als-haaland-norwegen-rudert-stolz-nach-hause,wm-nachbericht-norwegen-wm-ueberraschung-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 07:22:17 +0200"
     },
     {
       "title": "WM Spielplan: Übersicht der Spiele mit TV-Übertragung",
@@ -757,6 +741,22 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sun, 12 Jul 2026 05:47:22 +0200"
+    },
+    {
+      "title": "Der Boss im Sprint hat noch einen Traum",
+      "summary": "Der Belgier Tim Merlier verausgabt sich völlig für seinen zweiten Etappensieg bei der Tour de France in diesem Jahr. In Bergerac zeigt er, dass er derzeit mit Abstand der beste Sprinter im Feld ist.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/der-boss-im-sprint-hat-noch-einen-traum,tour-de-france-8-etappe-analyse-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 21:49:08 +0200"
     }
   ],
   "crises": [
@@ -771,7 +771,7 @@
       "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -853,6 +853,26 @@
         {
           "lat": 43.83830980564941,
           "lon": 4.199873355715855
+        },
+        {
+          "lat": 44.02748710694013,
+          "lon": 0.6771608690309014
+        },
+        {
+          "lat": 45.15654840471655,
+          "lon": 3.355213689919727
+        },
+        {
+          "lat": 46.23358804210452,
+          "lon": 4.766603720539274
+        },
+        {
+          "lat": 48.31896392993186,
+          "lon": 0.9551396763177213
+        },
+        {
+          "lat": 45.887500047969986,
+          "lon": 3.3106191626871277
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
@@ -868,7 +888,7 @@
       "label": "US-Präsident Trump will Handel mit Spanien einstellen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -930,26 +950,6 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
-        },
-        {
-          "lat": 37.898961882942935,
-          "lon": -2.7507253443274475
-        },
-        {
-          "lat": 42.983431754790935,
-          "lon": -2.4375869622108497
-        },
-        {
-          "lat": 39.345744290164966,
-          "lon": -1.3568267949788897
-        },
-        {
-          "lat": 42.20270805756893,
-          "lon": -3.3049837850776926
-        },
-        {
-          "lat": 38.46898548075941,
-          "lon": -0.9975888171260219
         }
       ],
       "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
@@ -965,7 +965,7 @@
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": [
         [
           26.7,
@@ -1043,10 +1043,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
+      "label": "Krieg gegen die Ukraine: Trump spricht mit Putin und Selenskyj",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 7,
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1228,9 +1228,29 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
+        },
+        {
+          "lat": 47.2410417403942,
+          "lon": 29.61412063093533
+        },
+        {
+          "lat": 45.75347750458784,
+          "lon": 32.04224714080203
+        },
+        {
+          "lat": 47.48508185572179,
+          "lon": 29.96273554535926
+        },
+        {
+          "lat": 50.457943303319844,
+          "lon": 28.654934935902
+        },
+        {
+          "lat": 45.48967851656784,
+          "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-trump-putin-100.html"
     },
     {
       "id": "conflict-russland",
@@ -1243,7 +1263,7 @@
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1325,6 +1345,26 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
+        },
+        {
+          "lat": 60.550484926703035,
+          "lon": 103.69942325757476
+        },
+        {
+          "lat": 61.63667356367611,
+          "lon": 104.9261489167279
+        },
+        {
+          "lat": 58.643891106644624,
+          "lon": 103.74914459683819
+        },
+        {
+          "lat": 64.20791109157445,
+          "lon": 106.40524031828419
+        },
+        {
+          "lat": 62.15599283174053,
+          "lon": 106.21990910076208
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
@@ -1340,7 +1380,7 @@
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
@@ -1370,6 +1410,22 @@
       },
       "label": "Tote bei Waldbrand im Süden Spaniens",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
+      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
       "intensity": 1,

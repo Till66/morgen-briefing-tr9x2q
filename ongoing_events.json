@@ -11,7 +11,7 @@
       "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -93,6 +93,26 @@
         {
           "lat": 43.83830980564941,
           "lon": 4.199873355715855
+        },
+        {
+          "lat": 44.02748710694013,
+          "lon": 0.6771608690309014
+        },
+        {
+          "lat": 45.15654840471655,
+          "lon": 3.355213689919727
+        },
+        {
+          "lat": 46.23358804210452,
+          "lon": 4.766603720539274
+        },
+        {
+          "lat": 48.31896392993186,
+          "lon": 0.9551396763177213
+        },
+        {
+          "lat": 45.887500047969986,
+          "lon": 3.3106191626871277
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
@@ -108,7 +128,7 @@
       "label": "US-Präsident Trump will Handel mit Spanien einstellen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -170,26 +190,6 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
-        },
-        {
-          "lat": 37.898961882942935,
-          "lon": -2.7507253443274475
-        },
-        {
-          "lat": 42.983431754790935,
-          "lon": -2.4375869622108497
-        },
-        {
-          "lat": 39.345744290164966,
-          "lon": -1.3568267949788897
-        },
-        {
-          "lat": 42.20270805756893,
-          "lon": -3.3049837850776926
-        },
-        {
-          "lat": 38.46898548075941,
-          "lon": -0.9975888171260219
         }
       ],
       "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
@@ -205,7 +205,7 @@
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": [
         [
           26.7,
@@ -283,10 +283,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
+      "label": "Krieg gegen die Ukraine: Trump spricht mit Putin und Selenskyj",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 7,
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -468,9 +468,29 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
+        },
+        {
+          "lat": 47.2410417403942,
+          "lon": 29.61412063093533
+        },
+        {
+          "lat": 45.75347750458784,
+          "lon": 32.04224714080203
+        },
+        {
+          "lat": 47.48508185572179,
+          "lon": 29.96273554535926
+        },
+        {
+          "lat": 50.457943303319844,
+          "lon": 28.654934935902
+        },
+        {
+          "lat": 45.48967851656784,
+          "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-trump-putin-100.html"
     },
     {
       "id": "conflict-russland",
@@ -483,7 +503,7 @@
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -565,6 +585,26 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
+        },
+        {
+          "lat": 60.550484926703035,
+          "lon": 103.69942325757476
+        },
+        {
+          "lat": 61.63667356367611,
+          "lon": 104.9261489167279
+        },
+        {
+          "lat": 58.643891106644624,
+          "lon": 103.74914459683819
+        },
+        {
+          "lat": 64.20791109157445,
+          "lon": 106.40524031828419
+        },
+        {
+          "lat": 62.15599283174053,
+          "lon": 106.21990910076208
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
@@ -580,7 +620,7 @@
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
@@ -610,6 +650,22 @@
       },
       "label": "Tote bei Waldbrand im Süden Spaniens",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
+      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
       "intensity": 1,
