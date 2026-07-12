@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:36:00.151596+00:00",
+  "generated_at": "2026-07-12T06:17:32.915351+00:00",
   "categories": [
     {
       "id": "politik",
@@ -33,9 +33,129 @@
     "tension": "#ffd60a",
     "trade": "#34c759",
     "blockade": "#0a84ff",
+    "storm": "#26c6da",
+    "wildfire": "#ff5722",
+    "health": "#9c27b0",
+    "protest": "#ff7a00",
+    "outage": "#ffeb3b",
+    "transport": "#78909c",
+    "political": "#1e88e5",
+    "celebration": "#ffd700",
     "standard": null
   },
   "articles": [
+    {
+      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
+      "summary": "Die extreme Hitzewelle treibt die Menschen in Seen, Flüsse und ans Meer. Die dramatische Folge: Im Juni gab es laut DLRG so viele Badetote wie seit mehr als 20 Jahren nicht zum Start des Sommers.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 06:36:27 +0200"
+    },
+    {
+      "title": "Warum die Geburtenrate weiter zurückgeht",
+      "summary": "Die Gründe sind vielschichtig, die Folgen bald schon spürbar? In Deutschland werden immer weniger Kinder geboren. Dadurch dürfte die Nachfrage bei Kitas und Schulen sinken. Eltern warnen vor zu schnellen Reaktionen. Von Maziyar Bazi.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-gruende-folgen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 05:00:05 +0200"
+    },
+    {
+      "title": "Söder versichert, dass \"Minijobs bleiben\"",
+      "summary": "Die Regierung hatte versprochen, die Vorschläge der Rentenkommission möglichst eins zu eins umzusetzen. Dazu gehört auch die Abschaffung von Minijobs. CSU-Chef Söder hatte das von Anfang an kritisiert und verspricht nun: die Minijobs bleiben.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/soeder-minijobs-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 16:09:50 +0200"
+    },
+    {
+      "title": "Wie ein Krankenhaus sich für die Hitze wappnet",
+      "summary": "Mehr als 4.000 Hitzetote gab es nach einer Schätzung des Robert Koch-Instituts Ende Juni. Eine Klinik in Stuttgart arbeitete während der Hitzewelle am Limit - und plant schon für das nächste Mal. Von T. Denzel und A. Koha.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-klinik-vorbereitungen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 17:25:34 +0200"
+    },
+    {
+      "title": "Schwarz-rote Spitzenpolitiker warnen vor unnötigen Sommerloch-Debatten",
+      "summary": "Der Bundestag ist für zwei Monate in der Sommerpause - in der Regel beginnt damit eine innenpolitisch nachrichtenarme Zeit. Die Koalitionsfraktionen hoffen, dass diese nicht mit öffentlichem Streit gefüllt wird.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerloch-diskussion-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 12:36:49 +0200"
+    },
+    {
+      "title": "Forderung aus Wirtschaft und Politik: Deutsche Klimaneutralität erst 2050",
+      "summary": "Eigentlich soll Deutschland im Jahr 2045 klimaneutral sein. Doch führende Vertreter aus Wirtschaft, Gewerkschaften und Politik fordern nun mehr Zeit: Deutschland solle das europäische Datum 2050 übernehmen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-klimaziele-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 10:50:25 +0200"
+    },
+    {
+      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
+      "summary": "Das Sparpaket im Gesundheitswesen ist beschlossene Sache - Kritik gibt es weiter: etwa daran, dass der Bundesrat darauf verzichtete nachzuverhandeln. Der Deutsche Landkreistag warnt vor zusätzlichen Kosten für die Kommunen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 11:10:12 +0200"
+    },
     {
       "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
       "summary": "Grünes Licht für die Reform der gesetzlichen Krankenversicherung: Die Bundesregierung will die Ausgaben im Gesundheitssystem bremsen. Ein Überblick, mit welchen Einschnitten und Zuzahlungen Versicherte nun rechnen müssen.",
@@ -53,27 +173,11 @@
       "published": "Fri, 10 Jul 2026 21:02:57 +0200"
     },
     {
-      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
-      "summary": "Nicht nur in Südeuropa, auch in Deutschland drohen aufgrund der Hitze Waldbrände. Laut Deutschem Wetterdienst wird am Wochenende teilweise die höchste Warnstufe erreicht - unter anderem im Südwesten des Landes.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 19:20:03 +0200"
-    },
-    {
-      "title": "Bundestag weitet Befugnisse von Bundespolizei deutlich aus",
-      "summary": "Der Bundestag hat ein neues Bundespolizeigesetz verabschiedet. Die 55.000 Beamten sollen mehr Möglichkeiten erhalten, Personen zu überwachen und Drohnen abzuwehren. Außerdem soll in bestimmten Fällen eine Live-Gesichtserkennung möglich sein.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/neues-bundespolizeigesetz-bundestag-100.html",
-      "category": "politik",
+      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
+      "summary": "Der kriselnde Autobauer VW muss sparen. Mehr als 100.000 Stellen könnten wegfallen, Standorte sind in Gefahr. Konzernchef Blume sagte nun, er sehe \"intelligentere Lösungen\" statt Werksschließungen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -82,14 +186,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 17:38:36 +0200"
+      "published": "Sun, 12 Jul 2026 04:35:03 +0200"
     },
     {
-      "title": "Wie die Koalition ihre Gesundheitsreform durchbrachte",
-      "summary": "Trotz heftiger Kritik haben Bundestag und Bundesrat das Sparpaket für die gesetzliche Krankenversicherung verabschiedet. Die erste größere Reform der schwarz-roten Koalition ist damit beschlossen. Von Isabell Karras.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-gkv-sparpaket-100.html",
-      "category": "politik",
+      "title": "Sanierung als Alternative: Marode Brücke abreißen - muss das sein?",
+      "summary": "Tausende deutsche Autobahnbrücken sind marode. Bislang heißt das in den meisten Fällen: Abriss und Neubau. Doch das dauert Jahrzehnte, und die Kosten sind enorm. Muss wirklich immer neu gebaut werden? Von Christof Dörr.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/marode-bruecken-alternativen-abriss-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -98,71 +202,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 17:21:04 +0200"
-    },
-    {
-      "title": "Berlins Regierender Bürgermeister Wegner tritt bei Wahl nicht mehr an",
-      "summary": "Berlins Regierender Bürgermeister Wegner tritt bei der nächsten Wahl nicht mehr an, bleibt aber bis September im Amt. Rund um den großen Stromausfall in der Hauptstadt im Januar habe er \"kommunikative Fehler\" gemacht, räumte er ein.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/wegner-wahl-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 15:59:49 +0200"
-    },
-    {
-      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
-      "summary": "Kernpunkte der von der Ampel-Regierung eingeführten Regelungen sind gekippt: Der Bundestag hat das neue Gebäudemodernisierungsgesetz beschlossen. Auch der Bundesrat hat zugestimmt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 15:19:02 +0200"
-    },
-    {
-      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
-      "summary": "Amtsgeschäfte im Ausweichquartier: Bundespräsident Steinmeier hat seinen neuen Amtssitz bezogen - ein Gebäude ohne Stuck, Gold, und Prunk. Nötig macht das die Sanierung von Schloss Bellevue. Von Tina Handel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 13:05:14 +0200"
-    },
-    {
-      "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
-      "summary": "Krankenhäuser und ganze Berufsgruppen sehen sich durch die Reform der Krankenkassen vor Problemen. Sie warnen vor Abstrichen bei der Versorgung. Die bereits schwierigen Arbeitsbedingungen haben Folgen. Von Teresa Peters.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 12:06:43 +0200"
+      "published": "Sat, 11 Jul 2026 15:35:57 +0200"
     },
     {
       "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
@@ -261,38 +301,6 @@
       "published": "Fri, 10 Jul 2026 12:03:39 +0200"
     },
     {
-      "title": "Streit über Wochenarbeitszeit: Zurück zur 40-Stunden-Woche?",
-      "summary": "Krise in der Autobranche, hohe Produktionskosten in der deutschen Industrie: Immer häufiger fordern Stimmen aus der Wirtschaft, dass in Deutschland wieder länger gearbeitet werden müsse. Von Thomas Denzel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitszeit-40-stunden-woche-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 06:15:09 +0200"
-    },
-    {
-      "title": "Wie Volkswagen sich in China neu erfinden will",
-      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
-    },
-    {
       "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "summary": "Schüsse aus Polizeiwaffen gelten in Frankreich künftig als Notwehr. Opfer müssen beweisen, dass der Beamte die Waffe regelwidrig benutzt hat. Kritiker sind entsetzt und fürchten Straflosigkeit. Von Julia Borutta.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -338,6 +346,35 @@
       "published": "Wed, 08 Jul 2026 13:26:17 +0200"
     },
     {
+      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
+      "summary": "In der Nacht zum Samstag hat Russland die Ukraine erneut mit Raketen angegriffen. Es gab mindestens acht Tote. Trotz der aktuellen Eskalation sieht Bundesaußenminister Wadephul jetzt einen guten Zeitpunkt für Verhandlungen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 19:36:00 +0200"
+    },
+    {
       "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "summary": "Das Rahmenabkommen ist aufgekündigt, es gibt immer wieder Angriffe - doch die USA wollen mit Iran weiterverhandeln. Teheran müsse zusichern, dass die Straße von Hormus ohne Gefahren passierbar ist.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -361,35 +398,6 @@
         ]
       ],
       "published": "Sat, 11 Jul 2026 09:12:28 +0200"
-    },
-    {
-      "title": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
-      "summary": "Ukraine, Iran und vor allem das Geld: Die Themen des NATO-Gipfels in der Türkei bergen Konfliktpotenzial. Kanzler Merz hofft auf den \"Geist von Ankara\" - aber die Ausgangslage ist schwierig. Das Wichtigste im Überblick.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/nato-gipfel-212.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ankara",
-        "lat": 39.9334,
-        "lon": 32.8597
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ankara",
-            "lat": 39.9334,
-            "lon": 32.8597
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 07 Jul 2026 13:43:14 +0200"
     },
     {
       "title": "Ukraine attackiert erneut russische Energieanlagen",
@@ -495,6 +503,38 @@
       "published": "Mon, 06 Jul 2026 15:17:29 +0200"
     },
     {
+      "title": "Flammen in Andalusien breiten sich aus",
+      "summary": "Seit Donnerstag brennen im Süden Spanien große Waldflächen, zwölf Menschen starben. Nun mussten wieder Hunderte in Sicherheit gebracht werden. Die Feuerwehr macht aber Fortschritte bei der Brandbekämpfung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/feuer-andalusien-spanien-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 16:13:43 +0200"
+    },
+    {
+      "title": "Verdächtiger im Mordfall Widdecombe wieder frei",
+      "summary": "Ein nach dem Tod einer Ex-Ministerin in Großbritannien festgenommener Mann ist auf freien Fuß gesetzt worden. Gegen den zunächst unter Mordverdacht stehenden 26-Jährigen werde nicht mehr ermittelt, so die Polizei. Von Lisa-Maria Röhling.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 11 Jul 2026 18:29:39 +0200"
+    },
+    {
       "title": "Belgien plant Straßenmaut für alle Autos",
       "summary": "Das Autofahren in Belgien soll künftig Geld kosten. Alle drei Regionen des Landes einigten sich auf eine Mautplakette für Pkw - für Belgier als auch für Ausländer. Die Kosten sollen sich je nach Fahrzeug unterscheiden.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -508,7 +548,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 02:04:33 +0200"
+      "published": "Sat, 11 Jul 2026 11:18:50 +0200"
     },
     {
       "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
@@ -524,7 +564,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 21:27:29 +0200"
+      "published": "Sat, 11 Jul 2026 13:20:44 +0200"
     },
     {
       "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
@@ -580,7 +620,7 @@
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
       "category": "welt",
-      "event_type": "disaster",
+      "event_type": "wildfire",
       "location": {
         "name": "Spanien",
         "lat": 40.4637,
@@ -591,42 +631,106 @@
       "published": "Sat, 11 Jul 2026 05:09:44 +0200"
     },
     {
-      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
-      "summary": "Direkt nach dem Urteil gegen sie hat die französische Rechtsnationalistin Marine Le Pen mit dem Wahlkampf begonnen. Ihre Anhänger haben mit ihrer strafrechtlichen Verurteilung offenbar kein Problem. Von Cai Rienäcker.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 08 Jul 2026 18:57:40 +0200"
-    },
-    {
-      "title": "Trump sorgt beim NATO-Gipfel mit neuer Grönland-Aussage für Ärger",
-      "summary": "Beim NATO-Gipfel sorgen diverse Äußerungen des US-Präsidenten für Unmut. Trump erhob auch erneut Anspruch auf Grönland, Dänemark reagierte deutlich. NATO-Chef Rutte sieht die Einigkeit des Bündnisses jedoch nicht in Gefahr.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/nato-gipfel-trump-groenland-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Dänemark",
-        "lat": 56.2639,
-        "lon": 9.5018
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 08 Jul 2026 10:16:48 +0200"
-    },
-    {
-      "title": "Bordeaux",
-      "summary": "Seit neun Jahren hat kein deutscher Radprofi mehr einen Massensprint bei der Tour de France gewonnen. Pascal Ackermann, Phil Bauhaus und Max Kanter geben die Hoffnung aber nicht auf.",
+      "title": "WM 2026: Argentinien zieht gegen Schweiz glanzlos ins Halbfinale ein",
+      "summary": "Argentinien steht bei der WM 2026 in der Vorschlussrunde. Dem Titelverteidiger reicht eine durchschnittliche Leistung, um sich nach Verlängerung gegen die Schweiz durchzusetzen. Bei den Eidgenossen sorgt eine Gelb-Rote Karte für Wirbel.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/die-zuversicht-dass-einmal-alles-zusammenkommt,tour-de-france-7-etappe-analyse-100.html",
+      "url": "https://www.tagesschau.de/sport/mit-traumtor-von-alvarez-argentinien-zieht-ins-halbfinale-ein,wm-spielbericht-argentinien-schweiz-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 06:51:00 +0200"
+    },
+    {
+      "title": "WM-News: Kurios: Schwalben-Gelb-Rot für Breel Embolo nach VAR-Eingriff",
+      "summary": "Nach dem VAR-Zoff bei Norwegens Niederlage gegen England ging es zwischen Argentinien und der Schweiz nahtlos weiter: Breel Embolo bekam nachträglich Gelb-Rot wegen einer Schwalbe. Alle News und kuriosen Geschichten die WM 2026 im Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/kurios-schwalben-gelb-rot-fuer-embolo-nach-var-eingriff,wm-liveblog-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 06:45:42 +0200"
+    },
+    {
+      "title": "WM 2026 - So viel mehr als Haaland - Norwegen rudert stolz nach Hause",
+      "summary": "Norwegen war gegen England nah dran am Halbfinale - doch die Latte, der VAR, eine Spider-Cam und Jude Bellingham standen im Weg. Trotzdem dürfen die Skandinavier voller Stolz nach Hause rudern.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/so-viel-mehr-als-haaland-norwegen-rudert-stolz-nach-hause,wm-nachbericht-norwegen-wm-ueberraschung-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 07:22:17 +0200"
+    },
+    {
+      "title": "WM: Jude Bellingham ist auch gegen Norwegen Englands \"Gamechanger\"",
+      "summary": "Gegen Norwegen weckt Jude Bellingham mit einer Weltklasseaktion die \"Three Lions\" aus ihrer Lethargie. Der 23-Jährige ist erneut der Mann für die wichtigen Tore.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/jude-bellingham-ist-erneut-englands-gamechanger,jude-bellingham-englands-matchwinner-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 07:16:25 +0200"
+    },
+    {
+      "title": "WM-Spiel Norwegen gegen England - VAR-Stress wegen Sky-Cam und Haaland-Schubser",
+      "summary": "Das WM-Viertelfinale zwischen Norwegen und England hat zwei große Aufreger: Vor dem Tor von Jude Bellingham soll der Ball die Spider-Cam touchiert haben, zudem wurde ein Tor der Norweger aberkannt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/var-stress-wegen-spider-cam-und-haaland-schubser,wm-var-stress-norwegen-england-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 01:55:08 +0200"
+    },
+    {
+      "title": "WM 2026 - Traumtore und VAR-Zoff: England stoppt Norwegens Höhenflug",
+      "summary": "Dieses Viertelfinale zwischen Norwegen und England war längst nicht nur das Duell der beiden Torjäger Erling Haaland und Harry Kane. Es bot neben Traumtoren auch VAR-Zoff und andere Kuriositäten.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/traumtore-und-var-stress-england-stoppt-norwegens-hoehenflug,wm-spielbericht-norwegen-england-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 06:12:34 +0200"
+    },
+    {
+      "title": "Kurz nach der WM: Südafrikaner Jayden Adams stirbt mit 25 Jahren",
+      "summary": "Der Fußballprofi Jayden Adams ist im Alter von 25 Jahren gestorben. Der südafrikanische Nationalspieler hatte noch vor knapp zwei Wochen drei WM-Spiele bestritten.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/suedafrikanischer-wm-teilnehmer-adams-stirbt-mit-25,wm-jayden-adams-suedafrika-wm-teilnehmer-stirbt-im-alter-von-25-jahren-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -636,119 +740,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 20:18:32 +0200"
+      "published": "Sat, 11 Jul 2026 16:25:36 +0200"
     },
     {
-      "title": "Tour: Merlier rast in Bordeaux zum Sieg - Kanter Vierter",
-      "summary": "Tim Merlier hat die 7. Etappe der Tour de France gewonnen. Der Belgier siegte in Bordeaux im Massensprint. Der Deutsche Max Kanter wurde Vierter.",
+      "title": "WM Spielplan: Übersicht der Spiele mit TV-Übertragung",
+      "summary": "Die Fußball-WM der Männer findet vom 11. Juni bis 19. Juli 2026 in Kanada, Mexiko und den USA statt, mit 48 Teams und 104 Spielen. Alle Spiele und Anstoßzeiten hier im übersichtlichen Spielplan.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/merlier-der-schnellste-in-bordeaux-kanter-vierter,etappenbericht-7-102.html",
+      "url": "https://www.tagesschau.de/sport/der-spielplan-der-fussball-wm-2026,fifawm-spielplan-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Kanada",
+        "lat": 56.1304,
+        "lon": -106.3468
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 18:08:01 +0200"
-    },
-    {
-      "title": "8. Etappe der Tour de France - Périgueux - Bergerac (182 km)",
-      "summary": "Endlich können die Sprinter wieder zeigen, wie schnell sie sind. Fast komplett flach verläuft die 8. Tour-Etappe.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/8-etappe-perigueux-bergerac-182-km,etappe-acht-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 16 Jun 2026 10:41:29 +0200"
-    },
-    {
-      "title": "Das Maß aller Dinge: Muchova und Noskova im Wimbledon-Finale",
-      "summary": "Im Finale von Wimbledon stehen sich mit Karolina Muchova und Linda Noskova zwei Tschechinnen gegenüber. Tschechisches Tennis gehört seit Jahrzehnten zur Weltspitze, aber in Wimbledon sind unsere Nachbarn besonders erfolgreich.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/tschechisches-tennis-mass-aller-dinge,vorschau-finale-muchova-noskova-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 12:47:35 +0200"
-    },
-    {
-      "title": "Liveblog Wimbledon Aktuell: Zverev im Finale gegen Sinner, Frauen-Endspiel heute ab 17 Uhr live",
-      "summary": "Alexander Zverev muss am Sonntag im Finale von Wimbledon gegen Jannik Sinner ran. Karolina Muchova trifft heute auf Linda Noskova. Alle News rund um Wimbledon täglich in unserem Liveblog.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/zverev-im-finale-gegen-sinner-frauen-endspiel-heute-ab-17-uhr-live,wimbledon-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 09:52:37 +0200"
-    },
-    {
-      "title": "So hat Zverev sich ins Wimbledon-Finale gespielt",
-      "summary": "Alexander Zverev steht zum ersten Mal im Finale von Wimbledon. Auf dem Weg dahin bewies er gute Nerven, bezwang seinen Angstgegner und ließ sich auch von einer Sperrstunde nicht verunsichern.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/mit-jeder-runde-staerker-zverevs-weg-ins-finale,zverev-weg-in-das-finale-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 20:18:10 +0200"
-    },
-    {
-      "title": "Finale in Wimbledon: Alexander Zverev ist \"unglaublich glücklich\"",
-      "summary": "Alexander Zverev steht erstmals in seiner Karriere im Finale in Wimbledon. In einem ab dem zweiten Satz einseitigen Match gewann er gegen den Briten Arthur Fery mit 7:6, 6:2, 6:4.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/unglaublich-gluecklich-zverev-schlaegt-fery-klar-und-steht-im-finale,bericht-halbfinale-zverev-fery-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 19:42:18 +0200"
-    },
-    {
-      "title": "Sinner schlägt Djokovic und folgt Zverev ins Finale",
-      "summary": "Titelverteidiger Jannik Sinner ist der Gegner von Alexander Zverev im Endspiel von Wimbledon. Der italienische Tennis-Weltranglisten-Erste setzte sich im zweiten Halbfinale des Rasenklassikers gegen den serbischen Rekord-Grand-Slam-Sieger Novak Djokovic durch.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/wimbledon/sinner-schlaegt-djokovic-und-folgt-zverev-ins-finale,bericht-halbfinale-sinner-djokovic-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 19:59:33 +0200"
+      "published": "Sun, 12 Jul 2026 05:47:22 +0200"
     }
   ],
   "crises": [
@@ -762,8 +770,8 @@
       },
       "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 1,
+      "last_seen": "2026-07-12",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -773,8 +781,81 @@
         {
           "lat": 44.0141308962731,
           "lon": 1.6519135338238935
+        },
+        {
+          "lat": 43.33155325583032,
+          "lon": 4.482713496411269
+        },
+        {
+          "lat": 45.6768928815189,
+          "lon": 3.1206365281394994
+        },
+        {
+          "lat": 47.93219036359205,
+          "lon": 1.7503498517190685
+        },
+        {
+          "lat": 47.859729563631525,
+          "lon": 0.32126278902002636
+        },
+        {
+          "lat": 45.55691212203794,
+          "lon": 3.3862586764916216
+        },
+        {
+          "lat": 45.97331231583732,
+          "lon": 5.10998907476931
+        },
+        {
+          "lat": 47.625256594495674,
+          "lon": 0.7184404653170937
+        },
+        {
+          "lat": 48.55797277574893,
+          "lon": 1.0608894506009268
+        },
+        {
+          "lat": 45.30961612487483,
+          "lon": 0.1883644550409782
+        },
+        {
+          "lat": 46.6189281185998,
+          "lon": 1.5031718019034415
+        },
+        {
+          "lat": 46.09819467538973,
+          "lon": 2.1692676660862675
+        },
+        {
+          "lat": 48.67583414446978,
+          "lon": 3.231686186784223
+        },
+        {
+          "lat": 43.360189050133854,
+          "lon": 3.098220124151492
+        },
+        {
+          "lat": 44.075225155199234,
+          "lon": 0.6815046506521767
+        },
+        {
+          "lat": 45.18800764170709,
+          "lon": 1.9553432832231845
+        },
+        {
+          "lat": 47.09365933724578,
+          "lon": 1.4702755462871342
+        },
+        {
+          "lat": 48.53023305020115,
+          "lon": -0.7168540728221076
+        },
+        {
+          "lat": 43.83830980564941,
+          "lon": 4.199873355715855
         }
-      ]
+      ],
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
     },
     {
       "id": "conflict-spanien",
@@ -786,8 +867,8 @@
       },
       "label": "US-Präsident Trump will Handel mit Spanien einstellen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 1,
+      "last_seen": "2026-07-12",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -797,8 +878,81 @@
         {
           "lat": 39.99204498382368,
           "lon": -2.76568715045687
+        },
+        {
+          "lat": 43.39012705001087,
+          "lon": -5.665524367960059
+        },
+        {
+          "lat": 38.52308602775787,
+          "lon": -1.7981199252447393
+        },
+        {
+          "lat": 43.225527317476704,
+          "lon": -6.517750873680169
+        },
+        {
+          "lat": 43.121711165833574,
+          "lon": -0.9543041424751992
+        },
+        {
+          "lat": 41.34013998905002,
+          "lon": -6.503827340881766
+        },
+        {
+          "lat": 40.651699000583776,
+          "lon": -6.262031853123576
+        },
+        {
+          "lat": 39.74048583615385,
+          "lon": -2.7980242004180385
+        },
+        {
+          "lat": 42.55157622980026,
+          "lon": -4.17985853543362
+        },
+        {
+          "lat": 39.38103142498819,
+          "lon": -2.859308076154745
+        },
+        {
+          "lat": 40.478036277966936,
+          "lon": -6.3641251464789095
+        },
+        {
+          "lat": 37.599171941469116,
+          "lon": -4.80544407344876
+        },
+        {
+          "lat": 40.522403851201275,
+          "lon": -1.8529621756791517
+        },
+        {
+          "lat": 42.88972345334041,
+          "lon": -2.779828748245218
+        },
+        {
+          "lat": 37.898961882942935,
+          "lon": -2.7507253443274475
+        },
+        {
+          "lat": 42.983431754790935,
+          "lon": -2.4375869622108497
+        },
+        {
+          "lat": 39.345744290164966,
+          "lon": -1.3568267949788897
+        },
+        {
+          "lat": 42.20270805756893,
+          "lon": -3.3049837850776926
+        },
+        {
+          "lat": 38.46898548075941,
+          "lon": -0.9975888171260219
         }
-      ]
+      ],
+      "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
     },
     {
       "id": "blockade-stra-e-von-hormus",
@@ -810,8 +964,8 @@
       },
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 1,
+      "last_seen": "2026-07-12",
+      "intensity": 2,
       "chokepoint_lane": [
         [
           26.7,
@@ -822,7 +976,8 @@
           58.5
         ]
       ],
-      "subpoints": []
+      "subpoints": [],
+      "url": "https://www.tagesschau.de/ausland/usa-iran-174.html"
     },
     {
       "id": "conflict-ankara",
@@ -835,7 +990,7 @@
       "label": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -845,6 +1000,38 @@
         {
           "lat": 37.96611668381819,
           "lon": 35.69618429620929
+        },
+        {
+          "lat": 40.36508075043514,
+          "lon": 30.584247711369706
+        },
+        {
+          "lat": 40.53516453171339,
+          "lon": 32.726028181900624
+        },
+        {
+          "lat": 42.18687711361327,
+          "lon": 29.983077306415552
+        },
+        {
+          "lat": 38.4736365805442,
+          "lon": 33.357454508046835
+        },
+        {
+          "lat": 38.72166156579616,
+          "lon": 32.26336153940643
+        },
+        {
+          "lat": 38.517102639579704,
+          "lon": 35.47774685919034
+        },
+        {
+          "lat": 41.53006363862265,
+          "lon": 33.8660787512496
+        },
+        {
+          "lat": 37.12148341403214,
+          "lon": 30.727387592484913
         }
       ]
     },
@@ -858,8 +1045,8 @@
       },
       "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 3,
+      "last_seen": "2026-07-12",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -873,8 +1060,177 @@
         {
           "lat": 46.29297767277247,
           "lon": 30.806974836359494
+        },
+        {
+          "lat": 47.453273702453885,
+          "lon": 33.65671668194903
+        },
+        {
+          "lat": 50.08552388865699,
+          "lon": 32.34392336672077
+        },
+        {
+          "lat": 48.28550977423053,
+          "lon": 28.265178149639905
+        },
+        {
+          "lat": 47.26950090005819,
+          "lon": 32.23922695179731
+        },
+        {
+          "lat": 49.844722674826095,
+          "lon": 28.709882539874382
+        },
+        {
+          "lat": 49.18500569879729,
+          "lon": 33.15980558684371
+        },
+        {
+          "lat": 47.20724986305699,
+          "lon": 30.7110042201269
+        },
+        {
+          "lat": 48.16070744229567,
+          "lon": 30.76635754872541
+        },
+        {
+          "lat": 49.4651149623534,
+          "lon": 33.72436477192127
+        },
+        {
+          "lat": 46.97014343126051,
+          "lon": 32.24204480096093
+        },
+        {
+          "lat": 49.60126371316711,
+          "lon": 31.07010018479128
+        },
+        {
+          "lat": 46.40518462777328,
+          "lon": 31.41899358934513
+        },
+        {
+          "lat": 47.98321104950882,
+          "lon": 32.91469855303101
+        },
+        {
+          "lat": 45.428491714445755,
+          "lon": 31.073694540449814
+        },
+        {
+          "lat": 47.7732491596826,
+          "lon": 29.76192305046458
+        },
+        {
+          "lat": 49.97668063750017,
+          "lon": 32.863652310081676
+        },
+        {
+          "lat": 49.617541423612394,
+          "lon": 30.15738175348597
+        },
+        {
+          "lat": 47.358070086241014,
+          "lon": 32.61500744118053
+        },
+        {
+          "lat": 46.111885769021434,
+          "lon": 28.861914350398333
+        },
+        {
+          "lat": 45.42829533204233,
+          "lon": 29.426837167581272
+        },
+        {
+          "lat": 46.86784003712023,
+          "lon": 32.98364705057713
+        },
+        {
+          "lat": 50.968751275374494,
+          "lon": 28.286465265401283
+        },
+        {
+          "lat": 50.861541474141305,
+          "lon": 31.485397862162767
+        },
+        {
+          "lat": 46.485769954791465,
+          "lon": 33.08764902901362
+        },
+        {
+          "lat": 47.02686870557951,
+          "lon": 29.528379656742416
+        },
+        {
+          "lat": 48.797829863969426,
+          "lon": 29.71787996724478
+        },
+        {
+          "lat": 50.09119360074731,
+          "lon": 29.40763444534029
+        },
+        {
+          "lat": 47.186389953342584,
+          "lon": 28.654500290915955
+        },
+        {
+          "lat": 51.21051806768717,
+          "lon": 30.735362736225913
+        },
+        {
+          "lat": 48.61525604672224,
+          "lon": 30.36466560708747
+        },
+        {
+          "lat": 49.78690603899534,
+          "lon": 29.067354526165722
+        },
+        {
+          "lat": 49.281651488506384,
+          "lon": 33.470277128164255
+        },
+        {
+          "lat": 50.33379100194591,
+          "lon": 31.622575350495655
+        },
+        {
+          "lat": 46.879274023138514,
+          "lon": 32.70001870364696
+        },
+        {
+          "lat": 46.21897757121873,
+          "lon": 30.595152770319757
+        },
+        {
+          "lat": 47.13790055826793,
+          "lon": 33.32871206975093
+        },
+        {
+          "lat": 47.09769311496538,
+          "lon": 31.47165387252431
+        },
+        {
+          "lat": 46.03319345991038,
+          "lon": 28.419125523993543
+        },
+        {
+          "lat": 46.222739581704545,
+          "lon": 33.568250183858964
+        },
+        {
+          "lat": 49.55165014562072,
+          "lon": 33.04233067834152
+        },
+        {
+          "lat": 45.91886507734699,
+          "lon": 29.388640848789514
+        },
+        {
+          "lat": 48.94199973988928,
+          "lon": 33.41227151673853
         }
-      ]
+      ],
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html"
     },
     {
       "id": "conflict-russland",
@@ -886,8 +1242,8 @@
       },
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 1,
+      "last_seen": "2026-07-12",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -897,8 +1253,81 @@
         {
           "lat": 62.66278424887983,
           "lon": 103.3482246131157
+        },
+        {
+          "lat": 59.306593407850386,
+          "lon": 104.89106372011291
+        },
+        {
+          "lat": 60.25983483876098,
+          "lon": 106.67319605693201
+        },
+        {
+          "lat": 63.26064523398891,
+          "lon": 104.01409593309744
+        },
+        {
+          "lat": 64.38928812252574,
+          "lon": 105.49589105442675
+        },
+        {
+          "lat": 63.11154012002319,
+          "lon": 102.48753231673817
+        },
+        {
+          "lat": 63.52960888950844,
+          "lon": 106.88460029487744
+        },
+        {
+          "lat": 63.52643587535863,
+          "lon": 104.26130963254424
+        },
+        {
+          "lat": 63.75037015609685,
+          "lon": 104.18022663561307
+        },
+        {
+          "lat": 62.484654079439274,
+          "lon": 103.05585023777137
+        },
+        {
+          "lat": 58.81504355682876,
+          "lon": 103.44979959332751
+        },
+        {
+          "lat": 63.88587262445732,
+          "lon": 103.33511471445232
+        },
+        {
+          "lat": 63.87191970330941,
+          "lon": 105.17372325174969
+        },
+        {
+          "lat": 59.787372958931925,
+          "lon": 108.27318202143516
+        },
+        {
+          "lat": 63.89170750753761,
+          "lon": 104.64065720566703
+        },
+        {
+          "lat": 58.75218127512657,
+          "lon": 106.68996853296085
+        },
+        {
+          "lat": 61.014012417195836,
+          "lon": 107.59616221004215
+        },
+        {
+          "lat": 59.25291085239335,
+          "lon": 106.21855336145138
+        },
+        {
+          "lat": 61.854176447827875,
+          "lon": 107.23642564585488
         }
-      ]
+      ],
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
     },
     {
       "id": "disaster-frankreich",
@@ -910,10 +1339,11 @@
       },
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 1,
+      "last_seen": "2026-07-12",
+      "intensity": 2,
       "chokepoint_lane": null,
-      "subpoints": []
+      "subpoints": [],
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
     },
     {
       "id": "disaster-spanien",
@@ -926,6 +1356,22 @@
       "label": "Tote bei Waldbrand im Süden Spaniens",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-spanien",
+      "type": "wildfire",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Tote bei Waldbrand im Süden Spaniens",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
