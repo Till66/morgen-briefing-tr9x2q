@@ -107,9 +107,42 @@ MAX_PER_CATEGORY = 8
 # ring color, dome color, whether it gets a connecting arc).
 # ---------------------------------------------------------------------------
 DISASTER_KEYWORDS = [
-    "erdbeben", "überschwemmung", "flut", "hochwasser", "hurrikan", "taifun",
-    "wirbelsturm", "dürre", "waldbrand", "waldbrände", "vulkan", "tsunami",
-    "hitzewelle", "erdrutsch", "unwetter", "sturmflut", "erdrutsche",
+    "erdbeben", "überschwemmung", "flut", "hochwasser", "dürre", "vulkan",
+    "tsunami", "hitzewelle", "erdrutsch", "erdrutsche",
+]
+STORM_KEYWORDS = [
+    "unwetter", "sturm", "orkan", "gewitter", "tornado", "wirbelsturm",
+    "hurrikan", "taifun", "sturmflut", "sturmwarnung", "unwetterwarnung",
+    "windböen",
+]
+WILDFIRE_KEYWORDS = [
+    "waldbrand", "waldbrände", "flächenbrand", "buschbrand", "feuersbrunst",
+    "vegetationsbrand",
+]
+HEALTH_KEYWORDS = [
+    "pandemie", "epidemie", "seuche", "krankheitswelle", "infektionswelle",
+    "gesundheitswarnung", "who-warnung", "ausbruch der krankheit", "erreger",
+]
+PROTEST_KEYWORDS = [
+    "protest", "proteste", "demonstration", "demonstranten", "ausschreitungen",
+    "unruhen", "streik", "aufstand", "krawalle", "generalstreik",
+]
+OUTAGE_KEYWORDS = [
+    "stromausfall", "blackout", "internetausfall", "netzausfall",
+    "serverausfall", "leitungsausfall", "stromnetz gestört", "netzstörung",
+]
+TRANSPORT_KEYWORDS = [
+    "flugzeugabsturz", "zugunglück", "bahnunglück", "schiffsunglück",
+    "massenkarambolage", "verkehrschaos", "flugausfälle", "bahnstreik",
+    "zugausfälle", "flughafen gesperrt",
+]
+CELEBRATION_KEYWORDS = [
+    "olympische spiele", "weltmeisterschaft", "eröffnungsfeier", "jubiläum",
+    "festival", "krönung", "staatsakt", "gedenkfeier", "europameisterschaft",
+]
+POLITICAL_KEYWORDS = [
+    "gipfeltreffen", "staatsbesuch", "misstrauensvotum", "regierungskrise",
+    "neuwahlen", "rücktritt der regierung", "koalitionsbruch",
 ]
 TENSION_KEYWORDS = [
     "spannungen", "spannung", "krise", "drohung", "gedroht", "sanktionen",
@@ -131,6 +164,14 @@ EVENT_COLORS = {
     "tension": "#ffd60a",
     "trade": "#34c759",
     "blockade": "#0a84ff",
+    "storm": "#26c6da",
+    "wildfire": "#ff5722",
+    "health": "#9c27b0",
+    "protest": "#ff7a00",
+    "outage": "#ffeb3b",
+    "transport": "#78909c",
+    "political": "#1e88e5",
+    "celebration": "#ffd700",
     "standard": None,  # falls back to category color
 }
 
@@ -321,6 +362,22 @@ def matches_keywords(text: str, keywords) -> bool:
 def detect_event_type(category_id: str, text: str):
     if matches_keywords(text, BLOCKADE_KEYWORDS) and find_chokepoint(text):
         return "blockade"
+    if matches_keywords(text, WILDFIRE_KEYWORDS):
+        return "wildfire"
+    if matches_keywords(text, STORM_KEYWORDS):
+        return "storm"
+    if matches_keywords(text, HEALTH_KEYWORDS):
+        return "health"
+    if matches_keywords(text, OUTAGE_KEYWORDS):
+        return "outage"
+    if matches_keywords(text, TRANSPORT_KEYWORDS):
+        return "transport"
+    if matches_keywords(text, PROTEST_KEYWORDS):
+        return "protest"
+    if category_id == "sport" and matches_keywords(text, CELEBRATION_KEYWORDS):
+        return "celebration"
+    if matches_keywords(text, POLITICAL_KEYWORDS):
+        return "political"
     if category_id == "konflikte":
         return "conflict"
     if category_id == "welt" and matches_keywords(text, DISASTER_KEYWORDS):
@@ -370,7 +427,7 @@ def fetch_category(cat):
             # Connections (arcs) only make sense for conflict fronts and
             # trade routes, and only when we actually found 2+ distinct places.
             connections = []
-            if event_type in ("conflict", "trade") and len(locations) >= 2:
+            if event_type in ("conflict", "trade", "transport") and len(locations) >= 2:
                 connections.append({
                     "from": locations[0],
                     "to": locations[1],
@@ -420,6 +477,17 @@ def deterministic_offsets(seed: str, count: int, spread: float = 3.0):
     return offsets
 
 
+# Event types that represent an ongoing/ambient situation worth keeping on
+# the map after the day it was reported (until it "calms down"). Political
+# events, transport incidents, and celebrations are one-off news items and
+# are intentionally NOT persisted - they only show for the day they're in
+# the headlines, same as "standard" articles.
+CRISIS_TYPES = {
+    "conflict", "disaster", "blockade", "storm", "wildfire", "health",
+    "protest", "outage",
+}
+
+
 def update_ongoing_events(articles, today: str):
     """Merge today's crisis-type articles into the persistent event log,
     ageing out entries that haven't been mentioned in a while."""
@@ -427,7 +495,7 @@ def update_ongoing_events(articles, today: str):
     seen_today = set()
 
     for a in articles:
-        if a["event_type"] not in ("conflict", "disaster", "blockade"):
+        if a["event_type"] not in CRISIS_TYPES:
             continue
         loc = a["location"]
         if not loc or loc.get("name") is None:
@@ -439,12 +507,14 @@ def update_ongoing_events(articles, today: str):
             ev["last_seen"] = today
             ev["intensity"] = min(MAX_INTENSITY, ev.get("intensity", 1) + 1)
             ev["label"] = a["title"]
+            ev["url"] = a["url"]
         else:
             existing[eid] = {
                 "id": eid,
                 "type": a["event_type"],
                 "location": loc,
                 "label": a["title"],
+                "url": a["url"],
                 "first_seen": today,
                 "last_seen": today,
                 "intensity": 1,
@@ -463,13 +533,16 @@ def update_ongoing_events(articles, today: str):
                 continue  # considered resolved -> drop
         survivors.append(ev)
 
-    # Precompute map-ready geometry for each surviving crisis.
+    # Precompute map-ready geometry for each surviving crisis. Conflicts get
+    # many small overlapping "unrest" dots (15-50, scaling with intensity) so
+    # the viewer can tell at a glance a country is embroiled in war/unrest.
     for ev in survivors:
         loc = ev["location"]
         if ev["type"] == "conflict":
+            count = min(50, 15 + (ev.get("intensity", 1) - 1) * 5)
             ev["subpoints"] = [
                 {"lat": loc["lat"] + dy, "lon": loc["lon"] + dx}
-                for dx, dy in deterministic_offsets(ev["id"], max(2, ev["intensity"]))
+                for dx, dy in deterministic_offsets(ev["id"], count)
             ]
         else:
             ev["subpoints"] = []
