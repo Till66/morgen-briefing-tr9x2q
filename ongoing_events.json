@@ -10,8 +10,8 @@
       },
       "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 3,
+      "last_seen": "2026-07-13",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -113,6 +113,46 @@
         {
           "lat": 45.887500047969986,
           "lon": 3.3106191626871277
+        },
+        {
+          "lat": 43.786194435583475,
+          "lon": 1.3631366699246308
+        },
+        {
+          "lat": 43.352488238060495,
+          "lon": 0.8952700902793485
+        },
+        {
+          "lat": 44.53446357694372,
+          "lon": 1.2607200558302503
+        },
+        {
+          "lat": 48.08333976506846,
+          "lon": -0.06783821110761235
+        },
+        {
+          "lat": 47.27959998199288,
+          "lon": 4.543949294948357
+        },
+        {
+          "lat": 46.338632311597614,
+          "lon": 4.854476700256573
+        },
+        {
+          "lat": 48.26458002152075,
+          "lon": 3.668439465949763
+        },
+        {
+          "lat": 47.00256387198916,
+          "lon": 2.67583995373392
+        },
+        {
+          "lat": 47.53227246014268,
+          "lon": 3.8874084818709895
+        },
+        {
+          "lat": 45.358373433514586,
+          "lon": 3.492977729866858
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
@@ -128,7 +168,7 @@
       "label": "US-Präsident Trump will Handel mit Spanien einstellen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -170,26 +210,6 @@
         {
           "lat": 42.55157622980026,
           "lon": -4.17985853543362
-        },
-        {
-          "lat": 39.38103142498819,
-          "lon": -2.859308076154745
-        },
-        {
-          "lat": 40.478036277966936,
-          "lon": -6.3641251464789095
-        },
-        {
-          "lat": 37.599171941469116,
-          "lon": -4.80544407344876
-        },
-        {
-          "lat": 40.522403851201275,
-          "lon": -1.8529621756791517
-        },
-        {
-          "lat": 42.88972345334041,
-          "lon": -2.779828748245218
         }
       ],
       "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
@@ -204,8 +224,8 @@
       },
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 3,
+      "last_seen": "2026-07-13",
+      "intensity": 4,
       "chokepoint_lane": [
         [
           26.7,
@@ -283,9 +303,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Trump spricht mit Putin und Selenskyj",
+      "label": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -490,7 +510,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-trump-putin-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
     },
     {
       "id": "conflict-russland",
@@ -502,8 +522,8 @@
       },
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 3,
+      "last_seen": "2026-07-13",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -605,6 +625,26 @@
         {
           "lat": 62.15599283174053,
           "lon": 106.21990910076208
+        },
+        {
+          "lat": 63.42260115779997,
+          "lon": 103.77809201633187
+        },
+        {
+          "lat": 62.30523703640449,
+          "lon": 106.93983084954922
+        },
+        {
+          "lat": 60.45305853733631,
+          "lon": 103.62578970921966
+        },
+        {
+          "lat": 59.3231286075672,
+          "lon": 107.25013836121562
+        },
+        {
+          "lat": 61.581154175605896,
+          "lon": 102.3256459054471
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
@@ -620,7 +660,7 @@
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
@@ -667,11 +707,88 @@
       "label": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
       "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
-      "intensity": 1,
+      "last_seen": "2026-07-13",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-deutschland",
+      "type": "conflict",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
+      "url": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 50.82922024224203,
+          "lon": 11.580771984596101
+        },
+        {
+          "lat": 53.995425798645456,
+          "lon": 11.223943091443843
+        },
+        {
+          "lat": 50.29161285587426,
+          "lon": 9.901911843240821
+        },
+        {
+          "lat": 49.363745932501104,
+          "lon": 12.9394516683258
+        },
+        {
+          "lat": 51.709996971416174,
+          "lon": 11.931800975143979
+        },
+        {
+          "lat": 49.67335318505179,
+          "lon": 7.851930739019166
+        },
+        {
+          "lat": 49.97367442184016,
+          "lon": 11.172326321682153
+        },
+        {
+          "lat": 54.119410664518576,
+          "lon": 8.402688948692564
+        },
+        {
+          "lat": 50.23820105824147,
+          "lon": 7.505818497435729
+        },
+        {
+          "lat": 48.62424834245019,
+          "lon": 13.367736918865758
+        },
+        {
+          "lat": 53.40213005621536,
+          "lon": 10.122458417158331
+        },
+        {
+          "lat": 49.283319853261304,
+          "lon": 12.751432592385433
+        },
+        {
+          "lat": 49.614547022244906,
+          "lon": 7.967204139255848
+        },
+        {
+          "lat": 51.464778068532766,
+          "lon": 13.21022522260964
+        },
+        {
+          "lat": 51.4887623228762,
+          "lon": 7.895969145136994
+        }
+      ]
     }
   ],
-  "updated_at": "2026-07-12"
+  "updated_at": "2026-07-13"
 }
