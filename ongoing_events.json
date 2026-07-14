@@ -8,10 +8,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "intensity": 5,
+      "last_seen": "2026-07-14",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -153,9 +153,49 @@
         {
           "lat": 45.358373433514586,
           "lon": 3.492977729866858
+        },
+        {
+          "lat": 45.713747071813735,
+          "lon": 3.108912938984673
+        },
+        {
+          "lat": 44.84791137003105,
+          "lon": 0.6140105138894891
+        },
+        {
+          "lat": 43.52115251469965,
+          "lon": 2.6829637597837634
+        },
+        {
+          "lat": 44.707991616346405,
+          "lon": 3.6551584465421403
+        },
+        {
+          "lat": 46.80528290899175,
+          "lon": 1.3048702332299131
+        },
+        {
+          "lat": 48.818153247274495,
+          "lon": 0.7668432725380041
+        },
+        {
+          "lat": 45.216164406053295,
+          "lon": 4.148736940252183
+        },
+        {
+          "lat": 44.600563078174034,
+          "lon": 4.46017845356876
+        },
+        {
+          "lat": 43.79154723769369,
+          "lon": 4.466268490163555
+        },
+        {
+          "lat": 46.58190473539846,
+          "lon": 2.267598226715135
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
     },
     {
       "id": "conflict-spanien",
@@ -225,7 +265,7 @@
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-13",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": [
         [
           26.7,
@@ -303,9 +343,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
+      "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -510,7 +550,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html"
     },
     {
       "id": "conflict-russland",
@@ -522,8 +562,8 @@
       },
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "intensity": 4,
+      "last_seen": "2026-07-14",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -645,6 +685,26 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
@@ -660,7 +720,7 @@
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
@@ -688,11 +748,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Tote bei Waldbrand im Süden Spaniens",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "label": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
+      "last_seen": "2026-07-14",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -708,7 +768,7 @@
       "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -723,8 +783,8 @@
       "label": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
       "url": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "intensity": 1,
+      "last_seen": "2026-07-14",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -786,9 +846,61 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
+        },
+        {
+          "lat": 49.51761492907515,
+          "lon": 8.686865152180978
+        },
+        {
+          "lat": 49.444432054698915,
+          "lon": 10.35149013834167
+        },
+        {
+          "lat": 49.353474452191726,
+          "lon": 9.222896063214957
+        },
+        {
+          "lat": 53.15928180700652,
+          "lon": 12.677392928248711
+        },
+        {
+          "lat": 51.17650378913572,
+          "lon": 11.876194805039255
         }
       ]
+    },
+    {
+      "id": "wildfire-griechenland",
+      "type": "wildfire",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-frankreich",
+      "type": "storm",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Frankreich und Spanien im WM-Halbfinale - Gewitter trifft auf Uhrwerk",
+      "url": "https://www.tagesschau.de/sport/franzoesisches-gewitter-trifft-auf-spanisches-uhrwerk,wm-halbfinale-frankreich-spanien-das-beste-spiel-des-turniers-100.html",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-07-13"
+  "updated_at": "2026-07-14"
 }

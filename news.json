@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:03:08.864871+00:00",
+  "generated_at": "2026-07-14T10:24:55.672866+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,118 @@
   },
   "articles": [
     {
+      "title": "ADAC: Viele kleine Rastplätze fallen bei Test durch",
+      "summary": "Fehlende Sauberkeit, kein Toilettenpapier, kaputte oder leere Seifenspender: Viele Autobahn-Rastplätze sind in einem ADAC-Test durchgefallen. Geprüft wurden kleine Anlagen ohne Tankstelle oder Restaurant.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/adac-raststaetten-test-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 12:00:15 +0200"
+    },
+    {
+      "title": "Nach schwerem Hagel im Norden: DWD warnt vor weiteren Unwettern",
+      "summary": "Nach Unwettern mit teils schwerem Hagelschlag in Norddeutschland warnt der Wetterdienst für heute vor weiteren Unwettern - in praktisch allen Regionen Deutschlands. Auch in den kommenden Tagen bleibt das Wetter turbulent.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/unwetter-hagel-norddeutschland-aussichten-100.html",
+      "category": "politik",
+      "event_type": "storm",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 11:23:08 +0200"
+    },
+    {
+      "title": "Pflegekosten: Eigenanteil für Pflege im Heim erneut gestiegen",
+      "summary": "Die monatlichen Kosten für einen Heimplatz sind für Pflegebedürftige abermals gestiegen. Seit Beginn des Jahres legte der Eigenanteil im Schnitt um fast 120 Euro zu. Dabei gibt es große regionale Unterschiede.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/pflegekosten-gestiegen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 08:13:04 +0200"
+    },
+    {
+      "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
+      "summary": "Die Flut im Ahrtal legte schwere Mängel im Katastrophenschutz bloß. Pläne für den Ernstfall fehlten ebenso wie Geräte. Wer dafür Verantwortung trug - und was sich seither geändert hat. Von Thomas Schneider.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 07:32:28 +0200"
+    },
+    {
+      "title": "Anträge auf Kriegsdienstverweigerung laut Bericht deutlich gestiegen",
+      "summary": "Die Zahl der Anträge auf Kriegsdienstverweigerung ist weiter steil angestiegen - und hat im ersten Halbjahr 2026 bereits den Vorjahreswert übertroffen. Ein Grund dafür dürfte das Inkrafttreten des neuen Wehrdienstgesetzes sein.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerung-anstieg-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 11:02:40 +0200"
+    },
+    {
+      "title": "Fünf Jahre nach der Flut: \"Man darf nicht vergessen\"",
+      "summary": "Als das Wasser kam, strömte es unaufhaltsam durch Straßen und Häuser. Fünf Jahre nach der Flut halten die Einwohner im nordrhein-westfälischen Rheinbach das Gedenken aufrecht. Und fragen sich: Wurden wir vergessen? Von Cosima Gill.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/flut-rheinbach-gedenken-wiederaufbau-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 20:24:05 +0200"
+    },
+    {
+      "title": "Prien will Unterhaltsvorschuss kürzen - Widerstand wächst",
+      "summary": "Bundesfamilienministerin Prien will den staatlichen Unterhaltsvorschuss künftig nur noch bis zum 16. Geburtstag von Kindern zahlen. Der Widerstand gegen die Pläne wächst - auch in der eigenen Koalition. Von Dietrich Karl Mäurer.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/unterhalt-vorschuss-kuerzung-kritik-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 17:34:28 +0200"
+    },
+    {
       "title": "Hubig will Entschädigung für zu Unrecht inhaftierte anheben",
       "summary": "Wer zu Unrecht im Gefängnis saß, soll nach dem Willen von Bundesjustizministerin Hubig künftig deutlich mehr Geld erhalten. Ein Gesetzentwurf sieht zudem das Ende von Abzügen für \"Kost und Logis\" vor.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -61,27 +173,11 @@
       "published": "Mon, 13 Jul 2026 13:09:34 +0200"
     },
     {
-      "title": "Urteil des OLG München: Freiheitsstrafen wegen Versklavung jesidischer Mädchen",
-      "summary": "Sie sollen im Irak zwei jesidische Mädchen als Sklavinnen gehalten und missbraucht haben: Nach mehr als einem Jahr Prozess hat das Oberlandesgericht München ein irakisches Ehepaar zu hohen Freiheitsstrafen verurteilt - unter anderem wegen Völkermords.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/urteil-jesiden-irak-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 11:55:53 +0200"
-    },
-    {
-      "title": "Bericht: Regierung will Tabaksteuer stärker anheben als geplant",
-      "summary": "Fast zwölf Euro - so viel soll eine Packung Zigaretten in wenigen Jahren kosten. Laut einem Bericht will die Regierung die Tabaksteuer stärker erhöhen als geplant. Das soll der öffentlichen Gesundheit helfen - und der Steuerkasse.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/tabaksteuer-102.html",
-      "category": "politik",
+      "title": "Nahrungsergänzungsmittel LaVita erhält Negativpreis",
+      "summary": "Das Nahrungsergänzungsmittel LaVita bekommt von Foodwatch den \"Goldenen Windbeutel\" für die \"dreisteste Werbelüge\" des Jahres. Ein Liter koste umgerechnet 100 Euro - und enthalte hauptsächlich Fruchtsaft.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/negativpreis-goldener-windbeutel-fruchtsaft-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -90,14 +186,62 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 10:04:59 +0200"
+      "published": "Tue, 14 Jul 2026 11:13:54 +0200"
     },
     {
-      "title": "Feuerwehr kämpft in mehreren Bundesländern gegen Wald- und Feldbrände",
-      "summary": "In mehreren Bundesländern kämpft die Feuerwehr gegen Brände - teilweise führen wenige Funken bei der Ernte zu Großeinsätzen. Auch in Wäldern ist wegen der Trockenheit besondere Vorsicht geboten.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/feuer-hitze-waldbrand-100.html",
-      "category": "politik",
+      "title": "Reform des Emissionshandels: CO2-Kosten spalten die Industrie",
+      "summary": "Für CO2-intensive Unternehmen geht es beim europäischen Emissionshandel um viele Millionen Euro jedes Jahr. Aktuell steht eine Reform an. Es geht um Regeln unter anderem für die Stahlbranche. Von Stella Peters.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/co2-emissionshandel-stahlbranche-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 07:38:33 +0200"
+    },
+    {
+      "title": "DIHK-Präsident für Sonntagsöffnungszeiten im Einzelhandel",
+      "summary": "In der Debatte über flexiblere Ladenöffnungszeiten hat sich DIHK-Präsident Adrian für eine Änderung des Grundgesetzes ausgesprochen. Damit solle die Rechtslage für verkaufsoffene Sonntage dauerhaft geklärt werden.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/forderung-arbeit-am-sonntag-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 08:44:49 +0200"
+    },
+    {
+      "title": "Warum die Ausweitung der Sonntagsöffnungszeiten schwierig ist",
+      "summary": "Die Bundesregierung will längere Arbeitszeiten in Bäckereien an Sonn- und Feiertagen erlauben. Handelsverbände fordern, dass auch der Einzelhandel öffnen darf. Was gilt und was möglich wäre. Von B.-H. Otte.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/faq-sonntagsarbeit-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 12 Jul 2026 08:46:21 +0200"
+    },
+    {
+      "title": "Pflegekosten: Eigenanteil für Pflege im Heim erneut gestiegen",
+      "summary": "Die monatlichen Kosten für einen Heimplatz sind für Pflegebedürftige abermals gestiegen. Seit Beginn des Jahres legte der Eigenanteil im Schnitt um fast 120 Euro zu. Dabei gibt es große regionale Unterschiede.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/pflegekosten-gestiegen-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -106,14 +250,30 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 20:52:54 +0200"
+      "published": "Tue, 14 Jul 2026 08:13:04 +0200"
     },
     {
-      "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
-      "summary": "Bundespräsident Steinmeier sieht sein Amt angesichts demokratiefeindlicher Kräfte besonders gefordert. Er verteidigte im ZDF-Sommerinterview auch frühere Aussagen - und fand viel Lob für das Reformpaket der Bundesregierung.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html",
-      "category": "politik",
+      "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
+      "summary": "Die Übernahme von Warner Bros. durch Paramount ist ein Mega-Geschäft, das nicht nur Hollywood umkrempeln könnte. Die US-Regierung winkte den Deal durch - doch mehrere Bundesstaaten wollen ihn kippen und ziehen vor Gericht.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 21:56:21 +0200"
+    },
+    {
+      "title": "Hitze wird an vielen Arbeitsplätzen zunehmend zur Belastung",
+      "summary": "Arbeiten trotz Hitze: Das ist nicht nur belastend, im Extremfall wird es auch zur Gefahr für den Körper. Helfen sollen Vorschriften für Temperaturen im Arbeitsraum. Aber die Realität sieht oft anders aus. Von Clara Wehner.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeiten-bei-hitze-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -122,183 +282,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 18:31:50 +0200"
+      "published": "Mon, 13 Jul 2026 18:27:30 +0200"
     },
     {
-      "title": "ARD-Sommerinterview: Linken-Chefin Schwerdtner kritisiert Reformen",
-      "summary": "Linken-Chefin Schwerdtner hat im ARD-Sommerinterview die Reformen der Regierung scharf kritisiert. Sie nehme bei den Menschen viel Wut wahr. Schwerdtner griff vor allem die CDU an - und forderte von der Partei eine Entschuldigung.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-linke-schwerdtner-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 18:31:10 +0200"
-    },
-    {
-      "title": "Familienministerin Prien will beim Unterhaltsvorschuss sparen",
-      "summary": "Zahlt ein Elternteil keinen Unterhalt für gemeinsame Kinder, springt der Staat ein. Laut Familienministerin Prien sind die Kosten aber zu hoch. Der Vorschuss soll bald nur noch für Kinder bis zum 15. Lebensjahr gewährt werden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/prien-unterhaltsvorschuss-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 11:59:54 +0200"
-    },
-    {
-      "title": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
-      "summary": "Das heiße und trockene Wetter lässt die Waldbrandgefahr steigen. Der Deutsche Wetterdienst meldet für viele Regionen eine hohe oder sogar sehr hohe Gefahr. Feuerwehren fordern Geld für mehr Technik, um sich besser wappnen zu können.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
-      "category": "politik",
+      "title": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
+      "summary": "Von Griechenland bis Nordengland: Eine erneute Hitzewelle hat das Wetter in Europa im Griff. In mehreren Ländern kommt es zu Waldbränden, die teils extrem hohen Temperaturen sind aber auch eine große Gefahr für Menschen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
+      "category": "wirtschaft",
       "event_type": "wildfire",
       "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 10:45:23 +0200"
-    },
-    {
-      "title": "VW-Chef Blume: Bis zu 50.000 Stellen könnten wegfallen",
-      "summary": "Lange wurde über die Zahlen spekuliert, jetzt erklärt der VW-Chef erstmals, wie viele Jobs beim Autohersteller wegfallen könnten. Auch die Schließung von Werken ist nicht vom Tisch.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-blume-sparplaene-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 13:10:33 +0200"
-    },
-    {
-      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
-      "summary": "Der kriselnde Autobauer VW muss sparen. Mehr als 100.000 Stellen könnten wegfallen, Standorte sind in Gefahr. Konzernchef Blume sagte nun, er sehe \"intelligentere Lösungen\" statt Werksschließungen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 04:35:03 +0200"
-    },
-    {
-      "title": "Streit über Wochenarbeitszeit: Zurück zur 40-Stunden-Woche?",
-      "summary": "Krise in der Autobranche, hohe Produktionskosten in der deutschen Industrie: Immer häufiger fordern Stimmen aus der Wirtschaft, dass in Deutschland wieder länger gearbeitet werden müsse. Von Thomas Denzel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitszeit-40-stunden-woche-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 06:15:09 +0200"
-    },
-    {
-      "title": "Wie Volkswagen sich in China neu erfinden will",
-      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
-    },
-    {
-      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
-      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
-    },
-    {
-      "title": "Fluggastrechte: Was sich für Passagiere ab 2027 ändert",
-      "summary": "Die EU reformiert die Fluggastrechte. Familien und Menschen mit Behinderung sollen profitieren. An anderer Stelle droht aber eine Verschlechterung für Passagiere. Antworten auf zentrale Fragen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fluggastrechte-eu-reform-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 11:10:35 +0200"
-    },
-    {
-      "title": "Flugtickets sind im ersten Halbjahr deutlich teurer geworden",
-      "summary": "Flugreisen haben sich im ersten Halbjahr 2026 spürbar verteuert. Besonders stark stiegen die Preise für Flüge nach Mittelamerika sowie innerhalb Europas. Pauschalreisen legten dagegen nur moderat zu.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/flugtickets-preise-102.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 12:06:40 +0200"
-    },
-    {
-      "title": "Landwirte reagieren auf veränderte klimatische Bedingungen",
-      "summary": "Der Klimawandel beeinflusst auch die Landwirtschaft. Starkregen, Dürren, Schädlingsbefall treiben Kosten und Preise in die Höhe - häufig zu Lasten der Endkunden. Von Noel Schmidt.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/agrar-preise-ernte-trockenheit-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 07:13:51 +0200"
+      "published": "Mon, 13 Jul 2026 18:26:57 +0200"
     },
     {
       "title": "Terrorverdacht nach Waffenfund nahe Synagoge in Frankreich",
@@ -315,22 +315,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sun, 12 Jul 2026 19:38:34 +0200"
-    },
-    {
-      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
-      "summary": "Schüsse aus Polizeiwaffen gelten in Frankreich künftig als Notwehr. Opfer müssen beweisen, dass der Beamte die Waffe regelwidrig benutzt hat. Kritiker sind entsetzt und fürchten Straflosigkeit. Von Julia Borutta.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 19:46:55 +0200"
     },
     {
       "title": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
@@ -359,7 +343,7 @@
         }
       ],
       "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 13:58:54 +0200"
+      "published": "Mon, 13 Jul 2026 19:30:20 +0200"
     },
     {
       "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
@@ -391,29 +375,33 @@
       "published": "Sat, 11 Jul 2026 19:36:00 +0200"
     },
     {
-      "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
-      "summary": "Das Rahmenabkommen ist aufgekündigt, es gibt immer wieder Angriffe - doch die USA wollen mit Iran weiterverhandeln. Teheran müsse zusichern, dass die Straße von Hormus ohne Gefahren passierbar ist.",
+      "title": "Europäer schmieden Bündnis für Raketenabwehr",
+      "summary": "Frankreich, Deutschland und sieben weitere europäische Staaten vereinbaren mit der Ukraine eine Koalition zur Raketenabwehr. Das Bündnis betont dabei seinen defensiven Charakter - und kündigt Übungsmanöver an.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/usa-iran-174.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html",
       "category": "konflikte",
-      "event_type": "blockade",
+      "event_type": "conflict",
       "location": {
-        "name": "Straße von Hormus",
-        "lat": 26.5,
-        "lon": 56.25
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
       },
-      "connections": [],
-      "chokepoint_lane": [
-        [
-          26.7,
-          52.5
-        ],
-        [
-          25.0,
-          58.5
-        ]
+      "connections": [
+        {
+          "from": {
+            "name": "Frankreich",
+            "lat": 46.2276,
+            "lon": 2.2137
+          },
+          "to": {
+            "name": "Deutschland",
+            "lat": 51.1657,
+            "lon": 10.4515
+          }
+        }
       ],
-      "published": "Sat, 11 Jul 2026 09:12:28 +0200"
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 21:04:45 +0200"
     },
     {
       "title": "Ukraine attackiert erneut russische Energieanlagen",
@@ -490,6 +478,131 @@
       "published": "Tue, 07 Jul 2026 11:43:30 +0200"
     },
     {
+      "title": "Ukraine meldet mehrere Tote nach russischen Angriffen",
+      "summary": "Luftalarm im ganzen Land, Explosionen in Kiew: Russland hat die Ukraine in der Nacht erneut attackiert - und das kurz vor einem NATO-Gipfel in der Türkei. Den Behörden zufolge gibt es mindestens 17 Tote.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 06 Jul 2026 15:17:29 +0200"
+    },
+    {
+      "title": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
+      "summary": "Nach dem schweren Waldbrand in Andalusien ist die Ausbreitung des Feuers bei Almería gestoppt. Erste Anwohner kehren zurück in ihre Häuser. Regierungschef Sánchez verspricht bei seinem Besuch in der Region Mittel für den Wiederaufbau. Von A. Mundt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
+      "category": "welt",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 20:57:12 +0200"
+    },
+    {
+      "title": "Ungarns Parlament stimmt für Absetzung von Staatspräsident Sulyok",
+      "summary": "Ungarns Staatspräsident Sulyok galt als Gefolgsmann von Ex-Premier Orban. Das Parlament hat nun eine Verfassungsänderung beschlossen, um ihn unverzüglich absetzen zu können. Der will sich dagegen wehren. Von Oliver Soos.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-praesident-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 20:42:35 +0200"
+    },
+    {
+      "title": "Mehr Tourismus und Zuzug: Wie Asturien von Spaniens großer Hitze profitiert",
+      "summary": "Weite Teile Spaniens leiden unter großer Hitze. Vergleichsweise erträglich ist es im grünen Norden am Atlantik. Dort steigen nun Immobilienpreise und Tourismuszahlen. Doch auch hier macht sich der Klimawandel bemerkbar. Von Sebastian Kisters.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-asturien-balearen-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 18:54:23 +0200"
+    },
+    {
+      "title": "Mordfall Widdecombe: Terrorabwehr übernimmt Ermittlungen",
+      "summary": "Die Tötung der britischen Politikerin Widdecombe wird von den Ermittlern inzwischen als Terrorakt eingestuft. Nach der Festnahme eines 28-Jährigen liegen offenbar neue Informationen vor.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/widdecombe-mordfall-terror-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 18:30:07 +0200"
+    },
+    {
+      "title": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
+      "summary": "Von Griechenland bis Nordengland: Eine erneute Hitzewelle hat das Wetter in Europa im Griff. In mehreren Ländern kommt es zu Waldbränden, die teils extrem hohen Temperaturen sind aber auch eine große Gefahr für Menschen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
+      "category": "welt",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 18:26:57 +0200"
+    },
+    {
+      "title": "EU-Experten empfehlen Zugangsbeschränkungen für Social Media",
+      "summary": "Kinder unter 13 Jahren sollen keinen Zugang zu sozialen Medien haben, schlagen Fachleute der EU vor. Für Kommissionspräsidentin von der Leyen wäre das ein Schritt in die richtige Richtung. Aber was folgt daraus? Von Kathrin Schmid.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/social-media-altersgrenze-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 17:13:29 +0200"
+    },
+    {
       "title": "Frankreich: Großer Brand im Wald von Fontainebleau bei Paris",
       "summary": "Im Wald von Fontainebleau steht eines der bekanntesten Königsschlösser Frankreichs. Nun ist in dem Areal nahe Paris ein großes Feuer ausgebrochen. Ermittler gehen Hinweisen auf Brandstiftung nach.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -522,11 +635,11 @@
       "published": "Mon, 13 Jul 2026 05:33:53 +0200"
     },
     {
-      "title": "Social-Media-Mindestalter: EU-Experten geben Empfehlung ab",
-      "summary": "Einzelne Länder diskutieren schon lange über ein Social-Media-Mindestalter. Nun will auch die EU handeln. Heute gibt eine Expertenkommission ihre Empfehlungen ab. Von Kathrin Schmid.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-social-media-alter-100.html",
-      "category": "welt",
+      "title": "Tour de France: Tadej Pogacar macht nur die Klimaanlage Probleme",
+      "summary": "Tadej Pogacar fährt bei der Tour de France seinem fünften Gesamtsieg entgegen. Vor dem Ruhetag erlebte er aber keine perfekten Bedingungen, im Hotel gab es mitten in der Hitzewelle keine Klimaanlage.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/tour-dominator-pogacar-macht-nur-die-klimaanlage-probleme,tadej-pogacar-klimaanlage-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -535,15 +648,47 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 03:25:12 +0200"
+      "published": "Mon, 13 Jul 2026 20:21:27 +0200"
     },
     {
-      "title": "Drohnenjagd in Frankreich - künftig auch durch Privatfirmen",
-      "summary": "Frankreich setzt bei der Abwehr von Drohnen künftig auch auf private Unternehmen. Die Firmen arbeiten bereits an Techniken, unbekannte Drohnen abzufangen. Doch viele rechtliche Fragen sind noch ungeklärt. Von J. Borutta.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-drohnen-100.html",
-      "category": "welt",
+      "title": "10. Etappe der Tour de France - Aurillac - Le Lioran (167 km)",
+      "summary": "Frisch aus dem Ruhetag in den Nationalfeiertag: Es wartet bei der 10. Etappe ein wahres Spektakel quer durch das Zentralmassiv.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/10-etappe-aurillac-le-lioran-167-km,etappe-zehn-100.html",
+      "category": "sport",
       "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 16 Jun 2026 10:41:04 +0200"
+    },
+    {
+      "title": "Schiriexperte: Viele neue Regeln - \"das ist eine große Gefahr\"",
+      "summary": "Schiriexperte Lutz Wagner spricht über die guten und schlechten Dinge aus Sicht der Schiedsrichter bei der WM - und welche Folgen das Turnier für die Bundesliga und den Amateurfußball haben kann.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/viele-neue-regeln-ist-eine-grosse-gefahr,wm-schiribilanz-wagner-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 11:21:16 +0200"
+    },
+    {
+      "title": "Frankreich und Spanien im WM-Halbfinale - Gewitter trifft auf Uhrwerk",
+      "summary": "Frankreich gegen Spanien ist für viele das vorweggenommene Finale. \"Die beiden stärksten Teams im Turnier\", sagt Spaniens Trainer Luis de la Fuente. Ihre Wege zum Erfolg unterscheiden sich.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/franzoesisches-gewitter-trifft-auf-spanisches-uhrwerk,wm-halbfinale-frankreich-spanien-das-beste-spiel-des-turniers-100.html",
+      "category": "sport",
+      "event_type": "storm",
       "location": {
         "name": "Frankreich",
         "lat": 46.2276,
@@ -551,71 +696,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 15:56:17 +0200"
-    },
-    {
-      "title": "Le Pen im Wahlkampf: Weitermachen, als wäre sie freigesprochen worden",
-      "summary": "Es bleibt ungewiss, ob Marine Le Pen bei der Präsidentschaftswahl im kommenden Jahr kandidieren kann. Bis ein Berufungsgericht darüber urteilt, macht sie Wahlkampf - an einem für sie symbolischen Ort. Von M. Strempel.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/lepen-wahlkampf-kommunen-rn-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 10:39:00 +0200"
-    },
-    {
-      "title": "Flammen in Andalusien breiten sich aus",
-      "summary": "Seit Donnerstag brennen im Süden Spanien große Waldflächen, zwölf Menschen starben. Nun mussten wieder Hunderte in Sicherheit gebracht werden. Die Feuerwehr macht aber Fortschritte bei der Brandbekämpfung.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/feuer-andalusien-spanien-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 16:13:43 +0200"
-    },
-    {
-      "title": "Verdächtiger im Mordfall Widdecombe wieder frei",
-      "summary": "Ein nach dem Tod einer Ex-Ministerin in Großbritannien festgenommener Mann ist auf freien Fuß gesetzt worden. Gegen den zunächst unter Mordverdacht stehenden 26-Jährigen werde nicht mehr ermittelt, so die Polizei. Von Lisa-Maria Röhling.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-102.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 18:29:39 +0200"
-    },
-    {
-      "title": "Belgien plant Straßenmaut für alle Autos",
-      "summary": "Das Autofahren in Belgien soll künftig Geld kosten. Alle drei Regionen des Landes einigten sich auf eine Mautplakette für Pkw - für Belgier als auch für Ausländer. Die Kosten sollen sich je nach Fahrzeug unterscheiden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 11:18:50 +0200"
+      "published": "Mon, 13 Jul 2026 17:33:58 +0200"
     },
     {
       "title": "WM 2026: Frankreich und Spanien im Head-to-Head-Vergleich",
@@ -634,10 +715,42 @@
       "published": "Mon, 13 Jul 2026 13:42:00 +0200"
     },
     {
-      "title": "WM-News: Slaven Bilic neuer Nationaltrainer von Kroatien",
-      "summary": "Der frühere Bundesliga-Coach übernimmt das Team zum zweiten Mal. Frankreich will mit Kriegermentalität ins Finale. Alle News und kuriosen Geschichten die WM 2026 im Liveblog.",
+      "title": "Die FIFA bekommt im Halbfinale, was sie wollte",
+      "summary": "Erstmals stehen in den WM-Halbfinals die Top vier der Weltrangliste gegenüber. Eine Regeländerung der FIFA hat diese Konstellation begünstigt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/slaven-balic-neuer-nationaltrainer-von-kroatien,wm-liveblog-100.html",
+      "url": "https://www.tagesschau.de/sport/die-fifa-bekommt-im-halbfinale-was-sie-wollte,wm-halbfinals-weltrangliste-setzliste-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 14 Jul 2026 09:28:29 +0200"
+    },
+    {
+      "title": "WM-Halbfinale: Déjà-vu-Alarm - scheitert England an Messi wie einst an Maradona?",
+      "summary": "1986 wurde England bei der WM von Ausnahmespieler Diego Maradona eliminiert. 40 Jahre später droht den \"Three Lions\" ein ähnliches Schicksal. Der Maradona von einst heißt heute Lionel Messi.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/deja-vu-alarm-scheitert-england-wieder-an-einer-one-man-show,messi-maradonna-einzelkoenner-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 13 Jul 2026 19:54:59 +0200"
+    },
+    {
+      "title": "WM-News: Neun Tore - So lief das letzte Duell zwischen Frankreich und Spanien",
+      "summary": "Das Halbfinale Frankreich gegen Spanien verspricht Spektakel, gegen Infantino gibt es eine neue Beschwerde und Erling Haaland hat eine Vorliebe für ausgefallene Souvenirs. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/waschbaer-statt-wm-pokal-haaland-ergattert-besonderes-souvenir,wm-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -647,103 +760,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 14:37:57 +0200"
-    },
-    {
-      "title": "Im Fall Balogun entschied wohl ein Einzelrichter",
-      "summary": "Der Fall Balogun wurde im FIFA-Disziplinarkomitee wohl von einer Einzelperson behandelt - nach dem Telefonat zwischen Gianni Infantino und Donald Trump.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/im-fall-balogun-entschied-wohl-ein-einzelrichter,wm-balogun-einzelrichter-disziplinarkomitee-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 11:35:46 +0200"
-    },
-    {
-      "title": "Vozinha, Manzambi und Co.: der Einfluss der WM auf den Transfermarkt",
-      "summary": "Während der Fußball-WM stehen viele Fußballer voll im Fokus. Während plötzlich Spieler wie Orlando Gill und Vozinha gefragt sind, bezweifelt Markus Krösche, dass ein gutes Turnier Stars viel teurer werden lässt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/vozinha-manzambi-und-co-der-einfluss-der-wm-auf-transfermarkt,wm-welchen-auswirkungen-hat-die-fussball-wm-auf-den-transfermarkt-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 22:32:07 +0200"
-    },
-    {
-      "title": "Vozinha, Nyland, Shobeir: Sind die Torhüter die Gewinner der WM 2026?",
-      "summary": "Von Nyland über Vozinha bis zu Shobeir - bei dieser WM wird viel über die Torhüter geredet. Doch sind ihre Leistungen wirklich so überragend?",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/vozinha-nyland-shobeir-sind-die-torhueter-die-gewinner-der-wm-2026,torhueter-wm-2026-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 09:22:53 +0200"
-    },
-    {
-      "title": "WM Spielplan: Übersicht der Spiele mit TV-Übertragung",
-      "summary": "Die Fußball-WM der Männer findet vom 11. Juni bis 19. Juli 2026 in Kanada, Mexiko und den USA statt, mit 48 Teams und 104 Spielen. Alle Spiele und Anstoßzeiten hier im übersichtlichen Spielplan.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/der-spielplan-der-fussball-wm-2026,fifawm-spielplan-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 12 Jul 2026 05:47:22 +0200"
-    },
-    {
-      "title": "Tour de France: John Degenkolb und sein letzter Tanz in Frankreich",
-      "summary": "John Degenkolb bestreitet zum elften Mal die Tour de France. Es ist sein letzter Start beim wichtigsten Radrennen der Welt, dass auch seine Karriere definiert hat.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/degenkolbs-letzter-tanz-in-frankreich,tour-de-france-ruhetag-john-degenkolb-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 13:57:39 +0200"
-    },
-    {
-      "title": "Wegen frühem WM-Aus: DFB plant mit fast zehn Millionen Defizit",
-      "summary": "Der Deutsche Fußball-Bund plant mit einem WM-Minus von fast zehn Millionen Euro. Die Trennung von Julian Nagelsmann und weitere Kosten kommen noch hinzu.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/wm-desaster-sorgt-fuer-grosses-defizit-beim-dfb,wm-fuer-dfb-aus-finanzielles-desaster-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 10:52:05 +0200"
+      "published": "Tue, 14 Jul 2026 11:53:14 +0200"
     }
   ],
   "crises": [
@@ -755,10 +772,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "intensity": 5,
+      "last_seen": "2026-07-14",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -900,9 +917,49 @@
         {
           "lat": 45.358373433514586,
           "lon": 3.492977729866858
+        },
+        {
+          "lat": 45.713747071813735,
+          "lon": 3.108912938984673
+        },
+        {
+          "lat": 44.84791137003105,
+          "lon": 0.6140105138894891
+        },
+        {
+          "lat": 43.52115251469965,
+          "lon": 2.6829637597837634
+        },
+        {
+          "lat": 44.707991616346405,
+          "lon": 3.6551584465421403
+        },
+        {
+          "lat": 46.80528290899175,
+          "lon": 1.3048702332299131
+        },
+        {
+          "lat": 48.818153247274495,
+          "lon": 0.7668432725380041
+        },
+        {
+          "lat": 45.216164406053295,
+          "lon": 4.148736940252183
+        },
+        {
+          "lat": 44.600563078174034,
+          "lon": 4.46017845356876
+        },
+        {
+          "lat": 43.79154723769369,
+          "lon": 4.466268490163555
+        },
+        {
+          "lat": 46.58190473539846,
+          "lon": 2.267598226715135
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
     },
     {
       "id": "conflict-spanien",
@@ -972,7 +1029,7 @@
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-13",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": [
         [
           26.7,
@@ -1050,9 +1107,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
+      "label": "Ukraine meldet mehrere Tote nach russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1257,7 +1314,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-176.html"
     },
     {
       "id": "conflict-russland",
@@ -1269,8 +1326,8 @@
       },
       "label": "Russland meldet mehr als 450 ukrainische Drohnen - auch auf Moskau",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "intensity": 4,
+      "last_seen": "2026-07-14",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1392,6 +1449,26 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-moskau-100.html"
@@ -1407,7 +1484,7 @@
       "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
@@ -1435,11 +1512,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Tote bei Waldbrand im Süden Spaniens",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html",
+      "label": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
+      "last_seen": "2026-07-14",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1455,7 +1532,7 @@
       "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1470,8 +1547,8 @@
       "label": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
       "url": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "intensity": 1,
+      "last_seen": "2026-07-14",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1533,8 +1610,60 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
+        },
+        {
+          "lat": 49.51761492907515,
+          "lon": 8.686865152180978
+        },
+        {
+          "lat": 49.444432054698915,
+          "lon": 10.35149013834167
+        },
+        {
+          "lat": 49.353474452191726,
+          "lon": 9.222896063214957
+        },
+        {
+          "lat": 53.15928180700652,
+          "lon": 12.677392928248711
+        },
+        {
+          "lat": 51.17650378913572,
+          "lon": 11.876194805039255
         }
       ]
+    },
+    {
+      "id": "wildfire-griechenland",
+      "type": "wildfire",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
+      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-frankreich",
+      "type": "storm",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Frankreich und Spanien im WM-Halbfinale - Gewitter trifft auf Uhrwerk",
+      "url": "https://www.tagesschau.de/sport/franzoesisches-gewitter-trifft-auf-spanisches-uhrwerk,wm-halbfinale-frankreich-spanien-das-beste-spiel-des-turniers-100.html",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
