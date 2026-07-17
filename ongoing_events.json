@@ -10,7 +10,7 @@
       },
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -285,7 +285,7 @@
       "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-13",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": [
         [
           26.7,
@@ -363,9 +363,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine greift Ölproduktion an, Russland ein Schiff",
+      "label": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -570,7 +570,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
+      "url": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html"
     },
     {
       "id": "conflict-russland",
@@ -582,8 +582,8 @@
       },
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-16",
-      "intensity": 5,
+      "last_seen": "2026-07-17",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -725,6 +725,26 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
+        },
+        {
+          "lat": 63.01591423191035,
+          "lon": 106.50348857002088
+        },
+        {
+          "lat": 63.406282377426116,
+          "lon": 106.11403138929978
+        },
+        {
+          "lat": 63.56320607199874,
+          "lon": 107.52500839744951
+        },
+        {
+          "lat": 61.86481182566956,
+          "lon": 106.43257439045202
+        },
+        {
+          "lat": 62.867105840110945,
+          "lon": 106.93341763191377
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
@@ -772,7 +792,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-15",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -804,7 +824,7 @@
       "url": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-15",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -866,26 +886,6 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
-        },
-        {
-          "lat": 49.51761492907515,
-          "lon": 8.686865152180978
-        },
-        {
-          "lat": 49.444432054698915,
-          "lon": 10.35149013834167
-        },
-        {
-          "lat": 49.353474452191726,
-          "lon": 9.222896063214957
-        },
-        {
-          "lat": 53.15928180700652,
-          "lon": 12.677392928248711
-        },
-        {
-          "lat": 51.17650378913572,
-          "lon": 11.876194805039255
         }
       ]
     },
@@ -900,8 +900,8 @@
       "label": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "intensity": 0,
+      "last_seen": "2026-07-17",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -929,11 +929,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Weltraumpolitik: Raumfahrer aus USA und Russland erreichen ISS",
-      "url": "https://www.tagesschau.de/ausland/iss-besatzung-ankunft-100.html",
+      "label": "Iranische Medien: USA greifen Brücken und Flughafen an",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-16",
-      "intensity": 2,
+      "last_seen": "2026-07-17",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1015,6 +1015,26 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
+        },
+        {
+          "lat": 39.21289723441515,
+          "lon": -95.3185407491224
+        },
+        {
+          "lat": 34.85938201632081,
+          "lon": -98.08926331314602
+        },
+        {
+          "lat": 36.48879791435269,
+          "lon": -96.03788115844209
+        },
+        {
+          "lat": 37.97230655513269,
+          "lon": -93.49135820988958
+        },
+        {
+          "lat": 35.67827396692878,
+          "lon": -95.01808241792573
         }
       ]
     },
@@ -1086,8 +1106,8 @@
       "label": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "intensity": 1,
+      "last_seen": "2026-07-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1149,9 +1169,29 @@
         {
           "lat": 61.96861766168804,
           "lon": 23.175483882728614
+        },
+        {
+          "lat": 64.59706843176544,
+          "lon": 24.32440611404446
+        },
+        {
+          "lat": 59.030616416675066,
+          "lon": 25.430342449236043
+        },
+        {
+          "lat": 61.83805976741658,
+          "lon": 22.988719257784012
+        },
+        {
+          "lat": 59.11085439622877,
+          "lon": 26.74884851623044
+        },
+        {
+          "lat": 61.92933315812583,
+          "lon": 27.38997603196394
         }
       ]
     }
   ],
-  "updated_at": "2026-07-16"
+  "updated_at": "2026-07-17"
 }
