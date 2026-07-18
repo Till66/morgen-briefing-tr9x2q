@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:26:37.192354+00:00",
+  "generated_at": "2026-07-18T09:11:45.381704+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,102 @@
   },
   "articles": [
     {
+      "title": "Wie das Rätsel um einen Holocaust-Täter gelöst wurde",
+      "summary": "Die Aufnahme von einer Hinrichtung im Sommer 1941 gilt als eines der bekanntesten Fotos des Holocaust. Über den Schützen war lange vieles unbekannt - bis jetzt. Wie wurde Jakobus Onnen zum Täter? Von Susann Reich.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/jakobus-onnen-holocaust-foto-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 10:59:15 +0200"
+    },
+    {
+      "title": "Innenminister Dobrindt warnt vor verschärfter Sicherheitslage",
+      "summary": "Angesichts vermehrter Meldungen schätzt Bundesinnenminister Dobrindt die Bedrohungslage in Deutschland inzwischen als hoch ein. Anschlagspläne gegen das Land seien klar erkennbar, sagt der CSU-Politiker.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/sicherheit-dobrindt-anschlagsgefahr-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 09:24:02 +0200"
+    },
+    {
+      "title": "Drei Erkenntnisse zu Schwarz-Rot zur Sommerpause",
+      "summary": "Nach einem schwierigen Jahr steckt Schwarz-Rot nun im Reformeifer. Der Druck, liefern zu müssen, ist hoch. Offen bleibt, ob Union und SPD verlorenes Vertrauen zurückgewinnen können. Drei Erkenntnisse zur Regierungskoalition. Von C. Emundts.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/schwarz-rot-vor-der-sommerpause-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 08:19:19 +0200"
+    },
+    {
+      "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
+      "summary": "Tumulte und Beschimpfungen: Der Machtkampf im NRW-Landesverband der AfD ist eskaliert. Er bedroht die Zulassung zur Landtagswahl und stellt die Spitze der Bundespartei vor schwierige Entscheidungen. Von Dagmar Pepping.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 22:07:23 +0200"
+    },
+    {
+      "title": "Unions-Fraktionschef Spahn verteidigt Leihmutterschaft gegen Kritik",
+      "summary": "Die Forderungen nach einem Rücktritt Spahns werden lauter. Jetzt hat der CDU-Politiker die Entscheidung für eine Leihmutterschaft verteidigt: Es seien \"keine einfachen Entscheidungen\" gewesen. Über seine Zukunft solle die Fraktion entscheiden.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 22:01:53 +0200"
+    },
+    {
+      "title": "Debatte über Leihmutterschaft: CDU-Landeschef fordert Spahns Rücktritt",
+      "summary": "Seit bekannt ist, dass Jens Spahn und sein Ehemann mithilfe einer Leihmutter Eltern geworden sind, wächst die Kritik am Unionsfraktionschef - auch aus den eigenen Reihen. Jetzt fordert ein CDU-Landesverband seinen Rücktritt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/jens-spahn-leihmutter-debatte-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 15:08:52 +0200"
+    },
+    {
       "title": "Debatte um Leihmutterschaft: Grüne fordern Erklärung von Spahn",
       "summary": "Nach der Geburt des Sohnes von Jens Spahn und seinem Ehemann durch eine Leihmutter wächst die Kritik. Grünen-Chef Banaszak forderte Spahn auf, sich zu erklären. Der Chef der Senioren-Union verweist auf den Parteitagsbeschluss.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -77,11 +173,43 @@
       "published": "Fri, 17 Jul 2026 04:49:14 +0200"
     },
     {
-      "title": "Warken rechnet mit 650 Millionen Euro Einnahmen aus Zuckersteuer",
-      "summary": "Die Bundesregierung rechnet durch die geplante Zuckersteuer mit Einnahmen von 650 Millionen Euro im kommenden Jahr, so Gesundheitsministerin Warken. Zugute kommen soll das den gesetzlichen Krankenkassen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-warken-100.html",
-      "category": "politik",
+      "title": "Warum Konzerttickets immer teurer werden",
+      "summary": "Wer in den USA zu einem Konzert gehen will, muss teilweise Tausende Dollar bezahlen. Und auch hierzulande wird es immer teurer, während kleiner Festivals ums Überleben kämpfen. Wie die Preise entstehen, erklärt Noel Schmidt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/konzert-tickets-preise-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 08:26:06 +0200"
+    },
+    {
+      "title": "Geteilte Reaktionen auf EU-Vorschlag zum Emissionshandel",
+      "summary": "Mit einer Reform des Emissionshandels will die EU-Kommission die Industrie entlasten. Dafür sollen die Einnahmen gezielter in Dekarbonisierung fließen. Die Reaktionen sind gespalten. Von T. Spickhofen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-102.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 16:57:59 +0200"
+    },
+    {
+      "title": "100.000 Jobs, vier Werke: VW-Streit eskaliert zur Sommerpause",
+      "summary": "An den Standorten des kriselnden Autobauers Volkswagen beginnen die Werksferien. Die aufgeheizte Stimmung bleibt: Was erwartet die Beschäftigten bei ihrer Rückkehr? Von Bertil Starke.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-zukunft-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -90,46 +218,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 02:44:36 +0200"
+      "published": "Fri, 17 Jul 2026 12:55:47 +0200"
     },
     {
-      "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
-      "summary": "Bei der AfD in Nordrhein-Westfalen eskaliert ein Streit über die Kandidatenaufstellung für die Landtagswahl im kommenden Jahr. Die Bundesvorsitzenden Chrupalla und Weidel fordern den Landesvorstand nun auf, die Aufstellung abzubrechen. Von Gabor Halasz.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html",
-      "category": "politik",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 21:16:53 +0200"
-    },
-    {
-      "title": "Wadephul an der NATO-Nordflanke: Alles, nur kein Alarmismus",
-      "summary": "Erst Norwegen, dann Finnland: Vier Tage war Außenminister Wadephul an der NATO-Nordflanke unterwegs. Und immer wieder geht es um eine Frage: Wie kann man sich besser gegen Russland schützen? Von Christina Nagel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wadephul-norwegen-finnland-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Norwegen",
-        "lat": 60.472,
-        "lon": 8.4689
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 18:00:35 +0200"
-    },
-    {
-      "title": "Kassenreform: Was bedeuten die Kürzungen für Psychotherapien?",
-      "summary": "Das Sparpaket für die gesetzliche Krankenversicherung sieht Kürzungen in der Psychotherapie vor. Die Branche zeigt sich alarmiert und warnt vor den Folgen. Ein Gesundheitsökonom erkennt aber auch Chancen. Von Jens Eberl.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/psychotherapie-gkv-reform-100.html",
-      "category": "politik",
+      "title": "VW-Chef Blume: Bis zu 50.000 Stellen könnten wegfallen",
+      "summary": "Lange wurde über die Zahlen spekuliert, jetzt erklärt der VW-Chef erstmals, wie viele Jobs beim Autohersteller wegfallen könnten. Auch die Schließung von Werken ist nicht vom Tisch.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-blume-sparplaene-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -138,14 +234,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 17:29:41 +0200"
+      "published": "Mon, 13 Jul 2026 13:10:33 +0200"
     },
     {
-      "title": "Bundesregierung: Ostdeutsche haben seltener Spitzenämter",
-      "summary": "Bis heute gibt es in Politik, Justiz oder Wirtschaft eine \"Repräsentationslücke Ost\". Heißt: Top-Jobs gehen eher an Westdeutsche. Das gesteht auch die Bundesregierung ein. Die Linke fordert Veränderung. Von F. Aischmann.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/westdeutschland-ostdeutschland-luecke-100.html",
-      "category": "politik",
+      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
+      "summary": "Der kriselnde Autobauer VW muss sparen. Mehr als 100.000 Stellen könnten wegfallen, Standorte sind in Gefahr. Konzernchef Blume sagte nun, er sehe \"intelligentere Lösungen\" statt Werksschließungen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -154,23 +250,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 17:27:15 +0200"
+      "published": "Sun, 12 Jul 2026 04:35:03 +0200"
     },
     {
-      "title": "Bär plant Weltraumgesetz und Astronauten-Programm für Jugendliche",
-      "summary": "Raumfahrt ist der Bundesregierung ein eigenes Ressort wert. Die zuständige Ministerin Bär kündigt das lange geplante Weltraumgesetz für nach der Sommerpause an - und plant einen Parabelflug für Jugendliche. Von Sarah Beham.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/baer-weltraumgesetz-astronauten-programm-100.html",
-      "category": "politik",
+      "title": "Wie Volkswagen sich in China neu erfinden will",
+      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
+    },
+    {
+      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 15:04:16 +0200"
+      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
     },
     {
       "title": "Bundesnetzagentur macht Weg für Konkurrenz auf der Schiene frei",
@@ -186,119 +298,36 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 12:23:00 +0200"
+      "published": "Fri, 17 Jul 2026 14:53:54 +0200"
     },
     {
-      "title": "Wettbewerb im Fernverkehr: Monopolkommission stärkt Italo-Pläne",
-      "summary": "Die Monopolkommission unterstützt die Pläne der Bundesnetzagentur für mehr Wettbewerb im Bahnverkehr. Verkehrsminister Schnieder warnt vor einem Fernverkehr, der sich nur noch auf lukrative Strecken konzentriert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/wettbewerb-fernverkehr-monopolkommission-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
+      "summary": "Der gemeinsame Kampfjet scheiterte, doch Deutschland und Frankreich wollen ihre militärische Zusammenarbeit ausbauen. Das gaben Kanzler Merz und Präsident Macron nach dem Deutsch-Französischen Ministerrat bekannt. Im Fokus: atomare Abschreckung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
+        "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Deutschland",
+            "lat": 51.1657,
+            "lon": 10.4515
+          },
+          "to": {
+            "name": "Frankreich",
+            "lat": 46.2276,
+            "lon": 2.2137
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Wed, 15 Jul 2026 14:30:32 +0200"
-    },
-    {
-      "title": "Schifffahrt, Energieversorgung und Umwelt leiden unter Niedrigwasser",
-      "summary": "Der Pegelstand des Rhein ist schon jetzt zu niedrig, Schiffe können nur mit einem Drittel der Last fahren. Bei normalem Wasserstand sind begradigte Flüsse nützlich - aber in Hitzeperioden werden sie zum Problem. Von Jakob Sax.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schifffahrt-niedrigwasser-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 11:29:25 +0200"
-    },
-    {
-      "title": "BGH-Urteil: Eigentümer haben Anspruch auf Klimaanlage am Balkon",
-      "summary": "Wohnungseigentümer haben ein Anrecht darauf, ein Klimagerät auf ihrem Balkon einbauen zu lassen. Eine Hausgemeinschaft muss dies grundsätzlich gestatten. Das hat der Bundesgerichtshof entschieden.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaanlagen-balkon-wohnungseigentuemer-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 12:16:58 +0200"
-    },
-    {
-      "title": "Hitze wird an vielen Arbeitsplätzen zunehmend zur Belastung",
-      "summary": "Arbeiten trotz Hitze: Das ist nicht nur belastend, im Extremfall wird es auch zur Gefahr für den Körper. Helfen sollen Vorschriften für Temperaturen im Arbeitsraum. Aber die Realität sieht oft anders aus. Von Clara Wehner.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeiten-bei-hitze-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 18:27:30 +0200"
-    },
-    {
-      "title": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
-      "summary": "Von Griechenland bis Nordengland: Eine erneute Hitzewelle hat das Wetter in Europa im Griff. In mehreren Ländern kommt es zu Waldbränden, die teils extrem hohen Temperaturen sind aber auch eine große Gefahr für Menschen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
-      "category": "wirtschaft",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 18:26:57 +0200"
-    },
-    {
-      "title": "Konferenz in Shanghai zu den Chancen und Gefahren der KI",
-      "summary": "Shanghai ist ab heute Gastgeber der \"Weltkonferenz für Künstliche Intelligenz\", kurz WAIC. Entwickler und Nutzer tauschen sich darüber aus, was KI heute schon leistet. Von Sebastian Hesse.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-konferenz-shanghai-auftakt-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Shanghai",
-        "lat": 31.2304,
-        "lon": 121.4737
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 12:12:10 +0200"
-    },
-    {
-      "title": "Netflix nutzt KI in rund 300 Filmen und Serien",
-      "summary": "Netflix hat allein in diesem Jahr bei rund 300 Filmen und Serien Künstliche Intelligenz eingesetzt. Der Streamingdienst sieht darin ein Werkzeug für Kreative. An der Börse herrscht derweil Skepsis.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-einsatz-kuenstliche-intelligenz-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 08:41:23 +0200"
+      "published": "Fri, 17 Jul 2026 18:10:55 +0200"
     },
     {
       "title": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
@@ -449,62 +478,45 @@
       "published": "Mon, 13 Jul 2026 21:04:45 +0200"
     },
     {
-      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
-      "summary": "In der Nacht zum Samstag hat Russland die Ukraine erneut mit Raketen angegriffen. Es gab mindestens acht Tote. Trotz der aktuellen Eskalation sieht Bundesaußenminister Wadephul jetzt einen guten Zeitpunkt für Verhandlungen.",
+      "title": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
+      "summary": "Um Iran unter Druck zu setzen, blockieren die USA die Häfen in der Straße von Hormus. Ein Tanker, der die Blockade durchbrechen wollte, wurde beschossen. Auch eine Maut war im Gespräch. Ist all das durch das Völkerrecht gedeckt? Von B.-H. Otte.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html",
       "category": "konflikte",
-      "event_type": "conflict",
+      "event_type": "blockade",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Straße von Hormus",
+        "lat": 26.5,
+        "lon": 56.25
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
+      "connections": [],
+      "chokepoint_lane": [
+        [
+          26.7,
+          52.5
+        ],
+        [
+          25.0,
+          58.5
+        ]
       ],
-      "chokepoint_lane": null,
-      "published": "Sat, 11 Jul 2026 19:36:00 +0200"
+      "published": "Sat, 18 Jul 2026 05:10:36 +0200"
     },
     {
-      "title": "Iranische Medien: USA greifen Brücken und Flughafen an",
-      "summary": "In der sechsten Angriffsnacht in Folge haben die USA in Iran unter anderem Brücken bombardiert. Iranische Medien berichten von mindestens sieben Toten. Teheran reagierte mit Schlägen gegen die Golfstaaten.",
+      "title": "Neuer Labour-Chef Andy Burnham: Sein Rezept heißt Regionalisierung",
+      "summary": "Mehr Geld und Verantwortung für die Regionen: Der künftige britische Premier Burnham will nicht nur in und für London regieren - und damit die Wirtschaft ankurbeln. Die Erwartungen sind groß, aber auch die Herausforderungen. Von Christoph Prössl.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/andy-burnham-portraet-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "London",
+        "lat": 51.5072,
+        "lon": -0.1276
       },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 11:28:14 +0200"
+      "published": "Fri, 17 Jul 2026 16:59:00 +0200"
     },
     {
       "title": "Andy Burnham wird Labour-Chef: Zwischen Hoffen und Zweifeln",
@@ -619,26 +631,10 @@
       "published": "Wed, 15 Jul 2026 13:48:49 +0200"
     },
     {
-      "title": "Zahl der Kinder weltweit ohne Impfungen sinkt",
-      "summary": "Noch immer erhalten Millionen Kinder weltweit in ihrem ersten Lebensjahr keine Impfung. Doch die Zahl sinkt, zeigt ein Bericht von WHO und UNICEF. Ein Land verzeichnet eine besonders starke Aufwärtskurve.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/impfungen-kinder-europa-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 15 Jul 2026 12:05:15 +0200"
-    },
-    {
-      "title": "WM-News: Final-Rasen soll bei \"95 Prozent\" sein",
-      "summary": "Am Endspiel-Ort machen die klimatischen Bedingungen Sorgen, außerdem steht der Final-Schiedsrichter fest und auch die FIFA hat eine neue Idee. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
+      "title": "Spiel um Platz drei - viel Historie, wenig Bedeutung",
+      "summary": "Das Spiel um Platz drei löst seit jeher die Sinnfrage aus. Dabei hat das Spiel große Momente gehabt und bekommt bei dieser WM einen neuen Namen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/final-rasen-soll-besser-geworden-sein,wm-liveblog-100.html",
+      "url": "https://www.tagesschau.de/sport/spiel-um-platz-drei-viel-historie-wenig-bedeutung,spiel-um-platz-drei-118.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -648,13 +644,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 11:25:12 +0200"
+      "published": "Fri, 17 Jul 2026 14:54:22 +0200"
     },
     {
-      "title": "Sportmediziner: Verlängerte Halbzeitdauer \"nicht unproblematisch\"",
-      "summary": "Im WM-Finale wird die Pause wegen der Halbzeitshow über 20 Minuten dauern. Das kann laut Sportmediziner Hans-Georg Predel negative Folgen für die Spieler haben.",
+      "title": "WM-News: Mexikos Präsidentin besucht WM-Finale nach Trump-Einladung",
+      "summary": "Mexikos Präsidentin reist zum WM-Finale an, Trump und Infantino überbieten sich in Superlativen und Lamine Yamal kann gegen Argentinien spielen. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/sportmediziner-warnt-vor-verlaengerter-halbzeitdauer,wm-sportmediziner-warnt-vor-laengerer-halbzeit-100.html",
+      "url": "https://www.tagesschau.de/sport/sheinbaum-besucht-wm-finale-nach-einladung,wm-liveblog-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 11:09:21 +0200"
+    },
+    {
+      "title": "19 Jahre nach den Babyfotos - Wiedersehen im WM-Finale",
+      "summary": "\"Besser als jedes Drehbuch\": Vor 19 Jahren badet Lionel Messi bei einem Fotoshooting ein Baby. Es ist Lamine Yamal. Jetzt kommt es zum Wiedersehen im WM-Finale.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/19-jahre-nach-babyfotos-wiedersehen-im-wm-finale,wm-lionel-messi-lamine-yamal-foto-badewanne-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -664,13 +676,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 20:43:04 +0200"
+      "published": "Sat, 18 Jul 2026 08:59:59 +0200"
     },
     {
-      "title": "VAR Dankert bei der WM 2026 - sein nächstes großes Finale",
-      "summary": "Bastian Dankert wird als Video-Assistent beim WM-Finale dabei sein. Der DFB-Schiri ist seit Jahren bei allen großen Spielen vertreten - zuletzt beim Champions-League-Finale.",
+      "title": "WM 2026: Spanien auf dem Weg zur goldenen Generation 2.0",
+      "summary": "Zwischen 2008 und 2012 gewann Spaniens goldene Generation alles, was es zu gewinnen gab. Die aktuelle Generation könnte es ihr gleichtun. Parallelen gibt es, Unterschiede auch. Aber vor allem fehlt eines.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/var-dankert-sein-naechstes-grosses-finale,var-bastian-dankert-100.html",
+      "url": "https://www.tagesschau.de/sport/spanien-auf-dem-weg-zur-zweiten-goldenen-generation,spanien-goldene-generation-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 14:22:49 +0200"
+    },
+    {
+      "title": "WM 2026: Ein Tag mehr Pause - Vorteil Spanien gegenüber Argentinien ?",
+      "summary": "Spanien hat nach dem Halbfinale einen Tag mehr Pause als Finalgegner Argentinien. \"Auf jeden Fall ein leichter Vorteil\", sagt ein Sportwissenschaftler. Die jüngsten Statistiken weisen auch darauf hin.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/ein-tag-mehr-eisbad-leichter-vorteil-spanien,wm-regeneration-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 18:40:32 +0200"
+    },
+    {
+      "title": "Wohl mehr als 200 Unterstützerschreiben für Infantino",
+      "summary": "Gianni Infantino kann sich offenbar einer breiten Unterstützung bei der Wiederwahl zum FIFA-Präsidenten sicher sein. Laut Medienberichten hat eine große Mehrheit der Nationalverbände Unterstützerschreiben unterzeichnet. Bindend sind diese aber nicht.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/wohl-mehr-als-200-unterstuetzerschreiben-fuer-infantino,wm-guardian-mehr-als-200-unterstuetzerschreiben-fuer-infantino-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -680,23 +724,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 09:26:10 +0200"
-    },
-    {
-      "title": "WM 2026: Tuchel in England harsch kritisiert, aber wohl nicht vor dem Aus",
-      "summary": "Thomas Tuchel wird nach dem bitteren Halbfinal-Aus der \"Three Lions\" im Königreich förmlich in der Luft zerrissen. Aufgeben ist für ihn aber keine Option.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/harsche-kritik-an-tuchel-trainer-darf-wohl-weitermachen,wm-tuchel-denkt-nicht-an-ruecktritt-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 18:21:06 +0200"
+      "published": "Fri, 17 Jul 2026 22:11:23 +0200"
     },
     {
       "title": "WM Spielplan: Übersicht der Spiele mit TV-Übertragung",
@@ -715,10 +743,10 @@
       "published": "Wed, 15 Jul 2026 23:03:41 +0200"
     },
     {
-      "title": "13. Etappe der Tour de France - Dole - Belfort (205 km)",
-      "summary": "Die einzige Tour-Etappe über 200 Kilometer Länge bietet mit einer Wertung der ersten Kategorie einen kleinen Appetithappen für die nächsten Tage.",
+      "title": "Tom Pidcock ist jetzt im Spiel - oder doch nicht?",
+      "summary": "Tom Pidcock hat die 13. Etappe in Belfort zwar nicht gewonnen, dafür machte er einen gewaltigen Satz in der Gesamtwertung. Welche Gefahr stellt er für die Podiumskandidaten dar?",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/13-etappe-dole-belfort-205-km,etappe-dreizehn-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/tom-pidcock-ist-jetzt-im-spiel-oder-doch-nicht,tour-de-france-13-etappe-analyse-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -728,39 +756,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 16 Jun 2026 10:40:38 +0200"
-    },
-    {
-      "title": "\"Wildschwein\" Veistroffer tut es für die Schönheit des Radsports",
-      "summary": "Zum dritten Mal gehört der Franzose Baptiste Veistroffer bei einer Flachetappe zu den Ausreißern. Er weiß, dass er so gut wie keine Chance hat, aber er genießt, was er tut.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/das-wildschwein-tut-es-fuer-die-schoenheit-des-radsports,tour-de-france-12-etappe-analyse-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 20:56:28 +0200"
-    },
-    {
-      "title": "Spielerberater-Reglement der FIFA - ein Fall für die Justiz",
-      "summary": "Der Streit um das Spielerberater-Reglement der FIFA geht in die nächste Runde. Auch der Europäische Gerichtshof hat keine abschließende Entscheidung darüber getroffen, ob die FIFA die Berater einschränken darf.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/spielerberater-reglement-der-fifa-ein-fall-fuer-die-justiz,ffar-fifa-spielerberater-reglement-eugh-urteil-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 18:04:05 +0200"
+      "published": "Fri, 17 Jul 2026 21:03:48 +0200"
     }
   ],
   "crises": [
@@ -774,7 +770,7 @@
       },
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-07-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1046,10 +1042,10 @@
         "lat": 26.5,
         "lon": 56.25
       },
-      "label": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
+      "label": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "intensity": 0,
+      "last_seen": "2026-07-18",
+      "intensity": 1,
       "chokepoint_lane": [
         [
           26.7,
@@ -1061,63 +1057,7 @@
         ]
       ],
       "subpoints": [],
-      "url": "https://www.tagesschau.de/ausland/usa-iran-174.html"
-    },
-    {
-      "id": "conflict-ankara",
-      "type": "conflict",
-      "location": {
-        "name": "Ankara",
-        "lat": 39.9334,
-        "lon": 32.8597
-      },
-      "label": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 37.400643139275175,
-          "lon": 34.646879573156674
-        },
-        {
-          "lat": 37.96611668381819,
-          "lon": 35.69618429620929
-        },
-        {
-          "lat": 40.36508075043514,
-          "lon": 30.584247711369706
-        },
-        {
-          "lat": 40.53516453171339,
-          "lon": 32.726028181900624
-        },
-        {
-          "lat": 42.18687711361327,
-          "lon": 29.983077306415552
-        },
-        {
-          "lat": 38.4736365805442,
-          "lon": 33.357454508046835
-        },
-        {
-          "lat": 38.72166156579616,
-          "lon": 32.26336153940643
-        },
-        {
-          "lat": 38.517102639579704,
-          "lon": 35.47774685919034
-        },
-        {
-          "lat": 41.53006363862265,
-          "lon": 33.8660787512496
-        },
-        {
-          "lat": 37.12148341403214,
-          "lon": 30.727387592484913
-        }
-      ]
+      "url": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html"
     },
     {
       "id": "conflict-ukraine",
@@ -1127,9 +1067,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
+      "label": "Ukraine greift Ölproduktion an, Russland ein Schiff",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-07-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1334,7 +1274,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
     },
     {
       "id": "conflict-russland",
@@ -1346,8 +1286,8 @@
       },
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-17",
-      "intensity": 6,
+      "last_seen": "2026-07-18",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1509,6 +1449,26 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
+        },
+        {
+          "lat": 58.63076494150114,
+          "lon": 106.1283869379606
+        },
+        {
+          "lat": 62.81477312310477,
+          "lon": 107.03005341363047
+        },
+        {
+          "lat": 61.04260386983459,
+          "lon": 106.10346300801017
+        },
+        {
+          "lat": 64.34490395871106,
+          "lon": 105.75354971303594
+        },
+        {
+          "lat": 61.7017411632188,
+          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
@@ -1528,21 +1488,6 @@
       "chokepoint_lane": null,
       "subpoints": [],
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
-    },
-    {
-      "id": "disaster-spanien",
-      "type": "disaster",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Tote bei Waldbrand im Süden Spaniens",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "wildfire-spanien",
@@ -1584,11 +1529,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
-      "url": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html",
+      "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
+      "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-15",
-      "intensity": 1,
+      "last_seen": "2026-07-18",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1650,6 +1595,26 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
+        },
+        {
+          "lat": 49.51761492907515,
+          "lon": 8.686865152180978
+        },
+        {
+          "lat": 49.444432054698915,
+          "lon": 10.35149013834167
+        },
+        {
+          "lat": 49.353474452191726,
+          "lon": 9.222896063214957
+        },
+        {
+          "lat": 53.15928180700652,
+          "lon": 12.677392928248711
+        },
+        {
+          "lat": 51.17650378913572,
+          "lon": 11.876194805039255
         }
       ]
     },
@@ -1665,7 +1630,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1697,7 +1662,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-17",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1779,26 +1744,6 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
-        },
-        {
-          "lat": 39.21289723441515,
-          "lon": -95.3185407491224
-        },
-        {
-          "lat": 34.85938201632081,
-          "lon": -98.08926331314602
-        },
-        {
-          "lat": 36.48879791435269,
-          "lon": -96.03788115844209
-        },
-        {
-          "lat": 37.97230655513269,
-          "lon": -93.49135820988958
-        },
-        {
-          "lat": 35.67827396692878,
-          "lon": -95.01808241792573
         }
       ]
     },
@@ -1870,8 +1815,8 @@
       "label": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-17",
-      "intensity": 2,
+      "last_seen": "2026-07-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1953,6 +1898,26 @@
         {
           "lat": 61.92933315812583,
           "lon": 27.38997603196394
+        },
+        {
+          "lat": 64.47119482415279,
+          "lon": 23.501969328061904
+        },
+        {
+          "lat": 62.71396456845651,
+          "lon": 24.72112127552743
+        },
+        {
+          "lat": 60.135127393865176,
+          "lon": 22.95480824147207
+        },
+        {
+          "lat": 63.80286698628039,
+          "lon": 27.94170763624383
+        },
+        {
+          "lat": 59.51922496148123,
+          "lon": 26.898609942993524
         }
       ]
     }
