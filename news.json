@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:11:45.381704+00:00",
+  "generated_at": "2026-07-19T10:08:02.766124+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,10 @@
   },
   "articles": [
     {
-      "title": "Wie das Rätsel um einen Holocaust-Täter gelöst wurde",
-      "summary": "Die Aufnahme von einer Hinrichtung im Sommer 1941 gilt als eines der bekanntesten Fotos des Holocaust. Über den Schützen war lange vieles unbekannt - bis jetzt. Wie wurde Jakobus Onnen zum Täter? Von Susann Reich.",
+      "title": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
+      "summary": "Das kaputtgesparte Schienennetz soll Stück für Stück repariert werden. Doch bei Sanierungen gab es häufig Probleme. Verkehrsminister Schnieder verweist auf die Bahn - aber das lässt ihm nicht jeder durchgehen. Von Jim-Bob Nickschas.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/jakobus-onnen-holocaust-foto-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,15 +58,127 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 10:59:15 +0200"
+      "published": "Sun, 19 Jul 2026 08:12:45 +0200"
     },
     {
-      "title": "Innenminister Dobrindt warnt vor verschärfter Sicherheitslage",
-      "summary": "Angesichts vermehrter Meldungen schätzt Bundesinnenminister Dobrindt die Bedrohungslage in Deutschland inzwischen als hoch ein. Anschlagspläne gegen das Land seien klar erkennbar, sagt der CSU-Politiker.",
+      "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
+      "summary": "Der Druck wegen der Debatte um eine Leihmutterschaft wurde zu stark - Spahn ist zurückgetreten. Davor gab es massive Kritik aus dem eigenen Lager und Sorgen um den Wahlkampf. Was bedeutet das für die CDU, die Landtagswahlen und die Koalition? Eine Analyse von K. Girschick.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/sicherheit-dobrindt-anschlagsgefahr-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
       "category": "politik",
-      "event_type": "tension",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 20:21:25 +0200"
+    },
+    {
+      "title": "Politikwissenschaftler zu Spahn: \"Spahn hat das Thema unterschätzt\"",
+      "summary": "Politikwissenschaftler Oliver Lembcke im tagesschau24-Interview über die Gründe für Spahns Rücktritt - und welche Folgen dies haben könnte.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/interview-oliver-lembcke-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 19:32:28 +0200"
+    },
+    {
+      "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
+      "summary": "Der Chefposten in der Unionsfraktion muss neu besetzt werden. Kanzler Merz will offenbar keine Zeit verlieren - und die Personalie Medienberichten zufolge noch vor Beginn der Urlaubszeit klären. Es gibt mehrere potenzielle Kandidaten.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 18:20:20 +0200"
+    },
+    {
+      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
+      "summary": "Nach dem Rücktritt von Spahn als Unionsfraktionschef gibt es Zustimmung aus der Koalition. Die Opposition bezeichnet den Schritt als \"überfällig\" und prangert eine \"Doppelmoral\" des CDU-Politikers an.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 19:56:34 +0200"
+    },
+    {
+      "title": "Ehrgeiz und Wille zur Macht: Spahns politische Karriere",
+      "summary": "Die politische Karriere Spahns begann früh - mit 22 Jahren als CDU-Bundestagsabgeordneter. Er profilierte sich schnell. Als Gesundheitsminister überstand Spahn die Corona-Maskenaffäre. Ein Rückblick.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-spahn-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 14:55:33 +0200"
+    },
+    {
+      "title": "Nach dem Rücktritt von Spahn stellt sich die Frage nach dem Nachfolger",
+      "summary": "Die Union muss nach nach dem Rücktritt von Spahn einen neuen Fraktionsvorsitzenden suchen. Gehandelt werden unter anderem Kanzleramtschef Frei und Innenminister Dobrindt. Aber das hätte weitere Folgen. Eine Einschätzung aus dem ARD-Hauptstadtstudio.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-104.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 14:44:26 +0200"
+    },
+    {
+      "title": "Debatte um Leihmutterschaft: Unions-Fraktionschef Spahn tritt zurück",
+      "summary": "In der Debatte um eine Leihmutterschaft in den USA zieht Jens Spahn Konsequenzen: In einem Schreiben informierte er die Unionsfraktion über seinen Rücktritt. Kanzler Merz bezeichnete die Entscheidung als \"richtig und unvermeidlich\".",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 15:31:50 +0200"
+    },
+    {
+      "title": "Zahl der Ausbildungsverträge im Handwerk gestiegen",
+      "summary": "Das Handwerk in Deutschland findet wieder mehr Nachwuchs - die Zahl der Ausbildungverträge hat zugenommen. Handwerkspräsident Dittrich spricht von einem Lichtblick und nennt für den Anstieg mehrere Gründe.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/handwerk-ausbildungsvertraege-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
@@ -74,14 +186,30 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 09:24:02 +0200"
+      "published": "Sun, 19 Jul 2026 11:44:08 +0200"
     },
     {
-      "title": "Drei Erkenntnisse zu Schwarz-Rot zur Sommerpause",
-      "summary": "Nach einem schwierigen Jahr steckt Schwarz-Rot nun im Reformeifer. Der Druck, liefern zu müssen, ist hoch. Offen bleibt, ob Union und SPD verlorenes Vertrauen zurückgewinnen können. Drei Erkenntnisse zur Regierungskoalition. Von C. Emundts.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schwarz-rot-vor-der-sommerpause-100.html",
-      "category": "politik",
+      "title": "Führerschein für viele Menschen unbezahlbar",
+      "summary": "Der Führerschein ist für viele junge Menschen der Schlüssel zur Ausbildung, zum ersten Job und zur eigenen Mobilität. Doch in Deutschland wird er zunehmend zum Luxus. Von Christoph Peters.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fuehrerschein-in-deutschland-immer-teurer-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 09:11:05 +0200"
+    },
+    {
+      "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
+      "summary": "Mit dem \"Programm für Aufschwung und Beschäftigung\" will die Regierung Bürokratie abbauen. Doch das Problem liegt nur zum Teil auf Bundesebene. Von Thomas Falkner.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -90,87 +218,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 08:19:19 +0200"
-    },
-    {
-      "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
-      "summary": "Tumulte und Beschimpfungen: Der Machtkampf im NRW-Landesverband der AfD ist eskaliert. Er bedroht die Zulassung zur Landtagswahl und stellt die Spitze der Bundespartei vor schwierige Entscheidungen. Von Dagmar Pepping.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
-      "category": "politik",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 22:07:23 +0200"
-    },
-    {
-      "title": "Unions-Fraktionschef Spahn verteidigt Leihmutterschaft gegen Kritik",
-      "summary": "Die Forderungen nach einem Rücktritt Spahns werden lauter. Jetzt hat der CDU-Politiker die Entscheidung für eine Leihmutterschaft verteidigt: Es seien \"keine einfachen Entscheidungen\" gewesen. Über seine Zukunft solle die Fraktion entscheiden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 22:01:53 +0200"
-    },
-    {
-      "title": "Debatte über Leihmutterschaft: CDU-Landeschef fordert Spahns Rücktritt",
-      "summary": "Seit bekannt ist, dass Jens Spahn und sein Ehemann mithilfe einer Leihmutter Eltern geworden sind, wächst die Kritik am Unionsfraktionschef - auch aus den eigenen Reihen. Jetzt fordert ein CDU-Landesverband seinen Rücktritt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/jens-spahn-leihmutter-debatte-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 15:08:52 +0200"
-    },
-    {
-      "title": "Debatte um Leihmutterschaft: Grüne fordern Erklärung von Spahn",
-      "summary": "Nach der Geburt des Sohnes von Jens Spahn und seinem Ehemann durch eine Leihmutter wächst die Kritik. Grünen-Chef Banaszak forderte Spahn auf, sich zu erklären. Der Chef der Senioren-Union verweist auf den Parteitagsbeschluss.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jens-spahn-leihmutterschaft-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 10:43:04 +0200"
-    },
-    {
-      "title": "Deutsch-französisches Treffen im Rheinland: Große Kulisse, viele Probleme",
-      "summary": "Der deutsch-französische Motor läuft nicht ganz rund. Vor großer Kulisse, auf Schloss Bensberg, bemühen sich Kanzler Merz und Präsident Macron nun um Harmonie. Dabei wollen die beiden auch eine Bruchlandung im Rüstungsbereich vergessen machen. Von P. Jahn und M. Sambale.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-frankreich-treffen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 04:49:14 +0200"
+      "published": "Sat, 18 Jul 2026 16:14:02 +0200"
     },
     {
       "title": "Warum Konzerttickets immer teurer werden",
@@ -253,54 +301,6 @@
       "published": "Sun, 12 Jul 2026 04:35:03 +0200"
     },
     {
-      "title": "Wie Volkswagen sich in China neu erfinden will",
-      "summary": "China ist, trotz verlorener Marktanteile, der wichtigste Markt für VW. In der Volksrepublik macht der deutsche Autobauer vieles anders als in der Heimat - notgedrungen. Die Lücke zur Konkurrenz wird dort wieder kleiner. Von Benjamin Eyssel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 09 Jul 2026 08:06:58 +0200"
-    },
-    {
-      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
-      "summary": "Die Sparpläne bei VW könnten vier Werke in Deutschland betreffen: Emden, Hannover, Zwickau und Neckarsulm. In den betroffenen Regionen wächst die Sorge vor den Folgen. Von M. Weidner und T. Niemann.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 09 Jul 2026 03:46:39 +0200"
-    },
-    {
-      "title": "Bundesnetzagentur macht Weg für Konkurrenz auf der Schiene frei",
-      "summary": "Die Bundesnetzagentur bestätigt trotz Kritik mehrerer Länder ihre Pläne: Die Deutsche Bahn muss auf stark genutzten Strecken Platz für Konkurrenten schaffen. Das macht den Weg für das italienische Bahnunternehmen Italo frei.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bundesnetzagentur-entscheidung-fernverkehr-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 14:53:54 +0200"
-    },
-    {
       "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
       "summary": "Der gemeinsame Kampfjet scheiterte, doch Deutschland und Frankreich wollen ihre militärische Zusammenarbeit ausbauen. Das gaben Kanzler Merz und Präsident Macron nach dem Deutsch-Französischen Ministerrat bekannt. Im Fokus: atomare Abschreckung.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -359,6 +359,93 @@
       "published": "Wed, 15 Jul 2026 19:38:28 +0200"
     },
     {
+      "title": "Neue Angriffe zwischen USA und Iran",
+      "summary": "Die USA haben erneut Luftangriffe auf Iran gemeldet. Teheran reagierte mit Attacken auf US-Stützpunkte in Kuwait. Zuvor waren bei iranischem Beschuss in Jordanien zwei US-Soldaten getötet worden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 11:38:13 +0200"
+    },
+    {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden laut Behörden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Demnach kam mindestens ein Mensch ums Leben, es gebe mehrere Verletzte.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 09:35:47 +0200"
+    },
+    {
+      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
+      "summary": "Eigentlich hatten sich die USA und Iran Mitte Juni darauf verständigt, ihren Konflikt durch Verhandlungen zu lösen. Doch nun eskaliert die Lage wieder. In Jordanien wurden zwei US-Soldaten bei einem iranischen Angriff getötet.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "to": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 20:54:34 +0200"
+    },
+    {
       "title": "SpaceX bricht \"Starship\"-Testflug kur vor dem Start ab",
       "summary": "Der erste \"Starship\"-Test seit dem Börsengang von SpaceX ist in letzter Sekunde abgebrochen worden. Mehrere Raketentriebwerke zündeten nicht. Ein neuer Versuch soll bald folgen.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -375,55 +462,10 @@
       "published": "Fri, 17 Jul 2026 11:55:38 +0200"
     },
     {
-      "title": "Ukrainischer Verteidigungsminister Fedorow tritt zurück",
-      "summary": "Konflikte mit dem Armeechef, Probleme bei der Wehrpflicht: Der ukrainische Verteidigungsminister Fedorow hat seinen Rücktritt erklärt. Präsident Selenskyj hatte zuvor eine Regierungsumbildung angekündigt.",
+      "title": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
+      "summary": "In ihrer Verteidigung gegen den russischen Angriffskrieg hat die Ukraine zuletzt ihre Gegenangriffe verstärkt. Bei einem Angriff auf ein Logistikzentrum meldet Russland nun mehrere Tote. Russland griff den Hafen von Odessa erneut an.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verteidigungsminister-fedorow-ruecktritt-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 12:01:05 +0200"
-    },
-    {
-      "title": "Russland feuert Raketen auf Kiew ab",
-      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen. Laut Bürgermeister Klitschko gab es bei mehreren Einschlägen zwei Tote. Moskau wirft der Ukraine vor, den Chefingenieur von Saporischschja getötet zu haben.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Thu, 16 Jul 2026 11:40:42 +0200"
-    },
-    {
-      "title": "Ukraine greift Ölproduktion an, Russland ein Schiff",
-      "summary": "Die Ukraine setzt sich weiter gegen Russland zur Wehr. Das Militär griff mehrere russische Tanker und Frachtschiffe sowie Ölraffinerien an. Russland nahm Odessa ins Visier - und traf laut ukrainischen Angaben ein ziviles Schiff.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
@@ -446,61 +488,55 @@
         }
       ],
       "chokepoint_lane": null,
-      "published": "Tue, 14 Jul 2026 14:44:26 +0200"
+      "published": "Sat, 18 Jul 2026 12:49:37 +0200"
     },
     {
-      "title": "Europäer schmieden Bündnis für Raketenabwehr",
-      "summary": "Frankreich, Deutschland und sieben weitere europäische Staaten vereinbaren mit der Ukraine eine Koalition zur Raketenabwehr. Das Bündnis betont dabei seinen defensiven Charakter - und kündigt Übungsmanöver an.",
+      "title": "Ukrainischer Verteidigungsminister Fedorow tritt zurück",
+      "summary": "Konflikte mit dem Armeechef, Probleme bei der Wehrpflicht: Der ukrainische Verteidigungsminister Fedorow hat seinen Rücktritt erklärt. Präsident Selenskyj hatte zuvor eine Regierungsumbildung angekündigt.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verteidigungsminister-fedorow-ruecktritt-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Frankreich",
-            "lat": 46.2276,
-            "lon": 2.2137
-          },
-          "to": {
-            "name": "Deutschland",
-            "lat": 51.1657,
-            "lon": 10.4515
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 13 Jul 2026 21:04:45 +0200"
-    },
-    {
-      "title": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
-      "summary": "Um Iran unter Druck zu setzen, blockieren die USA die Häfen in der Straße von Hormus. Ein Tanker, der die Blockade durchbrechen wollte, wurde beschossen. Auch eine Maut war im Gespräch. Ist all das durch das Völkerrecht gedeckt? Von B.-H. Otte.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html",
-      "category": "konflikte",
-      "event_type": "blockade",
-      "location": {
-        "name": "Straße von Hormus",
-        "lat": 26.5,
-        "lon": 56.25
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
-      "chokepoint_lane": [
-        [
-          26.7,
-          52.5
-        ],
-        [
-          25.0,
-          58.5
-        ]
-      ],
-      "published": "Sat, 18 Jul 2026 05:10:36 +0200"
+      "chokepoint_lane": null,
+      "published": "Thu, 16 Jul 2026 12:01:05 +0200"
+    },
+    {
+      "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
+      "summary": "Mit einer Verfassungsnovelle will Ungarns neue Regierung Präsident Sulyok loswerden, der als Vertrauter Orbans gilt. Tagelang hatte Sulyok gezögert - der Änderung nun aber zugestimmt, die seine eigene Absetzung bedeutet. Von O. Soos.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 02:45:49 +0200"
+    },
+    {
+      "title": "Polens Präsident Nawrocki: Mit Vetos macht er Tusk das Regieren schwer",
+      "summary": "Polens Präsident Nawrocki ist seit knapp einem Jahr im Amt. Seither hat er historisch viele Gesetze der Regierung von Premier Tusk per Veto gestoppt. Trotz Blockadehaltung ist er derzeit der beliebteste Politiker im Land. Von Palina Milling.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/nawrocki-polen-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 18 Jul 2026 13:02:00 +0200"
     },
     {
       "title": "Neuer Labour-Chef Andy Burnham: Sein Rezept heißt Regionalisierung",
@@ -599,90 +635,10 @@
       "published": "Wed, 15 Jul 2026 20:30:41 +0200"
     },
     {
-      "title": "EU will Schutz für wehrfähige Ukrainer einschränken",
-      "summary": "Die EU will den Schutzstatus für wehrfähige ukrainische Männer einschränken. Künftig müssen diese belegen, dass sie ihren Wehrdienst geleistet haben oder davon befreit sind. Die EU kommt damit einer Bitte der Ukraine nach.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-rat-schutz-ukrainer-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 15 Jul 2026 15:58:07 +0200"
-    },
-    {
-      "title": "Großbritannien plant nächtliche Social-Media-Sperre für Jugendliche",
-      "summary": "Großbritannien plant bereits ein Social-Media-Verbot für unter 16-Jährige. Jetzt geht die Regierung noch weiter: Für 16- und 17-Jährige soll die Nutzung nachts automatisch gesperrt werden. Aufheben lässt sich die Sperre aber mit wenigen Klicks.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-social-media-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 15 Jul 2026 13:48:49 +0200"
-    },
-    {
-      "title": "Spiel um Platz drei - viel Historie, wenig Bedeutung",
-      "summary": "Das Spiel um Platz drei löst seit jeher die Sinnfrage aus. Dabei hat das Spiel große Momente gehabt und bekommt bei dieser WM einen neuen Namen.",
+      "title": "WM-Finale 2026: Spanien und Argentinien im Vergleich - Wer hat die besseren Spieler?",
+      "summary": "Im großen Finale der WM 2026 zwischen Spanien und Argentinien kommt es zu einem Showdown der Superstars. Welches der beiden Teams ist stärker besetzt? Hier kommt der Vergleich.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/spiel-um-platz-drei-viel-historie-wenig-bedeutung,spiel-um-platz-drei-118.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 14:54:22 +0200"
-    },
-    {
-      "title": "WM-News: Mexikos Präsidentin besucht WM-Finale nach Trump-Einladung",
-      "summary": "Mexikos Präsidentin reist zum WM-Finale an, Trump und Infantino überbieten sich in Superlativen und Lamine Yamal kann gegen Argentinien spielen. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/sheinbaum-besucht-wm-finale-nach-einladung,wm-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Argentinien",
-        "lat": -38.4161,
-        "lon": -63.6167
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 11:09:21 +0200"
-    },
-    {
-      "title": "19 Jahre nach den Babyfotos - Wiedersehen im WM-Finale",
-      "summary": "\"Besser als jedes Drehbuch\": Vor 19 Jahren badet Lionel Messi bei einem Fotoshooting ein Baby. Es ist Lamine Yamal. Jetzt kommt es zum Wiedersehen im WM-Finale.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/19-jahre-nach-babyfotos-wiedersehen-im-wm-finale,wm-lionel-messi-lamine-yamal-foto-badewanne-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 08:59:59 +0200"
-    },
-    {
-      "title": "WM 2026: Spanien auf dem Weg zur goldenen Generation 2.0",
-      "summary": "Zwischen 2008 und 2012 gewann Spaniens goldene Generation alles, was es zu gewinnen gab. Die aktuelle Generation könnte es ihr gleichtun. Parallelen gibt es, Unterschiede auch. Aber vor allem fehlt eines.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/spanien-auf-dem-weg-zur-zweiten-goldenen-generation,spanien-goldene-generation-100.html",
+      "url": "https://www.tagesschau.de/sport/england-argentinien-head-to-head-vergleich,wm-spanien-argentinien-vergleich-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -692,7 +648,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 14:22:49 +0200"
+      "published": "Fri, 17 Jul 2026 22:51:07 +0200"
+    },
+    {
+      "title": "WM-News: \"Hauch von Abschied\" - Emotionaler Messi-Post vor Finale",
+      "summary": "Die Karten für das WM-Finale sind in astronomischen Höhen, der Weltmeister erhält ein Rekord-Preisgeld und Bellingham schreibt Geschichte. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/emotionaler-messi-post-vor-finale,wm-liveblog-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 11:41:43 +0200"
     },
     {
       "title": "WM 2026: Ein Tag mehr Pause - Vorteil Spanien gegenüber Argentinien ?",
@@ -711,10 +683,74 @@
       "published": "Fri, 17 Jul 2026 18:40:32 +0200"
     },
     {
-      "title": "Wohl mehr als 200 Unterstützerschreiben für Infantino",
-      "summary": "Gianni Infantino kann sich offenbar einer breiten Unterstützung bei der Wiederwahl zum FIFA-Präsidenten sicher sein. Laut Medienberichten hat eine große Mehrheit der Nationalverbände Unterstützerschreiben unterzeichnet. Bindend sind diese aber nicht.",
+      "title": "WM 2026: Messi gegen Spanien - Letzter Walzer für den \"Floh\"?",
+      "summary": "Jahrelang kämpfte der Weltstar in seiner Heimat um Anerkennung. Inzwischen ist aus dem Unvollendeten der Geliebte geworden. Das WM-Finale könnte seine Abschiedsvorstellung bei der \"Albiceleste\" sein.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/wohl-mehr-als-200-unterstuetzerschreiben-fuer-infantino,wm-guardian-mehr-als-200-unterstuetzerschreiben-fuer-infantino-100.html",
+      "url": "https://www.tagesschau.de/sport/messi-gegen-spanien-letzter-walzer-fuer-floh,wm-das-geheimnis-des-ewigen-messi-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 17 Jul 2026 20:07:27 +0200"
+    },
+    {
+      "title": "Wegen Halbzeitshow: Pause beim WM-Finale etwa 25 Minuten",
+      "summary": "Die Zuschauer des WM-Endspiels in New York werden nach der ersten Hälfte durch viel Prominenz unterhalten. Für die Spieler bedeutet dies eine längere Pause als gewohnt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/wegen-halbzeitshow-pause-beim-wm-finale-etwa-25-minuten,wm-halbzeitshow-finale-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 02:06:37 +0200"
+    },
+    {
+      "title": "WM 2026: Adieu, Dédé - Deschamps' emotionaler Abschied von \"Les Bleus\"",
+      "summary": "Nach 14 Jahren als Cheftrainer ist für Didier Deschamps bei der \"Équipe Tricolore\" Schluss. Der \"General\" führte Frankreich zurück in die Weltspitze - mit der Krönung 2018.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/deschamps-emotionaler-abschied-von-les-bleus,wm-deschamps-abschied-100.html",
+      "category": "sport",
+      "event_type": "celebration",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 09:11:06 +0200"
+    },
+    {
+      "title": "WM 2026: Irres \"kleines Finale\" - Zehn Treffer zwischen England und Frankreich",
+      "summary": "Im völlig wilden Spiel um Platz drei der WM 2026 hat England gegen Frankreich gewonnen - nach zwei komplett unterschiedlichen Halbzeiten. Die Mannschaft von Trainer Thomas Tuchel geht so mit einem Prestige-Erfolg aus dem Turnier.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/irres-kleines-finale-zehn-treffer-zwischen-england-und-frankreich,wm-spielbericht-frankreich-england-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 01:54:11 +0200"
+    },
+    {
+      "title": "Die WM, der Zustand der FIFA - und des Fußballs",
+      "summary": "Was bleibt von der WM in gesellschaftlicher, kultureller und (sport-)politischer Hinsicht? Ein Blick auf die Erkenntnisse des Turniers.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/die-wm-der-zustand-der-fifa-und-des-fussballs,wm-fazit-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -724,39 +760,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 22:11:23 +0200"
-    },
-    {
-      "title": "WM Spielplan: Übersicht der Spiele mit TV-Übertragung",
-      "summary": "Die Fußball-WM der Männer findet vom 11. Juni bis 19. Juli 2026 in Kanada, Mexiko und den USA statt, mit 48 Teams und 104 Spielen. Alle Spiele und Anstoßzeiten hier im übersichtlichen Spielplan.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/der-spielplan-der-fussball-wm-2026,fifawm-spielplan-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 15 Jul 2026 23:03:41 +0200"
-    },
-    {
-      "title": "Tom Pidcock ist jetzt im Spiel - oder doch nicht?",
-      "summary": "Tom Pidcock hat die 13. Etappe in Belfort zwar nicht gewonnen, dafür machte er einen gewaltigen Satz in der Gesamtwertung. Welche Gefahr stellt er für die Podiumskandidaten dar?",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/tom-pidcock-ist-jetzt-im-spiel-oder-doch-nicht,tour-de-france-13-etappe-analyse-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 21:03:48 +0200"
+      "published": "Sat, 18 Jul 2026 11:30:39 +0200"
     }
   ],
   "crises": [
@@ -771,7 +775,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -953,86 +957,9 @@
         {
           "lat": 46.58190473539846,
           "lon": 2.267598226715135
-        },
-        {
-          "lat": 44.563443166181784,
-          "lon": 4.454912837221384
-        },
-        {
-          "lat": 47.202291297387404,
-          "lon": -0.10845535345537494
-        },
-        {
-          "lat": 48.55288592583847,
-          "lon": 3.859960081940857
-        },
-        {
-          "lat": 44.47214850359926,
-          "lon": -0.4165215931076145
-        },
-        {
-          "lat": 44.69134823000835,
-          "lon": 1.708383111201665
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
-    {
-      "id": "conflict-spanien",
-      "type": "conflict",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "US-Präsident Trump will Handel mit Spanien einstellen",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 40.92892614533669,
-          "lon": -4.11890833208638
-        },
-        {
-          "lat": 39.99204498382368,
-          "lon": -2.76568715045687
-        },
-        {
-          "lat": 43.39012705001087,
-          "lon": -5.665524367960059
-        },
-        {
-          "lat": 38.52308602775787,
-          "lon": -1.7981199252447393
-        },
-        {
-          "lat": 43.225527317476704,
-          "lon": -6.517750873680169
-        },
-        {
-          "lat": 43.121711165833574,
-          "lon": -0.9543041424751992
-        },
-        {
-          "lat": 41.34013998905002,
-          "lon": -6.503827340881766
-        },
-        {
-          "lat": 40.651699000583776,
-          "lon": -6.262031853123576
-        },
-        {
-          "lat": 39.74048583615385,
-          "lon": -2.7980242004180385
-        },
-        {
-          "lat": 42.55157622980026,
-          "lon": -4.17985853543362
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
     },
     {
       "id": "blockade-stra-e-von-hormus",
@@ -1045,7 +972,7 @@
       "label": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": [
         [
           26.7,
@@ -1067,9 +994,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine greift Ölproduktion an, Russland ein Schiff",
+      "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1274,7 +1201,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html"
     },
     {
       "id": "conflict-russland",
@@ -1287,7 +1214,7 @@
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1449,45 +1376,9 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
-    },
-    {
-      "id": "disaster-frankreich",
-      "type": "disaster",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [],
-      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
     },
     {
       "id": "wildfire-spanien",
@@ -1532,8 +1423,8 @@
       "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-18",
-      "intensity": 2,
+      "last_seen": "2026-07-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1615,6 +1506,26 @@
         {
           "lat": 51.17650378913572,
           "lon": 11.876194805039255
+        },
+        {
+          "lat": 54.115883693773625,
+          "lon": 7.475122098849997
+        },
+        {
+          "lat": 51.19202600651736,
+          "lon": 13.315057435540378
+        },
+        {
+          "lat": 51.06018689643631,
+          "lon": 9.876924173107701
+        },
+        {
+          "lat": 53.43679764965044,
+          "lon": 10.75168839130648
+        },
+        {
+          "lat": 50.28100893810915,
+          "lon": 11.92784432149966
         }
       ]
     },
@@ -1658,11 +1569,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Iranische Medien: USA greifen Brücken und Flughafen an",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
+      "label": "Neue Angriffe zwischen USA und Iran",
+      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-17",
-      "intensity": 2,
+      "last_seen": "2026-07-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1744,6 +1655,26 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
+        },
+        {
+          "lat": 39.21289723441515,
+          "lon": -95.3185407491224
+        },
+        {
+          "lat": 34.85938201632081,
+          "lon": -98.08926331314602
+        },
+        {
+          "lat": 36.48879791435269,
+          "lon": -96.03788115844209
+        },
+        {
+          "lat": 37.97230655513269,
+          "lon": -93.49135820988958
+        },
+        {
+          "lat": 35.67827396692878,
+          "lon": -95.01808241792573
         }
       ]
     },
@@ -1755,11 +1686,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
-      "url": "https://www.tagesschau.de/ausland/neue-angriffswelle-iran-100.html",
+      "label": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
+      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "intensity": 0,
+      "last_seen": "2026-07-19",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1801,6 +1732,26 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
         }
       ]
     },
@@ -1815,8 +1766,8 @@
       "label": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-18",
-      "intensity": 3,
+      "last_seen": "2026-07-19",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1918,6 +1869,103 @@
         {
           "lat": 59.51922496148123,
           "lon": 26.898609942993524
+        },
+        {
+          "lat": 61.48455647677045,
+          "lon": 23.653640572860056
+        },
+        {
+          "lat": 64.56999959793862,
+          "lon": 25.43847836450615
+        },
+        {
+          "lat": 61.17902850091656,
+          "lon": 25.067589116559038
+        },
+        {
+          "lat": 64.73796590791258,
+          "lon": 24.361407116167342
+        },
+        {
+          "lat": 59.663722357473624,
+          "lon": 27.291510177638965
+        }
+      ]
+    },
+    {
+      "id": "conflict-kiew",
+      "type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "label": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 52.62998156601318,
+          "lon": 28.326232658589543
+        },
+        {
+          "lat": 50.3313085159312,
+          "lon": 33.389491863221046
+        },
+        {
+          "lat": 51.20745816912664,
+          "lon": 30.683347839835644
+        },
+        {
+          "lat": 52.64227211408358,
+          "lon": 29.159287383864232
+        },
+        {
+          "lat": 49.989688305293484,
+          "lon": 29.873332284175866
+        },
+        {
+          "lat": 52.789783221965024,
+          "lon": 32.13611678810304
+        },
+        {
+          "lat": 47.613306473030896,
+          "lon": 31.572025212639716
+        },
+        {
+          "lat": 50.49795398325134,
+          "lon": 28.57057723397705
+        },
+        {
+          "lat": 48.97908699220479,
+          "lon": 28.400787643530357
+        },
+        {
+          "lat": 48.940084609533564,
+          "lon": 28.087134363895778
+        },
+        {
+          "lat": 47.94889658466643,
+          "lon": 29.295217752572665
+        },
+        {
+          "lat": 49.311037932939485,
+          "lon": 29.905565967110117
+        },
+        {
+          "lat": 53.269015380122816,
+          "lon": 31.036540829632322
+        },
+        {
+          "lat": 50.509987159396864,
+          "lon": 27.66817148841712
+        },
+        {
+          "lat": 48.069011109543155,
+          "lon": 29.35509277567223
         }
       ]
     }

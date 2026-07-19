@@ -11,7 +11,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,86 +193,9 @@
         {
           "lat": 46.58190473539846,
           "lon": 2.267598226715135
-        },
-        {
-          "lat": 44.563443166181784,
-          "lon": 4.454912837221384
-        },
-        {
-          "lat": 47.202291297387404,
-          "lon": -0.10845535345537494
-        },
-        {
-          "lat": 48.55288592583847,
-          "lon": 3.859960081940857
-        },
-        {
-          "lat": 44.47214850359926,
-          "lon": -0.4165215931076145
-        },
-        {
-          "lat": 44.69134823000835,
-          "lon": 1.708383111201665
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
-    {
-      "id": "conflict-spanien",
-      "type": "conflict",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "US-Präsident Trump will Handel mit Spanien einstellen",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 40.92892614533669,
-          "lon": -4.11890833208638
-        },
-        {
-          "lat": 39.99204498382368,
-          "lon": -2.76568715045687
-        },
-        {
-          "lat": 43.39012705001087,
-          "lon": -5.665524367960059
-        },
-        {
-          "lat": 38.52308602775787,
-          "lon": -1.7981199252447393
-        },
-        {
-          "lat": 43.225527317476704,
-          "lon": -6.517750873680169
-        },
-        {
-          "lat": 43.121711165833574,
-          "lon": -0.9543041424751992
-        },
-        {
-          "lat": 41.34013998905002,
-          "lon": -6.503827340881766
-        },
-        {
-          "lat": 40.651699000583776,
-          "lon": -6.262031853123576
-        },
-        {
-          "lat": 39.74048583615385,
-          "lon": -2.7980242004180385
-        },
-        {
-          "lat": 42.55157622980026,
-          "lon": -4.17985853543362
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
     },
     {
       "id": "blockade-stra-e-von-hormus",
@@ -285,7 +208,7 @@
       "label": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": [
         [
           26.7,
@@ -307,9 +230,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine greift Ölproduktion an, Russland ein Schiff",
+      "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -514,7 +437,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html"
     },
     {
       "id": "conflict-russland",
@@ -527,7 +450,7 @@
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -689,45 +612,9 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
-    },
-    {
-      "id": "disaster-frankreich",
-      "type": "disaster",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [],
-      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
     },
     {
       "id": "wildfire-spanien",
@@ -772,8 +659,8 @@
       "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-18",
-      "intensity": 2,
+      "last_seen": "2026-07-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -855,6 +742,26 @@
         {
           "lat": 51.17650378913572,
           "lon": 11.876194805039255
+        },
+        {
+          "lat": 54.115883693773625,
+          "lon": 7.475122098849997
+        },
+        {
+          "lat": 51.19202600651736,
+          "lon": 13.315057435540378
+        },
+        {
+          "lat": 51.06018689643631,
+          "lon": 9.876924173107701
+        },
+        {
+          "lat": 53.43679764965044,
+          "lon": 10.75168839130648
+        },
+        {
+          "lat": 50.28100893810915,
+          "lon": 11.92784432149966
         }
       ]
     },
@@ -898,11 +805,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Iranische Medien: USA greifen Brücken und Flughafen an",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
+      "label": "Neue Angriffe zwischen USA und Iran",
+      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-17",
-      "intensity": 2,
+      "last_seen": "2026-07-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -984,6 +891,26 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
+        },
+        {
+          "lat": 39.21289723441515,
+          "lon": -95.3185407491224
+        },
+        {
+          "lat": 34.85938201632081,
+          "lon": -98.08926331314602
+        },
+        {
+          "lat": 36.48879791435269,
+          "lon": -96.03788115844209
+        },
+        {
+          "lat": 37.97230655513269,
+          "lon": -93.49135820988958
+        },
+        {
+          "lat": 35.67827396692878,
+          "lon": -95.01808241792573
         }
       ]
     },
@@ -995,11 +922,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
-      "url": "https://www.tagesschau.de/ausland/neue-angriffswelle-iran-100.html",
+      "label": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
+      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "intensity": 0,
+      "last_seen": "2026-07-19",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1041,6 +968,26 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
         }
       ]
     },
@@ -1055,8 +1002,8 @@
       "label": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-18",
-      "intensity": 3,
+      "last_seen": "2026-07-19",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1158,9 +1105,106 @@
         {
           "lat": 59.51922496148123,
           "lon": 26.898609942993524
+        },
+        {
+          "lat": 61.48455647677045,
+          "lon": 23.653640572860056
+        },
+        {
+          "lat": 64.56999959793862,
+          "lon": 25.43847836450615
+        },
+        {
+          "lat": 61.17902850091656,
+          "lon": 25.067589116559038
+        },
+        {
+          "lat": 64.73796590791258,
+          "lon": 24.361407116167342
+        },
+        {
+          "lat": 59.663722357473624,
+          "lon": 27.291510177638965
+        }
+      ]
+    },
+    {
+      "id": "conflict-kiew",
+      "type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "label": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 52.62998156601318,
+          "lon": 28.326232658589543
+        },
+        {
+          "lat": 50.3313085159312,
+          "lon": 33.389491863221046
+        },
+        {
+          "lat": 51.20745816912664,
+          "lon": 30.683347839835644
+        },
+        {
+          "lat": 52.64227211408358,
+          "lon": 29.159287383864232
+        },
+        {
+          "lat": 49.989688305293484,
+          "lon": 29.873332284175866
+        },
+        {
+          "lat": 52.789783221965024,
+          "lon": 32.13611678810304
+        },
+        {
+          "lat": 47.613306473030896,
+          "lon": 31.572025212639716
+        },
+        {
+          "lat": 50.49795398325134,
+          "lon": 28.57057723397705
+        },
+        {
+          "lat": 48.97908699220479,
+          "lon": 28.400787643530357
+        },
+        {
+          "lat": 48.940084609533564,
+          "lon": 28.087134363895778
+        },
+        {
+          "lat": 47.94889658466643,
+          "lon": 29.295217752572665
+        },
+        {
+          "lat": 49.311037932939485,
+          "lon": 29.905565967110117
+        },
+        {
+          "lat": 53.269015380122816,
+          "lon": 31.036540829632322
+        },
+        {
+          "lat": 50.509987159396864,
+          "lon": 27.66817148841712
+        },
+        {
+          "lat": 48.069011109543155,
+          "lon": 29.35509277567223
         }
       ]
     }
   ],
-  "updated_at": "2026-07-18"
+  "updated_at": "2026-07-19"
 }
