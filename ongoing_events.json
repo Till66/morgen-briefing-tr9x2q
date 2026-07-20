@@ -11,7 +11,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -173,26 +173,6 @@
         {
           "lat": 46.80528290899175,
           "lon": 1.3048702332299131
-        },
-        {
-          "lat": 48.818153247274495,
-          "lon": 0.7668432725380041
-        },
-        {
-          "lat": 45.216164406053295,
-          "lon": 4.148736940252183
-        },
-        {
-          "lat": 44.600563078174034,
-          "lon": 4.46017845356876
-        },
-        {
-          "lat": 43.79154723769369,
-          "lon": 4.466268490163555
-        },
-        {
-          "lat": 46.58190473539846,
-          "lon": 2.267598226715135
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
@@ -232,7 +212,7 @@
       },
       "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -449,8 +429,8 @@
       },
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
-      "intensity": 6,
+      "last_seen": "2026-07-20",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -612,6 +592,26 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
+        },
+        {
+          "lat": 58.63076494150114,
+          "lon": 106.1283869379606
+        },
+        {
+          "lat": 62.81477312310477,
+          "lon": 107.03005341363047
+        },
+        {
+          "lat": 61.04260386983459,
+          "lon": 106.10346300801017
+        },
+        {
+          "lat": 64.34490395871106,
+          "lon": 105.75354971303594
+        },
+        {
+          "lat": 61.7017411632188,
+          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
@@ -624,27 +624,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
+      "label": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-15",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "wildfire-deutschland",
-      "type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Wetterdienst verzeichnet zunehmende Waldbrandgefahr in Deutschland",
-      "url": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-106.html",
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
-      "intensity": 0,
+      "last_seen": "2026-07-20",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -659,8 +643,8 @@
       "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-19",
-      "intensity": 3,
+      "last_seen": "2026-07-20",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -762,6 +746,26 @@
         {
           "lat": 50.28100893810915,
           "lon": 11.92784432149966
+        },
+        {
+          "lat": 48.94820021365995,
+          "lon": 11.540512164177608
+        },
+        {
+          "lat": 50.59377261702327,
+          "lon": 8.38930440579583
+        },
+        {
+          "lat": 50.46757312520619,
+          "lon": 13.069039483033478
+        },
+        {
+          "lat": 51.80338143803759,
+          "lon": 9.565143664893146
+        },
+        {
+          "lat": 52.37638929792631,
+          "lon": 10.954070326324219
         }
       ]
     },
@@ -808,8 +812,8 @@
       "label": "Neue Angriffe zwischen USA und Iran",
       "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-19",
-      "intensity": 3,
+      "last_seen": "2026-07-20",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -911,6 +915,26 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
+        },
+        {
+          "lat": 37.912293099314276,
+          "lon": -92.94674763864657
+        },
+        {
+          "lat": 34.091124287829764,
+          "lon": -93.97216174578706
+        },
+        {
+          "lat": 38.516843244090175,
+          "lon": -93.15389588562758
+        },
+        {
+          "lat": 37.95085245789026,
+          "lon": -95.99543142612114
+        },
+        {
+          "lat": 39.36966268424379,
+          "lon": -98.28475842366234
         }
       ]
     },
@@ -925,8 +949,8 @@
       "label": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
       "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-19",
-      "intensity": 1,
+      "last_seen": "2026-07-20",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -988,6 +1012,26 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
         }
       ]
     },
@@ -1003,7 +1047,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-19",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1105,26 +1149,6 @@
         {
           "lat": 59.51922496148123,
           "lon": 26.898609942993524
-        },
-        {
-          "lat": 61.48455647677045,
-          "lon": 23.653640572860056
-        },
-        {
-          "lat": 64.56999959793862,
-          "lon": 25.43847836450615
-        },
-        {
-          "lat": 61.17902850091656,
-          "lon": 25.067589116559038
-        },
-        {
-          "lat": 64.73796590791258,
-          "lon": 24.361407116167342
-        },
-        {
-          "lat": 59.663722357473624,
-          "lon": 27.291510177638965
         }
       ]
     },
@@ -1139,8 +1163,8 @@
       "label": "Erneut massiver russischer Raketenangriff auf Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "intensity": 1,
+      "last_seen": "2026-07-20",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1202,9 +1226,29 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
     }
   ],
-  "updated_at": "2026-07-19"
+  "updated_at": "2026-07-20"
 }
