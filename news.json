@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:26:24.170055+00:00",
+  "generated_at": "2026-07-21T11:21:58.776548+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,26 @@
   },
   "articles": [
     {
-      "title": "Unionsfraktion: Abstimmung über Spahn-Nachfolge am 29. Juli",
-      "summary": "Wer übernimmt nach Spahns Rücktritt den Vorsitz der Unionsfraktion? Die Abgeordneten müssen wegen dieser Frage ihre Sommerpause unterbrechen: Am 29. Juli soll in einer Sondersitzung entschieden werden.",
+      "title": "Kampf gegen Waldbrände: Was tut der Bund?",
+      "summary": "Dieses Jahr könnte wieder ein Rekordjahr für Wald- und Flächenbrände werden. Zuständig für die Bekämpfung sind Länder und Kommunen - aber manche überfordert das. Was tut der Bund, um zu unterstützen? Und reicht das? Von Katrin Aue.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolge-fraktion-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bekaempfung-waldbraende-bund-100.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 12:41:26 +0200"
+    },
+    {
+      "title": "Mehr Fälle von sexuellem Missbrauch von Kindern",
+      "summary": "Das Bundeskriminalamt hat für 2025 einen Anstieg bei Fällen von sexuellem Missbrauch von Kindern und Jugendlichen registriert. Innenminister Dobrindt nennt die Zahlen \"erschreckend hoch\" - und geht von einem noch höheren Dunkelfeld aus.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bundeslagebild-sexueller-missbrauch-kinder-jugendliche-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,13 +74,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 12:20:51 +0200"
+      "published": "Tue, 21 Jul 2026 12:41:08 +0200"
     },
     {
-      "title": "Union sucht nach Spahns Rücktritt neuen Fraktionschef",
-      "summary": "Die Union braucht nach Spahns Rücktritt einen neuen Fraktionschef. Heute beraten die Spitzen der CDU und die Bundestagsfraktion. Nicht nur Kanzler Merz will die Personalie schnell klären. Mehrere Namen kursieren.",
+      "title": "Suche nach Unionsfraktionsspitze: Einer wäre Frei",
+      "summary": "Bis nächste Woche die Unionsfraktion eine neue Spitze wählt, wird viel spekuliert. Ein Name, der immer wieder fällt: Thorsten Frei, derzeit Kanzleramtsminister. Für CDU-Chef und Kanzler Merz eröffnet der Spahn-Rücktritt neue Spielräume.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-nachfolge-spahn-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolge-debatte-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,13 +90,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 11:24:27 +0200"
+      "published": "Tue, 21 Jul 2026 12:26:30 +0200"
     },
     {
-      "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
-      "summary": "\"Überfällig\", aber auch eine \"Chance\": Grünen-Vorsitzende Franziska Brantner hofft im ARD-Sommerinterview nach Spahns Rücktritt auf eine Kabinettsumbildung. Und blickt mit Sorge auf die Landtagswahlen im Herbst.",
+      "title": "Wie das deutsche Verbot Leihmutterschaft ins Ausland verlagert",
+      "summary": "Beim Thema Leihmutterschaft klaffen in Deutschland Gesetz und Lebensrealität weit auseinander. Deshalb besteht politischer Handlungsbedarf. Von M. Blöcher, L. Busch und A. Kammerer.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/leihmutterschaft-verbot-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 11:01:29 +0200"
+    },
+    {
+      "title": "Spahn-Rücktritt entfacht neue Debatte um Leihmutterschaft",
+      "summary": "Der Rücktritt von Unionsfraktionschef Spahn hat eine neue Debatte über die in Deutschland verbotene Leihmutterschaft ausgelöst. Die Grünen möchten sich erneut damit befassen, der Ethikrat warnt vor \"Doppelmoral\". Die CDU hält bislang am Verbot fest.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/leihmutterschaft-debatte-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 09:25:07 +0200"
+    },
+    {
+      "title": "Wie viel Hilfe es jetzt für den Heizungstausch gibt",
+      "summary": "Wer plant, sich eine klimafreundliche Heizung einzubauen, kann ab heute einen neuen Förderantrag stellen. Die KfW-Bank hat das Antragsportal angepasst. Wer kann wie viel Förderung bekommen? Von Lissy Kaufmann.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/klima-heizungstausch-kuerzungen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -90,93 +138,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 17:36:16 +0200"
+      "published": "Tue, 21 Jul 2026 07:52:19 +0200"
     },
     {
-      "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
-      "summary": "Für die Nachfolge von Unions-Fraktionschef Spahn werden viele Namen gehandelt. Kanzler Merz und CSU-Chef Söder wollten \"relativ bald\" einen Vorschlag machen - auch ein Regierungsumbau ist möglich. Im ZDF übte Merz Kritik an Spahn.",
+      "title": "Deutsche Bahn plant bundesweites Alkoholverbot an Bahnhöfen",
+      "summary": "Die Deutsche Bahn will künftig an allen Bahnhöfen ein Alkoholverbot durchsetzen. Sie verspricht sich mehr Sicherheit für Mitarbeiter und Reisende. In Hamburg etwa hat man damit bereits gute Erfahrungen gemacht.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
+      "url": "https://www.tagesschau.de/inland/deutsche-bahn-alkoholverbot-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 12:11:55 +0200"
+      "published": "Tue, 21 Jul 2026 10:34:41 +0200"
     },
     {
-      "title": "Nach Studie: Was tut sich gegen Rassismus in Behörden?",
-      "summary": "Eine vom Innenministerium initiierte Studie zeigte im Februar: Rassismus ist in Behörden ein strukturelles Problem. Nur war die Veröffentlichung auffällig zurückhaltend. Was folgt jetzt auf die Ergebnisse? Von Christina Sianides.",
+      "title": "Gedenken an Hitler-Attentat im Bendlerblock - mit Zwischenfall",
+      "summary": "Die Bundesregierung hat in Berlin an den Widerstand gegen die nationalsozialistische Gewaltherrschaft erinnert. Anlass ist der heutige Jahrestag des Attentats auf Hitler. Ein Kranz der AfD sorgte vor dem Gedenken für ein Handgemenge.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/inra-studie-rassismus-behoerden-100.html",
+      "url": "https://www.tagesschau.de/inland/gedenken-bendlerblock-afd-kranz-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 13:02:56 +0200"
+      "published": "Mon, 20 Jul 2026 20:24:00 +0200"
     },
     {
-      "title": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
-      "summary": "Das kaputtgesparte Schienennetz soll Stück für Stück repariert werden. Doch bei Sanierungen gab es häufig Probleme. Verkehrsminister Schnieder verweist auf die Bahn - aber das lässt ihm nicht jeder durchgehen. Von Jim-Bob Nickschas.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 08:12:45 +0200"
-    },
-    {
-      "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
-      "summary": "Der Druck wegen der Debatte um eine Leihmutterschaft wurde zu stark - Spahn ist zurückgetreten. Davor gab es massive Kritik aus dem eigenen Lager und Sorgen um den Wahlkampf. Was bedeutet das für die CDU, die Landtagswahlen und die Koalition? Eine Analyse von K. Girschick.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 20:21:25 +0200"
-    },
-    {
-      "title": "Politikwissenschaftler zu Spahn: \"Spahn hat das Thema unterschätzt\"",
-      "summary": "Politikwissenschaftler Oliver Lembcke im tagesschau24-Interview über die Gründe für Spahns Rücktritt - und welche Folgen dies haben könnte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/interview-oliver-lembcke-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 19:32:28 +0200"
-    },
-    {
-      "title": "EU-Kommission verhängt 550-Millionen-Strafe gegen AliExpress",
-      "summary": "Zu wenig Personal, um illegale Angebote aufzuspüren, kein entschiedenes Vorgehen gegen zwielichtige Händler: Die EU-Kommission geht gegen den chinesischen Händler AliExpress vor - mit einer Rekordstrafe. Von Kathrin Schmid.",
+      "title": "Gericht setzt Paramount-Übernahme von Warner vorerst aus",
+      "summary": "Ein US-Gericht hat die milliardenschwere Übernahme von Warner Bros. Discovery durch Paramount für zunächst zwei Wochen gestoppt. Zwölf Bundesstaaten sehen in dem Zusammenschluss eine Gefahr für den Wettbewerb.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-strafe-aliexpress-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,7 +186,116 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 12:35:30 +0200"
+      "published": "Tue, 21 Jul 2026 08:50:42 +0200"
+    },
+    {
+      "title": "USA verhängen Zölle in Höhe von 50 Prozent auf Produkte aus Kanada",
+      "summary": "Der Handelsstreit zwischen den USA und Kanada spitzt sich zu. Washington verhängte nun neue Zölle in Höhe von 50 Prozent. Betroffen sind auch Produkte, die bislang unter ein Freihandelsabkommen fallen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-kanada-102.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Kanada",
+            "lat": 56.1304,
+            "lon": -106.3468
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 07:16:59 +0200"
+    },
+    {
+      "title": "Effizienter, leiser, sicherer: Die Wärmepumpe der Zukunft?",
+      "summary": "Bei Kühlschränken und Wärmepumpen ist das Herzstück der Kompressor. Der brummt und ist gefüllt mit brennbarem oder klimaschädlichem Gas. Ginge es nicht auch ohne? Von Tobias Faißt und Henning Winter.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/neue-generation-waermepumpen-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 07:52:31 +0200"
+    },
+    {
+      "title": "Wie viel Hilfe es jetzt für den Heizungstausch gibt",
+      "summary": "Wer plant, sich eine klimafreundliche Heizung einzubauen, kann ab heute einen neuen Förderantrag stellen. Die KfW-Bank hat das Antragsportal angepasst. Wer kann wie viel Förderung bekommen? Von Lissy Kaufmann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/klima-heizungstausch-kuerzungen-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 07:52:19 +0200"
+    },
+    {
+      "title": "Förderung der Filmbranche: Was kann der \"Filmbooster\" bewirken?",
+      "summary": "Deutsche Filme sind wieder weltweit erfolgreich, doch der Produktionsstandort Deutschland hat schwere Zeiten hinter sich. Die Regierung will die Branche jetzt gesetzlich stärken. Wie wirkungsvoll ist der \"Filmbooster\"? Von Anke Hahn.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/filmwirtschaft-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 08:01:02 +0200"
+    },
+    {
+      "title": "Benzin ist wieder teurer als vor dem Tankrabatt",
+      "summary": "Tanken in Deutschland wird wieder teurer: Ein Liter E10 kostet inzwischen fast so viel wie rund um Ostern. Das liegt neben dem gestiegenen Ölpreis auch am Ferienverkehr. Der ADAC erwartet einen neuen Höhepunkt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-stau-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 16:14:25 +0200"
+    },
+    {
+      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
+      "summary": "E-Autos sind zwischen 2020 und 2025 um rund 18 Prozent günstiger geworden. Dazu kommen die staatlichen Kaufprämien, über die schon mehr als 50 Millionen Euro ausgezahlt wurden - vor allem für Tesla-Modelle.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 12:41:31 +0200"
     },
     {
       "title": "IW Köln: Mieten in Deutschland deutlich gestiegen",
@@ -205,28 +314,12 @@
       "published": "Mon, 20 Jul 2026 11:54:28 +0200"
     },
     {
-      "title": "Bäcker im Interview: \"Ein Beruf mit Zukunft\"",
-      "summary": "Die Zahl der Pleiten von Bäckereien in Deutschland steigt rasant. Doch dass das Handwerk ausstirbt, glaube er nicht, sagt Andreas Schmitt vom Zentralverband des Deutschen Bäckerhandwerks im tagesschau24-Interview.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/baeckereien-pleiten-interview-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 06:00:27 +0200"
-    },
-    {
-      "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
-      "summary": "Mit dem \"Programm für Aufschwung und Beschäftigung\" will die Regierung Bürokratie abbauen. Doch das Problem liegt nur zum Teil auf Bundesebene. Von Thomas Falkner.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "UN-Report: Kleine Fortschritte, doch der Hunger bleibt",
+      "summary": "Die Zahl der Hungernden sinkt, doch Konflikte wie im Nahen Osten könnten die Lebensmittelversorgung massiv verschlechtern. Milliarden Menschen fehlt zudem das Geld für eine gesunde Ernährung. Von C. Auerbach.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/un-bericht-sofi-ernaehrungssicherheit-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -234,47 +327,15 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 16:14:02 +0200"
+      "published": "Tue, 21 Jul 2026 12:57:41 +0200"
     },
     {
-      "title": "China demonstriert bei KI-Messe in Shanghai Machtanspruch",
-      "summary": "Die Metall-Hunde, die durch die Messe laufen, wirken noch spielerisch. Humanoide, die Pakete sortieren können, dagegen weniger. China demonstriert auf einem Weltkongress seinen Machtanspruch bei KI und Robotik. Von Johannes Jolmes.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/shanghai-ki-messe-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 14:22:21 +0200"
-    },
-    {
-      "title": "Konferenz in Shanghai zu den Chancen und Gefahren der KI",
-      "summary": "Shanghai ist ab heute Gastgeber der \"Weltkonferenz für Künstliche Intelligenz\", kurz WAIC. Entwickler und Nutzer tauschen sich darüber aus, was KI heute schon leistet. Von Sebastian Hesse.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-konferenz-shanghai-auftakt-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Shanghai",
-        "lat": 31.2304,
-        "lon": 121.4737
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 12:12:10 +0200"
-    },
-    {
-      "title": "Für Tech-Aktien schlägt die Stunde der Wahrheit",
-      "summary": "Mit Beginn der neuen Woche nimmt die Berichtssaison der Unternehmen Fahrt auf. Im Fokus stehen besonders hochbewertete US-Tech-Aktien. Können Alphabet & Co. ihr hohes Kursniveau verteidigen?",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/mb-mittag-dax-ki-berichtssaison-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
+      "summary": "Nach seiner Ernennung zum britischen Premier hat der Labour-Politiker Burnham Ministerposten neu besetzt. Mehrere Vertraute seines Vorgängers Starmer müssen das Kabinett verlassen. Ex-Parteichef Miliband wurde überraschend Außenminister.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -282,139 +343,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 14:00:15 +0200"
+      "published": "Tue, 21 Jul 2026 06:10:03 +0200"
     },
     {
-      "title": "Wirtschaft vor acht vom 17.07.2026",
-      "summary": "Wirtschaft vor acht vom 17.07.2026",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/video/video-1616588.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Aoun in Washington: Die Libanesen haben wenig Hoffnung auf Veränderung",
+      "summary": "Mit der Hoffnung auf eine stabile Waffenruhe in seinem Land reist Libanons Präsident Aoun nach Washington. Seine Landsleute haben keine großen Erwartungen - zumal die Hisbollah immer noch nicht mit am Verhandlungstisch sitzt. Von S. Männer.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Washington",
+        "lat": 38.9072,
+        "lon": -77.0369
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 20:44:41 +0200"
-    },
-    {
-      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "summary": "Der gemeinsame Kampfjet scheiterte, doch Deutschland und Frankreich wollen ihre militärische Zusammenarbeit ausbauen. Das gaben Kanzler Merz und Präsident Macron nach dem Deutsch-Französischen Ministerrat bekannt. Im Fokus: atomare Abschreckung.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Deutschland",
-            "lat": 51.1657,
-            "lon": 10.4515
-          },
-          "to": {
-            "name": "Frankreich",
-            "lat": 46.2276,
-            "lon": 2.2137
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Fri, 17 Jul 2026 18:10:55 +0200"
-    },
-    {
-      "title": "Neue Angriffe zwischen USA und Iran",
-      "summary": "Die USA haben erneut Luftangriffe auf Iran gemeldet. Teheran reagierte mit Attacken auf US-Stützpunkte in Kuwait. Zuvor waren bei iranischem Beschuss in Jordanien zwei US-Soldaten getötet worden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 11:38:13 +0200"
-    },
-    {
-      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
-      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Ein Mensch kam nach Angaben von Präsident Selenskyj ums Leben, es gibt mehrere Verletzte.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 13:27:28 +0200"
-    },
-    {
-      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "summary": "Eigentlich hatten sich die USA und Iran Mitte Juni darauf verständigt, ihren Konflikt durch Verhandlungen zu lösen. Doch nun eskaliert die Lage wieder. In Jordanien wurden zwei US-Soldaten bei einem iranischen Angriff getötet.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Sat, 18 Jul 2026 20:54:34 +0200"
+      "published": "Tue, 21 Jul 2026 06:32:15 +0200"
     },
     {
       "title": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
@@ -444,6 +389,35 @@
       ],
       "chokepoint_lane": null,
       "published": "Mon, 20 Jul 2026 11:40:08 +0200"
+    },
+    {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Ein Mensch kam nach Angaben von Präsident Selenskyj ums Leben, es gibt mehrere Verletzte.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 19 Jul 2026 13:27:28 +0200"
     },
     {
       "title": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
@@ -520,6 +494,86 @@
       "published": "Thu, 16 Jul 2026 11:40:42 +0200"
     },
     {
+      "title": "Aufenthaltstitel: Schweden schraubt Erwartungen an Migranten höher",
+      "summary": "Zwei Monate vor der Parlamentswahl gilt in Schweden ein schärferes Migrationsrecht. Dabei wird auch der \"Lebenswandel\" zum Kriterium für eine Aufenthaltsberechtigung - doch es bleibt offen, was damit überhaupt gemeint ist. Von C. Stichler.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-migrationspolitik-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 11:29:05 +0200"
+    },
+    {
+      "title": "Spanien feiert seine Fußballweltmeister",
+      "summary": "Die spanische Fußballnationalmannschaft ist nach ihrem WM-Sieg euphorisch in der Heimat empfangen worden - von Fans, König Felipe und dem Ministerpräsidenten Sanchez. Von Nicholas Buschschlüter.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 22:05:48 +0200"
+    },
+    {
+      "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
+      "summary": "In Ungarn gab es einen Dämpfer für den neuen Premier Magyar: Seine Wunschkandidatin für die Präsidentschaft, die Schachgroßmeisterin Judit Polgar, hat abgesagt. Die \"historische Verantwortung\" sei zu groß. Von Oliver Soos.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Ungarn",
+        "lat": 47.1625,
+        "lon": 19.5033
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 21:12:39 +0200"
+    },
+    {
+      "title": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
+      "summary": "Andy Burnham, der siebte britische Premier in zehn Jahren, muss ein tief gespaltenes Land einen. Seine Pläne sind ehrgeizig: Er will die Lebenshaltungskosten senken, die Wirtschaft ankurbeln und Sozialsysteme entlasten. Von Lisa-Maria Röhling.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-neuer-premier-burnham-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 18:32:27 +0200"
+    },
+    {
+      "title": "Ungarn: Eine Schachlegende als Staatspräsidentin?",
+      "summary": "Ungarns Ministerpräsident Magyar will einen Neuanfang ohne Orban-Vertraute. Der Staatspräsident wurde bereits abgesetzt. Nun überrascht Magyar mit seinem Vorschlag für die Nachfolge - und bekommt dafür nicht nur Zustimmung. Von Oliver Soos.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-staatspraesident-schach-polgar-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Ungarn",
+        "lat": 47.1625,
+        "lon": 19.5033
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 15:32:17 +0200"
+    },
+    {
       "title": "Mann stirbt bei Polizeieinsatz in Bologna - Aufklärung gefordert",
       "summary": "Bei einem Polizeieinsatz im italienischen Bologna drücken zwei Beamte einen Mann minutenlang zu Boden, bis er stirbt. Der Tod des Mannes ruft Proteste hervor. Nun versprechen die Behörden Transparenz.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -549,7 +603,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 13:47:45 +0200"
+      "published": "Mon, 20 Jul 2026 16:41:04 +0200"
     },
     {
       "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
@@ -568,27 +622,11 @@
       "published": "Mon, 20 Jul 2026 13:50:52 +0200"
     },
     {
-      "title": "Spanien feiert WM-Titel: \"Das hier ist unbeschreiblich\"",
-      "summary": "Die Fans in Spanien mussten beim WM-Finale lange warten, bis sich ihr Team gegen die Mannschaft aus Argentinien durchsetzte. Dann aber brachen in Madrid alle Dämme, und die Fans feierten die ganze Nacht den ersehnten Titel. Von Anna Mundt.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-reaktionen-sieg-wm-finale-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 10:30:55 +0200"
-    },
-    {
-      "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
-      "summary": "Andy Burnham ist der siebte britische Regierungschef in den vergangenen zehn Jahren. Wenn das Amt für ihn nicht auch zum Schleudersitz werden soll, muss er schwierige Herausforderungen meistern. Von Lisa-Maria Röhling.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html",
-      "category": "welt",
+      "title": "Tour-News: Evenepoel und Pogacar letzte Starter beim Einzelzeitfahren",
+      "summary": "Bei der Tour steht am Dienstag das Einzelzeitfahren an. Als letzte Starter gehen Remco Evenepoel und Tadej Pogacar auf die Strecke.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/evenepoel-und-pogacar-letzte-starter-beim-einzelzeitfahren,tour-liveblog-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -597,46 +635,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 13:48:49 +0200"
+      "published": "Tue, 21 Jul 2026 09:27:53 +0200"
     },
     {
-      "title": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
-      "summary": "Nordöstlich von Madrid versuchen mehr als 500 Einsatzkräfte am Boden und in der Luft, einen großen Waldbrand einzudämmen. Doch das Feuer breitet sich immer weiter aus. Mehrere Orte mussten bereits evakuiert werden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 16:26:55 +0200"
-    },
-    {
-      "title": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
-      "summary": "Friedrich Merz hat mehrmals eine hohe Präsenz seiner Bundesregierung bei der EU angekündigt. Eine Auswertung des ARD-Studios Brüssel zeigt aber: Die deutschen Minister fehlen bei Ministerräten immer wieder. Von Sarah López.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ministerrat-abwesenheit-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Brüssel",
-        "lat": 50.8503,
-        "lon": 4.3517
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 12:09:09 +0200"
-    },
-    {
-      "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
-      "summary": "Mit einer Verfassungsnovelle will Ungarns neue Regierung Präsident Sulyok loswerden, der als Vertrauter Orbans gilt. Tagelang hatte Sulyok gezögert - der Änderung nun aber zugestimmt, die seine eigene Absetzung bedeutet. Von O. Soos.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
-      "category": "welt",
+      "title": "16. Etappe der Tour de France - Évian-les-Bains - Thonon-les-Bains (26 km, Einzelzeitfahren)",
+      "summary": "Das fantastische Panorama des Genfer Sees bildet die Kulisse zum Auftakt der letzten Tour-Woche beim Einzelzeitfahren.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/16-etappe-evian-les-bains-thonon-les-bains-26-km-einzelzeitfahren,etappe-sechzehn-104.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -645,7 +651,55 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 02:45:49 +0200"
+      "published": "Tue, 16 Jun 2026 10:40:06 +0200"
+    },
+    {
+      "title": "20 Jahre nach Ullrichs Tour-Aus: Doping im Radsport - viel Kampf gegen die Zweifel",
+      "summary": "Vor 20 Jahren wurde Jan Ullrich von der Tour de France ausgeschlossen. Der Radsport stürzte danach wegen vieler weiterer Dopingskandale in eine Krise. Heute gibt sich der Sport geläutert, doch wie weit ist der Anti-Dopingkampf tatsächlich?",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/doping-im-radsport-viel-kampf-gegen-die-zweifel,tour-de-france-radsport-doping-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 20 Jul 2026 13:41:47 +0200"
+    },
+    {
+      "title": "Doch kein Rot gegen Paredes - FIFA ermittelt dennoch",
+      "summary": "Die Szenen unmittelbar nach Abpfiff des WM-Finales haben für die argentinische Nationalmannschaft ein Nachspiel. Die FIFA hat Ermittlungen aufgenommen. Derweil herrscht Verwirrung um die Rote Karte gegen Paredes.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/doch-kein-rot-gegen-paredes-fifa-ermittelt-nach-ausrastern,wm-fifa-ermittelt-gegen-argentinien-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 09:40:54 +0200"
+    },
+    {
+      "title": "Siegesfeier: Spanien feiert die Fußball-Weltmeister",
+      "summary": "Empfang beim König und eine Siegesparade vor fast zwei Millionen Menschen: Spanien hat den Fußball-Weltmeistern in Madrid einen begeisterten Empfang bereitet.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/koenige-der-welt-spanien-feiert-die-fussball-weltmeister,empfang-weltmeister-spanien-madrid-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 21 Jul 2026 10:02:36 +0200"
     },
     {
       "title": "Fußball nahe der Perfektion - De la Fuentes spanische Weltmeister",
@@ -665,7 +719,7 @@
     },
     {
       "title": "WM 2026: Viel Frust und ein weinender Messi - Argentinien hadert mit Finalpleite",
-      "summary": "Argentinien reagiert im WM-Finale nur, statt zu agieren und verliert verdient gegen Spanien. Nach dem Spiel gibt es Gerangel, eine Rote Karte und einen Coach, der Größe zeigt.",
+      "summary": "Argentinien reagiert im WM-Finale nur, statt zu agieren und verliert verdient gegen Spanien. Nach dem Spiel gibt es Attacken von argentinischen Spielern auf den Gegner, nur der Coach zeigt Größe.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.tagesschau.de/sport/viel-frust-und-ein-weinender-messi-argentinien-hadert-mit-finalpleite,argentinien-enttaeuscht-im-wm-finale-100.html",
       "category": "sport",
@@ -677,61 +731,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 07:32:04 +0200"
+      "published": "Tue, 21 Jul 2026 10:05:18 +0200"
     },
     {
-      "title": "\"Den Fußball gerettet\" - die Pressestimmen zum WM-Finale",
-      "summary": "Spanien gewinnt das WM-Finale gegen Argentinien in der Verlängerung und in der iberischen Heimat wähnt man sich als Retter des Fußballs. Internationale Pressestimmen im Überblick.",
+      "title": "Südamerika-Verbandschef wirbt erneut für WM mit 64 Teams",
+      "summary": "Südamerikas Fußballverbandschef Alejandro Dominguez, ein enger Vertrauter von FIFA-Boss Gianni Infantino, hat erneut eine WM 2030 mit 64 Mannschaften gefordert. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/den-fussball-gerettet-die-pressestimmen-zum-wm-finale,wm-pressestimmen-spanien-argentinien-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 00:35:31 +0200"
-    },
-    {
-      "title": "Spanien ist Weltmeister - Ferran entthront Messis Argentinien",
-      "summary": "Spanien hat sich in einem spielerisch enttäuschenden Finale in New York/New Jersey zum Weltmeister 2026 gekrönt. Matchwinner war der eingewechselte Ferran Torres.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/torres-macht-spanien-zum-weltmeister-messis-argentinien-entthront,wm-spielbericht-spanien-argentinien-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 01:05:16 +0200"
-    },
-    {
-      "title": "WM-News: \"Sowas macht man nicht\" - Otamendis Vorwurf an Rodri",
-      "summary": "In Madrid rüstet man sich zur Party und auch Argentiniens Regierung kündigt nationalen Feiertag an. Argentiniens Otamendi hatte nach dem Abpfiff Redebedarf. Alle News und kuriosen Geschichten zur WM 2026 im Liveblog.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/sowas-macht-man-nicht-otamendis-vorwurf-an-rodri,wm-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 14:03:20 +0200"
-    },
-    {
-      "title": "Wie bei der Klub-WM: Trump verewigt sich auf Siegerfoto",
-      "summary": "US-Präsident Donald Trump und FIFA-Präsident Gianni Infantino sind bei der Siegerehrung nach dem WM-Finale ausgepfiffen worden. Wie bei der Klub-WM vor einem Jahr blieb Trump fürs Siegerfoto auf dem Podest stehen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/trump-besucht-sein-erstes-wm-spiel-und-will-noch-ein-turnier,wm-trump-finale-infantino-100.html",
+      "url": "https://www.tagesschau.de/sport/suedamerika-verbandschef-wirbt-erneut-fuer-wm-mit-64-teams,wm-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -741,39 +747,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 01:07:52 +0200"
-    },
-    {
-      "title": "WM-Halbzeitshow: Madonna, BTS, Bieber & Co. sorgen für Starauflauf",
-      "summary": "Beim WM-Finale kam es zu einer Premiere: In der 96-jährigen Geschichte der Weltmeisterschaft gab es die erste Halbzeit-Show in einem Endspiel. Es war ein Schaulaufen der Stars - und dauerte deutlich länger als versprochen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/ronaldo-kutschiert-madonna-star-auflauf-in-der-wm-halbzeitshow,wm-halbzeitshow-finale-100.html",
-      "category": "sport",
-      "event_type": "celebration",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 19 Jul 2026 22:22:40 +0200"
-    },
-    {
-      "title": "Almiron, Balogun, Kalajdzic - die etwas andere Elf der WM",
-      "summary": "Ein Mittelfeldspieler, der einen historischen Platzverweis erhielt und einen viralen Hit ermöglichte, ein Stürmer, der eine politische Affäre auslöste und ein \"I-werd-narrisch\"-Wiedergänger: Die etwas andere Elf der WM.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/platzverweise-und-politik-die-etwas-andere-elf-der-wm,wm-andere-elf-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 20 Jul 2026 01:59:37 +0200"
+      "published": "Tue, 21 Jul 2026 10:45:39 +0200"
     }
   ],
   "crises": [
@@ -788,7 +762,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -930,26 +904,6 @@
         {
           "lat": 45.358373433514586,
           "lon": 3.492977729866858
-        },
-        {
-          "lat": 45.713747071813735,
-          "lon": 3.108912938984673
-        },
-        {
-          "lat": 44.84791137003105,
-          "lon": 0.6140105138894891
-        },
-        {
-          "lat": 43.52115251469965,
-          "lon": 2.6829637597837634
-        },
-        {
-          "lat": 44.707991616346405,
-          "lon": 3.6551584465421403
-        },
-        {
-          "lat": 46.80528290899175,
-          "lon": 1.3048702332299131
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
@@ -989,7 +943,7 @@
       },
       "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1206,8 +1160,8 @@
       },
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-20",
-      "intensity": 7,
+      "last_seen": "2026-07-21",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1389,6 +1343,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
@@ -1405,7 +1379,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-20",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1421,7 +1395,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-20",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1523,26 +1497,6 @@
         {
           "lat": 50.28100893810915,
           "lon": 11.92784432149966
-        },
-        {
-          "lat": 48.94820021365995,
-          "lon": 11.540512164177608
-        },
-        {
-          "lat": 50.59377261702327,
-          "lon": 8.38930440579583
-        },
-        {
-          "lat": 50.46757312520619,
-          "lon": 13.069039483033478
-        },
-        {
-          "lat": 51.80338143803759,
-          "lon": 9.565143664893146
-        },
-        {
-          "lat": 52.37638929792631,
-          "lon": 10.954070326324219
         }
       ]
     },
@@ -1563,22 +1517,6 @@
       "subpoints": []
     },
     {
-      "id": "storm-frankreich",
-      "type": "storm",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Frankreich und Spanien im WM-Halbfinale - Gewitter trifft auf Uhrwerk",
-      "url": "https://www.tagesschau.de/sport/franzoesisches-gewitter-trifft-auf-spanisches-uhrwerk,wm-halbfinale-frankreich-spanien-das-beste-spiel-des-turniers-100.html",
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-usa",
       "type": "conflict",
       "location": {
@@ -1590,7 +1528,7 @@
       "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-20",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1692,26 +1630,6 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
-        },
-        {
-          "lat": 37.912293099314276,
-          "lon": -92.94674763864657
-        },
-        {
-          "lat": 34.091124287829764,
-          "lon": -93.97216174578706
-        },
-        {
-          "lat": 38.516843244090175,
-          "lon": -93.15389588562758
-        },
-        {
-          "lat": 37.95085245789026,
-          "lon": -95.99543142612114
-        },
-        {
-          "lat": 39.36966268424379,
-          "lon": -98.28475842366234
         }
       ]
     },
@@ -1727,7 +1645,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-20",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1789,26 +1707,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -1824,7 +1722,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-19",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1906,26 +1804,6 @@
         {
           "lat": 61.92933315812583,
           "lon": 27.38997603196394
-        },
-        {
-          "lat": 64.47119482415279,
-          "lon": 23.501969328061904
-        },
-        {
-          "lat": 62.71396456845651,
-          "lon": 24.72112127552743
-        },
-        {
-          "lat": 60.135127393865176,
-          "lon": 22.95480824147207
-        },
-        {
-          "lat": 63.80286698628039,
-          "lon": 27.94170763624383
-        },
-        {
-          "lat": 59.51922496148123,
-          "lon": 26.898609942993524
         }
       ]
     },
@@ -1940,8 +1818,8 @@
       "label": "Erneut massiver russischer Raketenangriff auf Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-20",
-      "intensity": 2,
+      "last_seen": "2026-07-21",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2023,6 +1901,103 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
+        },
+        {
+          "lat": 50.948850684666155,
+          "lon": 28.325279312098463
+        },
+        {
+          "lat": 51.351796749008656,
+          "lon": 27.682541009710526
+        },
+        {
+          "lat": 50.25431719113463,
+          "lon": 31.461124293660774
+        },
+        {
+          "lat": 49.57292332967101,
+          "lon": 30.14628348204989
+        },
+        {
+          "lat": 50.74693274107446,
+          "lon": 28.645578690769284
+        }
+      ]
+    },
+    {
+      "id": "conflict-washington",
+      "type": "conflict",
+      "location": {
+        "name": "Washington",
+        "lat": 38.9072,
+        "lon": -77.0369
+      },
+      "label": "Aoun in Washington: Die Libanesen haben wenig Hoffnung auf Veränderung",
+      "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 36.914673962150395,
+          "lon": -75.53416650805615
+        },
+        {
+          "lat": 41.298865705338045,
+          "lon": -77.46357223080683
+        },
+        {
+          "lat": 39.434176553613085,
+          "lon": -76.70577198264452
+        },
+        {
+          "lat": 38.43892844381345,
+          "lon": -79.61150726322015
+        },
+        {
+          "lat": 41.84402708915715,
+          "lon": -78.58402996458335
+        },
+        {
+          "lat": 36.07106846596466,
+          "lon": -76.30130601522671
+        },
+        {
+          "lat": 36.421898538583406,
+          "lon": -74.78850186429312
+        },
+        {
+          "lat": 39.00340855122251,
+          "lon": -77.18539537730881
+        },
+        {
+          "lat": 37.34577277171653,
+          "lon": -76.69909943032185
+        },
+        {
+          "lat": 38.938357044933916,
+          "lon": -79.36371170881884
+        },
+        {
+          "lat": 40.4847623960834,
+          "lon": -75.40743742105387
+        },
+        {
+          "lat": 37.72507645579732,
+          "lon": -74.71919933052378
+        },
+        {
+          "lat": 37.20763764116719,
+          "lon": -78.01028898851848
+        },
+        {
+          "lat": 36.08168338916863,
+          "lon": -74.94130063711825
+        },
+        {
+          "lat": 39.18790144012587,
+          "lon": -76.40072291660734
         }
       ]
     }
