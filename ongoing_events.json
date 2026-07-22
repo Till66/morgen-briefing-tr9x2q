@@ -11,7 +11,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -133,26 +133,6 @@
         {
           "lat": 47.27959998199288,
           "lon": 4.543949294948357
-        },
-        {
-          "lat": 46.338632311597614,
-          "lon": 4.854476700256573
-        },
-        {
-          "lat": 48.26458002152075,
-          "lon": 3.668439465949763
-        },
-        {
-          "lat": 47.00256387198916,
-          "lon": 2.67583995373392
-        },
-        {
-          "lat": 47.53227246014268,
-          "lon": 3.8874084818709895
-        },
-        {
-          "lat": 45.358373433514586,
-          "lon": 3.492977729866858
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
@@ -190,9 +170,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
+      "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-22",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -397,7 +377,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
     },
     {
       "id": "conflict-russland",
@@ -410,7 +390,7 @@
       "label": "Russland feuert Raketen auf Kiew ab",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-21",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -592,26 +572,6 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
@@ -644,7 +604,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-20",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -726,26 +686,6 @@
         {
           "lat": 51.17650378913572,
           "lon": 11.876194805039255
-        },
-        {
-          "lat": 54.115883693773625,
-          "lon": 7.475122098849997
-        },
-        {
-          "lat": 51.19202600651736,
-          "lon": 13.315057435540378
-        },
-        {
-          "lat": 51.06018689643631,
-          "lon": 9.876924173107701
-        },
-        {
-          "lat": 53.43679764965044,
-          "lon": 10.75168839130648
-        },
-        {
-          "lat": 50.28100893810915,
-          "lon": 11.92784432149966
         }
       ]
     },
@@ -777,7 +717,7 @@
       "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-20",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -859,26 +799,6 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
-        },
-        {
-          "lat": 39.21289723441515,
-          "lon": -95.3185407491224
-        },
-        {
-          "lat": 34.85938201632081,
-          "lon": -98.08926331314602
-        },
-        {
-          "lat": 36.48879791435269,
-          "lon": -96.03788115844209
-        },
-        {
-          "lat": 37.97230655513269,
-          "lon": -93.49135820988958
-        },
-        {
-          "lat": 35.67827396692878,
-          "lon": -95.01808241792573
         }
       ]
     },
@@ -890,11 +810,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
+      "label": "Iran-Krieg: Erstmals wieder Luftalarm in Teheran",
+      "url": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-20",
-      "intensity": 1,
+      "last_seen": "2026-07-22",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -956,6 +876,46 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
+        },
+        {
+          "lat": 34.53650658602524,
+          "lon": 51.50872357386834
+        },
+        {
+          "lat": 29.788215092923195,
+          "lon": 52.06036586617594
+        },
+        {
+          "lat": 31.535998509280965,
+          "lon": 53.88033092181206
+        },
+        {
+          "lat": 32.291035899152405,
+          "lon": 52.377806241935545
+        },
+        {
+          "lat": 32.81624579833512,
+          "lon": 55.56409883790745
         }
       ]
     },
@@ -971,7 +931,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-19",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1033,26 +993,6 @@
         {
           "lat": 61.96861766168804,
           "lon": 23.175483882728614
-        },
-        {
-          "lat": 64.59706843176544,
-          "lon": 24.32440611404446
-        },
-        {
-          "lat": 59.030616416675066,
-          "lon": 25.430342449236043
-        },
-        {
-          "lat": 61.83805976741658,
-          "lon": 22.988719257784012
-        },
-        {
-          "lat": 59.11085439622877,
-          "lon": 26.74884851623044
-        },
-        {
-          "lat": 61.92933315812583,
-          "lon": 27.38997603196394
         }
       ]
     },
@@ -1068,7 +1008,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-21",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1150,26 +1090,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
         }
       ]
     },
@@ -1184,8 +1104,8 @@
       "label": "Aoun in Washington: Die Libanesen haben wenig Hoffnung auf Veränderung",
       "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
-      "intensity": 1,
+      "last_seen": "2026-07-22",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1247,9 +1167,61 @@
         {
           "lat": 39.18790144012587,
           "lon": -76.40072291660734
+        },
+        {
+          "lat": 37.26186568808879,
+          "lon": -76.01903025321768
+        },
+        {
+          "lat": 36.82273991542094,
+          "lon": -74.22564780977814
+        },
+        {
+          "lat": 40.67166297968842,
+          "lon": -79.52512324617958
+        },
+        {
+          "lat": 40.272908712107906,
+          "lon": -78.0244171962165
+        },
+        {
+          "lat": 36.3646393761478,
+          "lon": -76.23617915562859
         }
       ]
+    },
+    {
+      "id": "outage-berlin",
+      "type": "outage",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "label": "Vorbereitung auf mögliche Blackouts: Wenn auf einmal der Strom weg ist",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/stromausfall-blackout-100.html",
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-frankreich",
+      "type": "wildfire",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Frankreich: Die Not der Weinbauern nach den Waldbränden",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-weinbauern-100.html",
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-07-21"
+  "updated_at": "2026-07-22"
 }
