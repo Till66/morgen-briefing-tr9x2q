@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:22:56.949293+00:00",
+  "generated_at": "2026-07-24T11:14:49.860406+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,10 @@
   },
   "articles": [
     {
-      "title": "Reiseverkehr: ADAC warnt vor erhöhter Staugefahr am Wochenende",
-      "summary": "In fast allen Bundesländern sind Sommerferien - und das bedeutet auch massiven Reiseverkehr auf den deutschen Straßen. Der ADAC warnt für das bevorstehende Wochenende vor Stau, auch durch Baustellen und Streckensperrungen.",
+      "title": "Bundesverfassungsgericht: Pauschaler Aufnahmestopp von Afghanen ist \"Willkür\"",
+      "summary": "Der von der Bundesregierung verhängte pauschale Aufnahmestopp von gefährdeten Afghanen verstößt gegen das Verbot der Willkür. Das hat das Bundesverfassungsgericht jetzt im Falle einer Afghanin und deren zwei Söhnen entschieden.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/reise-verkehr-sommerferien-deutschland-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afghanin-aufnahme-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,29 +58,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 12:44:40 +0200"
+      "published": "Fri, 24 Jul 2026 11:26:14 +0200"
     },
     {
-      "title": "Klage gegen Bundesregierung: Ehefrau von Deutschem sitzt in Gaza fest",
-      "summary": "Faruk Doghmosh und Mohannd R. bangen um ihre Ehefrauen. Die Partnerinnen der beiden Deutschen sitzen im Gazastreifen fest und kommen nicht raus. Nun klagt das Ehepaar Doghmosh gegen die Bundesregierung. Von T. Friedrich und T. Mandalka.",
+      "title": "So soll das neue Kabinett aussehen",
+      "summary": "Der Rücktritt von Unionsfraktionschef Spahn hat den Stein ins Rollen gebracht: Die Union wechselt auf mehreren Spitzenpositionen das Personal aus. Wer gehen muss und wer neue Ämter übernehmen soll.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-gaza-klage-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.5,
-        "lon": 34.47
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 12:29:24 +0200"
-    },
-    {
-      "title": "Verfassungsklage wegen Beratungszeit für \"Heizungsgesetz\" abgewiesen",
-      "summary": "Der Zeitplan der damaligen Ampelkoalition für das Gebäudeenergiegesetz im Sommer 2023 war nicht zu knapp. Das hat das Bundesverfassungsgericht entschieden. Im Eilverfahren hatte der klagende CDU-Politiker noch Recht bekommen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gebaeudeenergiegesetz-verfassungsgericht-urteil-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-kabinett-umbildung-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -90,45 +74,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 11:15:41 +0200"
+      "published": "Fri, 24 Jul 2026 11:24:50 +0200"
     },
     {
-      "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "summary": "Der eigenständige Hackerangriff eines KI-Modells hat die Bundesregierung alarmiert. Die zunehmenden Fähigkeiten Künstlicher Intelligenz verändere auch die Bedrohungslage im Cyberbereich massiv, warnt das Digitalministerium.",
+      "title": "Einschätzung zum Kabinettsumbau: \"Spahn-Rücktritt öffnet Tür für Veränderungen\"",
+      "summary": "Mit dem neuen Job für Nina Warken zeige Kanzler Merz, dass er Effizienz belohne, so ARD-Korrespondent Markus Preiß. Durch Spahns Rücktritt habe sich für ihn die Möglichkeit für einen umfassenden Kabinettsumbau ergeben.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
-      "category": "politik",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 07:47:47 +0200"
-    },
-    {
-      "title": "Bundesverfassungsgericht urteilt über Abgeordnetenrechte",
-      "summary": "Nicht nur die Inhalte des Gebäudeenergiegesetzes hatten 2023 für viel Diskussion gesorgt: Streit gab es auch über das Tempo. Heute entscheidet das Bundesverfassungsgericht darüber, ob damals alles zu schnell ging. Von A. Stephany und M. Bauer.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bverfg-gesetzgebung-zeitplan-100.html",
-      "category": "politik",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 04:41:04 +0200"
-    },
-    {
-      "title": "Thorsten Frei: Bürgermeister, Kanzleramtschef, Fraktionsvorsitz?",
-      "summary": "Er gilt als fleißig, loyal und hart in der Sache: Thorsten Frei soll Unions-Fraktionsvorsitzender im Bundestag werden. Wer ist der Mann, der Jens Spahn ersetzen soll? Von Christina Nagel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/thorsten-frei-portraet-100.html",
+      "url": "https://www.tagesschau.de/inland/kabinettumbau-schalte-preiss-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -138,29 +90,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 18:57:48 +0200"
+      "published": "Fri, 24 Jul 2026 10:57:39 +0200"
     },
     {
-      "title": "Gedenken an Attentat im Olympia-Einkaufszentrum",
-      "summary": "In München ist an die neun Todesopfer des Attentats im Olympia-Einkaufszentrum vor zehn Jahren erinnert worden. Bundespräsident Steinmeier rief dazu auf, Rassismus und Antisemitismus entschieden zu bekämpfen.",
+      "title": "Warken als Kanzleramtschefin, Linnemann als Gesundheitsminister bestätigt",
+      "summary": "Kanzler Merz hat bestätigt, dass Nina Warken auf den Posten der Kanzleramtsministerin wechselt. Der bisherige CDU-Generalsekretär Carsten Linnemann übernimmt das Gesundheitsressort. Weitere Veränderungen sollen folgen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-oez-attentat-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 18:55:01 +0200"
-    },
-    {
-      "title": "Frei als Fraktionschef: Stühlerücken für mehr Stabilität in der Union?",
-      "summary": "Die Unionsfraktion ringt nach schwierigen Monaten um Geschlossenheit. Mit Thorsten Frei an der Spitze soll nun Ruhe und Stabilität einkehren. Kann das gelingen? Von Corinna Emundts.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/fraktionschef-frei-union-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-als-kanzleramtschefin-bestaetigt-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,7 +106,167 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 18:32:28 +0200"
+      "published": "Fri, 24 Jul 2026 09:42:16 +0200"
+    },
+    {
+      "title": "Merz baut Kabinett um: Verkehrsminister Schnieder muss offenbar gehen",
+      "summary": "Bundeskanzler Merz wird nach Informationen des ARD-Hauptstadtstudios auch das Verkehrsministerium neu besetzen. Ressortchef Schnieder muss offenbar gehen. Für seine Nachfolge ist der CDU-Politiker Fritz Güntzler im Gespräch. Eine Bestätigung gibt es bislang nicht.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-schnieder-muss-gehen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 09:00:40 +0200"
+    },
+    {
+      "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
+      "summary": "Kanzleramtschef Frei soll Nachfolger von Unionsfraktionschef Spahn werden. Das hat Kanzler Merz bereits öffentlich gemacht. Am Vormittag wird er verkünden, wie das Stühlerücken in seinem Kabinett weitergeht.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 07:43:28 +0200"
+    },
+    {
+      "title": "Gesundheitsministerin Nina Warken soll Kanzleramtsschefin werden",
+      "summary": "Ihr dickes Fell hat sie als Gesundheitsministerin unter Beweis gestellt. Nun soll Nina Warken Kanzleramtschefin werden - und als rechte Hand von Friedrich Merz dafür sorgen, dass die Regierungsarbeit wieder geräuschlos läuft. Von Birthe Sönnichsen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-portraet-gesundheitsministerin-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 04:08:27 +0200"
+    },
+    {
+      "title": "Linnemann: \"Einfach mal machen\" im Gesundheitsministerium?",
+      "summary": "\"Einfach mal machen\" ist das Credo von Carsten Linnemann. Ob das auch im Gesundheitsministerium klappt, das der CDU-Generalsekretär nun offenbar übernehmen soll? Die Herausforderungen sind jedenfalls groß. Von Sabine Henkel.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 21:40:02 +0200"
+    },
+    {
+      "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
+      "summary": "Volkswagen hat im zweiten Quartal deutlich weniger verdient als ein Jahr zuvor. Zugleich rechnet der Autobauer für das Gesamtjahr mit niedrigeren Erlösen als bisher. Belastend wirkt unter anderem das schwache China-Geschäft.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-gewinn-einbruch-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 09:31:20 +0200"
+    },
+    {
+      "title": "US-Gericht verlängert Stopp für Warner-Übernahme durch Paramount",
+      "summary": "Die milliardenschwere Übernahme von Warner Bros. Discovery durch Paramount verzögert sich weiter. Ein US-Gericht hat den vorläufigen Stopp bis Mitte August verlängert und prüft eine Klage mehrerer Bundesstaaten.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-gerichtsbeschluss-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 09:50:59 +0200"
+    },
+    {
+      "title": "US-Präsident Trump verhängt neue Zölle für 60 Länder - was jetzt gilt",
+      "summary": "Die einen Zölle laufen aus, die nächsten sind bereits in den Startlöchern: US-Präsident Trump hat neue Zölle von bis zu 12,5 Prozent auf Importe aus 60 Ländern verhängt. Worauf die Maßnahmen beruhen und was sie bedeuten.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/amerika/wichtige-antworten-zu-neuen-us-zoellen-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 12:02:32 +0200"
+    },
+    {
+      "title": "Ankündigung der US-Regierung: Neue Zölle gegen 60 Handelspartner",
+      "summary": "Die US-Regierung hat überraschend neue Einfuhrabgaben für 60 Handelspartner angekündigt. Bei diesen Zöllen handelt es sich um Strafen wegen angeblich unzureichender Maßnahmen gegen Zwangsarbeit. Von Carsten Kühntopp.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/amerika/zoll-trump-zwangsarbeit-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 08:59:06 +0200"
+    },
+    {
+      "title": "Neue Euro-Noten: Berühmte Europäer oder Vögel und Flüsse?",
+      "summary": "Die EZB hat Entwürfe für künftige Euro-Banknoten vorgestellt. Bürgerinnen und Bürger der Eurozone können nun mitentscheiden. Das neue Geld bricht mit Traditionen und kommt in einigen Jahren. Von Klaus-Rainer Jackisch.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-entwuerfe-banknoten-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 16:58:52 +0200"
+    },
+    {
+      "title": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
+      "summary": "Die Europäische Zentralbank legt eine Zinspause ein. Der für Banken und Sparer wichtige Einlagensatz bleibt bei 2,25 Prozent. Gut möglich jedoch, dass im September die nächste Erhöhung folgt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheidung-juli-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 15:14:29 +0200"
     },
     {
       "title": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
@@ -189,10 +285,10 @@
       "published": "Thu, 23 Jul 2026 06:30:10 +0200"
     },
     {
-      "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "summary": "Der eigenständige Hackerangriff eines KI-Modells hat die Bundesregierung alarmiert. Die zunehmenden Fähigkeiten Künstlicher Intelligenz verändere auch die Bedrohungslage im Cyberbereich massiv, warnt das Digitalministerium.",
+      "title": "Goldpreis unter Druck: Ist Gold noch ein sicherer Hafen?",
+      "summary": "Gold hat sich binnen weniger Monate um 30 Prozent verbilligt. Die starken Schwankungen bei dem Edelmetall beunruhigen Investoren und Zentralbanken. Wie sind jetzt die weiteren Aussichten? Von Angela Göpfert.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/goldpreis-kursrutsch-zinsen-sicherer-hafen-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,103 +298,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 07:47:47 +0200"
-    },
-    {
-      "title": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
-      "summary": "Der Google-Mutterkonzern Alphabet hat Umsatz und Gewinn deutlich stärker gesteigert als erwartet. Vor allem das Cloud-Geschäft wächst rasant. Gleichzeitig erhöht der Konzern seine KI-Ausgaben erneut.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/google-cloud-ki-zahlen-investitionen-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 08:19:10 +0200"
-    },
-    {
-      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
-      "summary": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 21:41:08 +0200"
-    },
-    {
-      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-      "summary": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 15:04:19 +0200"
-    },
-    {
-      "title": "KI wird für Unternehmen immer mehr zum Kostenfaktor",
-      "summary": "Künstliche Intelligenz galt mal als günstige Arbeitskraft. Doch immer mehr Unternehmen berichten über stark steigende Ausgaben für KI. Ein Grund: immer komplexere Modelle. Von Michel Krasenbrink.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-kosten-unternehmen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 15:32:33 +0200"
-    },
-    {
-      "title": "Tech-Firmen am Finanzmarkt: Was KI kostet und wer das alles bezahlt",
-      "summary": "Der KI-Boom wird immer stärker über Schulden finanziert. Tech-Konzerne nehmen am Anleihemarkt Milliarden auf. Ob die Wette auf die Zukunft aufgeht, ist keine ausgemachte Sache. Von Claudia Wehrle.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/kuenstliche-intelligenz-kosten-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 15:32:22 +0200"
-    },
-    {
-      "title": "KI von OpenAI steuert eigenständig Hackerangriff",
-      "summary": "OpenAI spricht selbst von einem \"beispiellosen Cybervorfall\": KI-Modelle der Firma brachen eigenständig aus einer Testumgebung aus, verschafften sich Zugang zum offenen Internet - und hackten ein externes Unternehmen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 07:46:49 +0200"
+      "published": "Fri, 24 Jul 2026 06:05:47 +0200"
     },
     {
       "title": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
@@ -328,93 +328,6 @@
       ],
       "chokepoint_lane": null,
       "published": "Thu, 23 Jul 2026 06:27:39 +0200"
-    },
-    {
-      "title": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
-      "summary": "Präsident Trump verschärft seinen Ton gegenüber Teheran erneut: Sollte Iran weiter Schiffe in der Straße von Hormus beschießen, würden die USA zivile Infrastruktur zerstören. Auch aus Teheran kommen neue Drohungen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohung-102.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          },
-          "to": {
-            "name": "Teheran",
-            "lat": 35.6892,
-            "lon": 51.389
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 19:08:30 +0200"
-    },
-    {
-      "title": "Hegseth beziffert Kriegskosten in Iran auf 37,5 Milliarden Dollar",
-      "summary": "US-Verteidigungsminister Hegseth hat sich den Fragen des Senatsausschusses gestellt. Denn er will mehr Geld für den Iran-Krieg. 37,5 Milliarden Dollar hat der Konflikt die USA schon gekostet - mehr als bisher angenommen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-haushaltsausschuss-irankrieg-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 07:41:20 +0200"
-    },
-    {
-      "title": "Iran-Krieg: Erstmals wieder Luftalarm in Teheran",
-      "summary": "Auch in der vergangenen Nacht hat die US-Armee Iran mit einer Welle von Angriffen überzogen. Erstmals seit dem jüngsten Aufflammen des Krieges war auch in der Hauptstadt Teheran wieder Luftalarm zu hören.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          },
-          "to": {
-            "name": "Teheran",
-            "lat": 35.6892,
-            "lon": 51.389
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 11:10:09 +0200"
     },
     {
       "title": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
@@ -520,6 +433,157 @@
       "published": "Sat, 18 Jul 2026 12:49:37 +0200"
     },
     {
+      "title": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
+      "summary": "Seit fast zwei Wochen fliegen die USA nächtliche Angriffe auf Iran. Auch in der vergangenen Nacht hat die US-Armee nach eigenen Angaben militärische Ziele in Iran ins Visier genommen. Kuwait meldete iranischen Beschuss.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 06:44:47 +0200"
+    },
+    {
+      "title": "Trump droht Huthi und Iran \"militärische Bestrafung\" an",
+      "summary": "Die Huthi-Angriffe auf Tanker im Roten Meer und die gegenseitigen Attacken zwischen den USA und Iran sorgen international für Besorgnis. Auch die Märkte reagieren: Der Ölpreis steigt auf über 100 US-Dollar.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/asien/trump-huthi-usa-iran-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "to": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 15:57:16 +0200"
+    },
+    {
+      "title": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
+      "summary": "Erneut hat das US-Militär Ziele in Iran attackiert. Es ist die zwölfte nächtliche Angriffswelle in Folge. US-Präsident Trump verschärft seine Drohungen - die Islamische Republik beschießt die Golfstaaten.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "to": {
+            "name": "Teheran",
+            "lat": 35.6892,
+            "lon": 51.389
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 03:27:29 +0200"
+    },
+    {
+      "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
+      "summary": "Spanien ruft angesichts der Waldbrände den Notstand aus. Frankreichs Präsident Macron bitte die EU um Hilfe, da die Feuerwehr die Brände nicht kontrollieren kann. Zehntausende Menschen wurden evakuiert.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-124.html",
+      "category": "welt",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 13:07:36 +0200"
+    },
+    {
+      "title": "EU verhängt weiteres Sanktionspaket gegen Russland",
+      "summary": "Die EU-Kommission hat das 21. Sanktionspaket gegen Russland beschlossen. Besonders der Finanzsektor soll stärker betroffen sein. Die Verhandlungen waren zäh, viele Länder hatten Extrawünsche. Von Thomas Spickhofen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-140.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 18:07:54 +0200"
+    },
+    {
+      "title": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
+      "summary": "Für viele Urlauber an der französischen Atlantikküste bei Arcachon heißt es gerade: nichts wie weg. Die Waldbrände breiten sich dort rasant aus. In Spanien wurde in zwei Regionen der \"Notstand nationaler Tragweite\" ausgerufen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-102.html",
+      "category": "welt",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 02:16:04 +0200"
+    },
+    {
+      "title": "Britischer Premier Burnham senkt die Gewerbesteuer für Pubs, Clubs & Live-Musik",
+      "summary": "Großbritannien neuer Premierminister Andy Burnham will vieles anders machen als sein Vorgänger Keir Starmer. Unter anderem will er die Lebenshaltungskosten senken. Davon profitieren könnten zum Beispiel Pubs.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/gewerbesteuer-grossbritannien-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 23 Jul 2026 16:30:14 +0200"
+    },
+    {
       "title": "Verstoß gegen Digitalregeln: EU verhängt Rekordstrafe gegen Google",
       "summary": "Die EU-Kommission verhängt eine Strafe in Höhe von 890 Millionen Euro gegen Google. Die bekannte Suchmaschine bevorzuge die eigenen Angebote und etabliere unfaire Bedingungen im eigenen Play Store. Von Kathrin Schmid.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -584,74 +648,10 @@
       "published": "Wed, 22 Jul 2026 17:45:34 +0200"
     },
     {
-      "title": "EU will \"Chatkontrollen\" teilweise wieder ermöglichen",
-      "summary": "In der EU gibt es seit Jahren Streit über den Einsatz von sogenannten Chatkontrollen, um Kindesmissbrauch aufzudecken. Nun wurde eine vorübergehende Lösung gefunden. Verschlüsselte Nachrichten bleiben davon jedoch ausgenommen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/einigung-eu-chatkontrollen-100.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 17:25:12 +0200"
-    },
-    {
-      "title": "Justizreform in Ungarn: Generalstaatsanwalt Nagy tritt zurück",
-      "summary": "Das ungarische Justizsystem steht kurz vor einer Reform: Der Generalstaatsanwalt ist zurückgetreten. Neben Korruptionsaffären wird ihm vorgeworfen, Ermittlungen gegen die Regierung verschleppt zu haben. Von Oliver Soos.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-justizreform-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 16:27:26 +0200"
-    },
-    {
-      "title": "Wälder in Frankreich, Spanien und Italien brennen",
-      "summary": "An vielen Orten in Europa zeigt sich der Klimawandel in extremer Form: Waldbrände auf Sizilien breiten sich bei Temperaturen um 45 Grad aus. In Frankreich sterben zwei Feuerwehrleute, Hunderte Menschen müssen fliehen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 14:27:12 +0200"
-    },
-    {
-      "title": "Braunau in Österreich: Hitlers Geburtshaus wird zu Polizeistation",
-      "summary": "Erst ein Schulgebäude, dann ein Standort der Lebenshilfe, zuletzt Leerstand: Lange wurde im österreichischen Braunau diskutiert, was aus dem Geburtshaus von Hitler werden soll. Nun soll die Polizei den Ort \"neutralisieren\". Von D. Freches.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/hitler-geburtshaus-polizei-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Österreich",
-        "lat": 47.5162,
-        "lon": 14.5501
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 06:50:17 +0200"
-    },
-    {
-      "title": "Tour-de-France-News: Orcières-Merlette - \"Vorspeise\" vor Alpe d'Huez",
-      "summary": "Alle News, Kuriositäten und Geschichten rund um die Tour de France 2026 im Liveblog.",
+      "title": "DFB verpflichtet Jürgen Klopp als neuen Bundestrainer",
+      "summary": "Er war seit dem Aus für Julian Nagelsmann der öffentlich erklärte Wunschnachfolger des Deutschen Fußball-Bundes. Nun steht fest: Jürgen Klopp übernimmt den Job als Bundestrainer.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/florian-lipowitz-bereits-operiert,tour-liveblog-100.html",
+      "url": "https://www.tagesschau.de/sport/juergen-klopp-ist-neuer-bundestrainer,wm-juergen-klopp-wird-bundestrainer-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -661,13 +661,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 10:57:37 +0200"
+      "published": "Fri, 24 Jul 2026 12:33:23 +0200"
     },
     {
-      "title": "Die 18. Etappe der Tour de France 2025 - Voiron - Orcières-Merlette (185 km)",
-      "summary": "Die 18. Etappe ist der Auftakt der Alpen-Trilogie mit drei Bergankünften. Der erste Tag mit der Bergankunft in Orcières-Merlette ist noch der leichteste.",
+      "title": "Notlösung, Weltstar, Bundestrainer - Die Karriere von Jürgen Klopp",
+      "summary": "Jürgen Klopps Trainerkarriere begann aus \"purer Verzweiflung\". Doch die Notlösung war ein Glücksgriff. Ob Mainz, BVB oder Liverpool: Der neue Bundestrainer wurde überall, wo er arbeitete, zur Legende.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/18-etappe-voiron-orcieres-merlette-185-km,etappe-achtzehn-100.html",
+      "url": "https://www.tagesschau.de/sport/die-karriere-von-juerge-klopp-notloesung-weltstar-bundestrainer,wm-dfb-so-wurde-klopp-zum-bundestrainer-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -677,27 +677,59 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 16 Jun 2026 10:39:46 +0200"
+      "published": "Fri, 24 Jul 2026 12:07:42 +0200"
     },
     {
-      "title": "Pedersen gegen Philipsen: Kampf um Grünes Trikot wird zum Krimi",
-      "summary": "Mads Pedersen hätte das Grüne Trikot auf der 17. Etappe der Tour de France gerne unter Dach und Fach gebracht. Doch sein Plan scheitert. Nun kommt es wohl zum Showdown mit Jasper Philipsen in Paris.",
+      "title": "Geschäftsführer und Brückenbauer - DFB holt auch Mertesacker",
+      "summary": "Nach der Vorstellung von Jürgen Klopp als Bundestrainer hat der Deutsche Fußball-Bund die nächste Top-Personalie geklärt. Per Mertesacker wird ab 1. Januar 2027 Geschäftsführer Sport des Verbandes.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/der-kampf-um-gruene-trikot-wird-zum-krimi,tour-de-france-17-etappe-analyse-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-macht-mertesacker-zum-geschaeftsfuehrer,bericht-dfb-mertesacker-geschaeftsfuehrer-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 21:11:15 +0200"
+      "published": "Fri, 24 Jul 2026 12:10:46 +0200"
     },
     {
-      "title": "News-Blog: Die ersten Entscheidungen stehen an",
-      "summary": "Bei den Finals 2026 in Hannover geht es heute richtig los. Die News des Tages im Liveblog.",
+      "title": "Kommentar: Klopp muss dem DFB-Team wieder Leben einhauchen",
+      "summary": "Jürgen Klopp wird neuer Bundestrainer - er muss eine am Boden liegende Fußballnation wieder aufrichten. Ein Kommentar.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-muss-dfb-team-wieder-leben-einhauchen,kommentar-lehmann-klopp-dfb-trainer-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 11:10:52 +0200"
+    },
+    {
+      "title": "Schattencasting - der andere Blick des Jürgen Klopp",
+      "summary": "Jürgen Klopp wird neuer Bundestrainer. Dessen Erfolg gründet auch darauf, dass er die Qualitäten von Fußballern anders bewertet als manch ein Kollege und die breite Öffentlichkeit.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/schattencasting-der-andere-blick-des-juergen-klopp,wm-kader-klopp-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 24 Jul 2026 11:24:54 +0200"
+    },
+    {
+      "title": "News-Blog: Das sind die Champions beim Coastal Rowing",
+      "summary": "Der Vormittag bei den Finals 2026 steht ganz im Zeichen von Badeschlappen. Wieso, weshalb, warum erfahren Sie im Liveblog.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/die-finals/finals-in-hannover-news-blog-donnerstag,finals-2026-liveblog-100.html",
       "category": "sport",
@@ -709,13 +741,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 12:45:52 +0200"
+      "published": "Fri, 24 Jul 2026 13:14:27 +0200"
     },
     {
-      "title": "Schwimmen - Ab 16.10 Uhr geht's für Holt und Co. zur Sache",
-      "summary": "Bei den Schwimm-Finals werden die Fans richtig auf ihre Kosten kommen. Es gibt einen neuen Modus - den sich die Top-Leute des Landes nicht entgehen lassen. Auch Nina Holt nicht.",
+      "title": "Die Finals 2026 - alle Sportarten und Zeiten am Freitag",
+      "summary": "Der Freitag bei den Finals 2026 - Sportprogramm und die Übertragungszeiten im Überblick.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/schwimmen-ab-1610-uhr-gehts-fuer-holt-und-co-zur-sache,die-finals-2026-schwimmen-donnerstag-100.html",
+      "url": "https://www.sportschau.de/die-finals/die-finals-2026-alle-sportarten-und-zeiten-am-freitag,finals-hannover-zeitplan-freitag-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -725,13 +757,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 11:19:45 +0200"
+      "published": "Fri, 24 Jul 2026 11:50:12 +0200"
     },
     {
-      "title": "Von Varfolomeev bis Märtens - jede Menge Stars bei den Finals 2026 in Hannover",
-      "summary": "Hannover ist von Donnerstag bis Sonntag das Zentrum des deutschen Spitzensports. Die Stars der Szene sind bei den Finals dabei.",
+      "title": "Stabhochsprung-Wettkampf wird trotz Wind zur Mega-Party",
+      "summary": "Der Stabhochsprung der Männer hat den Opernplatz von Hannover zum ersten Mal zum Beben gebracht. 4.000 Zuschauer feierten die Athleten.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/die-finals-2026,die-finals-2026-hannover-vorschau-100.html",
+      "url": "https://www.sportschau.de/die-finals/die-finals-2026-stabhochsprung,die-finals-2026-stabhochsprung-opernplatz-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -741,39 +773,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 11:07:43 +0200"
-    },
-    {
-      "title": "Klopp soll morgen als Bundestrainer vorgestellt werden",
-      "summary": "Der DFB hat für morgen zu einer Pressekonferenz eingeladen. Der Name Jürgen Klopp wird bei dem Termin noch nicht genannt - doch es geht um dessen Vorstellung als Bundestrainer.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-soll-morgen-als-bundestrainer-vorgestellt-werden,klopp-dfb-bundestrainer-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 11:55:10 +0200"
-    },
-    {
-      "title": "Argentiniens Verbandschef erneut im Fokus",
-      "summary": "Der Präsident von Argentiniens Fußballverband soll nach dem WM-Finale am Flughafen von New York festgesetzt worden sein. Der Verband widerspricht.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/argentiniens-verbandschef-erneut-im-fokus,wm-tapia-argentinien-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "New York",
-        "lat": 40.7128,
-        "lon": -74.006
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 09:55:54 +0200"
+      "published": "Thu, 23 Jul 2026 21:15:48 +0200"
     }
   ],
   "crises": [
@@ -788,7 +788,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -870,26 +870,6 @@
         {
           "lat": 43.83830980564941,
           "lon": 4.199873355715855
-        },
-        {
-          "lat": 44.02748710694013,
-          "lon": 0.6771608690309014
-        },
-        {
-          "lat": 45.15654840471655,
-          "lon": 3.355213689919727
-        },
-        {
-          "lat": 46.23358804210452,
-          "lon": 4.766603720539274
-        },
-        {
-          "lat": 48.31896392993186,
-          "lon": 0.9551396763177213
-        },
-        {
-          "lat": 45.887500047969986,
-          "lon": 3.3106191626871277
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
@@ -929,7 +909,7 @@
       },
       "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1146,7 +1126,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1364,8 +1344,8 @@
       "label": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-23",
-      "intensity": 1,
+      "last_seen": "2026-07-24",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1381,7 +1361,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-20",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1423,44 +1403,8 @@
         {
           "lat": 48.62424834245019,
           "lon": 13.367736918865758
-        },
-        {
-          "lat": 53.40213005621536,
-          "lon": 10.122458417158331
-        },
-        {
-          "lat": 49.283319853261304,
-          "lon": 12.751432592385433
-        },
-        {
-          "lat": 49.614547022244906,
-          "lon": 7.967204139255848
-        },
-        {
-          "lat": 51.464778068532766,
-          "lon": 13.21022522260964
-        },
-        {
-          "lat": 51.4887623228762,
-          "lon": 7.895969145136994
         }
       ]
-    },
-    {
-      "id": "wildfire-griechenland",
-      "type": "wildfire",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
-      "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html",
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-17",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-usa",
@@ -1470,11 +1414,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-saudi-arabien-atomabkommen-100.html",
+      "label": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-23",
-      "intensity": 3,
+      "last_seen": "2026-07-24",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1576,6 +1520,46 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
+        },
+        {
+          "lat": 37.912293099314276,
+          "lon": -92.94674763864657
+        },
+        {
+          "lat": 34.091124287829764,
+          "lon": -93.97216174578706
+        },
+        {
+          "lat": 38.516843244090175,
+          "lon": -93.15389588562758
+        },
+        {
+          "lat": 37.95085245789026,
+          "lon": -95.99543142612114
+        },
+        {
+          "lat": 39.36966268424379,
+          "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -1587,11 +1571,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Iran-Krieg: Erstmals wieder Luftalarm in Teheran",
-      "url": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html",
+      "label": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
+      "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-23",
-      "intensity": 6,
+      "last_seen": "2026-07-24",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1753,6 +1737,46 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
+        },
+        {
+          "lat": 33.61046136593003,
+          "lon": 53.362900371738455
+        },
+        {
+          "lat": 32.22757508949332,
+          "lon": 52.97180688007079
+        },
+        {
+          "lat": 35.36947751881089,
+          "lon": 52.418770842109524
+        },
+        {
+          "lat": 34.87814921545998,
+          "lon": 56.30658008373962
+        },
+        {
+          "lat": 34.22179771185673,
+          "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -1824,8 +1848,8 @@
       "label": "Erneut massiver russischer Raketenangriff auf Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-23",
-      "intensity": 3,
+      "last_seen": "2026-07-24",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1927,6 +1951,26 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
+        },
+        {
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
+        },
+        {
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
+        },
+        {
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
+        },
+        {
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
+        },
+        {
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
         }
       ]
     },
@@ -1942,7 +1986,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
       "first_seen": "2026-07-21",
       "last_seen": "2026-07-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1984,26 +2028,6 @@
         {
           "lat": 38.938357044933916,
           "lon": -79.36371170881884
-        },
-        {
-          "lat": 40.4847623960834,
-          "lon": -75.40743742105387
-        },
-        {
-          "lat": 37.72507645579732,
-          "lon": -74.71919933052378
-        },
-        {
-          "lat": 37.20763764116719,
-          "lon": -78.01028898851848
-        },
-        {
-          "lat": 36.08168338916863,
-          "lon": -74.94130063711825
-        },
-        {
-          "lat": 39.18790144012587,
-          "lon": -76.40072291660734
         }
       ]
     },
@@ -2031,11 +2055,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Wälder in Frankreich, Spanien und Italien brennen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html",
+      "label": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "intensity": 4,
+      "last_seen": "2026-07-24",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     }
