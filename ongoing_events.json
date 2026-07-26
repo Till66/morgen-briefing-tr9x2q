@@ -11,7 +11,7 @@
       "label": "Europäer schmieden Bündnis für Raketenabwehr",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-18",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -73,54 +73,9 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
-        },
-        {
-          "lat": 44.075225155199234,
-          "lon": 0.6815046506521767
-        },
-        {
-          "lat": 45.18800764170709,
-          "lon": 1.9553432832231845
-        },
-        {
-          "lat": 47.09365933724578,
-          "lon": 1.4702755462871342
-        },
-        {
-          "lat": 48.53023305020115,
-          "lon": -0.7168540728221076
-        },
-        {
-          "lat": 43.83830980564941,
-          "lon": 4.199873355715855
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
-    {
-      "id": "blockade-stra-e-von-hormus",
-      "type": "blockade",
-      "location": {
-        "name": "Straße von Hormus",
-        "lat": 26.5,
-        "lon": 56.25
-      },
-      "label": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
-      "intensity": 0,
-      "chokepoint_lane": [
-        [
-          26.7,
-          52.5
-        ],
-        [
-          25.0,
-          58.5
-        ]
-      ],
-      "subpoints": [],
-      "url": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html"
     },
     {
       "id": "conflict-ukraine",
@@ -130,9 +85,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
+      "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -337,7 +292,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-meldet-tote-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
     },
     {
       "id": "conflict-russland",
@@ -349,7 +304,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -568,7 +523,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-24",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -640,8 +595,8 @@
       "label": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-24",
-      "intensity": 5,
+      "last_seen": "2026-07-26",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -783,6 +738,26 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
+        },
+        {
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
+        },
+        {
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
+        },
+        {
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
+        },
+        {
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
+        },
+        {
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
         }
       ]
     },
@@ -798,7 +773,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-24",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -980,83 +955,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
-        }
-      ]
-    },
-    {
-      "id": "conflict-finnland",
-      "type": "conflict",
-      "location": {
-        "name": "Finnland",
-        "lat": 61.9241,
-        "lon": 25.7482
-      },
-      "label": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
-      "url": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html",
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 62.30672159968322,
-          "lon": 27.17858149886541
-        },
-        {
-          "lat": 59.220770335414045,
-          "lon": 24.002133800210697
-        },
-        {
-          "lat": 59.48229835573393,
-          "lon": 27.738715846524045
-        },
-        {
-          "lat": 63.14017111539135,
-          "lon": 27.4764406437975
-        },
-        {
-          "lat": 64.82319201392417,
-          "lon": 24.836392215675534
-        },
-        {
-          "lat": 63.65674915187206,
-          "lon": 25.670649660236588
-        },
-        {
-          "lat": 62.76918940387636,
-          "lon": 23.199192752437245
-        },
-        {
-          "lat": 64.26424177213892,
-          "lon": 24.852290586328902
-        },
-        {
-          "lat": 59.865343346999694,
-          "lon": 24.99410054439518
-        },
-        {
-          "lat": 59.63571420566766,
-          "lon": 23.809951201064735
         }
       ]
     },
@@ -1068,11 +966,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Erneut massiver russischer Raketenangriff auf Kiew",
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-24",
-      "intensity": 4,
+      "last_seen": "2026-07-26",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1194,6 +1092,26 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
+        },
+        {
+          "lat": 49.18340525302638,
+          "lon": 28.079588566739712
+        },
+        {
+          "lat": 52.8190998028262,
+          "lon": 29.558760026647185
+        },
+        {
+          "lat": 48.27402314887231,
+          "lon": 29.32772795449261
+        },
+        {
+          "lat": 50.96710365345855,
+          "lon": 32.00000546109001
+        },
+        {
+          "lat": 49.23793422982968,
+          "lon": 28.97863135863599
         }
       ]
     },
@@ -1278,14 +1196,91 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html",
+      "label": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-24",
-      "intensity": 6,
+      "last_seen": "2026-07-26",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-syrien",
+      "type": "conflict",
+      "location": {
+        "name": "Syrien",
+        "lat": 34.8021,
+        "lon": 38.9968
+      },
+      "label": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
+      "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 35.358871949296066,
+          "lon": 37.73681280677971
+        },
+        {
+          "lat": 37.267357975614,
+          "lon": 40.72038361369082
+        },
+        {
+          "lat": 34.9820321885174,
+          "lon": 36.96594288610433
+        },
+        {
+          "lat": 37.35249628398381,
+          "lon": 36.73038697926942
+        },
+        {
+          "lat": 35.647768710732294,
+          "lon": 41.59653248876625
+        },
+        {
+          "lat": 35.09759117975298,
+          "lon": 41.861389988222484
+        },
+        {
+          "lat": 34.773762134158346,
+          "lon": 38.41335738521753
+        },
+        {
+          "lat": 34.57079277161749,
+          "lon": 37.03701035950636
+        },
+        {
+          "lat": 36.708719725028665,
+          "lon": 36.73416270115184
+        },
+        {
+          "lat": 32.67754251393421,
+          "lon": 37.70949175869242
+        },
+        {
+          "lat": 34.335832305405134,
+          "lon": 37.77990727928372
+        },
+        {
+          "lat": 32.07193882679368,
+          "lon": 37.801193797136
+        },
+        {
+          "lat": 33.12739204742175,
+          "lon": 38.77125453795941
+        },
+        {
+          "lat": 37.32728239326896,
+          "lon": 39.3108270447624
+        },
+        {
+          "lat": 35.83723178462981,
+          "lon": 37.92405109167566
+        }
+      ]
     }
   ],
-  "updated_at": "2026-07-24"
+  "updated_at": "2026-07-26"
 }
