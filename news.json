@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:22:43.986126+00:00",
+  "generated_at": "2026-07-27T13:44:23.357715+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,26 +45,10 @@
   },
   "articles": [
     {
-      "title": "Mit Verboten gegen Wasserknappheit",
-      "summary": "Wasserentnahme untersagt, Bewässerung begrenzt: Wegen Trockenheit gelten in Brandenburg teils strenge Regeln. Privatleute müssen sich anpassen - auch im Kleingartenverein. Von Mirja Fiedler.",
+      "title": "Nach CSD-Anschlag: Merz will Bewegungsfreiheit von Gefährdern einschränken",
+      "summary": "Nach dem mutmaßlich islamistischen Anschlag auf den Christopher Street Day in Berlin hat Kanzler Merz Konsequenzen angekündigt. CSU-Chef Söder will über das Thema Staatsbürgerschaft sprechen. Das Justizministerium bremst.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/trockenheit-wasserverbrauch-brandenburg-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 11:34:40 +0200"
-    },
-    {
-      "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "summary": "Eine Tote, mehrere Verletzte: Nach dem mutmaßlichen Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Die Polizei sucht einen Tatverdächtigen, der der islamistischen Szene zugerechnet wird. Noch sind viele Fragen offen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/anschlag-csd-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/attentat-csd-berlin-debatte-strafrecht-staatsbuergerschaft-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,29 +58,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 10:56:19 +0200"
+      "published": "Mon, 27 Jul 2026 15:21:04 +0200"
     },
     {
-      "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
-      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an.",
+      "title": "Nächste Hitzephase für Deutschland kündigt sich an",
+      "summary": "In Deutschland stehen wieder heiße Tage an: Bis zu 39 Grad sind im Laufe der Woche möglich - und auch die Nächte bringen wieder wenig Abkühlung. Mit der Hitze steigt auch das Risiko für Waldbrände.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html",
       "category": "politik",
-      "event_type": "standard",
+      "event_type": "wildfire",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 08:21:34 +0200"
+      "published": "Mon, 27 Jul 2026 14:30:49 +0200"
     },
     {
-      "title": "Linnemann weist Zweifel an Eignung als Gesundheitsminister zurück",
-      "summary": "Als künftiger Gesundheitsminister will Linnemann an den Reformprozess seiner Vorgängerin anknüpfen - und verteidigt seine Eignung für das Amt. Von den Sozialverbänden kommen bereits Forderungen nach Änderungen bei den Reformen.",
+      "title": "Leichenpräparator Gunther von Hagens gestorben",
+      "summary": "Der Mediziner und Erfinder der Plastination, Gunther von Hagens, ist im Alter von 81 Jahren gestorben. Von Hagens ist Schöpfer der umstrittenen \"Körperwelten\"-Ausstellungen, die die Anatomie des menschlichen Körpers zeigen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-gesundheitsminister-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gunther-von-hagens-gestorben-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -106,29 +90,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 17:39:32 +0200"
+      "published": "Mon, 27 Jul 2026 12:59:32 +0200"
     },
     {
-      "title": "Kapazitäten im Strafvollzug: Wenn es voll wird im Gefängnis",
-      "summary": "In vielen Gefängnissen wird es eng. Die Anstalten sind teils fast vollständig ausgelastet. Es fehlt an Haftplätzen. Die in die Jahre gekommenen Anstalten müssen um- oder neugebaut werden. So wie Teile der JVA Tegel in Berlin. Von Ole Hilgert.",
+      "title": "Deradikalisierungsprogramm: \"Wir haben sehr viele Hochrisikopersonen\"",
+      "summary": "Der mutmaßliche CSD-Täter hatte erste Vorgespräche beim Deradikalisierungsprogramm von Violence Prevention Network. Mitgründer Thomas Mücke erklärt im Interview mit den tagesthemen, wie die Arbeit mit Gefährdern aussieht.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gefaengnisse-kapazitaeten-strafvollzug-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 16:34:25 +0200"
-    },
-    {
-      "title": "Zukünftiger Unionsfraktionschef Frei nennt Panne bei Regierungsumbildung \"Pech\"",
-      "summary": "Kanzler Merz möchte offenbar Verkehrsminister Schnieder ersetzen. Doch einen Nachfolger scheint es noch nicht zu geben. \"Das kann passieren\", meint der designierte Unionsfraktionschef Frei. Kritik kommt von Ex-Kanzleramtsminister Altmaier.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/anschlag-csd-interview-muecke-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -138,13 +106,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 11:48:18 +0200"
+      "published": "Mon, 27 Jul 2026 11:41:22 +0200"
     },
     {
-      "title": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
-      "summary": "Kanzler Merz könnte mit der Kabinettsumbildung die Koalition aus dem derzeitigen Tief retten, sagt der Politikwissenschaftlers Oliver Lembcke im Interview mit tagesschau24. Jetzt müsse er den Wechsel aber noch komplett umsetzen.",
+      "title": "Hoppermann ist neue CDU-Generalsekretärin",
+      "summary": "Die bisherige CDU-Schatzmeisterin Hoppermann ist neue Generalsekretärin ihrer Partei. Auf Vorschlag von Kanzler und CDU-Chef Merz wählte der Bundesvorstand sie einstimmig ins Amt. Auch weitere Personalien wurden bekannt.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-hoppermann-generalsekretaerin-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -154,13 +122,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 20:18:38 +0200"
+      "published": "Mon, 27 Jul 2026 13:45:07 +0200"
     },
     {
-      "title": "Wie Merz' Personalrochade zur Hängepartie wurde",
-      "summary": "Per SMS hat Verkehrsminister Schnieder über seinen Abschied informiert. Kanzler Merz will seine Position offenbar neu besetzen. Doch einen Nachfolger gibt es nicht. In der Union ist von Chaos die Rede. Merz steht unter Zeitdruck. Von Ilanit Spinner.",
+      "title": "Wie der Generalbundesanwalt zum CSD-Anschlag ermittelt",
+      "summary": "Nach dem Anschlag auf den CSD hat der Generalbundesanwalt die Ermittlungen übernommen - obwohl der mutmaßliche Täter tot ist. Wer ist wofür zuständig? Wie geht es weiter? Ein Überblick von Frank Bräutigam und Kolja Schwartz.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbau-merz-union-100.html",
+      "url": "https://www.tagesschau.de/inland/generalbundesanwalt-csd-anschlag-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,77 +138,170 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 17:30:20 +0200"
+      "published": "Mon, 27 Jul 2026 09:20:55 +0200"
     },
     {
-      "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
-      "summary": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1.000 Euro. Von Philipp Wundersee.",
+      "title": "CSU-Klausurtagung am Rande des Personalkarussells",
+      "summary": "Das Stühlerücken nach dem Rücktritt des Fraktionsvorsitzenden Spahn trifft die Union zur Unzeit. Das dürfte auch die Debatten bei der Klausur der CSU-Bundestagsabgeordneten im oberfränkischen Kloster Banz prägen. Von Jakob Mayr.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-klausurtagung-108.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 08:49:31 +0200"
+    },
+    {
+      "title": "Nach CSD-Anschlag: Rufe nach einem schärferen Strafrecht",
+      "summary": "Der mutmaßliche CSD-Attentäter war als Islamist bekannt, verurteilt - und trotzdem auf freiem Fuß. Nun wird Kritik am Umgang der Behörden laut - Politiker fordern ein schärferes Strafrecht.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-taeter-aufklaerung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 11:50:11 +0200"
+    },
+    {
+      "title": "EU und USA: Leichte Hoffnung auf der Achterbahn",
+      "summary": "Zölle rauf, Zölle runter: US-Präsident Trump verfährt weiter nach diesem Prinzip. Zuletzt agierte er so gegenüber Kanada. Und die EU? Die schloss 2025 ein Abkommen mit den USA ab. Ein Jahr danach wird Bilanz gezogen. Von C. Feld und S. López.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 18:10:14 +0200"
-    },
-    {
-      "title": "Urlaub im Wohnmobil: Lohnt sich ein eigener Camper?",
-      "summary": "Unabhängig von Hotelbuchungen reisen, frei unterwegs von einem Ort zum anderen: Urlaub im Camper oder Wohnmobil ist beliebt. Ein eigenes Fahrzeug kann aber schnell zu finanziellen Abhängigkeiten führen. Von L.-M. Hiltscher und C. Dörr.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/sparen-geldanlage-campervan-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 14:55:13 +0200"
-    },
-    {
-      "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
-      "summary": "Der milliardenschwere Kauf des Medienkonzerns Warner Brothers verzögert sich. Zwölf US-Bundesstaaten und Drehbuchautoren wollen den Deal vor Gericht stoppen - aus Sorge vor Wettbewerbsnachteilen und möglichen Folgen für die Medienvielfalt.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-usa-turnberry-abkommen-bilanz-100.html",
       "category": "wirtschaft",
       "event_type": "trade",
       "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Kanada",
+            "lat": 56.1304,
+            "lon": -106.3468
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 15:00:45 +0200"
+    },
+    {
+      "title": "Sparmaßnahmen bei VW-Töchtern Audi und Porsche",
+      "summary": "Bei der Betriebsversammlung vor der Sommerpause stellt Porsche das \"Zukunftspaket\" vor - es geht um Einsparungen und Jobabbau. Auch bei Audi soll noch stärker gespart werden als bisher. Der Autobauer kappte seine Prognose.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-betriebsversammlung-einsparungen-audi-prognose-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
         "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 08:39:57 +0200"
+      "published": "Mon, 27 Jul 2026 14:58:43 +0200"
     },
     {
-      "title": "Russische Zentralbank senkt Leitzins erneut",
-      "summary": "Russlands Zentralbank hat den Leitzins weiter gesenkt, auf nun 14 Prozent. Damit will sie die zunehmend unter dem Angriffskrieg gegen die Ukraine leidende Wirtschaft stützen. Gleichzeitig steigt jedoch die Inflationsgefahr. Von Björn Blaschke.",
+      "title": "Immer mehr Menschen wechseln den Job",
+      "summary": "Es gibt immer mehr Beschäftigte in Deutschland, die innerhalb eines Jahres ihren Beruf wechseln. Vor allem Männer mit geringen Gehältern suchen sich öfter einen neuen Job.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-leitzins-102.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/job-berufswechsel-lohn-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 19:45:12 +0200"
+      "published": "Mon, 27 Jul 2026 15:01:40 +0200"
     },
     {
-      "title": "VW-Chef Blume: \"Ein Werk zu schließen, ist immer die letzte Lösung\"",
-      "summary": "Schwache Verkäufe vor allem in China setzen dem VW-Konzern zu: Der Gewinn ist kräftig gesunken. Konzernchef Blume will bis Jahresende Klarheit zum Sparkurs schaffen - und weiter an der Wettbewerbsfähigkeit arbeiten.",
+      "title": "Der digitale Euro soll bis 2029 kommen",
+      "summary": "Der digitale Euro kommt: schrittweise, bis 2029. Damit soll der europäische Zahlungsverkehr unabhängiger werden von US-Finanzriesen. Langsam weicht auch die Skepsis der Kritiker. Von Jean-Marie Magro.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-vorstandschef-blume-interview-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/einfuehrung-digitaler-euro-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 07:16:31 +0200"
+    },
+    {
+      "title": "Trotz Unsicherheit \"Wirtschaft weniger pessimistisch\"",
+      "summary": "Die Stimmung unter deutschen Unternehmen hat sich weiter verbessert. Über alle Branchen hinweg stieg das ifo-Geschäftsklima, das wichtigste deutsche Konjunkturbarometer - trotz der unsicheren Lage in Nahost.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-juli-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 11:02:47 +0200"
+    },
+    {
+      "title": "Ölpreis fällt nach US-Angriffspause im Iran deutlich",
+      "summary": "Die Ölpreise sind am Morgen um mehr als fünf Prozent gefallen. Gründe sind die Hoffnung auf eine Entspannung im Iran-Krieg und mögliche neue Verhandlungen zwischen Washington und Teheran.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/oel-preise-iran-krieg-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 09:36:11 +0200"
+    },
+    {
+      "title": "Venedig nimmt mehr als fünf Millionen Euro Eintritt ein",
+      "summary": "Als weltweit erste Stadt hatte Venedig 2024 begonnen, Eintritt für Tagesbesucher zu erheben - in diesem Jahr kamen mehr als fünf Millionen Euro zusammen. In der Regel zahlten Besucher zehn Euro, künftig könnte es deutlich teurer werden.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/europa/venedig-eintritt-104.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 12:43:22 +0200"
+    },
+    {
+      "title": "Chiphersteller CXMT: Spektakuläres Börsendebüt in China",
+      "summary": "Der Börsengang des chinesischen Chipriesen CXMT verlief äußerst spektakulär. Zeitweise gewann die Aktie mehr als 500 Prozent. Das Börsendebüt findet aber in einem hochnervösen Umfeld statt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boersengang-cxmt-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -250,71 +311,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 16:05:10 +0200"
+      "published": "Mon, 27 Jul 2026 13:53:42 +0200"
     },
     {
-      "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
-      "summary": "Volkswagen hat im zweiten Quartal deutlich weniger verdient als ein Jahr zuvor. Zugleich rechnet der Autobauer für das Gesamtjahr mit niedrigeren Erlösen als bisher. Belastend wirkt unter anderem das schwache China-Geschäft.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-gewinn-einbruch-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 09:31:20 +0200"
-    },
-    {
-      "title": "Deutsche Autohersteller sparen - mit gravierenden Folgen",
-      "summary": "Volkswagen steckt in der tiefsten Krise der Firmengeschichte. Der Konkurrenz geht es ähnlich. Die Folgen der Sparmaßnahmen sind nicht nur für die Beschäftigten schwerwiegend, sondern für ganze Regionen. Von Claudia Wehrle.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/autobranche-106.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 13:18:15 +0200"
-    },
-    {
-      "title": "EU-Kommission kritisiert Jugendschutz bei TikTok - Strafen drohen",
-      "summary": "TikTok tut laut EU-Kommission zu wenig für den Schutz minderjähriger Nutzer. Sollte sich der Verdacht erhärten und die Plattform nichts ändern, drohen hohe Strafen. TikTok selbst weist die Kritik zurück.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-tiktok-schutz-minderjaehrige-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 13:31:24 +0200"
-    },
-    {
-      "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
-      "summary": "Die Waldbrände im Südwesten Frankreichs bewegen sich weiterhin auf die Großstadt Bordeaux zu und sind nur noch 30 Kilometer entfernt. Mehr als 200.000 Menschen wurden evakuiert. Die französische Regierung aktiviert das Militär.",
+      "title": "Waldbrände in Spanien: Neuer Brand bei Valencia",
+      "summary": "Die Waldbrände in Spanien breiten sich weiter aus. Ein neues Feuer bei Valencia hat Tausende Menschen zur Flucht gezwungen. Auch im Großraum Madrid kämpfen Einsatzkräfte weiter gegen die Flammen. Von Hans-Günter Kellner.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-bordeaux-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
       "category": "konflikte",
       "event_type": "wildfire",
       "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 14:50:47 +0200"
+      "published": "Sun, 26 Jul 2026 13:49:54 +0200"
     },
     {
       "title": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
@@ -449,6 +462,35 @@
       "published": "Mon, 20 Jul 2026 11:40:08 +0200"
     },
     {
+      "title": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
+      "summary": "Nach zwei Nächten ohne US-Angriffe keimt in Teheran Hoffnung auf. Doch Inflation, wirtschaftliche Not und die Angst vor einer neuen Eskalation prägen weiter den Alltag der Menschen. Von Benjamin Weber.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "to": {
+            "name": "Teheran",
+            "lat": 35.6892,
+            "lon": 51.389
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 26 Jul 2026 14:10:03 +0200"
+    },
+    {
       "title": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
       "summary": "Erstmals seit 2009 ist ein Generalsekretär der Vereinten Nationen nach Damaskus gereist. Dort sprach Guterres mit dem syrischen Übergangspräsidenten. Auch das berüchtigte Saidnaja-Militärgefägnis besuchte er.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -478,33 +520,68 @@
       "published": "Sat, 25 Jul 2026 20:22:06 +0200"
     },
     {
-      "title": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
-      "summary": "Seit fast zwei Wochen fliegen die USA nächtliche Angriffe auf Iran. Auch in der vergangenen Nacht hat die US-Armee nach eigenen Angaben militärische Ziele in Iran ins Visier genommen. Kuwait meldete iranischen Beschuss.",
+      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
+      "summary": "Bei der Bekämpfung der Waldbrände in der Nähe der spanischen Hauptstadt Madrid verzeichnen die Einsatzkräfte kleine Fortschritte. Erste Evakuierte könnten im Laufe des Tages an ihre Wohnorte zurückkehren.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
+      "category": "welt",
+      "event_type": "wildfire",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
       },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 06:44:47 +0200"
+      "published": "Mon, 27 Jul 2026 13:26:08 +0200"
+    },
+    {
+      "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
+      "summary": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
+      "category": "welt",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 07:10:21 +0200"
+    },
+    {
+      "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
+      "summary": "\"Mallorca am Limit\" - Zehntausende Menschen haben unter diesem Motto gegen zu viele Touristen auf der spanischen Insel demonstriert. Sie fordern etwa, die Besucherzahl zu begrenzen. Besonders eng wird es auf dem Wohnungsmarkt. Von Anna Mundt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/mallorca-massentourismus-proteste-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 03:43:26 +0200"
+    },
+    {
+      "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
+      "summary": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 26 Jul 2026 19:54:16 +0200"
     },
     {
       "title": "Waldbrände in Frankreich: Feuer rückt näher an Bordeaux heran",
@@ -571,74 +648,26 @@
       "published": "Sat, 25 Jul 2026 19:37:22 +0200"
     },
     {
-      "title": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
-      "summary": "In Spanien scheint die Lage der Einsatzkräfte im Kampf gegen das Feuer immer aussichtsloser: Die Brände in der Region Madrid sind nach Einschätzung des Katastrophenschutzes nicht zu löschen. Bei einem anderen Brand gab es einen Todesfall.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 20:32:30 +0200"
-    },
-    {
-      "title": "Albanien: Kushners Luxusprojekt steht auf der Kippe",
-      "summary": "Das an einem Naturschutzgebiet geplante Luxus-Resort von Trump-Schwiegersohn Kushner an Albaniens Küste gerät ins Wanken. Anhaltende Proteste, Korruptionsvorwürfe und Ermittlungen setzen die Regierung in Tirana unter Druck. Von O. Soos.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/albanien-flamingo-revolution-kushner-luxus-resort-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 13:00:24 +0200"
-    },
-    {
-      "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt",
-      "summary": "Wegen des Vorwurfs sexueller Übergriffe wurde Karim Khan bereits suspendiert - jetzt haben die Vertragsstaaten des Internationalen Strafgerichtshofs beschlossen: Der Chefankläger wird des Amtes enthoben.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 00:50:53 +0200"
-    },
-    {
-      "title": "Klage von Italien: EU-Generalanwalt hält Lkw-Blockabfertigungen für zulässig",
-      "summary": "Am Montag müssen sich Italien-Urlauber auf lange Staus am Brenner gefasst machen. Der Grund: die Brenner-Blockabfertigung. Italien hat dagegen geklagt. Doch der EU-Generalanwalt hält die \"Lkw-Dosierung\" für zulässig. Von Björn-Hendrik Otte.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/brenner-lastwagen-stau-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 17:40:41 +0200"
-    },
-    {
-      "title": "News-Blog: Vater-Tochter-Duo holt Bronze im Bogenschießen",
-      "summary": "Letzter Tag der Finals in Hannover und Wattenscheid: Die Athleten werden noch einmal alles raushauen und der Liveblog zieht mit.",
+      "title": "Die Finals und der Sonderfall Leichtathletik: \"Sehr schade\"",
+      "summary": "Deutschland hat eine Stadien-Problematik - daher bleibt die Leichtathletik bei den Finals ein Sonderfall - auch bei der nächsten Auflage in einem Jahr in Stuttgart.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/finals-in-hannover-news-blog-donnerstag,finals-2026-liveblog-100.html",
+      "url": "https://www.sportschau.de/die-finals/die-finals-2026,die-finals-2026-154.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 13:54:01 +0200"
+    },
+    {
+      "title": "Assani besiegt Mihambo - DM-Rekorde durch Agyekum und Krause",
+      "summary": "Mikaelle Assani hat bei der Leichtathletik-DM nach langer Leidenszeit Gold gewonnen und Malaika Mihambo entthront. Emil Agyekum und Gesa Krause siegten mit Meisterschaftsrekord.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/die-finals/assani-besiegt-mihambo-dm-rekorde-durch-agyekum-und-krause,leichtathletik-dm-sonntag-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -648,13 +677,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 12:19:24 +0200"
+      "published": "Sun, 26 Jul 2026 20:13:58 +0200"
     },
     {
-      "title": "Zeckenbiss mit Folgen - Lückenkempers \"Systemausfall\" vor der EM",
-      "summary": "Ein Zeckenbiss hat Top-Sprinterin Gina Lückenkemper kurz vor der Leichtathletik-EM in Birmingham aus dem Gleichgewicht gebracht. Bei der DM reichte es nur zu Platz drei.",
+      "title": "Hannover feiert Rekord-Finals und will sich wieder bewerben",
+      "summary": "Die Finals 2026 mit ihren 143 Entscheidungen waren aus Sicht der Veranstalter und Sportler ein großer Erfolg. Schon 2030 könnte es eine Wiederholung geben.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/zeckenbiss-mit-folgen-lueckenkempers-systemausfall-vor-em,leichtathletik-lueckenkemper-100.html",
+      "url": "https://www.sportschau.de/die-finals/hannover-feiert-rekord-finals-und-will-sich-wieder-bewerben,die-finals-2026-hannover-bilanz-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -664,13 +693,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 11:42:02 +0200"
+      "published": "Sun, 26 Jul 2026 17:09:38 +0200"
     },
     {
-      "title": "Die Finals 2026 - alle Livestreams am Sonntag",
-      "summary": "Der Sonntag bei den Finals 2026 - das Sportprogramm und die Übertragungszeiten im Überblick.",
+      "title": "Große Bühne für 3x3 in Hannover - und große Leistungen",
+      "summary": "Die Arena am Neuen Rathaus war immer voll besetzt - und dem Sport gelang es, Werbung für sich zu machen. Mit dabei war auch Dennis Schröder.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/die-finals-2026-alle-livestreams-am-sonntag,finals-hannover-zeitplan-sonntag-100.html",
+      "url": "https://www.sportschau.de/die-finals/die-finals-2026-3x3,die-finals-2026-3x3-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -680,13 +709,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 11:37:06 +0200"
+      "published": "Sun, 26 Jul 2026 21:02:54 +0200"
     },
     {
-      "title": "Die Finals 2026 Hannover: Länderwertung",
-      "summary": "Welches Bundesland schneidet bei den Finals 2026 am besten ab? Das wird in der Länderwertung ermittelt.",
+      "title": "Finals 2026: Für Turner Stelmakh sind drei DM-Titel nur der Anfang",
+      "summary": "Der gebürtige Ukrainer Radomyr Stelmakh hat in Hannover drei Meistertitel gewonnen und ist der erfolgreichste Turner der Finals 2026. Im Frühjahr erst erhielt er die deutsche Staatsbürgerschaft. Nun hat er noch viel vor.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/die-finals/die-finals-2026,die-finals-2026-laenderwertung-100.html",
+      "url": "https://www.sportschau.de/die-finals/titel-show-bei-finals-stelmakh-laesst-deutsche-turnen-hoffen,die-finals-2026-geraetturnen-maenner-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -696,13 +725,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 11:18:13 +0200"
+      "published": "Sun, 26 Jul 2026 19:31:48 +0200"
     },
     {
-      "title": "Drecksarbeit im deutschen Meistertrikot",
-      "summary": "Felix Engelhardt gehörte bei der Tour de France zu den auffälligsten deutschen Fahrern. Sein Team glaubt, dass er noch nicht am Ende seiner Entwicklung ist.",
+      "title": "5. Toursieg für Pogacar: Gelb im Zeichen der absoluten Dominanz",
+      "summary": "Tadej Pogacar gewinnt zum fünften Mal die Tour de France und reiht sich damit ein in die Riege der ganz Großen seines Sports. Nichts deutet darauf hin, dass seine Dominanz so bald gebrochen werden könnte.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/drecksarbeit-im-deutschen-meistertrikot,tour-de-france-felix-engelhardt-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/gelb-im-zeichen-der-absoluten-dominanz,tour-de-france-sieger-tadej-pogacar-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -712,13 +741,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 11:15:19 +0200"
+      "published": "Sun, 26 Jul 2026 22:08:55 +0200"
     },
     {
-      "title": "Grünes Trikot und Umbau im laufenden Tour-Betrieb",
-      "summary": "Die deutsche Equipe Lidl-Trek wird in Paris als bestes Team der Tour de France geehrt werden. Auch das Grüne Trikot gewinnt mit Mads Pedersen ein Fahrer des Teams, das bereits umgebaut wird.",
+      "title": "Pogacar schreibt Tour-Geschichte - Van der Poel siegt dramatisch in Paris",
+      "summary": "Tadej Pogacar hat zum fünften Mal die Tour de France gewonnen. Der Slowene gehört damit zu den Rekord-Siegern. Die letzte Etappe in Paris gewann Mathieu van der Poel dramatisch.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/gruenes-trikot-und-umbau-im-laufenden-tour-betrieb,tour-de-france-lidl-trek-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance/pogacar-schreibt-tour-geschichte-van-der-poel-siegt-in-paris,etappenbericht-21-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -728,119 +757,26 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 08:25:08 +0200"
+      "published": "Sun, 26 Jul 2026 21:09:20 +0200"
     },
     {
-      "title": "Richard Carapaz: Der Fahrer mit Herz fährt seine Traumtour",
-      "summary": "Mit zwei Etappensiegen und der Übernahme des Bergtrikots wird Richard Carapaz auf den drei schweren Alpenetappen der Tour de France zur prägenden Figur. Der Ecuadorianer hat hart dafür gekämpft.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance/der-fahrer-mit-herz-faehrt-seine-traumtour,tour-de-france-20-etappe-analyse-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 25 Jul 2026 21:01:08 +0200"
-    },
-    {
-      "title": "News zur Tour de France: Entschieden - Verkürztes Tour-Finale in Paris",
+      "title": "News zur Tour de France - Tour de France 2027 startet in Edinburgh",
       "summary": "Alle News, Kuriositäten und Geschichten rund um die Tour de France 2026 im Liveblog.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/radsport/tourdefrance/uneinholbar-pedersen-schnappt-sich-gruene-trikot,tour-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 26 Jul 2026 08:57:57 +0200"
+      "published": "Mon, 27 Jul 2026 10:50:21 +0200"
     }
   ],
   "crises": [
-    {
-      "id": "conflict-frankreich",
-      "type": "conflict",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Europäer schmieden Bündnis für Raketenabwehr",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 45.915260152718346,
-          "lon": -0.6345767860051894
-        },
-        {
-          "lat": 44.0141308962731,
-          "lon": 1.6519135338238935
-        },
-        {
-          "lat": 43.33155325583032,
-          "lon": 4.482713496411269
-        },
-        {
-          "lat": 45.6768928815189,
-          "lon": 3.1206365281394994
-        },
-        {
-          "lat": 47.93219036359205,
-          "lon": 1.7503498517190685
-        },
-        {
-          "lat": 47.859729563631525,
-          "lon": 0.32126278902002636
-        },
-        {
-          "lat": 45.55691212203794,
-          "lon": 3.3862586764916216
-        },
-        {
-          "lat": 45.97331231583732,
-          "lon": 5.10998907476931
-        },
-        {
-          "lat": 47.625256594495674,
-          "lon": 0.7184404653170937
-        },
-        {
-          "lat": 48.55797277574893,
-          "lon": 1.0608894506009268
-        },
-        {
-          "lat": 45.30961612487483,
-          "lon": 0.1883644550409782
-        },
-        {
-          "lat": 46.6189281185998,
-          "lon": 1.5031718019034415
-        },
-        {
-          "lat": 46.09819467538973,
-          "lon": 2.1692676660862675
-        },
-        {
-          "lat": 48.67583414446978,
-          "lon": 3.231686186784223
-        },
-        {
-          "lat": 43.360189050133854,
-          "lon": 3.098220124151492
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
     {
       "id": "conflict-ukraine",
       "type": "conflict",
@@ -851,7 +787,7 @@
       },
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1068,7 +1004,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1283,70 +1219,13 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
+      "label": "Waldbrände in Spanien: Neuer Brand bei Valencia",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-24",
-      "intensity": 2,
+      "last_seen": "2026-07-27",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-deutschland",
-      "type": "conflict",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-20",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 50.82922024224203,
-          "lon": 11.580771984596101
-        },
-        {
-          "lat": 53.995425798645456,
-          "lon": 11.223943091443843
-        },
-        {
-          "lat": 50.29161285587426,
-          "lon": 9.901911843240821
-        },
-        {
-          "lat": 49.363745932501104,
-          "lon": 12.9394516683258
-        },
-        {
-          "lat": 51.709996971416174,
-          "lon": 11.931800975143979
-        },
-        {
-          "lat": 49.67335318505179,
-          "lon": 7.851930739019166
-        },
-        {
-          "lat": 49.97367442184016,
-          "lon": 11.172326321682153
-        },
-        {
-          "lat": 54.119410664518576,
-          "lon": 8.402688948692564
-        },
-        {
-          "lat": 50.23820105824147,
-          "lon": 7.505818497435729
-        },
-        {
-          "lat": 48.62424834245019,
-          "lon": 13.367736918865758
-        }
-      ]
     },
     {
       "id": "conflict-usa",
@@ -1360,7 +1239,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-26",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1502,26 +1381,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -1533,11 +1392,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
-      "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
+      "label": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
+      "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-24",
-      "intensity": 7,
+      "last_seen": "2026-07-27",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1719,6 +1578,26 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -1733,8 +1612,8 @@
       "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-26",
-      "intensity": 5,
+      "last_seen": "2026-07-27",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1876,6 +1755,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -1963,7 +1862,7 @@
       "label": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1979,8 +1878,8 @@
       "label": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "intensity": 1,
+      "last_seen": "2026-07-27",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2042,8 +1941,60 @@
         {
           "lat": 35.83723178462981,
           "lon": 37.92405109167566
+        },
+        {
+          "lat": 35.67759489314563,
+          "lon": 39.609831199577506
+        },
+        {
+          "lat": 32.427028177479876,
+          "lon": 36.83430352515781
+        },
+        {
+          "lat": 33.69342436176095,
+          "lon": 37.258714264704544
+        },
+        {
+          "lat": 37.44110686419546,
+          "lon": 39.1113429180736
+        },
+        {
+          "lat": 35.63279034335918,
+          "lon": 39.46521621665946
         }
       ]
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Nächste Hitzephase für Deutschland kündigt sich an",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-madrid",
+      "type": "wildfire",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "label": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }

@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "conflict-frankreich",
-      "type": "conflict",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Europäer schmieden Bündnis für Raketenabwehr",
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-18",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 45.915260152718346,
-          "lon": -0.6345767860051894
-        },
-        {
-          "lat": 44.0141308962731,
-          "lon": 1.6519135338238935
-        },
-        {
-          "lat": 43.33155325583032,
-          "lon": 4.482713496411269
-        },
-        {
-          "lat": 45.6768928815189,
-          "lon": 3.1206365281394994
-        },
-        {
-          "lat": 47.93219036359205,
-          "lon": 1.7503498517190685
-        },
-        {
-          "lat": 47.859729563631525,
-          "lon": 0.32126278902002636
-        },
-        {
-          "lat": 45.55691212203794,
-          "lon": 3.3862586764916216
-        },
-        {
-          "lat": 45.97331231583732,
-          "lon": 5.10998907476931
-        },
-        {
-          "lat": 47.625256594495674,
-          "lon": 0.7184404653170937
-        },
-        {
-          "lat": 48.55797277574893,
-          "lon": 1.0608894506009268
-        },
-        {
-          "lat": 45.30961612487483,
-          "lon": 0.1883644550409782
-        },
-        {
-          "lat": 46.6189281185998,
-          "lon": 1.5031718019034415
-        },
-        {
-          "lat": 46.09819467538973,
-          "lon": 2.1692676660862675
-        },
-        {
-          "lat": 48.67583414446978,
-          "lon": 3.231686186784223
-        },
-        {
-          "lat": 43.360189050133854,
-          "lon": 3.098220124151492
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
-    {
       "id": "conflict-ukraine",
       "type": "conflict",
       "location": {
@@ -87,7 +10,7 @@
       },
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -304,7 +227,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -519,70 +442,13 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
+      "label": "Waldbrände in Spanien: Neuer Brand bei Valencia",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-24",
-      "intensity": 2,
+      "last_seen": "2026-07-27",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-deutschland",
-      "type": "conflict",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-20",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 50.82922024224203,
-          "lon": 11.580771984596101
-        },
-        {
-          "lat": 53.995425798645456,
-          "lon": 11.223943091443843
-        },
-        {
-          "lat": 50.29161285587426,
-          "lon": 9.901911843240821
-        },
-        {
-          "lat": 49.363745932501104,
-          "lon": 12.9394516683258
-        },
-        {
-          "lat": 51.709996971416174,
-          "lon": 11.931800975143979
-        },
-        {
-          "lat": 49.67335318505179,
-          "lon": 7.851930739019166
-        },
-        {
-          "lat": 49.97367442184016,
-          "lon": 11.172326321682153
-        },
-        {
-          "lat": 54.119410664518576,
-          "lon": 8.402688948692564
-        },
-        {
-          "lat": 50.23820105824147,
-          "lon": 7.505818497435729
-        },
-        {
-          "lat": 48.62424834245019,
-          "lon": 13.367736918865758
-        }
-      ]
     },
     {
       "id": "conflict-usa",
@@ -596,7 +462,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-26",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -738,26 +604,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -769,11 +615,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
-      "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
+      "label": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
+      "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-24",
-      "intensity": 7,
+      "last_seen": "2026-07-27",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -955,6 +801,26 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -969,8 +835,8 @@
       "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-26",
-      "intensity": 5,
+      "last_seen": "2026-07-27",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1112,6 +978,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -1199,7 +1085,7 @@
       "label": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1215,8 +1101,8 @@
       "label": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "intensity": 1,
+      "last_seen": "2026-07-27",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1278,9 +1164,61 @@
         {
           "lat": 35.83723178462981,
           "lon": 37.92405109167566
+        },
+        {
+          "lat": 35.67759489314563,
+          "lon": 39.609831199577506
+        },
+        {
+          "lat": 32.427028177479876,
+          "lon": 36.83430352515781
+        },
+        {
+          "lat": 33.69342436176095,
+          "lon": 37.258714264704544
+        },
+        {
+          "lat": 37.44110686419546,
+          "lon": 39.1113429180736
+        },
+        {
+          "lat": 35.63279034335918,
+          "lon": 39.46521621665946
         }
       ]
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Nächste Hitzephase für Deutschland kündigt sich an",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-madrid",
+      "type": "wildfire",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "label": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-07-26"
+  "updated_at": "2026-07-27"
 }
