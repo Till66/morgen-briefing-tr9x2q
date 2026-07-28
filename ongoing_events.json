@@ -11,7 +11,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,26 +193,6 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
-        },
-        {
-          "lat": 47.2410417403942,
-          "lon": 29.61412063093533
-        },
-        {
-          "lat": 45.75347750458784,
-          "lon": 32.04224714080203
-        },
-        {
-          "lat": 47.48508185572179,
-          "lon": 29.96273554535926
-        },
-        {
-          "lat": 50.457943303319844,
-          "lon": 28.654934935902
-        },
-        {
-          "lat": 45.48967851656784,
-          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -227,7 +207,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -442,11 +422,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Waldbrände in Spanien: Neuer Brand bei Valencia",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
+      "label": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
+      "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-27",
-      "intensity": 3,
+      "last_seen": "2026-07-28",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -461,8 +441,8 @@
       "label": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-26",
-      "intensity": 5,
+      "last_seen": "2026-07-28",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -604,6 +584,26 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
+        },
+        {
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
+        },
+        {
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
+        },
+        {
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
+        },
+        {
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
+        },
+        {
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
         }
       ]
     },
@@ -618,7 +618,7 @@
       "label": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -835,8 +835,8 @@
       "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-27",
-      "intensity": 6,
+      "last_seen": "2026-07-28",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -998,6 +998,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -1082,10 +1102,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
+      "label": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1101,8 +1121,8 @@
       "label": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-27",
-      "intensity": 2,
+      "last_seen": "2026-07-28",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1184,6 +1204,26 @@
         {
           "lat": 35.63279034335918,
           "lon": 39.46521621665946
+        },
+        {
+          "lat": 32.75086544013358,
+          "lon": 38.002800253838956
+        },
+        {
+          "lat": 32.05106254303143,
+          "lon": 41.21886404833637
+        },
+        {
+          "lat": 34.177092114113414,
+          "lon": 41.11095660034729
+        },
+        {
+          "lat": 37.164703115700796,
+          "lon": 40.61623899342312
+        },
+        {
+          "lat": 31.878287612040946,
+          "lon": 41.82115812145108
         }
       ]
     },
@@ -1199,7 +1239,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-27",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1214,11 +1254,11 @@
       "label": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "intensity": 1,
+      "last_seen": "2026-07-28",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-07-27"
+  "updated_at": "2026-07-28"
 }
