@@ -11,7 +11,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -173,26 +173,6 @@
         {
           "lat": 47.09769311496538,
           "lon": 31.47165387252431
-        },
-        {
-          "lat": 46.03319345991038,
-          "lon": 28.419125523993543
-        },
-        {
-          "lat": 46.222739581704545,
-          "lon": 33.568250183858964
-        },
-        {
-          "lat": 49.55165014562072,
-          "lon": 33.04233067834152
-        },
-        {
-          "lat": 45.91886507734699,
-          "lon": 29.388640848789514
-        },
-        {
-          "lat": 48.94199973988928,
-          "lon": 33.41227151673853
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -207,7 +187,7 @@
       },
       "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -425,8 +405,8 @@
       "label": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
       "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-28",
-      "intensity": 5,
+      "last_seen": "2026-07-29",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -438,11 +418,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html",
+      "label": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-28",
-      "intensity": 6,
+      "last_seen": "2026-07-29",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -604,6 +584,46 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
+        },
+        {
+          "lat": 35.49649690825155,
+          "lon": -96.95681869228424
+        },
+        {
+          "lat": 35.07679443040067,
+          "lon": -94.91941997164976
+        },
+        {
+          "lat": 36.02632213477868,
+          "lon": -95.97438396154435
+        },
+        {
+          "lat": 35.882513766151746,
+          "lon": -98.05890867269235
+        },
+        {
+          "lat": 37.420333201398456,
+          "lon": -94.39844462392013
         }
       ]
     },
@@ -619,7 +639,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -801,26 +821,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
         }
       ]
     },
@@ -835,8 +835,8 @@
       "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-28",
-      "intensity": 7,
+      "last_seen": "2026-07-29",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1018,81 +1018,28 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
-    },
-    {
-      "id": "conflict-washington",
-      "type": "conflict",
-      "location": {
-        "name": "Washington",
-        "lat": 38.9072,
-        "lon": -77.0369
-      },
-      "label": "Aoun in Washington: Die Libanesen haben wenig Hoffnung auf Veränderung",
-      "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-22",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 36.914673962150395,
-          "lon": -75.53416650805615
-        },
-        {
-          "lat": 41.298865705338045,
-          "lon": -77.46357223080683
-        },
-        {
-          "lat": 39.434176553613085,
-          "lon": -76.70577198264452
-        },
-        {
-          "lat": 38.43892844381345,
-          "lon": -79.61150726322015
-        },
-        {
-          "lat": 41.84402708915715,
-          "lon": -78.58402996458335
-        },
-        {
-          "lat": 36.07106846596466,
-          "lon": -76.30130601522671
-        },
-        {
-          "lat": 36.421898538583406,
-          "lon": -74.78850186429312
-        },
-        {
-          "lat": 39.00340855122251,
-          "lon": -77.18539537730881
-        },
-        {
-          "lat": 37.34577277171653,
-          "lon": -76.69909943032185
-        },
-        {
-          "lat": 38.938357044933916,
-          "lon": -79.36371170881884
-        }
-      ]
-    },
-    {
-      "id": "outage-berlin",
-      "type": "outage",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "label": "Vorbereitung auf mögliche Blackouts: Wenn auf einmal der Strom weg ist",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/stromausfall-blackout-100.html",
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "wildfire-frankreich",
@@ -1105,7 +1052,7 @@
       "label": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1122,7 +1069,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-28",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1204,26 +1151,6 @@
         {
           "lat": 35.63279034335918,
           "lon": 39.46521621665946
-        },
-        {
-          "lat": 32.75086544013358,
-          "lon": 38.002800253838956
-        },
-        {
-          "lat": 32.05106254303143,
-          "lon": 41.21886404833637
-        },
-        {
-          "lat": 34.177092114113414,
-          "lon": 41.11095660034729
-        },
-        {
-          "lat": 37.164703115700796,
-          "lon": 40.61623899342312
-        },
-        {
-          "lat": 31.878287612040946,
-          "lon": 41.82115812145108
         }
       ]
     },
@@ -1254,11 +1181,11 @@
       "label": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-28",
-      "intensity": 2,
+      "last_seen": "2026-07-29",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-07-28"
+  "updated_at": "2026-07-29"
 }
