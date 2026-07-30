@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:49:57.701444+00:00",
+  "generated_at": "2026-07-30T11:30:40.572876+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,26 +45,58 @@
   },
   "articles": [
     {
-      "title": "Berliner Justiz wehrt sich gegen Kritik nach CSD-Anschlag",
-      "summary": "Den mutmaßlichen Attentäter vom CSD in Berlin hatten die Behörden im Blick - dennoch kam es zum Anschlag. Nach lauter Kritik weist die Berliner Justiz Vorwürfe zurück. Die öffentliche Auseinandersetzung sei zu \"undifferenziert\".",
+      "title": "Lückenhafte Kontrollen gegen Schleuserkriminalität in Großstädten",
+      "summary": "In Frankfurt am Main hatten Schleuser offenbar leichtes Spiel mit falschen Wohnungsbescheinigungen. Hessen will diese Schlupflöcher nun schließen. Doch auch in anderen Bundesländern gibt es Defizite. Von Volker Siefert.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/berliner-justiz-kritik-csd-anschlag-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-wohnungsanmeldungen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 13:26:08 +0200"
+      "published": "Thu, 30 Jul 2026 12:23:28 +0200"
     },
     {
-      "title": "Steinmeier ernennt Warken, Bilger und Linnemann zu Ministern",
-      "summary": "Bundespräsident Steinmeier hat drei neue Minister ernannt: Nina Warken, Steffen Bilger und Carsten Linnemann. Die Vereidigung ist aber erst für September geplant, was auf Kritik stößt.",
+      "title": "Laut RKI: 2026 bereits fast 10.000 Menschen wegen Hitze gestorben",
+      "summary": "In diesem Sommer hat es in Deutschland bereits fast 10.000 Hitzetote gegeben. Das geht aus dem Wochenbericht des Robert Koch-Instituts hervor. Die Zahl ist schon höher als in jedem Gesamtjahr seit 2016.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-sterbefaelle-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 11:27:07 +0200"
+    },
+    {
+      "title": "Kräftige Gewitter und Sturmböen nach Hitze erwartet",
+      "summary": "39 Grad - regional kann es in Deutschland heute sehr heiß werden. Große Temperaturunterschiede bringen ein großes Gewitterrisiko mit sich. Der Deutsche Wetterdienst warnt vor starken Sturmböen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/hitze-und-unwetterwarnung-100.html",
+      "category": "politik",
+      "event_type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 10:55:13 +0200"
+    },
+    {
+      "title": "Städtetag fordert Milliardensummen für Klimaanpassung",
+      "summary": "Hitzewellen belasten Körper, Psyche, Infrastruktur - umso mehr in Städten, in denen es kaum Möglichkeit zur Abkühlung gibt. Dem müsse man mit Investitionen entgegenwirken, fordert der Deutsche Städtetag.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/staedtetag-fordert-milliarden-fuer-hitzeschutze-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,13 +106,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 13:08:12 +0200"
+      "published": "Thu, 30 Jul 2026 07:21:49 +0200"
     },
     {
-      "title": "Nach CSD-Anschlag: Prien will Programme gegen Radikalisierung stärken",
-      "summary": "Der mutmaßliche Attentäter vom Berliner CSD hatte sich früh radikalisiert. Als Konsequenz aus dem Anschlag will Familienministerin Prien Programme stärken, die solche Jugendliche aus dem Extremismus zurückholen sollen.",
+      "title": "Bilger: Stimmung in der Union und Pläne im Verkehrsministerium",
+      "summary": "Laut dem neuen Verkehrsminister Bilger verlief die Sondersitzung der Unionsfraktion konstruktiv - wenn auch mit Kritik aus den Wahlkreisen. Mit seinem neuen Job will er \"die Infrastruktur in Deutschland aus den Negativschlagzeilen\" holen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-radikalisierung-100.html",
+      "url": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 00:01:20 +0200"
+    },
+    {
+      "title": "Personalumbau in der CDU: Merz hat jetzt keinen Schutzschild mehr",
+      "summary": "In der Fraktionssitzung machten die Unionsabgeordneten ihrem Unmut Luft. Merz' Personalumbau scheint zwar zu besänftigen - aber der Kanzler hat jetzt ein Instrument verbraucht, das ihm bald fehlen könnte. Von Tina Handel.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-cdu-personalumbau-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -90,13 +138,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 10:52:09 +0200"
+      "published": "Wed, 29 Jul 2026 22:18:56 +0200"
     },
     {
-      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
-      "summary": "Der Bundespräsident hat heute neue Minister ernannt. Aber erst nach der Sommerpause im September sollen sie im Bundestag vereidigt werden. Das ist umstritten. Von Frank Aischmann.",
+      "title": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
+      "summary": "Erst wenige Wochen ist es her, dass in Deutschland Temperaturrekorde gebrochen wurden. Jetzt hat die nächste Hitzewelle das Land im Griff. Am Donnerstag soll es bis zu 39 Grad heiß werden. Der DWD warnt vor schweren Gewittern.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html",
+      "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
+      "category": "politik",
+      "event_type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 29 Jul 2026 17:32:16 +0200"
+    },
+    {
+      "title": "Frei zum Vorsitzenden der Unionsfraktion gewählt",
+      "summary": "Klare Mehrheit für den neuen Chef: Der bisherige Kanzleramtsminister Frei ist mit 91,9 Prozent der Stimmen zum Vorsitzenden der Unionsfraktion im Bundestag gewählt worden. Er folgt auf den zurückgetretenen Spahn.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/frei-wahl-fraktionschef-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -106,77 +170,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 12:19:25 +0200"
+      "published": "Wed, 29 Jul 2026 18:25:35 +0200"
     },
     {
-      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
-      "summary": "Bundespräsident Steinmeier hat heute den neuen Kabinettsmitgliedern ihre Ernennungs- und den scheidenden ihre Entlassungsurkunden übergeben - eine Ministerin bekam sogar beides. Wer welchen Posten übernimmt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 12:23:23 +0200"
-    },
-    {
-      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
-      "summary": "Vorläufiger Schlussakt im Stühlerücken: Heute sind die neuen Minister im Kabinett Merz ernannt worden - und Thorsten Frei soll als Unionsfraktionschef gewählt werden. Endet damit auch der Unmut über den CDU-Chef und Kanzler? Von Sabine Henkel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 12:25:14 +0200"
-    },
-    {
-      "title": "Wie Wahlkämpfer in Sachsen-Anhalt auf die Kabinettsumbildung schauen",
-      "summary": "Kanzler Merz wollte mit dem Personalumbau neuen Schwung erzeugen - CDU-Politiker in Sachsen-Anhalt befürchten das Gegenteil. Besonders ein Fall sorgt für Unmut. Zerstritten erscheinen will man aber nicht. Von Hannes Leonard.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-kritik-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 05:18:43 +0200"
-    },
-    {
-      "title": "Nach CSD-Attentat: Verschärfungen im Polizei- und Strafrecht machbar?",
-      "summary": "Nach dem Anschlag am Rande des CSD in Berlin werden Verschärfungen im Polizeirecht und im Strafrecht diskutiert. Worum geht es genau und welche Forderungen sind wirklich umsetzbar? Von Antonetta Stephany und Björn-Hendrik Otte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-forderungen-recht-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 21:03:56 +0200"
-    },
-    {
-      "title": "Welche Folgen die neuen Energiegesetze haben",
-      "summary": "Das Kabinett hat sich auf neue Energiegesetze geeinigt. Welche Folgen haben sie für Haushalte mit eigenen Solaranlagen und für den Ausbau der Windenergie? Wie bewerten Experten den nun gefundenen Kompromiss? Von K. Jansen und S. Stöhr.",
+      "title": "BMW-Gewinn bricht ein: Die Krise der deutschen Autobauer",
+      "summary": "BMW meldet einen deutlichen Gewinneinbruch. Nicht nur die Münchner, auch die anderen deutschen Autobauer haben in den vergangenen Tagen ihre Bücher geöffnet. Es zeigt sich: Die Krise trifft die ganze Branche.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wissen/klima/faq-eeg-reform-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ueberblick-autobauer-krise-probleme-sparmassnahmen-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,29 +186,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 13:35:05 +0200"
+      "published": "Thu, 30 Jul 2026 09:09:35 +0200"
     },
     {
-      "title": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
-      "summary": "Fed-Chef Warsh warnt vor gestiegenen Inflationsrisiken, hat aber bislang nicht gehandelt. Nun muss sich zeigen, ob die US-Notenbank rechtzeitig reagiert - oder einen alten Fehler wiederholt. Von Angela Göpfert.",
+      "title": "VW-Rivale Stellantis verdreifacht operativen Gewinn",
+      "summary": "Der Autokonzern Stellantis hat im zweiten Quartal wieder Fuß gefasst. Vor allem die steigenden Verkäufe im wichtigen Markt Nordamerika gaben Schub. Der Konzern konnte seine Prognose bestätigen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/fed-zinsentscheid-inflation-kevin-warsh-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 06:51:20 +0200"
-    },
-    {
-      "title": "Deutsche Bank dank Investmentbank auf Rekordkurs",
-      "summary": "Gute Geschäfte ihrer Investmentbank haben der Deutschen Bank zu einem Gewinnsprung verholfen. Angesichts der Zahlen ist die Bank nun zuversichtlich, ihre Ziele für 2028 sogar übertreffen zu können.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-gewinnsprung-investmentbank-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stellantis-opel-gewinnplus-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,13 +202,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 09:02:54 +0200"
+      "published": "Thu, 30 Jul 2026 10:48:45 +0200"
     },
     {
-      "title": "Staat tief im Minus: Schulden steigen auf 2.662,2 Milliarden Euro",
-      "summary": "Bei Bund, Ländern und Kommunen - überall steigt die Verschuldung. Sie liegt nun bei insgesamt 2.662,2 Milliarden Euro. Das entspricht einer Pro-Kopf-Verschuldung von fast 32.000 Euro.",
+      "title": "Autobauer in der Krise: Warum auch BMW jetzt viele Stellen streicht",
+      "summary": "Eigentlich galt BMW als \"Streber\" unter den deutschen Autobauern. Doch nun streichen auch die Münchner Tausende Stellen. Warum BMW wohl doch kein Sonderfall ist. Von Gabriel Wirth.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/verschuldung-anstieg-pro-kopf-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-sparprogramm-102.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -234,7 +218,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 11:47:48 +0200"
+      "published": "Wed, 29 Jul 2026 15:36:09 +0200"
     },
     {
       "title": "BMW will rund 8.000 Jobs abbauen",
@@ -250,7 +234,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 10:51:39 +0200"
+      "published": "Wed, 29 Jul 2026 14:18:18 +0200"
     },
     {
       "title": "Gewinn von VW-Tochter Porsche stabilisiert sich",
@@ -301,6 +285,96 @@
       "published": "Tue, 28 Jul 2026 08:23:49 +0200"
     },
     {
+      "title": "Sparmaßnahmen bei VW-Töchtern Audi und Porsche",
+      "summary": "Bei einer Betriebsversammlung stellt Porsche das \"Zukunftspaket\" vor - es geht um Einsparungen und Jobabbau. Auch bei Audi soll noch stärker gespart werden als bisher. Der Autobauer kappte seine Prognose.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-betriebsversammlung-einsparungen-audi-prognose-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 14:58:43 +0200"
+    },
+    {
+      "title": "Russische Rakete über Polen abgestürzt?",
+      "summary": "Ein Flugobjekt ist während russischer Angriffe auf die Ukraine in Polen abgestürzt. Der Absturzort liegt südlich von Lublin. Die Regierung in Warschau geht inzwischen von einem russischen Marschflugkörper aus.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Polen",
+            "lat": 51.9194,
+            "lon": 19.1451
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 12:47:55 +0200"
+    },
+    {
+      "title": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "summary": "Russland führt seinen Krieg gegen die Ukraine auch in unmittelbarer Nähe zu NATO-Staaten. In Rumänien schlugen schon mehrfach Drohnen ein. Die Regierung will das nicht mehr hinnehmen - und tritt gegenüber Moskau offensiver auf. Von Oliver Soos.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 06:43:16 +0200"
+    },
+    {
+      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "summary": "In Frankreich und Spanien brennt es weiter. Auch aus der Türkei und Griechenland werden neue Waldbrände gemeldet. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "category": "konflikte",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Türkei",
+        "lat": 38.9637,
+        "lon": 35.2433
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 00:42:29 +0200"
+    },
+    {
       "title": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
       "summary": "In Frankreich und Spanien bekämpfen Tausende Einsatzkräfte die verheerenden Waldbrände. Dabei feiern sie erste Erfolge. Doch die hohen Temperaturen erschweren die Löscharbeiten. Und es droht eine weitere Hitzewelle.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -317,6 +391,35 @@
       "published": "Tue, 28 Jul 2026 18:10:31 +0200"
     },
     {
+      "title": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "summary": "Nach fast einer Woche ohne Angriffe hat das US-Militär wieder Ziele direkt in Iran attackiert. Das Regime meldet Tote - und feuerte offenbar mehrere Raketen auf Jordanien, die aber abgefangen wurden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 08:13:48 +0200"
+    },
+    {
       "title": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
       "summary": "US-Verteidigungsminister Hegseth hatte es im Juni angekündigt, nun starten die USA mit der Überprüfung ihrer Truppenpräsenz in Europa. Das erklärte Ziel: Europa soll selbst die Hauptverantwortung für seine Sicherheit übernehmen.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -331,6 +434,35 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Tue, 28 Jul 2026 15:48:03 +0200"
+    },
+    {
+      "title": "Russland greift Ukraine landesweit mit Raketen an",
+      "summary": "Russland hat erneut mehrere ukrainische Städte mit Raketen angegriffen, auch Kiew. Es soll landesweit mehrere Tote geben. Präsident Selenskyj hatte zuvor vor einem \"massiven\" russischen Angriff gewarnt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 09:16:11 +0200"
     },
     {
       "title": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
@@ -362,136 +494,36 @@
       "published": "Sat, 25 Jul 2026 16:11:32 +0200"
     },
     {
-      "title": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "summary": "Russland hat offenbar gezielt eine Veranstaltung von Vertretern der ukrainischen Drohnenbranche in der Nähe von Kiew angegriffen. Mindestens zehn Menschen sollen getötet und fast 100 weitere verletzt worden sein.",
+      "title": "Frankreich und Spanien melden leichte Entspannung bei Waldbränden",
+      "summary": "Aus zwei Waldbrandgebieten in Frankreich und Spanien melden die Behörden Erfolge. Bei Bordeaux dürfen weitere 84.000 Menschen in ihre Häuser zurück. Gleichzeitig flammen in anderen Regionen neue Feuer auf.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
+      "category": "welt",
+      "event_type": "wildfire",
       "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 19:22:54 +0200"
-    },
-    {
-      "title": "Russland und Ukraine: Droht die Rückkehr der Getreidekrise?",
-      "summary": "Russland und die Ukraine intensivieren ihre Angriffe auch auf See. Die Ukraine greift die russische Schattenflotte an, Russland attackiert Schiffe auf dem Weg zum Hafen von Odessa. Droht eine neue Getreidekrise? Von S. Laack.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-angriffe-schiffe-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 14:33:42 +0200"
-    },
-    {
-      "title": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
-      "summary": "Im Streit um die Führung der ukrainischen Armee sieht Sicherheitsexperte Nico Lange einen Kulturkampf zweier Generationen. Das habe Präsident Selenskyj unterschätzt. Die neue Spitze stehe für eine Kriegsführung, die Russland Probleme bereite.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 19:48:27 +0200"
+      "published": "Thu, 30 Jul 2026 12:23:11 +0200"
     },
     {
-      "title": "USA und Saudi-Arabien greifen Ziele im Irak an",
-      "summary": "Am Golf sind die Kampfhandlungen wieder aufgeflammt. Gemeinsam mit Saudi-Arabien griffen US-Streitkräfte pro-iranische Milizen im Irak an. Kurz zuvor wurde Raketenbeschuss aus Iran auf US-Stützpunkte gemeldet.",
+      "title": "Waldbrände in Spanien: \"Das wird alles brennen\"",
+      "summary": "In diesem Jahr brennen in Spanien besonders große Waldflächen. Feuerwehrmann Ángel Malanda kämpfte selbst gegen die Flammen. Er beklagt fehlende Vorbeugung und die Pflanzenwahl vieler Hausbesitzer. Von Hans-Günter Kellner.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-irak-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
+      "category": "welt",
+      "event_type": "wildfire",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
       },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Saudi-Arabien",
-            "lat": 23.8859,
-            "lon": 45.0792
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 11:27:37 +0200"
-    },
-    {
-      "title": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
-      "summary": "Spätestens der Iran-Krieg hat die Beziehung der USA zu Israel verändert. In Washington wird die israelische Regierung zunehmend als Belastung wahrgenommen. Für Netanjahu ging es bei dem Treffen um viel. Von J.-C. Kitzler.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Israel",
-            "lat": 31.0461,
-            "lon": 34.8516
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 19:07:48 +0200"
+      "published": "Thu, 30 Jul 2026 10:11:03 +0200"
     },
     {
       "title": "Feuer bei Bordeaux: Was die freiwilligen Helfer im Brandgebiet leisten",
@@ -523,7 +555,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 09:10:28 +0200"
+      "published": "Wed, 29 Jul 2026 14:26:55 +0200"
     },
     {
       "title": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
@@ -574,72 +606,24 @@
       "published": "Mon, 27 Jul 2026 17:09:58 +0200"
     },
     {
-      "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
-      "summary": "Bei den verheerenden Waldbränden in Frankreich und Spanien hat sich die Lage teils etwas stabilisiert - doch die Einsatzkräfte blicken mit Sorge auf die Wettervorhersagen für die kommenden Tage. Auch in Italien sind Feuer ausgebrochen.",
+      "title": "US-Senat bestätigt Clayton als neuen Geheimdienstchef",
+      "summary": "Der US-Senat hat den von Präsident Trump vorgeschlagenen Juristen Jay Clayton als neuen Geheimdienstchef bestätigt. Die Demokraten stimmten gegen ihn. Der Staatsanwalt aus New York war nur Trumps Ersatzkandidat.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/braende-frankreich-spanien-italien-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienst-clayton-senat-100.html",
       "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 27 Jul 2026 18:01:02 +0200"
-    },
-    {
-      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
-      "summary": "Bei der Bekämpfung der Waldbrände in der Nähe der spanischen Hauptstadt Madrid verzeichnen die Einsatzkräfte kleine Fortschritte. Erste Evakuierte könnten im Laufe des Tages an ihre Wohnorte zurückkehren.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 27 Jul 2026 13:26:08 +0200"
-    },
-    {
-      "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
-      "summary": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 27 Jul 2026 07:10:21 +0200"
-    },
-    {
-      "title": "Investorenplan - FIFA setzt Verbänden Frist",
-      "summary": "Die Mitgliedsverbände der FIFA haben bis zum 19. September Zeit, dem Investorenplan des Weltverbandes zuzustimmen. Das geht aus einem Brief hervor, der der Sportschau vorliegt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/investorenplan-fifa-setzt-verbaenden-frist,uefa-fifa-frist-100.html",
-      "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 12:29:06 +0200"
+      "published": "Wed, 29 Jul 2026 08:19:39 +0200"
     },
     {
-      "title": "Fußball in Aufruhr - Diskutiert UEFA über Boykott?",
-      "summary": "Die Ankündigung der FIFA, Anteile an der WM zu verkaufen, sorgt für Aufruhr im Fußball. Laut Medienberichten will die UEFA in einer Dringlichkeitssitzung sogar einen Boykott diskutieren.",
+      "title": "UEFA will sich heute beraten - WM-Boykott steht im Raum",
+      "summary": "Die Ankündigung der FIFA, Anteile an der WM zu verkaufen, sorgt für Aufruhr im Fußball. Laut Berichten will sich die UEFA heute mit den Mitgliedsverbänden treffen.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/fussball/fussball-in-aufruhr-diskutiert-uefa-ueber-boykott,uefa-fifa-100.html",
       "category": "sport",
@@ -651,13 +635,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 11:41:00 +0200"
+      "published": "Thu, 30 Jul 2026 11:18:33 +0200"
     },
     {
-      "title": "Warum Infantino mit seinem Coup durchkommen könnte",
-      "summary": "Der WM-Investoren-Deal könnte Infantinos großer Coup werden, auch mit Blick auf die eigene Zukunft. Es bleiben zwei Hürden - eine ist die US-Justiz.",
+      "title": "Investorenplan der FIFA - Fragen und Antworten",
+      "summary": "Die Investorenpläne von Gianni Infantino und der FIFA halten den Fußball in Atem. Die wichtigsten Fragen und Antworten.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/warum-infantino-mit-seinem-coup-durchkommen-koennte,analyse-fifa-anteile-wm-infantino-100.html",
+      "url": "https://www.sportschau.de/fussball/investorenplan-der-fifa-fragen-und-antworten,uefa-fifa-faq-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -667,23 +651,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 23:31:01 +0200"
-    },
-    {
-      "title": "Infantino will WM-Anteile verkaufen",
-      "summary": "FIFA-Chef Gianni Infantino will noch mehr Geld aus der Fußball-WM herausholen und Anteile am Turnier an private Investoren abtreten.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/infantino-will-wm-anteile-verkaufen,fifa-anteile-wm-infantino-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 17:54:53 +0200"
+      "published": "Thu, 30 Jul 2026 10:09:04 +0200"
     },
     {
       "title": "Mihambo führt EM-Team an - DLV nominiert weitere Athleten für Birmingham",
@@ -718,10 +686,10 @@
       "published": "Fri, 24 Jul 2026 17:55:56 +0200"
     },
     {
-      "title": "Frauen-Bundesliga: Sportschau-Kalender jetzt herunterladen",
-      "summary": "Holen Sie sich den Sportschau-Kalender zur Bundesliga der Frauen mit allen Terminen auf Ihr Smartphone.",
+      "title": "Der Handy-Kalender zur Tour de France Femmes 2026 direkt auf Ihr Smartphone!",
+      "summary": "Sie wollen keine Etappe der Tour de France der Frauen verpassen und immer wissen, wann und wo gefahren wird? Holen Sie sich alle Termine direkt in Ihren Handy-Kalender.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/frauen-bundesliga/holen-sie-sich-jetzt-sportschau-kalender-zur-bundesliga-der-frauen,spielplan-bundesliga-kalender-frauen-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/der-handy-kalender-zur-tour-de-france-der-frauen,tour-de-france-femmes-kalender-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -731,13 +699,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 10 Jul 2026 12:18:14 +0200"
+      "published": "Tue, 30 Jun 2026 16:07:12 +0200"
     },
     {
-      "title": "Edin Dzeko bleibt bei Schalke 04",
-      "summary": "Stürmer Edin Dzeko bleibt ein weiteres Jahr bei Schalke 04. Nach langem Zögern einigte man sich auf eine Vertragsverlängerung.",
+      "title": "\"Für mich steht der Erfolg über allem\"",
+      "summary": "Die Französin Pauline Ferrand-Prévôt gewann vor einem Jahr die Tour de France der Frauen. Sie sorgte für Jubel, aber wegen ihrer sichtbaren Gewichtsreduktion auch für Diskussionen. Über all das spricht Ferrand-Prévôt im Sportschau-Interview.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-edin-dzeko-bleibt-bei-schalke-04-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/fuer-mich-steht-der-erfolg-ueber-allem,int-pauline-ferrand-prevot-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -747,7 +715,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 29 Jul 2026 13:36:49 +0200"
+      "published": "Wed, 29 Jul 2026 17:56:37 +0200"
+    },
+    {
+      "title": "Alles Wichtige zur Tour de France Femmes 2026: Etappen, TV, Livestreams",
+      "summary": "Die fünfte Ausgabe der Tour de France Femmes startet in diesem Jahr in der Schweiz - mit einer deutschen Tour-Debütantin, die sich große Hoffnungen machen darf. Alles Wichtige zum größten Radrennen der Frauen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/alles-wichtige-zur-tour-de-france-femmes-2026,faq-tour-de-france-femmes-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 22:21:46 +0200"
+    },
+    {
+      "title": "Gegen Russland-Rückkehr - Ukraine zieht vor den CAS",
+      "summary": "Die Ukraine will sich mit der schleichenden Rückkehr Russlands in den Weltsport nicht abfinden und zieht vor den Sportgerichtshof CAS.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/investigativ/ukraine-zieht-vor-cas,ukraine-cas-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 29 Jul 2026 17:27:48 +0200"
     }
   ],
   "crises": [
@@ -762,7 +762,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -904,26 +904,6 @@
         {
           "lat": 49.281651488506384,
           "lon": 33.470277128164255
-        },
-        {
-          "lat": 50.33379100194591,
-          "lon": 31.622575350495655
-        },
-        {
-          "lat": 46.879274023138514,
-          "lon": 32.70001870364696
-        },
-        {
-          "lat": 46.21897757121873,
-          "lon": 30.595152770319757
-        },
-        {
-          "lat": 47.13790055826793,
-          "lon": 33.32871206975093
-        },
-        {
-          "lat": 47.09769311496538,
-          "lon": 31.47165387252431
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -936,9 +916,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
+      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1143,7 +1123,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
     },
     {
       "id": "wildfire-spanien",
@@ -1156,8 +1136,8 @@
       "label": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
       "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-29",
-      "intensity": 7,
+      "last_seen": "2026-07-30",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1169,10 +1149,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
+      "label": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
+      "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1390,7 +1370,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1552,26 +1532,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
         }
       ]
     },
@@ -1587,7 +1547,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-29",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1769,26 +1729,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -1800,10 +1740,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
+      "label": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
+      "url": "https://www.tagesschau.de/ausland/europa/braende-europa-frankreich-spanien-faq-100.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1820,7 +1760,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-28",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1882,26 +1822,6 @@
         {
           "lat": 35.83723178462981,
           "lon": 37.92405109167566
-        },
-        {
-          "lat": 35.67759489314563,
-          "lon": 39.609831199577506
-        },
-        {
-          "lat": 32.427028177479876,
-          "lon": 36.83430352515781
-        },
-        {
-          "lat": 33.69342436176095,
-          "lon": 37.258714264704544
-        },
-        {
-          "lat": 37.44110686419546,
-          "lon": 39.1113429180736
-        },
-        {
-          "lat": 35.63279034335918,
-          "lon": 39.46521621665946
         }
       ]
     },
@@ -1933,7 +1853,116 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "intensity": 3,
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-deutschland",
+      "type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
+      "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Russische Rakete über Polen abgestürzt?",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "wildfire-t-rkei",
+      "type": "wildfire",
+      "location": {
+        "name": "Türkei",
+        "lat": 38.9637,
+        "lon": 35.2433
+      },
+      "label": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }

@@ -11,7 +11,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -153,26 +153,6 @@
         {
           "lat": 49.281651488506384,
           "lon": 33.470277128164255
-        },
-        {
-          "lat": 50.33379100194591,
-          "lon": 31.622575350495655
-        },
-        {
-          "lat": 46.879274023138514,
-          "lon": 32.70001870364696
-        },
-        {
-          "lat": 46.21897757121873,
-          "lon": 30.595152770319757
-        },
-        {
-          "lat": 47.13790055826793,
-          "lon": 33.32871206975093
-        },
-        {
-          "lat": 47.09769311496538,
-          "lon": 31.47165387252431
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -185,9 +165,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
+      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -392,7 +372,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
     },
     {
       "id": "wildfire-spanien",
@@ -405,8 +385,8 @@
       "label": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
       "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-29",
-      "intensity": 7,
+      "last_seen": "2026-07-30",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -418,10 +398,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
+      "label": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
+      "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -639,7 +619,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -801,26 +781,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
         }
       ]
     },
@@ -836,7 +796,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-29",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1018,26 +978,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -1049,10 +989,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
+      "label": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
+      "url": "https://www.tagesschau.de/ausland/europa/braende-europa-frankreich-spanien-faq-100.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1069,7 +1009,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-28",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1131,26 +1071,6 @@
         {
           "lat": 35.83723178462981,
           "lon": 37.92405109167566
-        },
-        {
-          "lat": 35.67759489314563,
-          "lon": 39.609831199577506
-        },
-        {
-          "lat": 32.427028177479876,
-          "lon": 36.83430352515781
-        },
-        {
-          "lat": 33.69342436176095,
-          "lon": 37.258714264704544
-        },
-        {
-          "lat": 37.44110686419546,
-          "lon": 39.1113429180736
-        },
-        {
-          "lat": 35.63279034335918,
-          "lon": 39.46521621665946
         }
       ]
     },
@@ -1182,10 +1102,119 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "intensity": 3,
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-deutschland",
+      "type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
+      "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Russische Rakete über Polen abgestürzt?",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "wildfire-t-rkei",
+      "type": "wildfire",
+      "location": {
+        "name": "Türkei",
+        "lat": 38.9637,
+        "lon": 35.2433
+      },
+      "label": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-07-29"
+  "updated_at": "2026-07-30"
 }
