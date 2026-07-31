@@ -11,7 +11,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -133,26 +133,6 @@
         {
           "lat": 50.09119360074731,
           "lon": 29.40763444534029
-        },
-        {
-          "lat": 47.186389953342584,
-          "lon": 28.654500290915955
-        },
-        {
-          "lat": 51.21051806768717,
-          "lon": 30.735362736225913
-        },
-        {
-          "lat": 48.61525604672224,
-          "lon": 30.36466560708747
-        },
-        {
-          "lat": 49.78690603899534,
-          "lon": 29.067354526165722
-        },
-        {
-          "lat": 49.281651488506384,
-          "lon": 33.470277128164255
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -165,9 +145,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
+      "label": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -372,7 +352,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html"
     },
     {
       "id": "wildfire-spanien",
@@ -382,10 +362,10 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
-      "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html",
+      "label": "Waldbrände in Spanien: \"Das wird alles brennen\"",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -401,7 +381,7 @@
       "label": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
       "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -619,7 +599,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -761,26 +741,6 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
-        },
-        {
-          "lat": 34.014725501310366,
-          "lon": 53.587224353697906
-        },
-        {
-          "lat": 31.855449622586825,
-          "lon": 52.18681148699178
-        },
-        {
-          "lat": 30.93758572811915,
-          "lon": 51.728242291763486
-        },
-        {
-          "lat": 33.597548523016286,
-          "lon": 53.25045432155264
-        },
-        {
-          "lat": 33.89578415370227,
-          "lon": 55.43893438680073
         }
       ]
     },
@@ -796,7 +756,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-29",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -958,26 +918,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -989,10 +929,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
-      "url": "https://www.tagesschau.de/ausland/europa/braende-europa-frankreich-spanien-faq-100.html",
+      "label": "Frankreich und Spanien melden leichte Entspannung bei Waldbränden",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1009,7 +949,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-28",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1051,26 +991,6 @@
         {
           "lat": 32.67754251393421,
           "lon": 37.70949175869242
-        },
-        {
-          "lat": 34.335832305405134,
-          "lon": 37.77990727928372
-        },
-        {
-          "lat": 32.07193882679368,
-          "lon": 37.801193797136
-        },
-        {
-          "lat": 33.12739204742175,
-          "lon": 38.77125453795941
-        },
-        {
-          "lat": 37.32728239326896,
-          "lon": 39.3108270447624
-        },
-        {
-          "lat": 35.83723178462981,
-          "lon": 37.92405109167566
         }
       ]
     },
@@ -1102,7 +1022,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1118,7 +1038,7 @@
       "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-07-30",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1133,8 +1053,8 @@
       "label": "Russische Rakete über Polen abgestürzt?",
       "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "intensity": 1,
+      "last_seen": "2026-07-31",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1196,6 +1116,46 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
+        },
+        {
+          "lat": 50.76163129503481,
+          "lon": 19.024353967869853
+        },
+        {
+          "lat": 50.25640800764771,
+          "lon": 20.485090922329015
+        },
+        {
+          "lat": 50.27951507766324,
+          "lon": 19.93900006647303
+        },
+        {
+          "lat": 52.72821126406808,
+          "lon": 16.34274847312999
+        },
+        {
+          "lat": 53.57140967915636,
+          "lon": 20.1064498528398
+        },
+        {
+          "lat": 50.628622392577036,
+          "lon": 19.54377604277066
+        },
+        {
+          "lat": 49.92625879751269,
+          "lon": 18.983356129258837
+        },
+        {
+          "lat": 54.375906749022874,
+          "lon": 17.898568780255285
+        },
+        {
+          "lat": 50.1121355987003,
+          "lon": 17.831168062597435
+        },
+        {
+          "lat": 54.24119048641627,
+          "lon": 17.910073879737073
         }
       ]
     },
@@ -1211,10 +1171,164 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-07-30",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-gaza",
+      "type": "conflict",
+      "location": {
+        "name": "Gaza",
+        "lat": 31.5,
+        "lon": 34.47
+      },
+      "label": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
+      "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 33.99088596447624,
+          "lon": 37.00237641731565
+        },
+        {
+          "lat": 33.6317900654701,
+          "lon": 34.939312186229344
+        },
+        {
+          "lat": 33.717993414778725,
+          "lon": 34.21031090707059
+        },
+        {
+          "lat": 31.102891843906345,
+          "lon": 35.243221978399255
+        },
+        {
+          "lat": 32.67631720569365,
+          "lon": 33.69207499160945
+        },
+        {
+          "lat": 30.889221001041406,
+          "lon": 33.74611917589701
+        },
+        {
+          "lat": 30.527281604247932,
+          "lon": 34.584698458256824
+        },
+        {
+          "lat": 28.991904489344897,
+          "lon": 35.53996505476301
+        },
+        {
+          "lat": 32.90611084746339,
+          "lon": 33.807677410882356
+        },
+        {
+          "lat": 32.88771255043981,
+          "lon": 32.23738530648113
+        },
+        {
+          "lat": 29.70543966516979,
+          "lon": 31.731139805489484
+        },
+        {
+          "lat": 31.872210198867183,
+          "lon": 33.97021486554765
+        },
+        {
+          "lat": 30.259098132084844,
+          "lon": 35.608834927263395
+        },
+        {
+          "lat": 33.32409579512293,
+          "lon": 33.95328104347067
+        },
+        {
+          "lat": 33.86002521248535,
+          "lon": 37.36008205893684
+        }
+      ]
+    },
+    {
+      "id": "conflict-spanien",
+      "type": "conflict",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
+      "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 40.92892614533669,
+          "lon": -4.11890833208638
+        },
+        {
+          "lat": 39.99204498382368,
+          "lon": -2.76568715045687
+        },
+        {
+          "lat": 43.39012705001087,
+          "lon": -5.665524367960059
+        },
+        {
+          "lat": 38.52308602775787,
+          "lon": -1.7981199252447393
+        },
+        {
+          "lat": 43.225527317476704,
+          "lon": -6.517750873680169
+        },
+        {
+          "lat": 43.121711165833574,
+          "lon": -0.9543041424751992
+        },
+        {
+          "lat": 41.34013998905002,
+          "lon": -6.503827340881766
+        },
+        {
+          "lat": 40.651699000583776,
+          "lon": -6.262031853123576
+        },
+        {
+          "lat": 39.74048583615385,
+          "lon": -2.7980242004180385
+        },
+        {
+          "lat": 42.55157622980026,
+          "lon": -4.17985853543362
+        },
+        {
+          "lat": 39.38103142498819,
+          "lon": -2.859308076154745
+        },
+        {
+          "lat": 40.478036277966936,
+          "lon": -6.3641251464789095
+        },
+        {
+          "lat": 37.599171941469116,
+          "lon": -4.80544407344876
+        },
+        {
+          "lat": 40.522403851201275,
+          "lon": -1.8529621756791517
+        },
+        {
+          "lat": 42.88972345334041,
+          "lon": -2.779828748245218
+        }
+      ]
     }
   ],
-  "updated_at": "2026-07-30"
+  "updated_at": "2026-07-31"
 }
