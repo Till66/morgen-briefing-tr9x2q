@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:48:58.459907+00:00",
+  "generated_at": "2026-08-01T10:22:27.225619+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,102 @@
   },
   "articles": [
     {
+      "title": "SPD und Union streiten über Rente nach 45 Beitragsjahren",
+      "summary": "In der Koalition treten Differenzen über die Rentenpläne immer deutlicher zutage. Auch SPD-Generalsekretär Klüssendorf will an der abschlagsfreien Rente nach 45 Beitragsjahren festhalten. Unions-Fraktionschef Frei besteht auf dem Aus.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/rentenreform-vorschlag-cdu-reaktionen-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 12:12:33 +0200"
+    },
+    {
+      "title": "Ab August greift Rechtsanspruch auf Ganztagsbetreuung",
+      "summary": "Acht Stunden Bildung und Betreuung am Tag: Ab August greift stufenweise der Rechtsanspruch auf eine Ganztagsbetreuung für Grundschulkinder. Was Eltern jetzt wissen müssen. Von Chris Berdrow.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-grundschule-start-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 07:51:23 +0200"
+    },
+    {
+      "title": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
+      "summary": "In mehreren Regionen Deutschlands hat es am Abend schwere Unwetter gegeben. In einem Kurort in der Sächsischen Schweiz wurde ein Mann von einem Baum erschlagen. Starke Gewitter gab es auch in Hamburg und Stuttgart.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
+      "category": "politik",
+      "event_type": "storm",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 01:28:37 +0200"
+    },
+    {
+      "title": "Dobrindt will Grenzkontrollen in Deutschland verlängern",
+      "summary": "Angesichts Zehntausender Flüchtlinge in Ceuta hält Innenminister Dobrindt an den Grenzkontrollen fest - auch wenn sie in der EU umstritten sind. Die Linke dagegen fordert, den Menschen in der spanischen Exklave jetzt schnell zu helfen und sie aufzunehmen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-116.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 17:31:11 +0200"
+    },
+    {
+      "title": "Fall Abdul B.: Kamen Deradikalisierungsgespräche zu spät?",
+      "summary": "Der mutmaßliche CSD-Attentäter Abdul B. sollte nach einem Urteil in ein Deradikalisierungsprogramm. Doch Vorgespräche liefen ins Leere. Sein Anwalt sagt Report Mainz, Gespräche müssten in solchen Fällen schon in Untersuchungshaft beginnen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-anschlag-islamismus-deradikalisierung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 16:27:22 +0200"
+    },
+    {
+      "title": "Ganz Deutschland hat Ferien: ADAC rechnet mit vollen Straßen",
+      "summary": "Mit Baden-Württemberg und Bayern starten an diesem Wochenende auch die letzten beiden Bundesländer in die Sommerferien. Der ADAC rechnet mit vollen Straßen. Ein Überblick über mögliche Stau-Hotspots.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/stauprognose-sommerferien-ratgeber-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 15:32:21 +0200"
+    },
+    {
       "title": "Nach Berlin-Anschlag: Wie bereiten sich die kommenden CSD-Paraden vor?",
       "summary": "In einigen Städten stehen an den kommenden Wochenenden CSD-Paraden an. Nach dem Anschlag in Berlin sind viele Organisatoren besorgt. Polizei und Veranstalter überprüfen noch einmal ihre Sicherheitskonzepte. Von Carolyn Wißing.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -77,106 +173,10 @@
       "published": "Fri, 31 Jul 2026 12:23:13 +0200"
     },
     {
-      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
-      "summary": "Die Bundesregierung will die Rentenreform vollständig umsetzen, doch im Osten gibt es Widerstand. Sachsens Ministerpräsident Kretschmer kündigte ein Nein im Bundesrat an. Die Union im Bund hält dagegen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 13:06:26 +0200"
-    },
-    {
-      "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
-      "summary": "Ganz so heiß wie im Juni war es nicht, doch in drei Bundesländern wurde ein neuer Juli-Rekord aufgestellt - mit bis zu 40,5 Grad. Auf die Hitze folgten vielerorts Gewitter. Am Möhnesee in NRW wurden zwei Jugendliche verletzt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
-      "category": "politik",
-      "event_type": "storm",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 21:21:57 +0200"
-    },
-    {
-      "title": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
-      "summary": "Der Hamburger Datenschutzbeauftragte Fuchs warnt vor Meta Smart Glasses: Die Brillen, die kaum von normalen Brillen zu unterscheiden sind, ermöglichen heimliches Filmen. Ein Verbot sei nicht ausgeschlossen. Von Antonetta Stephany.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 19:24:31 +0200"
-    },
-    {
-      "title": "BGH betont strenge Regeln für Ärzte-Siegel",
-      "summary": "Die Zeitschrift Focus vergibt ein Ärzte-Siegel, mit dem Mediziner gegen Gebühr werben können. Die Wettbewerbszentrale hält das für unzulässig und hat vor dem Bundesgerichtshof nun einen Erfolg errungen. Von Max Bauer.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/bgh-urteil-focus-aerzte-siegel-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 14:08:56 +0200"
-    },
-    {
-      "title": "Lückenhafte Kontrollen gegen Schleuserkriminalität in Großstädten",
-      "summary": "In Frankfurt am Main hatten Schleuser offenbar leichtes Spiel mit falschen Wohnungsbescheinigungen. Hessen will diese Schlupflöcher nun schließen. Doch auch in anderen Bundesländern gibt es Defizite. Von Volker Siefert.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-wohnungsanmeldungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 12:23:28 +0200"
-    },
-    {
-      "title": "Laut RKI: 2026 bereits fast 10.000 Menschen wegen Hitze gestorben",
-      "summary": "In diesem Sommer hat es in Deutschland bereits fast 10.000 Hitzetote gegeben. Das geht aus dem Wochenbericht des Robert Koch-Instituts hervor. Die Zahl ist schon höher als in jedem Gesamtjahr seit 2016.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-sterbefaelle-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 11:27:07 +0200"
-    },
-    {
-      "title": "Neues Ausbildungsjahr beginnt: Wie KI das Handwerk stärkt",
-      "summary": "Das neue Ausbildungsjahr beginnt. In Zeiten von Künstlicher Intelligenz suchen junge Menschen nach zukunftssicheren Jobs. Das Handwerk scheint davon zu profitieren: Die Bewerberzahl steigt. Von Ole Hilgert.",
+      "title": "Bahn-Chefin Palla kritisiert \"organisierte Verantwortungslosigkeit\"",
+      "summary": "Verantwortung, die hin- und hergeschoben wird - und kaum Konsequenzen bei Fehlern. Bahnchefin Palla sieht massive Probleme im Management des Staatskonzern und übt ungewöhnlich scharfe Kritik. Sie sieht aber auch \"Helden\" bei der Bahn.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-kuenstliche-intelligenz-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/palla-kritik-bahn-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,7 +186,71 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 11:12:23 +0200"
+      "published": "Sat, 01 Aug 2026 10:24:58 +0200"
+    },
+    {
+      "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
+      "summary": "Mit zunehmender Trockenheit im Sommer müssen Landwirte seit Jahren zurechtkommen. Extreme Hitzewellen aber bringen vor allem im Salatanbau neue Herausforderungen. Von A. Schuster und C. Schulze.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 07:54:42 +0200"
+    },
+    {
+      "title": "Ganz Deutschland hat Ferien: ADAC rechnet mit vollen Straßen",
+      "summary": "Mit Baden-Württemberg und Bayern starten an diesem Wochenende auch die letzten beiden Bundesländer in die Sommerferien. Der ADAC rechnet mit vollen Straßen. Ein Überblick über mögliche Stau-Hotspots.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/stauprognose-sommerferien-ratgeber-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 15:32:21 +0200"
+    },
+    {
+      "title": "Tschechien plant Staustufe: Schnellere Durchfahrt auf der Elbe?",
+      "summary": "Tschechien will kurz vor der deutschen Grenze an der Elbe eine Staustufe bauen. Güterschiffe sollen die Strecke so leichter passieren können. Aus der Wirtschaft gibt es Zustimmung - von Umweltverbänden dagegen Kritik. Von Cezary Bazydło.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/europa/tschechien-elbe-staustufe-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Tschechien",
+        "lat": 49.8175,
+        "lon": 15.473
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 16:23:43 +0200"
+    },
+    {
+      "title": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
+      "summary": "Eine unlizenzierte Nutzung von Musikstücken durch KI-Anwendungen verstößt gegen deutsches Urheberrecht. Das entschied heute das Landgericht München. Beobachter sehen darin Signalwirkung. Von Fritz Espenlaub.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/kultur/urteil-gema-vs-suno-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "München",
+        "lat": 48.1351,
+        "lon": 11.582
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 17:15:41 +0200"
     },
     {
       "title": "Halbleiter unter Druck: Drei Gefahren für den KI-Boom",
@@ -205,6 +269,22 @@
       "published": "Fri, 31 Jul 2026 10:36:10 +0200"
     },
     {
+      "title": "Neues Ausbildungsjahr beginnt: Wie KI das Handwerk stärkt",
+      "summary": "Das neue Ausbildungsjahr beginnt. In Zeiten von Künstlicher Intelligenz suchen junge Menschen nach zukunftssicheren Jobs. Das Handwerk scheint davon zu profitieren: Die Bewerberzahl steigt. Von Ole Hilgert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-kuenstliche-intelligenz-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 11:12:23 +0200"
+    },
+    {
       "title": "Bei Testläufen: Anthropic-KI greift eigenständig Unternehmen an",
       "summary": "Erneut ist es zu einem schwerwiegenden KI-Zwischenfall gekommen: Diesmal ist ein Modell des OpenAI-Rivalen Anthropic bei Tests ungeplant in Systeme von Unternehmen eingedrungen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
@@ -221,174 +301,20 @@
       "published": "Fri, 31 Jul 2026 09:09:24 +0200"
     },
     {
-      "title": "EU startet Milliardenprojekt für sieben KI-Gigafactories",
-      "summary": "Die EU-Kommission hat den Bau von bis zu sieben Großrechenzentren ausgeschrieben. Diese Gigafactories sollen die Rechenkapazität für die Entwicklung von KI in Europa deutlich steigern.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/eu-milliardenprojekt-ki-gigafactories-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 14:19:52 +0200"
-    },
-    {
-      "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
-      "summary": "Der wichtigste Hersteller von KI-Chips, Nvidia, und Industriepartner wie Microsoft und IBM haben eine KI-Sicherheitsallianz gegründet. Die Ankündigung erfolgte wenige Tage nach einer aufsehenerregenden Testpanne bei OpenAI.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-sicherheitsallianz-techunternehmen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 02:23:46 +0200"
-    },
-    {
-      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-      "summary": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 15:04:19 +0200"
-    },
-    {
-      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
-      "summary": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 22 Jul 2026 21:41:08 +0200"
-    },
-    {
-      "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "summary": "Der eigenständige Hackerangriff eines KI-Modells hat die Bundesregierung alarmiert. Die zunehmenden Fähigkeiten Künstlicher Intelligenz verändere auch die Bedrohungslage im Cyberbereich massiv, warnt das Digitalministerium.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 23 Jul 2026 07:47:47 +0200"
-    },
-    {
-      "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
-      "summary": "Zwischen Asche und Glut kämpfen Feuerwehrleute und Freiwillige gegen die Waldbrände in Frankreich - oft vergeblich. Besonders betroffen: die Gironde. Vor Ort wächst die Wut. Helfer werfen der Regierung Versäumnisse vor. Von Jean-Marie Magro.",
+      "title": "Inzwischen etwa 60.000 Migranten in Ceuta angekommen - 34 Tote",
+      "summary": "Laut Behörden haben in den vergangenen Tagen etwa 60.000 Menschen Ceuta erreicht. Ministerpräsident Sánchez sprach von einem \"Angriff\". Gleichzeitig sagte er der Exklave Unterstützung zu.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html",
-      "category": "konflikte",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 05:23:02 +0200"
-    },
-    {
-      "title": "Rakete in Polens Luftraum alarmiert NATO",
-      "summary": "Nach dem Einschlag einer Rakete in Polen hat die NATO dem Land Unterstützung zugesichert. Generalsekretär Rutte sprach von einem weiteren rücksichtslosen Akt Russlands. Das Bündnis hatte als Reaktion Kampfjets aufsteigen lassen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-104.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 18:51:23 +0200"
-    },
-    {
-      "title": "Russische Rakete über Polen abgestürzt?",
-      "summary": "Ein Flugobjekt ist während russischer Angriffe auf die Ukraine in Polen abgestürzt. Der Absturzort liegt südlich von Lublin. Die Regierung in Warschau geht inzwischen von einem russischen Marschflugkörper aus.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Polen",
-            "lat": 51.9194,
-            "lon": 19.1451
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 13:52:18 +0200"
-    },
-    {
-      "title": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
-      "summary": "Russland führt seinen Krieg gegen die Ukraine auch in unmittelbarer Nähe zu NATO-Staaten. In Rumänien schlugen schon mehrfach Drohnen ein. Die Regierung will das nicht mehr hinnehmen - und tritt gegenüber Moskau offensiver auf. Von Oliver Soos.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 06:43:16 +0200"
+      "published": "Fri, 31 Jul 2026 16:09:33 +0200"
     },
     {
       "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
@@ -418,6 +344,22 @@
       ],
       "chokepoint_lane": null,
       "published": "Fri, 31 Jul 2026 03:15:49 +0200"
+    },
+    {
+      "title": "Rakete in Polens Luftraum alarmiert NATO",
+      "summary": "Nach dem Einschlag einer Rakete in Polen hat die NATO dem Land Unterstützung zugesichert. Generalsekretär Rutte sprach von einem weiteren rücksichtslosen Akt Russlands. Das Bündnis hatte als Reaktion Kampfjets aufsteigen lassen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 18:51:23 +0200"
     },
     {
       "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
@@ -478,26 +420,209 @@
       "published": "Thu, 30 Jul 2026 08:13:48 +0200"
     },
     {
-      "title": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
-      "summary": "US-Verteidigungsminister Hegseth hatte es im Juni angekündigt, nun starten die USA mit der Überprüfung ihrer Truppenpräsenz in Europa. Das erklärte Ziel: Europa soll selbst die Hauptverantwortung für seine Sicherheit übernehmen.",
+      "title": "Mindestens neun Tote und viele Verletzte bei russischem Angriff auf Kiew",
+      "summary": "Russland verstärkt seit einigen Tagen seine Luftangriffe auf die Ukraine. In der Nacht war erneut die Hauptstadt Kiew ein Ziel. Nach Behördenangaben wurden mindestens neun Menschen getötet.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 08:50:54 +0200"
+    },
+    {
+      "title": "Russland greift Ukraine landesweit mit Raketen an",
+      "summary": "Russland hat erneut mehrere ukrainische Städte mit Raketen angegriffen, auch Kiew. Es soll landesweit mehrere Tote geben. Präsident Selenskyj hatte zuvor vor einem \"massiven\" russischen Angriff gewarnt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Thu, 30 Jul 2026 09:16:11 +0200"
+    },
+    {
+      "title": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
+      "summary": "Russland und die Ukraine greifen sich weiter gegenseitig an - mit Todesopfern und verletzten auf beiden Seiten. Kiew meldet zudem erneut Angriffe auf Ölanlagen, die teilweise tief im russischen Hinterland liegen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sat, 25 Jul 2026 16:11:32 +0200"
+    },
+    {
+      "title": "Nach Ansturm auf Ceuta: Migranten kehren zurück, Europa diskutiert",
+      "summary": "Die meisten der in die Exklave Ceuta eingedrungenen Migranten sind offenbar bereits zurückgekehrt. Doch auf EU-Ebene haben die Bilder große Sorgen ausgelöst - und eine neue Debatte über Grenzschutz.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-100.html",
+      "category": "welt",
+      "event_type": "storm",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 28 Jul 2026 15:48:03 +0200"
+      "published": "Sat, 01 Aug 2026 11:29:53 +0200"
     },
     {
-      "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
-      "summary": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht europäische Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Frankreich will seine Grenzkontrollen verschärfen.",
+      "title": "Ansturm auf Exklave: Was Ceuta für die EU bedeutet",
+      "summary": "Vor wenigen Wochen ist die Asylreform der EU in Kraft getreten. Doch nach Ceuta wird erneut über Migrationsregelungen diskutiert. Wie haben die Mitgliedsstaaten reagiert? Und warum gibt es Kritik an Spanien?",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html",
+      "category": "welt",
+      "event_type": "storm",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 10:58:53 +0200"
+    },
+    {
+      "title": "Russlands Signale im Ärmelkanal",
+      "summary": "Schiffe der russischen Marine durchfahren regelmäßig den Ärmelkanal. Zuletzt fielen Schüsse auf eine Jacht. Auch hält die russische Marine dort Schießübungen ab. Ein Fingerzeig an die britische Regierung? Von C. Prössl.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 08:05:00 +0200"
+    },
+    {
+      "title": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
+      "summary": "Es war das stärkste Erdbeben in der Region Neapel seit 40 Jahren. Westlich der Großstadt wurden Häuser und Autos beschädigt. Mindestens 21 Menschen wurden verletzt. In der Gegend befindet sich der Supervulkan Phlegräische Felder.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html",
+      "category": "welt",
+      "event_type": "disaster",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 01 Aug 2026 00:25:42 +0200"
+    },
+    {
+      "title": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
+      "summary": "Zehntausende Menschen haben den Behörden zufolge die Grenze zwischen Marokko und der spanischen Exklave Ceuta überquert. Dabei kamen mindestens 57 Menschen ums Leben. Inzwischen haben viele Migranten die Stadt wieder verlassen. Von Anna Mundt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Marokko",
+        "lat": 31.7917,
+        "lon": -7.0926
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 20:36:05 +0200"
+    },
+    {
+      "title": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+      "summary": "Als Reaktion auf den Ansturm von Migranten in der spanischen Exklave Ceuta hat Italien das Schengen-Abkommen mit Spanien ausgesetzt. Auch Frankreich will seine Grenzkontrollen verschärfen. Die EU bot Spanien unterdessen Hilfe an.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "category": "welt",
+      "event_type": "storm",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 20:40:48 +0200"
+    },
+    {
+      "title": "UN-Generalsekretär Guterres fordert neue Zypern-Gespräche",
+      "summary": "Nikosia auf Zypern ist die letzte geteilte Hauptstadt der Welt. Durch sie verläuft eine UN-Pufferzone, die auch die Insel teilt. UN-Generalsekretär Guterres fordert nun neue Gespräche zwischen den Parteien. Von Benjamin Weber.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/guterres-fordert-neue-un-gespraeche-zypern-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 17:54:32 +0200"
+    },
+    {
+      "title": "Warum Ceuta und Melilla Ziel vieler Migranten sind",
+      "summary": "Sie gehören zu Spanien, liegen aber in Nordafrika - umgeben von Marokko und dem Mittelmeer: Die beiden autonomen Regionen Ceuta und Melilla sind immer wieder Ziel von Migranten, die irregulär nach Europa gelangen wollen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-melilla-marokko-spanien-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
@@ -507,125 +632,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 13:27:31 +0200"
+      "published": "Fri, 31 Jul 2026 17:26:38 +0200"
     },
     {
-      "title": "Medien berichten von mehr als 40.000 Migranten in Ceuta",
-      "summary": "Medienberichten zufolge sollen mehr als 40.000 Migranten in die spanische Exklave Ceuta gelangt sein - auch befeuert von Gerüchten über eine Grenzöffnung. Spanien hat zusätzliche Soldaten mobilisiert. Von Stefan Ehlert.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 11:18:39 +0200"
-    },
-    {
-      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
-      "summary": "In den vergangenen Tagen erreichten viele Migranten das spanische Ceuta in Nordafrika. Die örtlichen Behörden sind beunruhigt, die Aufnahmezentren überfüllt. Heute reist Premierminister Sánchez in die Exklave.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 10:00:00 +0200"
-    },
-    {
-      "title": "Waldbrände in Südeuropa: Starker Wind macht Lage auf Kreta unkontrollierbar",
-      "summary": "Andere griechische Inseln melden leichte Entspannung, aber auf Kreta bleibt die Situation angespannt: Schwere Winde entfachen immer wieder neue Brandherde. Zeitweise musste ein ganzer Urlaubsort evakuiert werden. Von M. Pompl.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-kreta-108.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 08:37:36 +0200"
-    },
-    {
-      "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
-      "summary": "Binnen weniger Tage sind wohl Hunderte Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 23:51:57 +0200"
-    },
-    {
-      "title": "Frankreich und Spanien melden leichte Entspannung bei Waldbränden",
-      "summary": "Aus zwei Waldbrandgebieten in Frankreich und Spanien melden die Behörden Erfolge. Bei Bordeaux dürfen weitere 84.000 Menschen in ihre Häuser zurück. Gleichzeitig flammen in anderen Regionen neue Feuer auf.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 12:23:11 +0200"
-    },
-    {
-      "title": "Waldbrände in Spanien: \"Das wird alles brennen\"",
-      "summary": "In diesem Jahr brennen in Spanien besonders große Waldflächen. Feuerwehrmann Ángel Malanda kämpfte selbst gegen die Flammen. Er beklagt fehlende Vorbeugung und die Pflanzenwahl vieler Hausbesitzer. Von Hans-Günter Kellner.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 10:11:03 +0200"
-    },
-    {
-      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
-      "summary": "Auch Paare aus Deutschland nutzen das Angebot: In Mexiko ist das Geschäft mit Leihmüttern hochgradig kommerzialisiert. Doch es gibt keine einheitliche Rechtslage, und das birgt Gefahren für Leihmütter und Wunscheltern. Von C. Moebus.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Mexiko",
-        "lat": 23.6345,
-        "lon": -102.5528
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 19:27:13 +0200"
-    },
-    {
-      "title": "Auch Asien gegen Infantino - Investorenpläne wohl vor dem Aus",
-      "summary": "Der Widerstand gegen FIFA-Präsident Gianni Infantino wird immer breiter. Rein rechnerisch haben seine Investorenpläne keine Mehrheit mehr.",
+      "title": "FIFA-Chef Infantino gibt umstrittene Investorenpläne auf",
+      "summary": "Mit seinen Plänen, WM-Anteile an Investoren zu verkaufen, hatte FIFA-Chef Infantino massiven Widerstand ausgelöst - innerhalb der FIFA und bei Verbänden. Nun teilte der Fußball-Weltverband mit, das Vorhaben werde nicht weiterverfolgt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/auch-concacaf-gegen-infantino-system-broeckelt-weiter,concacaf-gegen-fifa-100.html",
+      "url": "https://www.sportschau.de/fussball/fifa-chef-infantino-gibt-umstrittene-investorenplaene-auf,fifa-investorenplaene-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -635,13 +648,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 11:38:19 +0200"
+      "published": "Sat, 01 Aug 2026 09:28:07 +0200"
     },
     {
-      "title": "UEFA-Boykottdrohung: FIFA-Reaktion auf Kritik an Investorenplan",
-      "summary": "Die Kritik ist angekommen, weiter geht's - so die Kurzzusammenfassung der neuesten FIFA-Mitteilung. Die Schuld für das Chaos gibt der Weltverband anderen.",
+      "title": "Tour de France Femmes: Koch, Niedermaier und Lippert im Dienst der Favoritinnen",
+      "summary": "Zum ersten Mal in ihrer Geschichte startet die Tour de France Femmes in der Schweiz. Dort am Start werden auch sechs deutsche Fahrerinnen stehen. Doch eigene Ambitionen zu verfolgen wird schwierig.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/fifa-reagiert-auf-kritik-macht-aber-weiter,fifa-reaktion-kritik-uefa-100.html",
+      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/koch-lippert-und-co-im-dienst-der-favoritinnen,vorbericht-koch-lippert-niedermaier-im-dienst-fuer-andere-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 19:28:05 +0200"
+    },
+    {
+      "title": "1. Etappe Tour de France Femmes: Lausanne - Lausanne (138 km, 1.700 hm)",
+      "summary": "Die Tour de France Femmes beginnt in diesem Jahr in der Schweiz. Wer holt sich auf der 137 Kilometer langen Schleife rund um Lausanne das erste Gelbe Trikot?",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/1-etappe-lausanne-lausanne-138-km,tour-femmes-etappe-eins-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 27 Jul 2026 14:41:23 +0200"
+    },
+    {
+      "title": "Julian Brandt wechselt vom BVB zu Ajax Amsterdam",
+      "summary": "Das könnte gut passen: Nachdem Julian Brandt beim BVB aussortiert wurde, hat er in den Niederlanden eine neue Heimat gefunden.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-brandt-jetzt-gehts-in-die-niederlande-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lon": 4.9041
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 31 Jul 2026 21:43:18 +0200"
+    },
+    {
+      "title": "Zwei Jahre vor Ablauf der Dopingsperre: Mychajlo Mudryk darf wieder spielen",
+      "summary": "Nach einer positiven Dopingkontrolle im Oktober 2024 darf der ukrainische Nationalspieler Mychajlo Mudryk wieder für den FC Chelsea auflaufen, und das früher als geplant.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/premier-league/zwei-jahre-vor-ablauf-der-dopingsperre-mudryk-darf-wieder-spielen,dopingsperre-mudryk-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -651,59 +712,11 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 31 Jul 2026 11:19:59 +0200"
-    },
-    {
-      "title": "Investoren-Pläne: UEFA droht mit Boykott aller FIFA-Turniere",
-      "summary": "Die Europäische Fußball-Union (UEFA) droht im Machtkampf mit FIFA-Präsident Gianni Infantino mit maximaler Eskalation. Es droht ein Boykott aller FIFA-Turniere.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/investoren-plaene-uefa-droht-mit-boykott-aller-fifa-turniere,uefa-fifa-treffen-investoren-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 22:05:46 +0200"
-    },
-    {
-      "title": "Der Handy-Kalender zur Tour de France Femmes 2026 direkt auf Ihr Smartphone!",
-      "summary": "Sie wollen keine Etappe der Tour de France der Frauen verpassen und immer wissen, wann und wo gefahren wird? Holen Sie sich alle Termine direkt in Ihren Handy-Kalender.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/tourdefrance-femmes/der-handy-kalender-zur-tour-de-france-der-frauen,tour-de-france-femmes-kalender-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 30 Jun 2026 16:07:12 +0200"
-    },
-    {
-      "title": "Der Handy-Kalender zur Leichtathletik-EM in Birmingham direkt auf Ihr Smartphone!",
-      "summary": "Sie wollen kein Event der Leichtathletik-EM in Birmingham verpassen und immer wissen, wann die Wettbewerbe stattfinden ? Holen Sie sich alle Termine direkt in Ihren Handy-Kalender.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/der-handy-kalender-zur-leichtathletik-em-in-birmingham,leichtathletik-em-kalender-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 24 Jul 2026 17:55:56 +0200"
+      "published": "Fri, 31 Jul 2026 19:32:33 +0200"
     },
     {
       "title": "Trauer in Italien: Franco Baresi nach Krankheit verstorben",
-      "summary": "Der italienische Fußball trauert um einen der besten Verteidiger in der ruhmreichen Geschichte der \"Squadra Azzurra\": Franco Baresi",
+      "summary": "Der italienische Fußball trauert um einen der besten Verteidiger in der ruhmreichen Geschichte der \"Squadra Azzurra\": Franco Baresi.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/fussball/milan-legende-franco-baresi-ist-tot,franco-baresi-gestorben-100.html",
       "category": "sport",
@@ -718,10 +731,10 @@
       "published": "Fri, 31 Jul 2026 09:45:05 +0200"
     },
     {
-      "title": "Sportschau Fußball Podcast: So gut ist Schalke aufgestellt",
-      "summary": "Schalke ist zurück in der Bundesliga und das Team des Bundesliga Update Podcasts sieht S04 besser aufgestellt, als nach dem letzten Aufstieg.",
+      "title": "EM-Team komplett - DLV mit 116 Athleten nach Birmingham",
+      "summary": "Der Deutsche Leichtathletik-Verband hat sein EM-Team komplettiert: 116 Athletinnen und Athleten gehen in Birmingham an den Start. Das Aufgebot im Überblick.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/ist-schalke-besser-vorbereitet-als-beim-letzten-aufstieg,bundesliga-update-transfers-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/em-team-komplett-dlv-116-athleten-birmingham,deutsches-team-leichtathletik-em-birmingham-2026-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -731,13 +744,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 16:01:12 +0200"
+      "published": "Fri, 31 Jul 2026 13:54:35 +0200"
     },
     {
-      "title": "Abenteuer Bundesliga: Zwischen Euphorie und Alltag in Elversberg",
-      "summary": "Der Countdown läuft. Noch einen Monat dauert es, bis das erste Bundesligaspiel aller Zeiten in Elversberg angepfiffen wird. Ein Moment, der vor wenigen Jahren noch unvorstellbar schien.",
+      "title": "Mersad Selimbegovic und der Fluch der guten Tat",
+      "summary": "Nach einer fulminanten Rückrunde ist die Euphorie in Aachen vor der Saison riesig. Trainer Selimbegovic tritt auf die Bremse.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/sr/sr-noch-ein-monat-bis-zur-bundesliga-zwischen-euphorie-und-alltag-in-elversberg-102.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-mersad-selimbegovic-und-der-fluch-der-guten-tat-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -747,7 +760,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 30 Jul 2026 12:12:43 +0200"
+      "published": "Fri, 31 Jul 2026 15:57:00 +0200"
     }
   ],
   "crises": [
@@ -762,7 +775,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -864,26 +877,6 @@
         {
           "lat": 50.968751275374494,
           "lon": 28.286465265401283
-        },
-        {
-          "lat": 50.861541474141305,
-          "lon": 31.485397862162767
-        },
-        {
-          "lat": 46.485769954791465,
-          "lon": 33.08764902901362
-        },
-        {
-          "lat": 47.02686870557951,
-          "lon": 29.528379656742416
-        },
-        {
-          "lat": 48.797829863969426,
-          "lon": 29.71787996724478
-        },
-        {
-          "lat": 50.09119360074731,
-          "lon": 29.40763444534029
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -896,9 +889,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1103,7 +1096,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
     },
     {
       "id": "wildfire-spanien",
@@ -1117,7 +1110,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1129,10 +1122,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
-      "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
+      "label": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1350,7 +1343,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1472,26 +1465,6 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
-        },
-        {
-          "lat": 30.42818316234245,
-          "lon": 54.62271356712625
-        },
-        {
-          "lat": 32.03191824177336,
-          "lon": 51.766116605775
-        },
-        {
-          "lat": 35.262294281225834,
-          "lon": 50.93838971152399
-        },
-        {
-          "lat": 30.246050697000825,
-          "lon": 55.09211794381312
-        },
-        {
-          "lat": 33.7522461168195,
-          "lon": 52.63693288471479
         }
       ]
     },
@@ -1503,11 +1476,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
+      "label": "Mindestens neun Tote und viele Verletzte bei russischem Angriff auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-29",
-      "intensity": 6,
+      "last_seen": "2026-08-01",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1669,6 +1642,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -1684,7 +1677,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1773,7 +1766,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1789,7 +1782,7 @@
       "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-07-30",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1801,11 +1794,11 @@
         "lat": 51.9194,
         "lon": 19.1451
       },
-      "label": "Russische Rakete über Polen abgestürzt?",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
+      "label": "Rakete in Polens Luftraum alarmiert NATO",
+      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "intensity": 3,
+      "last_seen": "2026-08-01",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1907,6 +1900,26 @@
         {
           "lat": 54.24119048641627,
           "lon": 17.910073879737073
+        },
+        {
+          "lat": 53.41580928313518,
+          "lon": 19.317814565222317
+        },
+        {
+          "lat": 51.660368707655785,
+          "lon": 20.63647702456009
+        },
+        {
+          "lat": 50.03643776361352,
+          "lon": 17.279217671086947
+        },
+        {
+          "lat": 49.71812231995658,
+          "lon": 19.534583496404597
+        },
+        {
+          "lat": 52.69267970875737,
+          "lon": 18.16814452704802
         }
       ]
     },
@@ -1937,8 +1950,8 @@
       "label": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
+      "last_seen": "2026-08-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2000,6 +2013,26 @@
         {
           "lat": 33.86002521248535,
           "lon": 37.36008205893684
+        },
+        {
+          "lat": 34.403514002893004,
+          "lon": 36.85739747819197
+        },
+        {
+          "lat": 32.25765817839598,
+          "lon": 32.7895418914127
+        },
+        {
+          "lat": 30.25792685471427,
+          "lon": 31.681167431019983
+        },
+        {
+          "lat": 28.742731940523427,
+          "lon": 36.779051273229776
+        },
+        {
+          "lat": 34.1637898035496,
+          "lon": 32.415439378019755
         }
       ]
     },
@@ -2014,8 +2047,8 @@
       "label": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
+      "last_seen": "2026-08-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2077,8 +2110,76 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
+        },
+        {
+          "lat": 37.898961882942935,
+          "lon": -2.7507253443274475
+        },
+        {
+          "lat": 42.983431754790935,
+          "lon": -2.4375869622108497
+        },
+        {
+          "lat": 39.345744290164966,
+          "lon": -1.3568267949788897
+        },
+        {
+          "lat": 42.20270805756893,
+          "lon": -3.3049837850776926
+        },
+        {
+          "lat": 38.46898548075941,
+          "lon": -0.9975888171260219
         }
       ]
+    },
+    {
+      "id": "storm-schweiz",
+      "type": "storm",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "label": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-spanien",
+      "type": "storm",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Ansturm auf Exklave: Was Ceuta für die EU bedeutet",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-italien",
+      "type": "storm",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }

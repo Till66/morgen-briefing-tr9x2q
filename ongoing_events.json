@@ -11,7 +11,7 @@
       "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-27",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -113,26 +113,6 @@
         {
           "lat": 50.968751275374494,
           "lon": 28.286465265401283
-        },
-        {
-          "lat": 50.861541474141305,
-          "lon": 31.485397862162767
-        },
-        {
-          "lat": 46.485769954791465,
-          "lon": 33.08764902901362
-        },
-        {
-          "lat": 47.02686870557951,
-          "lon": 29.528379656742416
-        },
-        {
-          "lat": 48.797829863969426,
-          "lon": 29.71787996724478
-        },
-        {
-          "lat": 50.09119360074731,
-          "lon": 29.40763444534029
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
@@ -145,9 +125,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -352,7 +332,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
     },
     {
       "id": "wildfire-spanien",
@@ -366,7 +346,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -378,10 +358,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
-      "url": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html",
+      "label": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -599,7 +579,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-28",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -721,26 +701,6 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
-        },
-        {
-          "lat": 30.42818316234245,
-          "lon": 54.62271356712625
-        },
-        {
-          "lat": 32.03191824177336,
-          "lon": 51.766116605775
-        },
-        {
-          "lat": 35.262294281225834,
-          "lon": 50.93838971152399
-        },
-        {
-          "lat": 30.246050697000825,
-          "lon": 55.09211794381312
-        },
-        {
-          "lat": 33.7522461168195,
-          "lon": 52.63693288471479
         }
       ]
     },
@@ -752,11 +712,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
+      "label": "Mindestens neun Tote und viele Verletzte bei russischem Angriff auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-29",
-      "intensity": 6,
+      "last_seen": "2026-08-01",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -918,6 +878,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -933,7 +913,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1022,7 +1002,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-29",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1038,7 +1018,7 @@
       "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-07-30",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1050,11 +1030,11 @@
         "lat": 51.9194,
         "lon": 19.1451
       },
-      "label": "Russische Rakete über Polen abgestürzt?",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html",
+      "label": "Rakete in Polens Luftraum alarmiert NATO",
+      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "intensity": 3,
+      "last_seen": "2026-08-01",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1156,6 +1136,26 @@
         {
           "lat": 54.24119048641627,
           "lon": 17.910073879737073
+        },
+        {
+          "lat": 53.41580928313518,
+          "lon": 19.317814565222317
+        },
+        {
+          "lat": 51.660368707655785,
+          "lon": 20.63647702456009
+        },
+        {
+          "lat": 50.03643776361352,
+          "lon": 17.279217671086947
+        },
+        {
+          "lat": 49.71812231995658,
+          "lon": 19.534583496404597
+        },
+        {
+          "lat": 52.69267970875737,
+          "lon": 18.16814452704802
         }
       ]
     },
@@ -1186,8 +1186,8 @@
       "label": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
+      "last_seen": "2026-08-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1249,6 +1249,26 @@
         {
           "lat": 33.86002521248535,
           "lon": 37.36008205893684
+        },
+        {
+          "lat": 34.403514002893004,
+          "lon": 36.85739747819197
+        },
+        {
+          "lat": 32.25765817839598,
+          "lon": 32.7895418914127
+        },
+        {
+          "lat": 30.25792685471427,
+          "lon": 31.681167431019983
+        },
+        {
+          "lat": 28.742731940523427,
+          "lon": 36.779051273229776
+        },
+        {
+          "lat": 34.1637898035496,
+          "lon": 32.415439378019755
         }
       ]
     },
@@ -1263,8 +1283,8 @@
       "label": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
+      "last_seen": "2026-08-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1326,9 +1346,77 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
+        },
+        {
+          "lat": 37.898961882942935,
+          "lon": -2.7507253443274475
+        },
+        {
+          "lat": 42.983431754790935,
+          "lon": -2.4375869622108497
+        },
+        {
+          "lat": 39.345744290164966,
+          "lon": -1.3568267949788897
+        },
+        {
+          "lat": 42.20270805756893,
+          "lon": -3.3049837850776926
+        },
+        {
+          "lat": 38.46898548075941,
+          "lon": -0.9975888171260219
         }
       ]
+    },
+    {
+      "id": "storm-schweiz",
+      "type": "storm",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "label": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-spanien",
+      "type": "storm",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Ansturm auf Exklave: Was Ceuta für die EU bedeutet",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-italien",
+      "type": "storm",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-07-31"
+  "updated_at": "2026-08-01"
 }
