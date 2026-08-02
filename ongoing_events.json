@@ -8,10 +8,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine wirft Russland Angriff auf ziviles Schiff bei Odessa vor",
+      "label": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-27",
-      "intensity": 3,
+      "last_seen": "2026-08-02",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -113,9 +113,29 @@
         {
           "lat": 50.968751275374494,
           "lon": 28.286465265401283
+        },
+        {
+          "lat": 50.861541474141305,
+          "lon": 31.485397862162767
+        },
+        {
+          "lat": 46.485769954791465,
+          "lon": 33.08764902901362
+        },
+        {
+          "lat": 47.02686870557951,
+          "lon": 29.528379656742416
+        },
+        {
+          "lat": 48.797829863969426,
+          "lon": 29.71787996724478
+        },
+        {
+          "lat": 50.09119360074731,
+          "lon": 29.40763444534029
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html"
     },
     {
       "id": "conflict-russland",
@@ -127,7 +147,7 @@
       },
       "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -346,7 +366,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -362,7 +382,7 @@
       "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-01",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -544,26 +564,6 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        },
-        {
-          "lat": 35.49649690825155,
-          "lon": -96.95681869228424
-        },
-        {
-          "lat": 35.07679443040067,
-          "lon": -94.91941997164976
-        },
-        {
-          "lat": 36.02632213477868,
-          "lon": -95.97438396154435
-        },
-        {
-          "lat": 35.882513766151746,
-          "lon": -98.05890867269235
-        },
-        {
-          "lat": 37.420333201398456,
-          "lon": -94.39844462392013
         }
       ]
     },
@@ -575,11 +575,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
-      "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
+      "label": "Trump sagt Angriffe auf Iran vorerst ab",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-28",
-      "intensity": 4,
+      "last_seen": "2026-08-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -701,6 +701,26 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
+        },
+        {
+          "lat": 30.42818316234245,
+          "lon": 54.62271356712625
+        },
+        {
+          "lat": 32.03191824177336,
+          "lon": 51.766116605775
+        },
+        {
+          "lat": 35.262294281225834,
+          "lon": 50.93838971152399
+        },
+        {
+          "lat": 30.246050697000825,
+          "lon": 55.09211794381312
+        },
+        {
+          "lat": 33.7522461168195,
+          "lon": 52.63693288471479
         }
       ]
     },
@@ -712,11 +732,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Mindestens neun Tote und viele Verletzte bei russischem Angriff auf Kiew",
+      "label": "Mindestens zehn Tote und viele Verletzte bei russischem Angriff auf Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-01",
-      "intensity": 7,
+      "last_seen": "2026-08-02",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -898,6 +918,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -913,7 +953,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1033,8 +1073,8 @@
       "label": "Rakete in Polens Luftraum alarmiert NATO",
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-01",
-      "intensity": 4,
+      "last_seen": "2026-08-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1156,6 +1196,26 @@
         {
           "lat": 52.69267970875737,
           "lon": 18.16814452704802
+        },
+        {
+          "lat": 54.11211080223674,
+          "lon": 21.08038454167193
+        },
+        {
+          "lat": 54.017156353462525,
+          "lon": 17.71474674954527
+        },
+        {
+          "lat": 49.57935948683936,
+          "lon": 21.016383401006664
+        },
+        {
+          "lat": 50.369993869539584,
+          "lon": 21.148539774504734
+        },
+        {
+          "lat": 53.128736890422125,
+          "lon": 20.66714624063383
         }
       ]
     },
@@ -1186,8 +1246,8 @@
       "label": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-01",
-      "intensity": 2,
+      "last_seen": "2026-08-02",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1269,6 +1329,26 @@
         {
           "lat": 34.1637898035496,
           "lon": 32.415439378019755
+        },
+        {
+          "lat": 29.79438243976198,
+          "lon": 34.074377536243844
+        },
+        {
+          "lat": 30.638758753924343,
+          "lon": 33.35936387931215
+        },
+        {
+          "lat": 33.69562014127048,
+          "lon": 34.687647550911095
+        },
+        {
+          "lat": 33.77775393968396,
+          "lon": 37.455399242952794
+        },
+        {
+          "lat": 33.16856144989574,
+          "lon": 35.17283479143466
         }
       ]
     },
@@ -1284,7 +1364,7 @@
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
       "first_seen": "2026-07-31",
       "last_seen": "2026-08-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1346,26 +1426,6 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
-        },
-        {
-          "lat": 37.898961882942935,
-          "lon": -2.7507253443274475
-        },
-        {
-          "lat": 42.983431754790935,
-          "lon": -2.4375869622108497
-        },
-        {
-          "lat": 39.345744290164966,
-          "lon": -1.3568267949788897
-        },
-        {
-          "lat": 42.20270805756893,
-          "lon": -3.3049837850776926
-        },
-        {
-          "lat": 38.46898548075941,
-          "lon": -0.9975888171260219
         }
       ]
     },
@@ -1380,8 +1440,8 @@
       "label": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
       "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
-      "intensity": 1,
+      "last_seen": "2026-08-02",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1393,11 +1453,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Ansturm auf Exklave: Was Ceuta für die EU bedeutet",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html",
+      "label": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
-      "intensity": 1,
+      "last_seen": "2026-08-02",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1413,10 +1473,26 @@
       "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-01",
-      "intensity": 1,
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-griechenland",
+      "type": "wildfire",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
+      "url": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-08-01"
+  "updated_at": "2026-08-02"
 }
