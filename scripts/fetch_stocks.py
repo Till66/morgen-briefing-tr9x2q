@@ -21,22 +21,30 @@ from datetime import datetime, timezone
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
-# Yahoo Finance symbol -> display name. Feel free to add/remove tickers
-# here; the frontend renders whatever ends up in stocks.json automatically.
+# Yahoo Finance symbol -> (display name, asset class). Feel free to add/
+# remove tickers here; the frontend renders whatever ends up in stocks.json
+# automatically, grouped by "category" for the Markets tab.
 SYMBOLS = [
-    ("^GSPC", "S&P 500"),
-    ("^DJI", "Dow Jones"),
-    ("^IXIC", "Nasdaq Composite"),
-    ("^GDAXI", "DAX"),
-    ("^N225", "Nikkei 225"),
-    ("^HSI", "Hang Seng"),
-    ("AAPL", "Apple"),
-    ("MSFT", "Microsoft"),
-    ("GOOGL", "Alphabet (Google)"),
-    ("AMZN", "Amazon"),
-    ("NVDA", "Nvidia"),
-    ("TSLA", "Tesla"),
-    ("META", "Meta"),
+    ("^GSPC", "S&P 500", "index"),
+    ("^DJI", "Dow Jones", "index"),
+    ("^IXIC", "Nasdaq Composite", "index"),
+    ("^GDAXI", "DAX", "index"),
+    ("^N225", "Nikkei 225", "index"),
+    ("^HSI", "Hang Seng", "index"),
+    ("AAPL", "Apple", "stock"),
+    ("MSFT", "Microsoft", "stock"),
+    ("GOOGL", "Alphabet (Google)", "stock"),
+    ("AMZN", "Amazon", "stock"),
+    ("NVDA", "Nvidia", "stock"),
+    ("TSLA", "Tesla", "stock"),
+    ("META", "Meta", "stock"),
+    ("SPY", "SPDR S&P 500 ETF", "etf"),
+    ("QQQ", "Invesco QQQ (Nasdaq-100)", "etf"),
+    ("BTC-USD", "Bitcoin", "crypto"),
+    ("ETH-USD", "Ethereum", "crypto"),
+    ("GC=F", "Gold", "commodity"),
+    ("CL=F", "Rohöl (WTI)", "commodity"),
+    ("EURUSD=X", "EUR/USD", "fx"),
 ]
 
 
@@ -84,13 +92,14 @@ def fetch_symbol(symbol, days=30):
 
 def main():
     stocks = []
-    for symbol, name in SYMBOLS:
+    for symbol, name, category in SYMBOLS:
         q = fetch_symbol(symbol)
         if not q:
             continue
         stocks.append({
             "symbol": symbol.lstrip("^"),
             "name": name,
+            "category": category,
             "price": q["price"],
             "change_pct": q["change_pct"],
             "history": q["history"],
