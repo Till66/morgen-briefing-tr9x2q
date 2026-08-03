@@ -8,10 +8,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
+      "label": "Ukraine und Polen: Wie die Vergangenheit die Nachbarn spaltet",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-02",
-      "intensity": 4,
+      "last_seen": "2026-08-03",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -133,6 +133,46 @@
         {
           "lat": 50.09119360074731,
           "lon": 29.40763444534029
+        },
+        {
+          "lat": 47.186389953342584,
+          "lon": 28.654500290915955
+        },
+        {
+          "lat": 51.21051806768717,
+          "lon": 30.735362736225913
+        },
+        {
+          "lat": 48.61525604672224,
+          "lon": 30.36466560708747
+        },
+        {
+          "lat": 49.78690603899534,
+          "lon": 29.067354526165722
+        },
+        {
+          "lat": 49.281651488506384,
+          "lon": 33.470277128164255
+        },
+        {
+          "lat": 50.33379100194591,
+          "lon": 31.622575350495655
+        },
+        {
+          "lat": 46.879274023138514,
+          "lon": 32.70001870364696
+        },
+        {
+          "lat": 46.21897757121873,
+          "lon": 30.595152770319757
+        },
+        {
+          "lat": 47.13790055826793,
+          "lon": 33.32871206975093
+        },
+        {
+          "lat": 47.09769311496538,
+          "lon": 31.47165387252431
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html"
@@ -145,9 +185,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
+      "label": "Selenskyj bittet erneut um Lieferung von \"Patriot\"-Raketen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -352,7 +392,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-240.html"
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html"
     },
     {
       "id": "wildfire-spanien",
@@ -366,7 +406,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -382,7 +422,7 @@
       "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-01",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -544,26 +584,6 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
     },
@@ -578,8 +598,8 @@
       "label": "Trump sagt Angriffe auf Iran vorerst ab",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-02",
-      "intensity": 5,
+      "last_seen": "2026-08-03",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -721,6 +741,66 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
+        },
+        {
+          "lat": 34.014725501310366,
+          "lon": 53.587224353697906
+        },
+        {
+          "lat": 31.855449622586825,
+          "lon": 52.18681148699178
+        },
+        {
+          "lat": 30.93758572811915,
+          "lon": 51.728242291763486
+        },
+        {
+          "lat": 33.597548523016286,
+          "lon": 53.25045432155264
+        },
+        {
+          "lat": 33.89578415370227,
+          "lon": 55.43893438680073
+        },
+        {
+          "lat": 33.61046136593003,
+          "lon": 53.362900371738455
+        },
+        {
+          "lat": 32.22757508949332,
+          "lon": 52.97180688007079
+        },
+        {
+          "lat": 35.36947751881089,
+          "lon": 52.418770842109524
+        },
+        {
+          "lat": 34.87814921545998,
+          "lon": 56.30658008373962
+        },
+        {
+          "lat": 34.22179771185673,
+          "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -736,7 +816,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-02",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -918,26 +998,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -953,7 +1013,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1015,22 +1075,6 @@
       ]
     },
     {
-      "id": "wildfire-deutschland",
-      "type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Nächste Hitzephase für Deutschland kündigt sich an",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html",
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "wildfire-madrid",
       "type": "wildfire",
       "location": {
@@ -1074,7 +1118,7 @@
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-08-02",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1196,26 +1240,6 @@
         {
           "lat": 52.69267970875737,
           "lon": 18.16814452704802
-        },
-        {
-          "lat": 54.11211080223674,
-          "lon": 21.08038454167193
-        },
-        {
-          "lat": 54.017156353462525,
-          "lon": 17.71474674954527
-        },
-        {
-          "lat": 49.57935948683936,
-          "lon": 21.016383401006664
-        },
-        {
-          "lat": 50.369993869539584,
-          "lon": 21.148539774504734
-        },
-        {
-          "lat": 53.128736890422125,
-          "lon": 20.66714624063383
         }
       ]
     },
@@ -1247,7 +1271,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
       "last_seen": "2026-08-02",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1329,26 +1353,6 @@
         {
           "lat": 34.1637898035496,
           "lon": 32.415439378019755
-        },
-        {
-          "lat": 29.79438243976198,
-          "lon": 34.074377536243844
-        },
-        {
-          "lat": 30.638758753924343,
-          "lon": 33.35936387931215
-        },
-        {
-          "lat": 33.69562014127048,
-          "lon": 34.687647550911095
-        },
-        {
-          "lat": 33.77775393968396,
-          "lon": 37.455399242952794
-        },
-        {
-          "lat": 33.16856144989574,
-          "lon": 35.17283479143466
         }
       ]
     },
@@ -1364,7 +1368,7 @@
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
       "first_seen": "2026-07-31",
       "last_seen": "2026-08-01",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1406,26 +1410,6 @@
         {
           "lat": 42.55157622980026,
           "lon": -4.17985853543362
-        },
-        {
-          "lat": 39.38103142498819,
-          "lon": -2.859308076154745
-        },
-        {
-          "lat": 40.478036277966936,
-          "lon": -6.3641251464789095
-        },
-        {
-          "lat": 37.599171941469116,
-          "lon": -4.80544407344876
-        },
-        {
-          "lat": 40.522403851201275,
-          "lon": -1.8529621756791517
-        },
-        {
-          "lat": 42.88972345334041,
-          "lon": -2.779828748245218
         }
       ]
     },
@@ -1441,7 +1425,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-02",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1456,8 +1440,8 @@
       "label": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-02",
-      "intensity": 3,
+      "last_seen": "2026-08-03",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1485,14 +1469,91 @@
         "lat": 39.0742,
         "lon": 21.8243
       },
-      "label": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
-      "url": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html",
+      "label": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-02",
-      "intensity": 2,
+      "last_seen": "2026-08-03",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-odessa",
+      "type": "conflict",
+      "location": {
+        "name": "Odessa",
+        "lat": 46.4825,
+        "lon": 30.7233
+      },
+      "label": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 46.039610408450734,
+          "lon": 28.7101513985972
+        },
+        {
+          "lat": 44.03294887972773,
+          "lon": 31.955986232363962
+        },
+        {
+          "lat": 46.280951690654845,
+          "lon": 29.176513189135587
+        },
+        {
+          "lat": 46.83688834208865,
+          "lon": 29.108510522307363
+        },
+        {
+          "lat": 48.882061653705215,
+          "lon": 30.340868911197028
+        },
+        {
+          "lat": 47.97583338031856,
+          "lon": 33.1996179583187
+        },
+        {
+          "lat": 43.7157787574812,
+          "lon": 29.927747673215634
+        },
+        {
+          "lat": 45.80915016928843,
+          "lon": 28.515150466931203
+        },
+        {
+          "lat": 44.6523360240948,
+          "lon": 31.923201840230426
+        },
+        {
+          "lat": 48.5006436960162,
+          "lon": 29.76639298331921
+        },
+        {
+          "lat": 46.45345339535059,
+          "lon": 28.73879308118771
+        },
+        {
+          "lat": 45.56873176954832,
+          "lon": 29.177650941687435
+        },
+        {
+          "lat": 47.38852296355787,
+          "lon": 30.486131348637777
+        },
+        {
+          "lat": 46.02989102175166,
+          "lon": 29.599870756518413
+        },
+        {
+          "lat": 43.790195752547056,
+          "lon": 33.216098094519594
+        }
+      ]
     }
   ],
-  "updated_at": "2026-08-02"
+  "updated_at": "2026-08-03"
 }
