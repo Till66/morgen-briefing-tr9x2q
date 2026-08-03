@@ -2,522 +2,1122 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<title>Morgen-Briefing</title>
-<link rel="icon" href="data:,">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+<title>Morning Hub</title>
+
+<!-- Home-Screen / PWA -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Morning Hub">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#05070d">
+<meta name="color-scheme" content="dark">
+<link rel="apple-touch-icon" href="data:image/png;base64,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">
+<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUFChULFSUaNU0TJTgIEB0BAQIvVG0WLEMqS2QnRFkhOk8FCBQFChMFChQHBw83ZoZUa3oHDiA1YH6BlKCzwMn///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAo3dYKAAAAIHRSTlP+/////wX//////1SP3CD/////////AAAAAAAAAAAAANDFOpMAAAEzSURBVHjahVPbdoQgDMwkkACr6/b2/7/agFWhtToPCmROSCYDxRif00wnmKenBynGB/2LRyVcxCuDIl0i0tTtwvBrmGjuwxAzQU/pwoGE2UTMv3X3F8xYF2grybKHpOScF5WanQB4LtDr62MLpyLiH85JtVRSZYT0+fpJqI1lbS2cNHlqGBPCdrWXBEZDqyAp420ryA+ydyWGHfVIi8nerFcbWICRsqSjP2Vi/AJJz0h5zOAQV033Mqgs3ATo4W1o2KfA7yojxZUgHLf4kFSNOk7rouxquw6uqK7yrzfAB2blSFGFQVHN3OQyaSLj8ILPuAlgWTUVF5N9gujMFHhtpF3h8cKCwQ2eI61H3oCd2TNUo7C5obwchFMGVQWB0bbztavnwfYnmO4fzv3Tu328N8//G4dxBx2lfVYCAAAAAElFTkSuQmCC">
+
 <script src="https://cdn.jsdelivr.net/npm/globe.gl"></script>
 <style>
-  :root {
-    --bg: #0b0e14;
-    --panel: #131722;
-    --panel-border: #232838;
-    --text: #e6e8ee;
-    --text-dim: #8b93a7;
-    --accent: #5b9bd5;
-  }
-  * { box-sizing: border-box; }
-  html, body {
-    margin: 0; padding: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    -webkit-font-smoothing: antialiased;
-  }
-  header {
-    padding: 20px 20px 8px;
-    text-align: center;
-  }
-  header h1 {
-    margin: 0 0 4px;
-    font-size: 1.5rem;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-  }
-  header .meta {
-    color: var(--text-dim);
-    font-size: 0.85rem;
-  }
-  #globeViz {
-    width: 100%;
-    height: 46vh;
-    min-height: 320px;
-    max-height: 520px;
-    position: relative;
-    touch-action: none;
-  }
-  #globeHint {
-    text-align: center;
-    color: var(--text-dim);
-    font-size: 0.75rem;
-    margin: -6px 0 10px;
-  }
-  #legend {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px;
-    font-size: 0.72rem;
-    color: var(--text-dim);
-    margin: 0 0 14px;
-  }
-  #legend .item {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-  }
-  #legend .swatch {
-    width: 9px; height: 9px; border-radius: 50%;
-    display: inline-block;
-  }
-  .dome-marker {
-    width: 9px;
-    height: 9px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), var(--c, #5b9bd5) 42%, var(--c, #5b9bd5) 100%);
-    box-shadow: 0 1px 4px rgba(0,0,0,0.55), inset 0 -1px 3px rgba(0,0,0,0.35);
-    cursor: pointer;
-    transform: translate(-50%, -50%);
-  }
-  .city-marker {
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), #7ec8ff 45%, #2f7dc4 100%);
-    box-shadow: 0 0 5px rgba(126,200,255,0.8), 0 1px 3px rgba(0,0,0,0.5);
-    cursor: pointer;
-    transform: translate(-50%, -50%);
-  }
+:root {
+  --bg-0: #05070d;
+  --bg-1: #0a0e1a;
+  --glow-blue: #3ba0ff;
+  --glow-cyan: #5bd7ff;
+  --accent: #5b9bd5;
+  --accent-2: #7ec8ff;
+  --text: #f2f4f8;
+  --text-dim: #93a0b8;
+  --text-faint: #5c6885;
+  --glass: rgba(20, 26, 42, 0.55);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-hi: rgba(255, 255, 255, 0.06);
+  --up: #34d399;
+  --down: #ff5b5b;
+  --radius-lg: 28px;
+  --radius-md: 20px;
+  --radius-sm: 14px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body {
+  margin: 0; padding: 0; height: 100%;
+  background: var(--bg-0);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none;
+}
+body {
+  background:
+    radial-gradient(1200px 600px at 50% -10%, rgba(59,160,255,0.16), transparent 60%),
+    radial-gradient(800px 500px at 90% 10%, rgba(120,80,255,0.10), transparent 55%),
+    radial-gradient(900px 700px at 10% 90%, rgba(59,160,255,0.08), transparent 55%),
+    var(--bg-0);
+  min-height: 100vh;
+}
+::-webkit-scrollbar { display: none; }
+* { scrollbar-width: none; }
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; }
+#app {
+  max-width: 560px;
+  margin: 0 auto;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: calc(84px + env(safe-area-inset-bottom));
+}
+.page {
+  display: none;
+  padding: calc(18px + env(safe-area-inset-top)) 18px 24px;
+  animation: pageIn 0.38s var(--ease);
+}
+.page.active { display: block; }
+@keyframes pageIn {
+  from { opacity: 0; transform: translateY(10px) scale(0.99); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+.page-header h1 {
+  font-size: 1.7rem;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+.glass {
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  backdrop-filter: blur(24px) saturate(160%);
+  -webkit-backdrop-filter: blur(24px) saturate(160%);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.04);
+  position: relative;
+  overflow: hidden;
+}
+.glass::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(255,255,255,0.06), transparent 40%);
+  pointer-events: none;
+}
+.card {
+  padding: 20px;
+  margin-bottom: 14px;
+}
+.card-tap {
+  cursor: pointer;
+  transition: transform 0.18s var(--ease), background 0.18s var(--ease);
+}
+.card-tap:active { transform: scale(0.975); }
+.card-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+}
+.card-title .ic { font-size: 1rem; }
+.pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(91,155,213,0.16);
+  border: 1px solid rgba(91,155,213,0.35);
+  color: var(--accent-2);
+  padding: 9px 16px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+.pill-btn:active { transform: scale(0.96); background: rgba(91,155,213,0.28); }
+.hero {
+  padding: 28px 6px 22px;
+  text-align: center;
+}
+.hero .greeting {
+  font-size: 1.05rem;
+  color: var(--text-dim);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.hero .clock {
+  font-size: 4.6rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  background: linear-gradient(180deg, #ffffff, #c9d8ee 70%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 40px rgba(91,155,213,0.35);
+}
+.hero .clock .secs {
+  font-size: 2.1rem;
+  font-weight: 700;
+  opacity: 0.55;
+  margin-left: 4px;
+}
+.hero .date-row {
+  margin-top: 8px;
+  font-size: 1rem;
+  color: var(--text-dim);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.brief-card p {
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: var(--text);
+  margin: 0 0 14px;
+}
+.brief-card .card-title .dot-live {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--glow-cyan);
+  box-shadow: 0 0 8px var(--glow-cyan);
+  animation: livePulse 1.6s ease-in-out infinite;
+}
+@keyframes livePulse { 0%,100% { opacity: 0.5; transform: scale(0.85);} 50% { opacity: 1; transform: scale(1.15);} }
+.globe-card { padding: 0; }
+.globe-card .card-inner-pad { padding: 20px 20px 8px; }
+#globeHost {
+  width: 100%;
+  height: 240px;
+  position: relative;
+  touch-action: none;
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+  overflow: hidden;
+}
+#globeHost.fullscreen {
+  height: calc(100vh - 260px);
+  min-height: 380px;
+  border-radius: var(--radius-lg);
+}
+.globe-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 0.68rem;
+  color: var(--text-dim);
+  padding: 10px 6px 2px;
+}
+.globe-legend .item { display: flex; align-items: center; gap: 4px; }
+.globe-legend .swatch { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.globe-hint { text-align: center; font-size: 0.72rem; color: var(--text-faint); margin-top: 6px; }
+.dome-marker { width: 9px; height: 9px; border-radius: 50%;
+  background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), var(--c, #5b9bd5) 42%, var(--c, #5b9bd5) 100%);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.55), inset 0 -1px 3px rgba(0,0,0,0.35);
+  cursor: pointer; transform: translate(-50%, -50%); }
+.city-marker { width: 7px; height: 7px; border-radius: 50%;
+  background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), #7ec8ff 45%, #2f7dc4 100%);
+  box-shadow: 0 0 5px rgba(126,200,255,0.8), 0 1px 3px rgba(0,0,0,0.5);
+  cursor: pointer; transform: translate(-50%, -50%); }
+.crisis-marker, .marker-conflict-dot-wrap { position: relative; transform: translate(-50%, -50%); pointer-events: auto; }
+.marker-bigpulse { width: 14px; height: 14px; }
+.marker-bigpulse.marker-big { width: 22px; height: 22px; cursor: pointer; }
+.marker-bigpulse .core { position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, var(--c, #ff9500), transparent 70%); animation: bigPulse 2.4s ease-out infinite; will-change: transform, opacity; }
+.marker-bigpulse .shock { position: absolute; inset: 0; border-radius: 50%; border: 2px solid var(--c, #ff9500); animation: bigPulse 2.4s ease-out infinite; will-change: transform, opacity; }
+.marker-bigpulse .shock2 { animation-delay: 0.8s; }
+.marker-bigpulse .shock3 { animation-delay: 1.6s; }
+@keyframes bigPulse { 0% { transform: scale(1); opacity: 1; } 100% { transform: scale(4); opacity: 0; } }
+.marker-conflict-dot-wrap { width: 6px; height: 6px; }
+.marker-conflict-dot { position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, #ff8a80, #ff3b30); box-shadow: 0 0 6px rgba(255,59,48,0.9); animation: conflictPulse var(--dur, 1.2s) ease-in-out infinite; animation-delay: var(--delay, 0s); will-change: transform, opacity; }
+@keyframes conflictPulse { 0%, 100% { transform: scale(0.85); opacity: 0.7; } 50% { transform: scale(1.6); opacity: 1; } }
+.marker-storm { width: 16px; height: 16px; }
+.marker-storm.marker-big { width: 24px; height: 24px; cursor: pointer; }
+.marker-storm .disc { width: 100%; height: 100%; border-radius: 50%; background: conic-gradient(from 0deg, rgba(38,198,218,0.05), rgba(38,198,218,0.95), rgba(38,198,218,0.05)); animation-name: stormSpin; animation-timing-function: linear; animation-iteration-count: infinite; will-change: transform; }
+@keyframes stormSpin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.marker-wildfire { width: 16px; height: 16px; }
+.marker-wildfire.marker-big { width: 22px; height: 22px; cursor: pointer; }
+.marker-wildfire .halo { position: absolute; inset: 0; border-radius: 50%; background: rgba(255,87,34,0.35); animation: wildfirePulse 2.6s ease-in-out infinite; will-change: transform, opacity; }
+.marker-wildfire .flame { position: absolute; left: 50%; top: 55%; transform: translate(-50%, -50%); font-size: 12px; animation: flameFlicker 0.6s ease-in-out infinite alternate; will-change: transform; }
+.marker-wildfire .smoke { position: absolute; left: 50%; top: 0; width: 4px; height: 4px; border-radius: 50%; background: rgba(190,190,190,0.55); animation: smokeRise 2s ease-out infinite; will-change: transform, opacity; }
+@keyframes wildfirePulse { 0%, 100% { transform: scale(0.9); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
+@keyframes flameFlicker { from { transform: translate(-50%, -50%) scale(0.9) rotate(-4deg); } to { transform: translate(-50%, -50%) scale(1.15) rotate(4deg); } }
+@keyframes smokeRise { 0% { transform: translate(-50%, 0) scale(0.6); opacity: 0.6; } 100% { transform: translate(-50%, -16px) scale(1.5); opacity: 0; } }
+.marker-health { width: 14px; height: 14px; }
+.marker-health.marker-big { width: 20px; height: 20px; cursor: pointer; }
+.marker-health .ring { position: absolute; inset: 0; border-radius: 50%; border: 2px solid rgba(156,39,176,0.85); animation: healthRing 2.8s ease-in-out infinite; will-change: transform, opacity; }
+@keyframes healthRing { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(3.2); opacity: 0; } }
+.marker-protest { width: 12px; height: 12px; }
+.marker-protest.marker-big { width: 18px; height: 18px; cursor: pointer; }
+.marker-protest .ring { position: absolute; inset: 0; border-radius: 50%; background: rgba(255,122,0,0.4); animation: protestPulse 0.55s ease-in-out infinite; will-change: transform, opacity; }
+.marker-protest .dot { position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px; border-radius: 50%; background: #ff7a00; animation: protestBlink 0.55s ease-in-out infinite; will-change: opacity; }
+@keyframes protestPulse { 0%, 100% { transform: scale(0.8); opacity: 0.5; } 50% { transform: scale(1.5); opacity: 0.9; } }
+@keyframes protestBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+.marker-outage { width: 14px; height: 14px; }
+.marker-outage.marker-big { width: 20px; height: 20px; cursor: pointer; }
+.marker-outage .ring { position: absolute; inset: 0; border-radius: 50%; border: 2px solid rgba(255,235,59,0.75); animation: outageRing 2.4s ease-out infinite; will-change: transform, opacity; }
+.marker-outage .bolt { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-size: 10px; animation: boltFlash 1.6s steps(1) infinite; will-change: opacity; }
+@keyframes outageRing { 0% { transform: scale(0.6); opacity: 0.8; } 100% { transform: scale(2.6); opacity: 0; } }
+@keyframes boltFlash { 0%, 100% { opacity: 0; } 8%, 18% { opacity: 1; } 22%, 100% { opacity: 0; } }
+.marker-transport { width: 14px; height: 14px; }
+.marker-transport.marker-big { width: 18px; height: 18px; cursor: pointer; }
+.marker-transport .dot { position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px; border-radius: 50%; background: #78909c; }
+.marker-transport .orbit { position: absolute; inset: 0; border-radius: 50%; border: 1.5px dashed rgba(120,144,156,0.85); animation: transportOrbit 3s linear infinite; will-change: transform; }
+@keyframes transportOrbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.marker-political { width: 12px; height: 12px; }
+.marker-political.marker-big { width: 16px; height: 16px; cursor: pointer; }
+.marker-political .ring { position: absolute; inset: 0; border-radius: 50%; border: 2px solid rgba(30,136,229,0.75); animation: politicalRing 3.6s ease-in-out infinite; will-change: transform, opacity; }
+@keyframes politicalRing { 0%, 100% { transform: scale(0.85); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
+.marker-celebration { width: 16px; height: 16px; }
+.marker-celebration.marker-big { width: 22px; height: 22px; cursor: pointer; }
+.marker-celebration .core { position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(255,215,0,0.95), rgba(255,215,0,0.3) 70%, transparent 100%); animation: celebrationPulse 2.2s ease-in-out infinite; will-change: transform, opacity; }
+.marker-celebration .spark { position: absolute; width: 3px; height: 3px; border-radius: 50%; background: #fff6c8; top: 50%; left: 50%; margin: -1.5px 0 0 -1.5px; animation: sparkOrbit 2.4s linear infinite; will-change: transform; }
+.marker-celebration .spark2 { animation-delay: -0.8s; }
+.marker-celebration .spark3 { animation-delay: -1.6s; }
+@keyframes celebrationPulse { 0%, 100% { transform: scale(0.9); opacity: 0.7; } 50% { transform: scale(1.25); opacity: 1; } }
+@keyframes sparkOrbit { from { transform: rotate(0deg) translateX(9px) rotate(0deg); } to { transform: rotate(360deg) translateX(9px) rotate(-360deg); } }
+.story-card { padding: 0; }
+.story-media {
+  height: 150px;
+  background: linear-gradient(135deg, rgba(91,155,213,0.35), rgba(20,26,42,0.6));
+  display: flex; align-items: flex-end; padding: 14px 18px;
+  position: relative;
+}
+.story-media .cat-badge {
+  position: absolute; top: 14px; left: 18px;
+  background: rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.15);
+  padding: 4px 10px; border-radius: 999px; font-size: 0.68rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.04em;
+}
+.story-body { padding: 16px 20px 20px; }
+.story-body .title { font-size: 1.15rem; font-weight: 700; line-height: 1.3; margin: 0 0 8px; }
+.story-body .summary { font-size: 0.9rem; color: var(--text-dim); line-height: 1.45; margin: 0 0 14px; }
+.row-list .row-item {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--glass-border);
+}
+.row-list .row-item:last-child { border-bottom: none; }
+.row-item .left { display: flex; flex-direction: column; }
+.row-item .sym { font-weight: 700; font-size: 0.92rem; }
+.row-item .nm { font-size: 0.72rem; color: var(--text-faint); }
+.row-item .right { text-align: right; }
+.row-item .price { font-weight: 650; font-size: 0.92rem; font-variant-numeric: tabular-nums; }
+.row-item .chg { font-size: 0.76rem; font-weight: 650; }
+.chg.up { color: var(--up); }
+.chg.down { color: var(--down); }
+.weather-row { display: flex; align-items: center; justify-content: space-between; }
+.weather-temp { font-size: 2.6rem; font-weight: 750; letter-spacing: -0.02em; }
+.weather-cond { color: var(--text-dim); font-size: 0.88rem; margin-top: 2px; }
+.weather-icon { font-size: 2.8rem; filter: drop-shadow(0 0 12px rgba(91,155,213,0.5)); }
+.weather-stats { display: flex; gap: 18px; margin-top: 14px; }
+.weather-stats .stat { flex: 1; text-align: center; background: var(--glass-hi); border-radius: var(--radius-sm); padding: 10px 6px; }
+.weather-stats .stat .v { font-weight: 700; font-size: 0.95rem; }
+.weather-stats .stat .k { font-size: 0.65rem; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
+.email-summary { display: flex; align-items: center; gap: 14px; }
+.email-badge { width: 52px; height: 52px; border-radius: 16px; background: rgba(91,155,213,0.18); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; }
+.email-counts b { font-size: 1.3rem; }
+.email-counts .imp { color: #ffb454; }
+.live-now-row { display: flex; align-items: center; gap: 12px; }
+.live-dot { width: 10px; height: 10px; border-radius: 50%; background: #ff4b4b; box-shadow: 0 0 10px #ff4b4b; animation: livePulse 1.2s ease-in-out infinite; flex-shrink: 0; }
+.live-empty { color: var(--text-faint); font-size: 0.88rem; text-align: center; padding: 6px 0; }
+.spark { display: block; }
+.chip-row { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; margin-bottom: 16px; }
+.chip-row::-webkit-scrollbar { display: none; }
+.chip {
+  flex-shrink: 0; padding: 9px 15px; border-radius: 999px; font-size: 0.83rem; font-weight: 600;
+  background: var(--glass); border: 1px solid var(--glass-border); color: var(--text-dim);
+  cursor: pointer; transition: all 0.15s ease;
+}
+.chip.active { background: rgba(91,155,213,0.22); border-color: rgba(91,155,213,0.5); color: var(--accent-2); }
+.news-card { padding: 16px 18px; }
+.news-card .title { font-weight: 650; font-size: 0.98rem; line-height: 1.35; margin-bottom: 6px; }
+.news-card .summary { font-size: 0.85rem; color: var(--text-dim); line-height: 1.4; margin-bottom: 8px; }
+.news-card .footer { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--text-faint); }
+.news-card .footer .loc { color: var(--accent-2); }
+.status-empty { text-align: center; color: var(--text-faint); padding: 40px 16px; font-size: 0.9rem; }
+.market-group-title {
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;
+  color: var(--text-faint); margin: 20px 4px 8px;
+}
+.market-group-title:first-child { margin-top: 4px; }
+.settings-row { display: flex; align-items: center; justify-content: space-between; padding: 13px 0; border-bottom: 1px solid var(--glass-border); }
+.settings-row:last-child { border-bottom: none; }
+.settings-row .label { font-size: 0.95rem; font-weight: 550; }
+.settings-row .sub { font-size: 0.72rem; color: var(--text-faint); margin-top: 2px; }
+.switch { position: relative; width: 48px; height: 28px; border-radius: 999px; background: rgba(255,255,255,0.12); cursor: pointer; transition: background 0.2s ease; flex-shrink: 0; }
+.switch.on { background: linear-gradient(135deg, #3ba0ff, #5b9bd5); }
+.switch .knob { position: absolute; top: 3px; left: 3px; width: 22px; height: 22px; border-radius: 50%; background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.3); transition: transform 0.2s var(--ease); }
+.switch.on .knob { transform: translateX(20px); }
+.link-row { display: flex; align-items: center; justify-content: space-between; padding: 13px 0; color: var(--accent-2); font-size: 0.9rem; font-weight: 600; border-bottom: 1px solid var(--glass-border); }
+.link-row:last-child { border-bottom: none; }
+.app-meta { text-align: center; color: var(--text-faint); font-size: 0.75rem; margin-top: 22px; line-height: 1.6; }
+.tabbar {
+  position: fixed; left: 0; right: 0; bottom: 0;
+  display: flex;
+  padding: 8px 10px calc(10px + env(safe-area-inset-bottom));
+  background: rgba(8, 11, 20, 0.72);
+  backdrop-filter: blur(28px) saturate(160%);
+  -webkit-backdrop-filter: blur(28px) saturate(160%);
+  border-top: 1px solid var(--glass-border);
+  max-width: 560px; margin: 0 auto; left: 50%; transform: translateX(-50%);
+  width: 100%;
+  z-index: 50;
+}
+.tab-btn {
+  flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px;
+  padding: 6px 0 2px; background: none; border: none; color: var(--text-faint);
+  cursor: pointer; transition: color 0.2s ease, transform 0.15s ease;
+}
+.tab-btn .tab-ic { font-size: 1.4rem; transition: transform 0.2s var(--ease); }
+.tab-btn .tab-lbl { font-size: 0.62rem; font-weight: 600; }
+.tab-btn.active { color: var(--accent-2); }
+.tab-btn.active .tab-ic { transform: translateY(-2px) scale(1.08); }
+.tab-btn:active { transform: scale(0.92); }
+.sheet {
+  position: fixed; inset: 0;
+  background: var(--bg-0);
+  z-index: 200;
+  transform: translateY(100%);
+  transition: transform 0.42s var(--ease);
+  overflow-y: auto;
+  padding-bottom: 40px;
+}
+.sheet.open { transform: translateY(0); }
+.sheet-inner { max-width: 560px; margin: 0 auto; padding: calc(16px + env(safe-area-inset-top)) 18px 24px; }
+.sheet-topbar { display: flex; align-items: center; gap: 10px; margin-bottom: 18px; }
+.back-btn {
+  display: flex; align-items: center; gap: 4px;
+  background: var(--glass); border: 1px solid var(--glass-border);
+  padding: 8px 14px 8px 10px; border-radius: 999px;
+  font-size: 0.88rem; font-weight: 600; color: var(--accent-2);
+  cursor: pointer;
+}
+.sheet-title { font-size: 1.3rem; font-weight: 750; }
+.forecast-hours { display: flex; gap: 14px; overflow-x: auto; padding: 4px 2px 14px; }
+.forecast-hours .hr { flex-shrink: 0; text-align: center; font-size: 0.78rem; color: var(--text-dim); }
+.forecast-hours .hr .t { margin-top: 6px; font-weight: 650; color: var(--text); }
+.forecast-days .day-row { display: flex; align-items: center; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid var(--glass-border); font-size: 0.9rem; }
+.forecast-days .day-row:last-child { border-bottom: none; }
+.forecast-days .day-row .dname { width: 90px; color: var(--text-dim); }
+.forecast-days .day-row .drange { font-variant-numeric: tabular-nums; font-weight: 600; }
+.mail-item { display: flex; gap: 12px; padding: 13px 0; border-bottom: 1px solid var(--glass-border); }
+.mail-item:last-child { border-bottom: none; }
+.mail-item .av { width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, #3ba0ff, #7c5cff); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.85rem; flex-shrink: 0; }
+.mail-item .mbody { flex: 1; min-width: 0; }
+.mail-item .mtop { display: flex; justify-content: space-between; gap: 8px; }
+.mail-item .from { font-weight: 650; font-size: 0.9rem; }
+.mail-item.unread .from { color: var(--text); }
+.mail-item .time { font-size: 0.72rem; color: var(--text-faint); flex-shrink: 0; }
+.mail-item .subj { font-size: 0.87rem; color: var(--text-dim); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mail-item .important-tag { display: inline-block; margin-top: 4px; font-size: 0.65rem; font-weight: 700; color: #ffb454; background: rgba(255,180,84,0.14); padding: 2px 7px; border-radius: 999px; }
+.mail-item.unread::before { content: ''; width: 7px; height: 7px; border-radius: 50%; background: var(--glow-cyan); margin-top: 6px; flex-shrink: 0; }
+.country-events .ev-row { display: flex; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--glass-border); align-items: flex-start; }
+.country-events .ev-row:last-child { border-bottom: none; }
+.country-events .ev-dot { width: 8px; height: 8px; border-radius: 50%; margin-top: 6px; flex-shrink: 0; }
+@media (max-width: 380px) {
+  .hero .clock { font-size: 3.6rem; }
+  .hero .clock .secs { font-size: 1.7rem; }
+}
+#cityPanelOverlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.55); z-index: 300;
+  opacity: 0; pointer-events: none; transition: opacity 0.2s ease;
+}
+#cityPanelOverlay.open { opacity: 1; pointer-events: auto; }
+#cityPanel {
+  position: fixed; top: 0; right: 0; width: 360px; max-width: 90vw; height: 100vh;
+  background: var(--bg-1); border-left: 1px solid var(--glass-border);
+  box-shadow: -8px 0 32px rgba(0,0,0,0.5); z-index: 301; overflow-y: auto;
+  padding: calc(20px + env(safe-area-inset-top)) 20px 40px;
+  transform: translateX(100%); transition: transform 0.3s var(--ease);
+}
+#cityPanel.open { transform: translateX(0); }
+#cityPanel .closeBtn {
+  background: var(--glass); border: 1px solid var(--glass-border); color: var(--text);
+  border-radius: 999px; padding: 7px 12px; cursor: pointer; float: right; font-size: 0.82rem;
+}
+#cityPanel h2 { margin: 0 0 2px; font-size: 1.3rem; clear: both; }
+#cityPanel .subtitle { color: var(--text-dim); font-size: 0.85rem; margin-bottom: 18px; }
+#cityPanel .section { margin-bottom: 18px; }
+#cityPanel .section h3 { font-size: 0.82rem; margin: 0 0 8px; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em; }
+#cityPanel .row { display: flex; justify-content: space-between; font-size: 0.87rem; padding: 7px 0; border-bottom: 1px solid var(--glass-border); gap: 10px; }
+#cityPanel .row .k { color: var(--text-faint); }
+#cityPanel .row .v { text-align: right; }
+#cityPanel .known-for { font-size: 0.87rem; line-height: 1.4; color: var(--text); }
 
-  /* --- Animated event/crisis markers ---------------------------------- */
-  /* All of these render via globe.gl's htmlElementsData layer, which is a
-     DOM overlay positioned above the WebGL canvas - so they always sit on
-     top of the globe render itself, as required. */
-  .crisis-marker, .marker-conflict-dot-wrap {
-    position: relative;
-    transform: translate(-50%, -50%);
-    pointer-events: auto;
-  }
-
-  /* Naturkatastrophen & Blockade: one big circle expanding from inside to
-     outside, fading as it grows. Intense events add extra "shockwave" rings. */
-  .marker-bigpulse { width: 14px; height: 14px; }
-  .marker-bigpulse.marker-big { width: 22px; height: 22px; cursor: pointer; }
-  .marker-bigpulse .core {
-    position: absolute; inset: 0; border-radius: 50%;
-    background: radial-gradient(circle, var(--c, #ff9500), transparent 70%);
-    animation: bigPulse 2.4s ease-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-bigpulse .shock {
-    position: absolute; inset: 0; border-radius: 50%;
-    border: 2px solid var(--c, #ff9500);
-    animation: bigPulse 2.4s ease-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-bigpulse .shock2 { animation-delay: 0.8s; }
-  .marker-bigpulse .shock3 { animation-delay: 1.6s; }
-  @keyframes bigPulse { 0% { transform: scale(1); opacity: 1; } 100% { transform: scale(4); opacity: 0; } }
-
-  /* Krieg/Konflikte: many small overlapping red circles, each pulsing at a
-     slightly different speed so the region reads as "unruhig und aktiv".
-     IMPORTANT: the pulse animation lives on an INNER child (.marker-conflict-dot),
-     never on the top-level element globe.gl positions directly - putting an
-     animated transform on that outer element made three-globe's per-frame
-     position update stomp the animation's transform, so it only ever "played"
-     once at creation and then visually froze. Every other marker type already
-     used this wrapper/inner split; conflict dots now match that pattern. */
-  .marker-conflict-dot-wrap { width: 6px; height: 6px; }
-  .marker-conflict-dot {
-    position: absolute; inset: 0; border-radius: 50%;
-    background: radial-gradient(circle, #ff8a80, #ff3b30);
-    box-shadow: 0 0 6px rgba(255,59,48,0.9);
-    animation: conflictPulse var(--dur, 1.2s) ease-in-out infinite;
-    animation-delay: var(--delay, 0s);
-    will-change: transform, opacity;
-  }
-  @keyframes conflictPulse { 0%, 100% { transform: scale(0.85); opacity: 0.7; } 50% { transform: scale(1.6); opacity: 1; } }
-
-  /* Unwetter: rotating "storm eye" disc, spin speed scales with intensity. */
-  .marker-storm { width: 16px; height: 16px; }
-  .marker-storm.marker-big { width: 24px; height: 24px; cursor: pointer; }
-  .marker-storm .disc {
-    width: 100%; height: 100%; border-radius: 50%;
-    background: conic-gradient(from 0deg, rgba(38,198,218,0.05), rgba(38,198,218,0.95), rgba(38,198,218,0.05));
-    animation-name: stormSpin; animation-timing-function: linear; animation-iteration-count: infinite;
-    will-change: transform;
-  }
-  @keyframes stormSpin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
-  /* Waldbrand: flickering flame with rising smoke over a pulsing orange halo. */
-  .marker-wildfire { width: 16px; height: 16px; }
-  .marker-wildfire.marker-big { width: 22px; height: 22px; cursor: pointer; }
-  .marker-wildfire .halo {
-    position: absolute; inset: 0; border-radius: 50%;
-    background: rgba(255,87,34,0.35);
-    animation: wildfirePulse 2.6s ease-in-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-wildfire .flame {
-    position: absolute; left: 50%; top: 55%; transform: translate(-50%, -50%);
-    font-size: 12px; animation: flameFlicker 0.6s ease-in-out infinite alternate;
-    will-change: transform;
-  }
-  .marker-wildfire .smoke {
-    position: absolute; left: 50%; top: 0; width: 4px; height: 4px; border-radius: 50%;
-    background: rgba(190,190,190,0.55); animation: smokeRise 2s ease-out infinite;
-    will-change: transform, opacity;
-  }
-  @keyframes wildfirePulse { 0%, 100% { transform: scale(0.9); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
-  @keyframes flameFlicker { from { transform: translate(-50%, -50%) scale(0.9) rotate(-4deg); } to { transform: translate(-50%, -50%) scale(1.15) rotate(4deg); } }
-  @keyframes smokeRise { 0% { transform: translate(-50%, 0) scale(0.6); opacity: 0.6; } 100% { transform: translate(-50%, -16px) scale(1.5); opacity: 0; } }
-
-  /* Gesundheitswarnung: calm violet ring expanding evenly, no flashing. */
-  .marker-health { width: 14px; height: 14px; }
-  .marker-health.marker-big { width: 20px; height: 20px; cursor: pointer; }
-  .marker-health .ring {
-    position: absolute; inset: 0; border-radius: 50%;
-    border: 2px solid rgba(156,39,176,0.85);
-    animation: healthRing 2.8s ease-in-out infinite;
-    will-change: transform, opacity;
-  }
-  @keyframes healthRing { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(3.2); opacity: 0; } }
-
-  /* Proteste/Unruhen: fast pulsing orange ring with a lightly blinking center. */
-  .marker-protest { width: 12px; height: 12px; }
-  .marker-protest.marker-big { width: 18px; height: 18px; cursor: pointer; }
-  .marker-protest .ring {
-    position: absolute; inset: 0; border-radius: 50%;
-    background: rgba(255,122,0,0.4);
-    animation: protestPulse 0.55s ease-in-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-protest .dot {
-    position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px;
-    border-radius: 50%; background: #ff7a00;
-    animation: protestBlink 0.55s ease-in-out infinite;
-    will-change: opacity;
-  }
-  @keyframes protestPulse { 0%, 100% { transform: scale(0.8); opacity: 0.5; } 50% { transform: scale(1.5); opacity: 0.9; } }
-  @keyframes protestBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-
-  /* Strom-/Internetausfälle: lightning bolt flash with a slow outward ring. */
-  .marker-outage { width: 14px; height: 14px; }
-  .marker-outage.marker-big { width: 20px; height: 20px; cursor: pointer; }
-  .marker-outage .ring {
-    position: absolute; inset: 0; border-radius: 50%;
-    border: 2px solid rgba(255,235,59,0.75);
-    animation: outageRing 2.4s ease-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-outage .bolt {
-    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
-    font-size: 10px; animation: boltFlash 1.6s steps(1) infinite;
-    will-change: opacity;
-  }
-  @keyframes outageRing { 0% { transform: scale(0.6); opacity: 0.8; } 100% { transform: scale(2.6); opacity: 0; } }
-  @keyframes boltFlash { 0%, 100% { opacity: 0; } 8%, 18% { opacity: 1; } 22%, 100% { opacity: 0; } }
-
-  /* Große Verkehrsereignisse: a point with a slowly circling radar-style ring. */
-  .marker-transport { width: 14px; height: 14px; }
-  .marker-transport.marker-big { width: 18px; height: 18px; cursor: pointer; }
-  .marker-transport .dot {
-    position: absolute; left: 50%; top: 50%; width: 5px; height: 5px; margin: -2.5px 0 0 -2.5px;
-    border-radius: 50%; background: #78909c;
-  }
-  .marker-transport .orbit {
-    position: absolute; inset: 0; border-radius: 50%;
-    border: 1.5px dashed rgba(120,144,156,0.85);
-    animation: transportOrbit 3s linear infinite;
-    will-change: transform;
-  }
-  @keyframes transportOrbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
-  /* Politische Ereignisse: a calm, slow blue ring - no flashy effects. */
-  .marker-political { width: 12px; height: 12px; }
-  .marker-political.marker-big { width: 16px; height: 16px; cursor: pointer; }
-  .marker-political .ring {
-    position: absolute; inset: 0; border-radius: 50%;
-    border: 2px solid rgba(30,136,229,0.75);
-    animation: politicalRing 3.6s ease-in-out infinite;
-    will-change: transform, opacity;
-  }
-  @keyframes politicalRing { 0%, 100% { transform: scale(0.85); opacity: 0.5; } 50% { transform: scale(1.3); opacity: 0.9; } }
-
-  /* Großveranstaltungen: soft golden pulse with small lights orbiting around it. */
-  .marker-celebration { width: 16px; height: 16px; }
-  .marker-celebration.marker-big { width: 22px; height: 22px; cursor: pointer; }
-  .marker-celebration .core {
-    position: absolute; inset: 0; border-radius: 50%;
-    background: radial-gradient(circle, rgba(255,215,0,0.95), rgba(255,215,0,0.3) 70%, transparent 100%);
-    animation: celebrationPulse 2.2s ease-in-out infinite;
-    will-change: transform, opacity;
-  }
-  .marker-celebration .spark {
-    position: absolute; width: 3px; height: 3px; border-radius: 50%; background: #fff6c8;
-    top: 50%; left: 50%; margin: -1.5px 0 0 -1.5px;
-    animation: sparkOrbit 2.4s linear infinite;
-    will-change: transform;
-  }
-  .marker-celebration .spark2 { animation-delay: -0.8s; }
-  .marker-celebration .spark3 { animation-delay: -1.6s; }
-  @keyframes celebrationPulse { 0%, 100% { transform: scale(0.9); opacity: 0.7; } 50% { transform: scale(1.25); opacity: 1; } }
-  @keyframes sparkOrbit { from { transform: rotate(0deg) translateX(9px) rotate(0deg); } to { transform: rotate(360deg) translateX(9px) rotate(-360deg); } }
-
-  #cityPanelOverlay {
-    position: fixed; inset: 0;
-    background: rgba(0,0,0,0.5);
-    z-index: 900;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s ease;
-  }
-  #cityPanelOverlay.open { opacity: 1; pointer-events: auto; }
-  #cityPanel {
-    position: fixed;
-    top: 0; right: 0;
-    width: 340px;
-    max-width: 88vw;
-    height: 100vh;
-    background: var(--panel);
-    border-left: 1px solid var(--panel-border);
-    box-shadow: -8px 0 24px rgba(0,0,0,0.4);
-    z-index: 901;
-    overflow-y: auto;
-    padding: 20px 20px 40px;
-    transform: translateX(100%);
-    transition: transform 0.25s ease;
-  }
-  #cityPanel.open { transform: translateX(0); }
-  #cityPanel .closeBtn {
-    background: var(--panel);
-    border: 1px solid var(--panel-border);
-    color: var(--text);
-    border-radius: 8px;
-    padding: 6px 10px;
-    cursor: pointer;
-    float: right;
-    font-size: 0.85rem;
-  }
-  #cityPanel h2 {
-    margin: 0 0 2px;
-    font-size: 1.3rem;
-  }
-  #cityPanel .subtitle {
-    color: var(--text-dim);
-    font-size: 0.85rem;
-    margin-bottom: 18px;
-  }
-  #cityPanel .section {
-    margin-bottom: 18px;
-  }
-  #cityPanel .section h3 {
-    font-size: 0.9rem;
-    margin: 0 0 8px;
-    color: var(--text-dim);
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-  }
-  #cityPanel .row {
-    display: flex;
-    justify-content: space-between;
-    font-size: 0.88rem;
-    padding: 4px 0;
-    border-bottom: 1px solid var(--panel-border);
-    gap: 10px;
-  }
-  #cityPanel .row .k { color: var(--text-dim); }
-  #cityPanel .row .v { text-align: right; }
-  #cityPanel .known-for {
-    font-size: 0.88rem;
-    line-height: 1.4;
-    color: var(--text);
-  }
-
-  #stocksSection {
-    margin-top: 12px;
-  }
-  #stocksSection h2 {
-    font-size: 1.1rem;
-    margin: 0 0 12px;
-    padding-left: 2px;
-  }
-  .stocks-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 10px;
-  }
-  .stock-box {
-    background: var(--panel);
-    border: 1px solid var(--panel-border);
-    border-radius: 12px;
-    padding: 12px 14px;
-  }
-  .stock-box .symbol {
-    font-weight: 700;
-    font-size: 0.85rem;
-  }
-  .stock-box .name {
-    color: var(--text-dim);
-    font-size: 0.72rem;
-    margin-bottom: 6px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .stock-box .price {
-    font-size: 1.05rem;
-    font-weight: 600;
-  }
-  .stock-box .change {
-    font-size: 0.78rem;
-    font-weight: 600;
-  }
-  .stock-box .change.up { color: #34c759; }
-  .stock-box .change.down { color: #ff3b30; }
-  .stock-box svg { display: block; margin-top: 6px; }
-  main {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 8px 16px 60px;
-  }
-  nav.tabs {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-    margin-bottom: 24px;
-    position: sticky;
-    top: 0;
-    background: var(--bg);
-    padding: 10px 0;
-    z-index: 10;
-  }
-  nav.tabs button {
-    background: var(--panel);
-    border: 1px solid var(--panel-border);
-    color: var(--text);
-    padding: 8px 14px;
-    border-radius: 999px;
-    font-size: 0.85rem;
-    cursor: pointer;
-    transition: all 0.15s ease;
-    white-space: nowrap;
-  }
-  nav.tabs button.active {
-    border-color: var(--dot, var(--accent));
-    background: color-mix(in srgb, var(--dot, var(--accent)) 18%, var(--panel));
-  }
-  section.category {
-    margin-bottom: 34px;
-  }
-  section.category h2 {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 1.1rem;
-    margin: 0 0 12px;
-    padding-left: 2px;
-  }
-  section.category h2 .dot {
-    width: 10px; height: 10px; border-radius: 50%;
-    background: var(--dot, var(--accent));
-    flex-shrink: 0;
-  }
-  .card {
-    background: var(--panel);
-    border: 1px solid var(--panel-border);
-    border-radius: 12px;
-    padding: 14px 16px;
-    margin-bottom: 10px;
-    cursor: pointer;
-    transition: border-color 0.15s ease, transform 0.1s ease;
-  }
-  .card:hover { border-color: var(--dot, var(--accent)); }
-  .card:active { transform: scale(0.99); }
-  .card a { color: inherit; text-decoration: none; display: block; }
-  .card .title {
-    font-weight: 600;
-    font-size: 0.98rem;
-    margin-bottom: 4px;
-    line-height: 1.35;
-  }
-  .card .summary {
-    color: var(--text-dim);
-    font-size: 0.87rem;
-    line-height: 1.4;
-    margin-bottom: 8px;
-  }
-  .card .footer {
-    display: flex;
-    justify-content: space-between;
-    font-size: 0.75rem;
-    color: var(--text-dim);
-  }
-  .card .location {
-    color: var(--dot, var(--accent));
-  }
-  .empty {
-    color: var(--text-dim);
-    font-size: 0.85rem;
-    padding: 10px 2px;
-  }
-  .status {
-    text-align: center;
-    color: var(--text-dim);
-    padding: 40px 16px;
-    font-size: 0.9rem;
-  }
-  @media (max-width: 480px) {
-    header h1 { font-size: 1.25rem; }
-    #globeViz { height: 40vh; min-height: 260px; }
-  }
 </style>
 </head>
 <body>
+<div id="app">
 
-<header>
-  <h1>🌍 Morgen-Briefing</h1>
-  <div class="meta" id="generatedAt">Lade Daten…</div>
-</header>
+  <!-- ===================== HOME ===================== -->
+  <main class="page active" id="page-home">
+    <div class="hero">
+      <div class="greeting" id="greeting">Good Morning</div>
+      <div class="clock"><span id="clockMain">--:--</span><span class="secs" id="clockSecs">--</span></div>
+      <div class="date-row"><span id="dateStr">–</span><span>·</span><span>Berlin 🇩🇪</span></div>
+    </div>
 
-<div id="globeViz"></div>
-<div id="globeHint">Globus ziehen zum Drehen · Marker antippen für die Meldung</div>
-<div id="legend">
-  <span class="item"><span class="swatch" style="background:#ff3b30"></span>Konflikt / Krieg</span>
-  <span class="item"><span class="swatch" style="background:#ff9500"></span>Umweltkatastrophe</span>
-  <span class="item"><span class="swatch" style="background:#ffd60a"></span>Spannung</span>
-  <span class="item"><span class="swatch" style="background:#34c759"></span>Handelsroute</span>
-  <span class="item"><span class="swatch" style="background:#0a84ff"></span>Blockade</span>
-  <span class="item"><span class="swatch" style="background:#26c6da"></span>Unwetter</span>
-  <span class="item"><span class="swatch" style="background:#ff5722"></span>Waldbrand</span>
-  <span class="item"><span class="swatch" style="background:#9c27b0"></span>Gesundheitswarnung</span>
-  <span class="item"><span class="swatch" style="background:#ff7a00"></span>Proteste / Unruhen</span>
-  <span class="item"><span class="swatch" style="background:#ffeb3b"></span>Stromausfall</span>
-  <span class="item"><span class="swatch" style="background:#78909c"></span>Verkehrsereignis</span>
-  <span class="item"><span class="swatch" style="background:#1e88e5"></span>Politisches Ereignis</span>
-  <span class="item"><span class="swatch" style="background:#ffd700"></span>Großveranstaltung</span>
-  <span class="item"><span class="swatch" style="background:#7ec8ff"></span>Stadt (Profil antippen)</span>
+    <div class="glass card brief-card">
+      <div class="card-title"><span class="dot-live"></span> AI Morning Brief</div>
+      <p id="briefText">Dein Tagesüberblick wird geladen…</p>
+      <button class="pill-btn" onclick="openSheet('sheet-brief')">Mehr erfahren →</button>
+    </div>
+
+    <div class="glass card-tap globe-card" onclick="goTab('world')">
+      <div class="card-inner-pad">
+        <div class="card-title"><span class="ic">🌍</span> Weltgeschehen</div>
+      </div>
+      <div id="globeHostHome"></div>
+      <div class="card-inner-pad">
+        <div class="globe-hint">Antippen für den vollen interaktiven Globus →</div>
+      </div>
+    </div>
+
+    <div class="glass card-tap card" id="topStoryCard" onclick="goTab('news')">
+      <div class="card-title"><span class="ic">📰</span> Top Story</div>
+      <div class="story-media" id="topStoryMedia" style="border-radius: var(--radius-md); height:120px; margin-bottom:10px;">
+        <span class="cat-badge" id="topStoryCat">Top News</span>
+      </div>
+      <div class="title" id="topStoryTitle">Nachrichten werden geladen…</div>
+      <div class="summary" id="topStorySummary"></div>
+      <button class="pill-btn" onclick="event.stopPropagation(); goTab('news')">Alle Nachrichten ansehen →</button>
+    </div>
+
+    <div class="glass card-tap card" onclick="openSheet('sheet-weather')">
+      <div class="card-title"><span class="ic">🌤️</span> Wetter · Berlin</div>
+      <div class="weather-row">
+        <div>
+          <div class="weather-temp" id="wTemp">–°</div>
+          <div class="weather-cond" id="wCond">Lädt…</div>
+        </div>
+        <div class="weather-icon" id="wIcon">🌤️</div>
+      </div>
+      <div class="weather-stats">
+        <div class="stat"><div class="v" id="wRain">–%</div><div class="k">Regen</div></div>
+        <div class="stat"><div class="v" id="wWind">–</div><div class="k">Wind</div></div>
+        <div class="stat"><div class="v" id="wUv">–</div><div class="k">UV-Index</div></div>
+      </div>
+    </div>
+
+    <div class="glass card-tap card" onclick="openSheet('sheet-email')">
+      <div class="card-title"><span class="ic">✉️</span> E-Mails</div>
+      <div class="email-summary">
+        <div class="email-badge">📥</div>
+        <div class="email-counts">
+          <div><b id="mailUnread">–</b> ungelesene E-Mails</div>
+          <div class="imp"><b id="mailImportant">–</b> wichtig</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="glass card-tap card" onclick="goTab('markets')">
+      <div class="card-title"><span class="ic">📈</span> Finanzmärkte</div>
+      <div class="row-list" id="homeMarketsList"></div>
+      <button class="pill-btn" style="margin-top:10px" onclick="event.stopPropagation(); goTab('markets')">Alle Märkte →</button>
+    </div>
+
+    <div class="glass card" id="liveNowCard">
+      <div class="card-title"><span class="ic">🔴</span> Live Now</div>
+      <div id="liveNowBody"><div class="live-empty">Keine wichtigen Livestreams aktuell</div></div>
+    </div>
+  </main>
+
+  <!-- ===================== WORLD ===================== -->
+  <main class="page" id="page-world">
+    <div class="page-header"><h1>🌍 World</h1></div>
+    <div class="glass globe-card" style="padding:0;">
+      <div id="globeHostWorld"></div>
+    </div>
+    <div class="globe-legend" id="worldLegend"></div>
+    <div class="globe-hint">Globus ziehen zum Drehen · Marker & Länder antippen</div>
+  </main>
+
+  <!-- ===================== NEWS ===================== -->
+  <main class="page" id="page-news">
+    <div class="page-header"><h1>📰 News</h1></div>
+    <div class="chip-row" id="newsChips"></div>
+    <div id="newsContent"></div>
+  </main>
+
+  <!-- ===================== MARKETS ===================== -->
+  <main class="page" id="page-markets">
+    <div class="page-header"><h1>📈 Markets</h1></div>
+    <div id="marketsContent"></div>
+  </main>
+
+  <!-- ===================== SETTINGS ===================== -->
+  <main class="page" id="page-settings">
+    <div class="page-header"><h1>⚙️ Settings</h1></div>
+    <div class="glass card">
+      <div class="card-title">Interessen</div>
+      <div id="interestsList"></div>
+    </div>
+    <div class="glass card">
+      <div class="card-title">Über</div>
+      <div class="link-row" onclick="window.open('https://github.com/Till66/morgen-briefing-tr9x2q','_blank')"><span>GitHub-Repo</span><span>↗</span></div>
+      <div class="link-row" onclick="window.open('https://till66.github.io/morgen-briefing-tr9x2q/','_blank')"><span>Live-Seite</span><span>↗</span></div>
+    </div>
+    <div class="app-meta">Morning Hub · Version 2.0<br>Persönliches News-Dashboard</div>
+  </main>
+
+  <!-- ===================== TAB BAR ===================== -->
+  <nav class="tabbar">
+    <button class="tab-btn active" data-tab="home" onclick="goTab('home')"><span class="tab-ic">🏠</span><span class="tab-lbl">Home</span></button>
+    <button class="tab-btn" data-tab="world" onclick="goTab('world')"><span class="tab-ic">🌍</span><span class="tab-lbl">World</span></button>
+    <button class="tab-btn" data-tab="news" onclick="goTab('news')"><span class="tab-ic">📰</span><span class="tab-lbl">News</span></button>
+    <button class="tab-btn" data-tab="markets" onclick="goTab('markets')"><span class="tab-ic">📈</span><span class="tab-lbl">Markets</span></button>
+    <button class="tab-btn" data-tab="settings" onclick="goTab('settings')"><span class="tab-ic">⚙️</span><span class="tab-lbl">Settings</span></button>
+  </nav>
 </div>
 
-<main>
-  <nav class="tabs" id="tabs"></nav>
-  <div id="content"></div>
-
-  <div id="stocksSection">
-    <h2>📈 Aktienmärkte</h2>
-    <div class="stocks-grid" id="stocksGrid"></div>
+<!-- ===================== SHEETS (Detail-Seiten mit Zurück-Button) ===================== -->
+<div class="sheet" id="sheet-brief">
+  <div class="sheet-inner">
+    <div class="sheet-topbar"><button class="back-btn" onclick="closeSheet('sheet-brief')">← Zurück</button></div>
+    <div class="sheet-title" style="margin-bottom:14px;">AI Morning Brief</div>
+    <div class="glass card" id="briefFull"></div>
   </div>
-</main>
+</div>
 
-<div id="cityPanelOverlay"></div>
+<div class="sheet" id="sheet-weather">
+  <div class="sheet-inner">
+    <div class="sheet-topbar"><button class="back-btn" onclick="closeSheet('sheet-weather')">← Zurück</button></div>
+    <div class="sheet-title" style="margin-bottom:14px;">Wetter · Berlin</div>
+    <div class="glass card">
+      <div class="weather-row">
+        <div><div class="weather-temp" id="wTemp2">–°</div><div class="weather-cond" id="wCond2">Lädt…</div></div>
+        <div class="weather-icon" id="wIcon2">🌤️</div>
+      </div>
+      <div class="weather-stats">
+        <div class="stat"><div class="v" id="wRain2">–%</div><div class="k">Regen</div></div>
+        <div class="stat"><div class="v" id="wWind2">–</div><div class="k">Wind</div></div>
+        <div class="stat"><div class="v" id="wUv2">–</div><div class="k">UV-Index</div></div>
+      </div>
+    </div>
+    <div class="glass card">
+      <div class="card-title">Stundenprognose</div>
+      <div class="forecast-hours" id="forecastHours"></div>
+    </div>
+    <div class="glass card">
+      <div class="card-title">7 Tage</div>
+      <div class="forecast-days" id="forecastDays"></div>
+    </div>
+    <div class="glass card">
+      <div class="card-title">Sonne</div>
+      <div class="weather-stats" style="margin-top:0;">
+        <div class="stat"><div class="v" id="sunrise">–</div><div class="k">Aufgang</div></div>
+        <div class="stat"><div class="v" id="sunset">–</div><div class="k">Untergang</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sheet" id="sheet-email">
+  <div class="sheet-inner">
+    <div class="sheet-topbar"><button class="back-btn" onclick="closeSheet('sheet-email')">← Zurück</button></div>
+    <div class="sheet-title" style="margin-bottom:14px;">Posteingang</div>
+    <div class="chip-row" id="mailChips"></div>
+    <div class="glass card" id="mailList" style="padding:6px 18px;"></div>
+  </div>
+</div>
+
+<div class="sheet" id="sheet-country">
+  <div class="sheet-inner">
+    <div class="sheet-topbar"><button class="back-btn" onclick="closeSheet('sheet-country')">← Zurück</button></div>
+    <div class="sheet-title" id="countryTitle" style="margin-bottom:14px;">Land</div>
+    <div class="glass card country-events" id="countryEvents"></div>
+  </div>
+</div>
+
+<div id="cityPanelOverlay" class="sheet-overlay-legacy"></div>
 <div id="cityPanel"></div>
 
 <script>
-const CATEGORY_FALLBACK_COLOR = '#5b9bd5';
+/* =====================================================================
+   Morning Hub — App-Logik
+   Echte Daten: news.json, ongoing_events.json, stocks.json (bestehende
+   Python-Pipelines via GitHub Actions), Wetter via open-meteo.de.
+   Mock-Daten (API-ready strukturiert, siehe Kommentare): E-Mails, Live Now,
+   AI-Brief-Text. Diese Platzhalter sind bewusst so geformt, dass ein
+   späteres Ersetzen durch echte APIs (Mail-API, News-API, Kalender-API)
+   nur das jeweilige load*()-Fetch ersetzen muss - der Rest der App bleibt
+   unverändert.
+   ===================================================================== */
 
-// Static reference data for the 26 permanently-shown world cities. Not
-// tied to the daily news pipeline - population/area etc. are approximate
-// reference figures. Live weather + local time are fetched on click.
+const CATEGORY_FALLBACK_COLOR = '#5b9bd5';
+const EVENT_RING_COLORS = {
+  conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759', blockade: '#0a84ff',
+  storm: '#26c6da', wildfire: '#ff5722', health: '#9c27b0', protest: '#ff7a00', outage: '#ffeb3b',
+  transport: '#78909c', political: '#1e88e5', celebration: '#ffd700',
+};
+const BIGPULSE_TYPES = new Set(['disaster', 'blockade']);
+const SPECIAL_TYPES = new Set(['storm', 'wildfire', 'health', 'protest', 'outage', 'transport', 'political', 'celebration']);
+
+const NEWS_CATEGORIES_UI = [
+  { id: null, label: 'Top News' },
+  { id: 'deutschland', label: 'Deutschland' },
+  { id: 'europa', label: 'Europa' },
+  { id: 'welt', label: 'Welt' },
+  { id: 'wirtschaft', label: 'Wirtschaft' },
+  { id: 'ki', label: 'KI' },
+  { id: 'wissenschaft', label: 'Wissenschaft' },
+  { id: 'technologie', label: 'Technologie' },
+  { id: 'sport', label: 'Sport' },
+];
+
+const INTERESTS = [
+  { id: 'politik', label: 'Politik', sub: 'Wahlen, Regierung, internationale Beziehungen' },
+  { id: 'wirtschaft', label: 'Wirtschaft', sub: 'Märkte, Unternehmen, Konjunktur' },
+  { id: 'ki', label: 'KI', sub: 'Künstliche Intelligenz & Machine Learning' },
+  { id: 'sport', label: 'Sport', sub: 'Ergebnisse, Ligen, Turniere' },
+  { id: 'wissenschaft', label: 'Wissenschaft', sub: 'Forschung, Raumfahrt, Medizin' },
+  { id: 'technologie', label: 'Technologie', sub: 'Produkte, Startups, Gadgets' },
+];
+
+let appData = { news: null, crises: [], stocks: null };
+let currentTab = 'home';
+let globe = null;
+let globeHostEl = null;
+
+/* ---------------------------------------------------------------------
+   Navigation
+   --------------------------------------------------------------------- */
+function goTab(tab) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-' + tab).classList.add('active');
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+  currentTab = tab;
+  window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
+
+  if (tab === 'world') {
+    moveGlobeTo(document.getElementById('globeHostWorld'), true);
+  } else if (tab === 'home') {
+    moveGlobeTo(document.getElementById('globeHostHome'), false);
+  }
+}
+
+function openSheet(id) {
+  document.getElementById(id).classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeSheet(id) {
+  document.getElementById(id).classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+/* ---------------------------------------------------------------------
+   Live clock (updates every second, Europe/Berlin)
+   --------------------------------------------------------------------- */
+function tickClock() {
+  const now = new Date();
+  const parts = new Intl.DateTimeFormat('de-DE', {
+    timeZone: 'Europe/Berlin', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false,
+  }).formatToParts(now).reduce((acc, p) => { acc[p.type] = p.value; return acc; }, {});
+  document.getElementById('clockMain').textContent = `${parts.hour}:${parts.minute}`;
+  document.getElementById('clockSecs').textContent = parts.second;
+
+  const hourNum = parseInt(parts.hour, 10);
+  const greeting = hourNum < 5 ? 'Good Night' : hourNum < 12 ? 'Good Morning' : hourNum < 18 ? 'Good Afternoon' : 'Good Evening';
+  document.getElementById('greeting').textContent = greeting;
+
+  const dateStr = new Intl.DateTimeFormat('de-DE', {
+    timeZone: 'Europe/Berlin', weekday: 'long', day: '2-digit', month: 'long',
+  }).format(now);
+  document.getElementById('dateStr').textContent = dateStr;
+}
+setInterval(tickClock, 1000);
+tickClock();
+
+/* ---------------------------------------------------------------------
+   AI Morning Brief (mock text generation from real headline data - once
+   a real LLM-briefing API exists, replace generateBrief() with a fetch)
+   --------------------------------------------------------------------- */
+function generateBrief(articles, crises) {
+  const conflictCount = crises.filter(c => c.type === 'conflict').length;
+  const topArticles = (articles || []).slice(0, 3).map(a => a.title);
+  let text = '';
+  if (topArticles.length) {
+    text += `Die wichtigsten Themen heute: ${topArticles.join(' · ')}. `;
+  }
+  if (conflictCount > 0) {
+    text += `Weltweit bleiben ${conflictCount} Konfliktregionen aktiv, die die Lage in mehreren Regionen prägen. `;
+  }
+  text += 'Die Finanzmärkte und Wetterlage findest du unten im Überblick.';
+  return text;
+}
+
+/* ---------------------------------------------------------------------
+   News
+   --------------------------------------------------------------------- */
+async function loadNews() {
+  try {
+    const res = await fetch('news.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch (err) {
+    console.warn('news.json nicht ladbar:', err);
+    return null;
+  }
+}
+
+async function loadCrises() {
+  try {
+    const res = await fetch('ongoing_events.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    return data.crises || data || [];
+  } catch (err) {
+    return [];
+  }
+}
+
+function renderTopStory(articles) {
+  if (!articles || !articles.length) return;
+  const a = articles[0];
+  document.getElementById('topStoryTitle').textContent = a.title;
+  document.getElementById('topStorySummary').textContent = a.summary || '';
+  document.getElementById('topStoryCat').textContent = (a.category || 'Top News').toString().toUpperCase();
+  document.getElementById('topStoryCard').onclick = () => { goTab('news'); };
+}
+
+function renderNewsChips(activeId) {
+  const row = document.getElementById('newsChips');
+  row.innerHTML = '';
+  NEWS_CATEGORIES_UI.forEach(cat => {
+    const chip = document.createElement('button');
+    chip.className = 'chip' + (cat.id === activeId ? ' active' : '');
+    chip.textContent = cat.label;
+    chip.onclick = () => renderNewsList(cat.id);
+    row.appendChild(chip);
+  });
+}
+
+function renderNewsList(catId) {
+  renderNewsChips(catId);
+  const content = document.getElementById('newsContent');
+  content.innerHTML = '';
+  const articles = (appData.news && appData.news.articles) || [];
+  const filtered = catId ? articles.filter(a => a.category === catId) : articles;
+  if (!filtered.length) {
+    content.innerHTML = '<div class="status-empty">Keine Nachrichten in dieser Kategorie.</div>';
+    return;
+  }
+  filtered.forEach(a => {
+    const card = document.createElement('a');
+    card.className = 'glass news-card';
+    card.style.display = 'block';
+    card.style.marginBottom = '12px';
+    card.href = a.url || '#';
+    card.target = '_blank';
+    card.rel = 'noopener';
+    card.innerHTML = `
+      <div class="title">${a.title}</div>
+      <div class="summary">${a.summary || ''}</div>
+      <div class="footer">
+        <span>${a.source || ''}</span>
+        <span class="loc">${a.location && a.location.name ? '📍 ' + a.location.name : ''}</span>
+      </div>`;
+    content.appendChild(card);
+  });
+}
+
+/* ---------------------------------------------------------------------
+   Weather (real, open-meteo.de, Berlin — matches CITY_PROFILES coords)
+   --------------------------------------------------------------------- */
+const WEATHER_CODES = {
+  0: ['Klarer Himmel','☀️'], 1: ['Überwiegend klar','🌤️'], 2: ['Teilweise bewölkt','⛅'], 3: ['Bedeckt','☁️'],
+  45: ['Nebel','🌫️'], 48: ['Reifnebel','🌫️'], 51: ['Leichter Nieselregen','🌦️'], 53: ['Nieselregen','🌦️'],
+  55: ['Starker Nieselregen','🌧️'], 61: ['Leichter Regen','🌦️'], 63: ['Regen','🌧️'], 65: ['Starker Regen','🌧️'],
+  71: ['Leichter Schneefall','🌨️'], 73: ['Schneefall','❄️'], 75: ['Starker Schneefall','❄️'],
+  80: ['Regenschauer','🌦️'], 81: ['Regenschauer','🌧️'], 82: ['Heftige Regenschauer','⛈️'],
+  95: ['Gewitter','⛈️'], 96: ['Gewitter mit Hagel','⛈️'], 99: ['Schweres Gewitter','⛈️'],
+};
+
+async function loadWeather() {
+  const lat = 52.52, lon = 13.405;
+  try {
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}` +
+      `&current=temperature_2m,weathercode,windspeed_10m,uv_index,precipitation_probability` +
+      `&hourly=temperature_2m,weathercode,precipitation_probability` +
+      `&daily=weathercode,temperature_2m_max,temperature_2m_min,sunrise,sunset,uv_index_max` +
+      `&timezone=Europe%2FBerlin`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    renderWeather(data);
+  } catch (err) {
+    console.warn('Wetter konnte nicht geladen werden:', err);
+    document.getElementById('wCond').textContent = 'Nicht verfügbar';
+    document.getElementById('wCond2').textContent = 'Nicht verfügbar';
+  }
+}
+
+function renderWeather(data) {
+  const cur = data.current || {};
+  const code = cur.weathercode;
+  const [desc, icon] = WEATHER_CODES[code] || ['Unbekannt', '🌡️'];
+  const temp = Math.round(cur.temperature_2m);
+  const rain = cur.precipitation_probability != null ? cur.precipitation_probability : (data.hourly?.precipitation_probability?.[0] ?? 0);
+  const wind = Math.round(cur.windspeed_10m || 0);
+  const uv = data.daily?.uv_index_max?.[0] != null ? Math.round(data.daily.uv_index_max[0]) : (cur.uv_index != null ? Math.round(cur.uv_index) : '–');
+
+  [['wTemp',''],['wTemp2','2']].forEach(([id]) => {});
+  document.getElementById('wTemp').textContent = temp + '°';
+  document.getElementById('wTemp2').textContent = temp + '°';
+  document.getElementById('wCond').textContent = desc;
+  document.getElementById('wCond2').textContent = desc;
+  document.getElementById('wIcon').textContent = icon;
+  document.getElementById('wIcon2').textContent = icon;
+  document.getElementById('wRain').textContent = rain + '%';
+  document.getElementById('wRain2').textContent = rain + '%';
+  document.getElementById('wWind').textContent = wind + ' km/h';
+  document.getElementById('wWind2').textContent = wind + ' km/h';
+  document.getElementById('wUv').textContent = uv;
+  document.getElementById('wUv2').textContent = uv;
+
+  // Hourly (next 12h)
+  const hoursEl = document.getElementById('forecastHours');
+  if (hoursEl && data.hourly) {
+    hoursEl.innerHTML = '';
+    const nowIdx = data.hourly.time.findIndex(t => new Date(t) >= new Date());
+    const start = Math.max(0, nowIdx);
+    for (let i = start; i < Math.min(start + 12, data.hourly.time.length); i++) {
+      const t = new Date(data.hourly.time[i]);
+      const hLabel = t.toLocaleTimeString('de-DE', { hour: '2-digit', timeZone: 'Europe/Berlin' });
+      const [, hIcon] = WEATHER_CODES[data.hourly.weathercode[i]] || ['', '🌡️'];
+      const hTemp = Math.round(data.hourly.temperature_2m[i]);
+      const div = document.createElement('div');
+      div.className = 'hr';
+      div.innerHTML = `<div>${hLabel}</div><div style="font-size:1.2rem">${hIcon}</div><div class="t">${hTemp}°</div>`;
+      hoursEl.appendChild(div);
+    }
+  }
+
+  // 7 days
+  const daysEl = document.getElementById('forecastDays');
+  if (daysEl && data.daily) {
+    daysEl.innerHTML = '';
+    data.daily.time.forEach((dateStr, i) => {
+      const d = new Date(dateStr);
+      const label = i === 0 ? 'Heute' : d.toLocaleDateString('de-DE', { weekday: 'short', timeZone: 'Europe/Berlin' });
+      const [, dIcon] = WEATHER_CODES[data.daily.weathercode[i]] || ['', '🌡️'];
+      const max = Math.round(data.daily.temperature_2m_max[i]);
+      const min = Math.round(data.daily.temperature_2m_min[i]);
+      const row = document.createElement('div');
+      row.className = 'day-row';
+      row.innerHTML = `<div class="dname">${label}</div><div style="font-size:1.1rem">${dIcon}</div><div class="drange">${min}° – ${max}°</div>`;
+      daysEl.appendChild(row);
+    });
+    if (data.daily.sunrise?.[0]) {
+      document.getElementById('sunrise').textContent = new Date(data.daily.sunrise[0]).toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Berlin' });
+    }
+    if (data.daily.sunset?.[0]) {
+      document.getElementById('sunset').textContent = new Date(data.daily.sunset[0]).toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Berlin' });
+    }
+  }
+}
+
+/* ---------------------------------------------------------------------
+   E-Mail (MOCK — API-ready: replace loadMail() with a real Mail-API
+   fetch; renderMail()/mailList shape stays the same)
+   --------------------------------------------------------------------- */
+function mockMail() {
+  const now = Date.now();
+  return [
+    { from: 'Sarah Weber', initials: 'SW', subject: 'Q3 Review — Termin nächste Woche', time: '08:12', unread: true, important: true },
+    { from: 'GitHub', initials: 'GH', subject: 'Workflow "Update news daily" erfolgreich', time: '06:03', unread: true, important: false },
+    { from: 'Elevate Media', initials: 'EM', subject: 'Angebot Pricing — Rückmeldung ausstehend', time: 'Gestern', unread: true, important: true },
+    { from: 'Apple', initials: 'AP', subject: 'Deine Rechnung für App Store & iTunes', time: 'Gestern', unread: false, important: false },
+    { from: 'LinkedIn', initials: 'LI', subject: '12 neue Benachrichtigungen', time: 'Mo.', unread: true, important: false },
+    { from: 'Notion', initials: 'NO', subject: 'Wöchentlicher Workspace-Digest', time: 'Mo.', unread: false, important: false },
+  ];
+}
+function loadMail() { return mockMail(); }
+
+function renderMailSummary(mails) {
+  const unread = mails.filter(m => m.unread).length;
+  const important = mails.filter(m => m.important).length;
+  document.getElementById('mailUnread').textContent = unread;
+  document.getElementById('mailImportant').textContent = important;
+}
+
+function renderMailList(filter) {
+  const mails = loadMail();
+  const chips = document.getElementById('mailChips');
+  if (chips && !chips.dataset.built) {
+    chips.dataset.built = '1';
+    [['all','Alle'],['unread','Ungelesen'],['important','Wichtig']].forEach(([id, label]) => {
+      const c = document.createElement('button');
+      c.className = 'chip' + (id === 'all' ? ' active' : '');
+      c.textContent = label;
+      c.onclick = () => { chips.querySelectorAll('.chip').forEach(x => x.classList.remove('active')); c.classList.add('active'); renderMailList(id); };
+      chips.appendChild(c);
+    });
+  }
+  const list = document.getElementById('mailList');
+  let filtered = mails;
+  if (filter === 'unread') filtered = mails.filter(m => m.unread);
+  if (filter === 'important') filtered = mails.filter(m => m.important);
+  list.innerHTML = filtered.map(m => `
+    <div class="mail-item ${m.unread ? 'unread' : ''}">
+      <div class="av">${m.initials}</div>
+      <div class="mbody">
+        <div class="mtop"><span class="from">${m.from}</span><span class="time">${m.time}</span></div>
+        <div class="subj">${m.subject}</div>
+        ${m.important ? '<span class="important-tag">Wichtig</span>' : ''}
+      </div>
+    </div>`).join('') || '<div class="status-empty">Keine E-Mails</div>';
+}
+
+/* ---------------------------------------------------------------------
+   Markets (real via stocks.json + client-side sparkline)
+   --------------------------------------------------------------------- */
+function sparklineSvg(history, color) {
+  if (!history || history.length < 2) return '';
+  const w = 60, h = 24;
+  const min = Math.min(...history), max = Math.max(...history);
+  const range = (max - min) || 1;
+  const points = history.map((v, i) => {
+    const x = (i / (history.length - 1)) * w;
+    const y = h - ((v - min) / range) * h;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><polyline points="${points}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+
+async function loadStocks() {
+  try {
+    const res = await fetch('stocks.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch (err) {
+    console.warn('stocks.json nicht ladbar:', err);
+    return null;
+  }
+}
+
+function stockRowHtml(s) {
+  const up = s.change_pct >= 0;
+  const color = up ? '#34d399' : '#ff5b5b';
+  return `
+    <div class="row-item">
+      <div class="left"><span class="sym">${s.symbol}</span><span class="nm">${s.name}</span></div>
+      ${sparklineSvg(s.history, color)}
+      <div class="right"><div class="price">${Number(s.price).toLocaleString('de-DE', { maximumFractionDigits: 2 })}</div>
+      <div class="chg ${up ? 'up' : 'down'}">${up ? '▲' : '▼'} ${Math.abs(s.change_pct).toFixed(2)}%</div></div>
+    </div>`;
+}
+
+function renderHomeMarkets(stocks) {
+  const list = document.getElementById('homeMarketsList');
+  if (!stocks || !stocks.length) { list.innerHTML = '<div class="status-empty">Noch keine Kursdaten.</div>'; return; }
+  const preferredOrder = ['GDAXI', 'IXIC', 'GSPC', 'BTC-USD', 'GC=F', 'CL=F', 'EURUSD=X'];
+  const bySymbol = Object.fromEntries(stocks.map(s => [s.symbol, s]));
+  const picks = preferredOrder.map(sym => bySymbol[sym]).filter(Boolean);
+  const finalList = picks.length ? picks : stocks.slice(0, 5);
+  list.innerHTML = finalList.slice(0, 5).map(stockRowHtml).join('');
+}
+
+const MARKET_GROUPS = [
+  { key: 'index', label: 'Indizes' },
+  { key: 'stock', label: 'Aktien' },
+  { key: 'etf', label: 'ETFs' },
+  { key: 'crypto', label: 'Kryptowährungen' },
+  { key: 'commodity', label: 'Rohstoffe' },
+  { key: 'fx', label: 'Devisen' },
+];
+
+function renderMarketsPage(stocks) {
+  const content = document.getElementById('marketsContent');
+  if (!stocks || !stocks.length) {
+    content.innerHTML = '<div class="glass card status-empty">Kursdaten werden geladen…</div>';
+    return;
+  }
+  let html = '';
+  MARKET_GROUPS.forEach(g => {
+    const items = stocks.filter(s => (s.category || 'stock') === g.key);
+    if (!items.length) return;
+    html += `<div class="market-group-title">${g.label}</div>`;
+    html += `<div class="glass card row-list">${items.map(stockRowHtml).join('')}</div>`;
+  });
+  content.innerHTML = html || '<div class="glass card status-empty">Keine Marktdaten verfügbar.</div>';
+}
+
+/* ---------------------------------------------------------------------
+   Live Now (MOCK — API-ready structure; replace with a real feed later)
+   --------------------------------------------------------------------- */
+function mockLiveNow() {
+  const hour = new Date().getHours();
+  // Deterministic-ish mock: shows a stream only during "plausible" hours,
+  // otherwise the empty state — meant to feel real without faking constant activity.
+  if (hour >= 9 && hour <= 11) {
+    return { title: 'Pressekonferenz: EU-Gipfel in Brüssel', category: 'Politik', viewers: '12.400' };
+  }
+  if (hour >= 20 && hour <= 22) {
+    return { title: 'Champions League — Live-Übertragung', category: 'Sport', viewers: '89.100' };
+  }
+  return null;
+}
+function renderLiveNow() {
+  const stream = mockLiveNow();
+  const body = document.getElementById('liveNowBody');
+  if (!stream) {
+    body.innerHTML = '<div class="live-empty">Keine wichtigen Livestreams aktuell</div>';
+    return;
+  }
+  body.innerHTML = `
+    <div class="live-now-row">
+      <span class="live-dot"></span>
+      <div>
+        <div style="font-weight:650;font-size:0.92rem;">${stream.title}</div>
+        <div style="font-size:0.76rem;color:var(--text-faint);">${stream.category} · ${stream.viewers} Zuschauer</div>
+      </div>
+    </div>`;
+}
+
+/* ---------------------------------------------------------------------
+   Settings — Interests (persisted locally; feeds future AI-priorisierung)
+   --------------------------------------------------------------------- */
+function loadInterestPrefs() {
+  try { return JSON.parse(localStorage.getItem('morninghub_interests') || '{}'); } catch (e) { return {}; }
+}
+function saveInterestPrefs(prefs) {
+  localStorage.setItem('morninghub_interests', JSON.stringify(prefs));
+}
+function renderInterests() {
+  const prefs = loadInterestPrefs();
+  const list = document.getElementById('interestsList');
+  list.innerHTML = '';
+  INTERESTS.forEach(int => {
+    const on = prefs[int.id] !== false; // default on
+    const row = document.createElement('div');
+    row.className = 'settings-row';
+    row.innerHTML = `
+      <div><div class="label">${int.label}</div><div class="sub">${int.sub}</div></div>
+      <div class="switch ${on ? 'on' : ''}" data-id="${int.id}"><div class="knob"></div></div>`;
+    row.querySelector('.switch').onclick = (e) => {
+      const p = loadInterestPrefs();
+      const nowOn = !(p[int.id] !== false);
+      p[int.id] = nowOn;
+      saveInterestPrefs(p);
+      e.currentTarget.classList.toggle('on', nowOn);
+    };
+    list.appendChild(row);
+  });
+}
+
+/* =====================================================================
+   GLOBE (reused/adapted from previous build: markers, city profiles,
+   crisis overlays, damping controls, zoom-aware auto-rotate, plus new:
+   country click -> detail sheet)
+   ===================================================================== */
+
+// Static reference data for 26 world cities — unchanged from the previous
+// build. Live weather + local time are fetched on click.
 const CITY_PROFILES = [
   { name: 'New York City', country: 'USA', flag: '🇺🇸', region: 'New York', continent: 'Nordamerika', lat: 40.7128, lon: -74.0060, population: '8,3 Mio.', area: '780 km²', timezone: 'America/New_York', currency: 'US-Dollar (USD)', language: 'Englisch', capital: false, feature: 'Finanzzentrum', knownFor: 'Globales Finanz- und Kulturzentrum mit der Wall Street.', airport: 'John F. Kennedy International', station: 'Grand Central Terminal' },
   { name: 'London', country: 'Vereinigtes Königreich', flag: '🇬🇧', region: 'England', continent: 'Europa', lat: 51.5072, lon: -0.1276, population: '9,0 Mio.', area: '1.572 km²', timezone: 'Europe/London', currency: 'Pfund Sterling (GBP)', language: 'Englisch', capital: true, feature: 'Finanz- und Kulturzentrum', knownFor: 'Historische Weltstadt und globales Finanzzentrum (City of London).', airport: 'Heathrow Airport', station: "King's Cross" },
@@ -547,139 +1147,17 @@ const CITY_PROFILES = [
   { name: 'Seoul', country: 'Südkorea', flag: '🇰🇷', region: 'Sonderstadt Seoul', continent: 'Asien', lat: 37.5665, lon: 126.9780, population: '9,4 Mio. (25 Mio. Ballungsraum)', area: '605 km²', timezone: 'Asia/Seoul', currency: 'Won (KRW)', language: 'Koreanisch', capital: true, feature: 'Technologie- und Kulturzentrum', knownFor: 'Hauptstadt Südkoreas, Zentrum von K-Pop und Technologie.', airport: 'Incheon International', station: 'Seoul Station' },
 ];
 
-async function loadData() {
-  try {
-    const res = await fetch('news.json?_=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    return await res.json();
-  } catch (err) {
-    document.getElementById('content').innerHTML =
-      '<div class="status">Konnte news.json nicht laden. Läuft die Seite über einen Webserver (nicht als lokale Datei)?<br><small>' +
-      err.message + '</small></div>';
-    return null;
-  }
-}
-
-function formatTime(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  if (isNaN(d)) return '';
-  return d.toLocaleString('de-DE', {
-    weekday: 'long', day: '2-digit', month: 'long',
-    hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Berlin'
-  }) + ' Uhr';
-}
-
-function buildTabs(categories, articles) {
-  const tabs = document.getElementById('tabs');
-  tabs.innerHTML = '';
-  const allBtn = document.createElement('button');
-  allBtn.textContent = 'Alle';
-  allBtn.className = 'active';
-  allBtn.onclick = () => selectCategory(null, allBtn);
-  tabs.appendChild(allBtn);
-
-  categories.forEach(cat => {
-    const count = articles.filter(a => a.category === cat.id).length;
-    if (count === 0) return;
-    const btn = document.createElement('button');
-    btn.textContent = cat.label;
-    btn.style.setProperty('--dot', cat.color);
-    btn.onclick = () => selectCategory(cat.id, btn);
-    tabs.appendChild(btn);
-  });
-}
-
-function selectCategory(catId, btnEl) {
-  document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
-  btnEl.classList.add('active');
-  document.querySelectorAll('section.category').forEach(sec => {
-    sec.style.display = (!catId || sec.dataset.catId === catId) ? '' : 'none';
-  });
-}
-
-function buildContent(categories, articles) {
-  const content = document.getElementById('content');
-  content.innerHTML = '';
-
-  categories.forEach(cat => {
-    const catArticles = articles.filter(a => a.category === cat.id);
-    if (catArticles.length === 0) return;
-
-    const section = document.createElement('section');
-    section.className = 'category';
-    section.dataset.catId = cat.id;
-    section.id = 'cat-' + cat.id;
-
-    const h2 = document.createElement('h2');
-    h2.innerHTML = `<span class="dot" style="background:${cat.color}"></span> ${cat.label}`;
-    section.appendChild(h2);
-
-    catArticles.forEach(a => {
-      const card = document.createElement('div');
-      card.className = 'card';
-      card.style.setProperty('--dot', cat.color);
-      card.innerHTML = `
-        <a href="${a.url}" target="_blank" rel="noopener">
-          <div class="title">${a.title}</div>
-          <div class="summary">${a.summary || ''}</div>
-          <div class="footer">
-            <span>${a.source || ''}</span>
-            <span class="location">${a.location && a.location.name ? '📍 ' + a.location.name : ''}</span>
-          </div>
-        </a>`;
-      section.appendChild(card);
-    });
-
-    content.appendChild(section);
-  });
-
-  if (content.innerHTML === '') {
-    content.innerHTML = '<div class="status">Noch keine Nachrichten verfügbar.</div>';
-  }
-}
-
-async function loadCountryBorders() {
-  try {
-    const res = await fetch('https://raw.githubusercontent.com/vasturiano/globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson');
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const geo = await res.json();
-    return geo.features || [];
-  } catch (err) {
-    console.warn('Konnte Ländergrenzen nicht laden:', err);
-    return [];
-  }
-}
-
-const EVENT_RING_COLORS = {
-  conflict: '#ff3b30', disaster: '#ff9500', tension: '#ffd60a', trade: '#34c759', blockade: '#0a84ff',
-  storm: '#26c6da', wildfire: '#ff5722', health: '#9c27b0', protest: '#ff7a00', outage: '#ffeb3b',
-  transport: '#78909c', political: '#1e88e5', celebration: '#ffd700',
-};
-
-// Event types that get the "one big pulsing circle" treatment (Naturkatastrophen
-// & Blockade), vs. the bespoke per-type animations below, vs. "conflict" which
-// gets many small overlapping dots instead of a single marker.
-const BIGPULSE_TYPES = new Set(['disaster', 'blockade']);
-const SPECIAL_TYPES = new Set(['storm', 'wildfire', 'health', 'protest', 'outage', 'transport', 'political', 'celebration']);
-
 function eventColor(article, colorById) {
   return EVENT_RING_COLORS[article.event_type] || colorById[article.category] || CATEGORY_FALLBACK_COLOR;
 }
-
 function createDomeElement(color, article) {
   const el = document.createElement('div');
   el.className = 'dome-marker';
   el.style.setProperty('--c', color);
   el.title = article.title;
-  el.onclick = () => openArticle(article);
+  el.onclick = (e) => { e.stopPropagation(); openArticle(article); };
   return el;
 }
-
-// One large circle that pulses from inside to outside, fading as it grows.
-// Used for Naturkatastrophen and Blockade markers, both as a small per-article
-// dot and (with opts.big) as the large persistent crisis overlay - with extra
-// "shockwave" rings layered in for higher-intensity/severe events.
 function bigPulseElement(color, opts = {}) {
   const wrap = document.createElement('div');
   wrap.className = 'crisis-marker marker-bigpulse' + (opts.big ? ' marker-big' : '');
@@ -691,9 +1169,6 @@ function bigPulseElement(color, opts = {}) {
   applyMarkerInteractivity(wrap, opts);
   return wrap;
 }
-
-// The bespoke animations for storm/wildfire/health/protest/outage/transport/
-// political/celebration markers described in the map legend.
 function createAnimatedMarker(type, opts = {}) {
   const wrap = document.createElement('div');
   wrap.className = `crisis-marker marker-${type}` + (opts.big ? ' marker-big' : '');
@@ -705,40 +1180,18 @@ function createAnimatedMarker(type, opts = {}) {
       wrap.querySelector('.disc').style.animationDuration = spin + 's';
       break;
     }
-    case 'wildfire':
-      wrap.innerHTML = `<div class="halo"></div><div class="smoke"></div><div class="flame">🔥</div>`;
-      break;
-    case 'health':
-      wrap.innerHTML = `<div class="ring"></div>`;
-      break;
-    case 'protest':
-      wrap.innerHTML = `<div class="ring"></div><div class="dot"></div>`;
-      break;
-    case 'outage':
-      wrap.innerHTML = `<div class="ring"></div><div class="bolt">⚡</div>`;
-      break;
-    case 'transport':
-      wrap.innerHTML = `<div class="orbit"></div><div class="dot"></div>`;
-      break;
-    case 'political':
-      wrap.innerHTML = `<div class="ring"></div>`;
-      break;
-    case 'celebration':
-      wrap.innerHTML = `<div class="core"></div><div class="spark"></div><div class="spark spark2"></div><div class="spark spark3"></div>`;
-      break;
-    default:
-      wrap.innerHTML = `<div class="ring"></div>`;
+    case 'wildfire': wrap.innerHTML = `<div class="halo"></div><div class="smoke"></div><div class="flame">🔥</div>`; break;
+    case 'health': wrap.innerHTML = `<div class="ring"></div>`; break;
+    case 'protest': wrap.innerHTML = `<div class="ring"></div><div class="dot"></div>`; break;
+    case 'outage': wrap.innerHTML = `<div class="ring"></div><div class="bolt">⚡</div>`; break;
+    case 'transport': wrap.innerHTML = `<div class="orbit"></div><div class="dot"></div>`; break;
+    case 'political': wrap.innerHTML = `<div class="ring"></div>`; break;
+    case 'celebration': wrap.innerHTML = `<div class="core"></div><div class="spark"></div><div class="spark spark2"></div><div class="spark spark3"></div>`; break;
+    default: wrap.innerHTML = `<div class="ring"></div>`;
   }
   applyMarkerInteractivity(wrap, opts);
   return wrap;
 }
-
-// Krieg/Konflikte: many small overlapping red circles, each pulsing at a
-// randomized speed/offset so a conflict zone reads as "unruhig und aktiv".
-// The animated dot is a CHILD of the element globe.gl positions, not the
-// positioned element itself - otherwise globe.gl's per-frame position
-// update stomps the animation's own transform and the pulse only ever
-// plays once before freezing. See CSS comment on .marker-conflict-dot-wrap.
 function createConflictDot() {
   const wrap = document.createElement('div');
   wrap.className = 'marker-conflict-dot-wrap';
@@ -751,16 +1204,10 @@ function createConflictDot() {
   wrap.appendChild(dot);
   return wrap;
 }
-
 function applyMarkerInteractivity(el, opts) {
   if (opts.title) el.title = opts.title;
-  if (opts.onclick) {
-    el.style.cursor = 'pointer';
-    el.onclick = (e) => { e.stopPropagation(); opts.onclick(); };
-  }
+  if (opts.onclick) { el.style.cursor = 'pointer'; el.onclick = (e) => { e.stopPropagation(); opts.onclick(); }; }
 }
-
-// Per-article marker: today's news dot, styled per event_type.
 function createEventMarker(m) {
   const { type, color, article } = m;
   const onclick = () => openArticle(article);
@@ -769,9 +1216,6 @@ function createEventMarker(m) {
   if (SPECIAL_TYPES.has(type)) return createAnimatedMarker(type, { title: article.title, onclick });
   return createDomeElement(color, article);
 }
-
-// Persistent crisis overlay marker (from ongoing_events.json), rendered larger
-// and, for disaster/storm/wildfire/etc., scaled/escalated with intensity.
 function createCrisisOverlay(c) {
   const color = EVENT_RING_COLORS[c.type] || '#ff3b30';
   const onclick = c.url && c.url !== '#' ? () => window.open(c.url, '_blank', 'noopener') : null;
@@ -779,13 +1223,9 @@ function createCrisisOverlay(c) {
   if (BIGPULSE_TYPES.has(c.type)) return bigPulseElement(color, opts);
   return createAnimatedMarker(c.type, opts);
 }
-
 function openArticle(article) {
-  const section = document.querySelector(`section#cat-${article.category}`);
-  if (section) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  window.open(article.url, '_blank', 'noopener');
+  if (article.url && article.url !== '#') window.open(article.url, '_blank', 'noopener');
 }
-
 function createCityElement(city) {
   const el = document.createElement('div');
   el.className = 'city-marker';
@@ -794,255 +1234,158 @@ function createCityElement(city) {
   return el;
 }
 
-const WEATHER_CODES = {
-  0: 'Klarer Himmel', 1: 'Überwiegend klar', 2: 'Teilweise bewölkt', 3: 'Bedeckt',
-  45: 'Nebel', 48: 'Reifnebel', 51: 'Leichter Nieselregen', 53: 'Nieselregen',
-  55: 'Starker Nieselregen', 61: 'Leichter Regen', 63: 'Regen', 65: 'Starker Regen',
-  71: 'Leichter Schneefall', 73: 'Schneefall', 75: 'Starker Schneefall',
-  80: 'Regenschauer', 81: 'Regenschauer', 82: 'Heftige Regenschauer',
-  95: 'Gewitter', 96: 'Gewitter mit Hagel', 99: 'Schweres Gewitter',
-};
-
-async function fetchWeather(lat, lon) {
+async function fetchWeatherFor(lat, lon) {
   try {
     const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
     return data.current_weather || null;
-  } catch (err) {
-    console.warn('Wetter konnte nicht geladen werden:', err);
-    return null;
-  }
+  } catch (err) { return null; }
 }
-
 function localTimeFor(timezone) {
   try {
-    return new Date().toLocaleString('de-DE', {
-      timeZone: timezone, hour: '2-digit', minute: '2-digit',
-      weekday: 'short', day: '2-digit', month: '2-digit',
-    }) + ' Uhr';
-  } catch (err) {
-    return '–';
-  }
+    return new Date().toLocaleString('de-DE', { timeZone: timezone, hour: '2-digit', minute: '2-digit', weekday: 'short', day: '2-digit', month: '2-digit' }) + ' Uhr';
+  } catch (err) { return '–'; }
 }
-
 async function openCityPanel(city) {
   const panel = document.getElementById('cityPanel');
   const overlay = document.getElementById('cityPanelOverlay');
-
   panel.innerHTML = `
     <button class="closeBtn" id="cityPanelClose">✕ Schließen</button>
     <h2>${city.flag} ${city.name}</h2>
     <div class="subtitle">${city.country} · ${city.continent}</div>
-
-    <div class="section">
-      <h3>🏙️ Stadtprofil</h3>
+    <div class="section"><h3>🏙️ Stadtprofil</h3>
       <div class="row"><span class="k">Land</span><span class="v">${city.country}</span></div>
       <div class="row"><span class="k">Region</span><span class="v">${city.region}</span></div>
-      <div class="row"><span class="k">Kontinent</span><span class="v">${city.continent}</span></div>
       <div class="row"><span class="k">Einwohner</span><span class="v">${city.population}</span></div>
-      <div class="row"><span class="k">Fläche</span><span class="v">${city.area}</span></div>
       <div class="row"><span class="k">Zeitzone</span><span class="v">${city.timezone}</span></div>
-      <div class="row"><span class="k">Koordinaten</span><span class="v">${city.lat.toFixed(2)}°, ${city.lon.toFixed(2)}°</span></div>
       <div class="row"><span class="k">Währung</span><span class="v">${city.currency}</span></div>
       <div class="row"><span class="k">Amtssprache</span><span class="v">${city.language}</span></div>
     </div>
-
-    <div class="section">
-      <h3>🌤️ Aktuelles</h3>
+    <div class="section"><h3>🌤️ Aktuelles</h3>
       <div class="row"><span class="k">Ortszeit</span><span class="v">${localTimeFor(city.timezone)}</span></div>
-      <div id="weatherRows">
-        <div class="row"><span class="k">Wetter</span><span class="v">Lädt…</span></div>
-      </div>
+      <div id="weatherRows"><div class="row"><span class="k">Wetter</span><span class="v">Lädt…</span></div></div>
     </div>
-
-    <div class="section">
-      <h3>📍 Lage</h3>
-      <div class="row"><span class="k">Nachbarregion</span><span class="v">${city.region}</span></div>
-      <a href="https://www.openstreetmap.org/?mlat=${city.lat}&mlon=${city.lon}#map=10/${city.lat}/${city.lon}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--accent)">Auf Karte öffnen ↗</a>
-    </div>
-
-    <div class="section">
-      <h3>🏛️ Bedeutung</h3>
+    <div class="section"><h3>🏛️ Bedeutung</h3>
       <div class="row"><span class="k">Hauptstadt?</span><span class="v">${city.capital ? 'Ja' : 'Nein'}</span></div>
-      <div class="row"><span class="k">Merkmal</span><span class="v">${city.feature}</span></div>
       <div class="known-for">⭐ ${city.knownFor}</div>
     </div>
-
-    <div class="section">
-      <h3>🚆 Erreichbarkeit</h3>
+    <div class="section"><h3>🚆 Erreichbarkeit</h3>
       <div class="row"><span class="k">Flughafen</span><span class="v">${city.airport}</span></div>
       <div class="row"><span class="k">Bahnhof</span><span class="v">${city.station}</span></div>
-    </div>
-  `;
-
+    </div>`;
   document.getElementById('cityPanelClose').onclick = closeCityPanel;
   overlay.onclick = closeCityPanel;
   panel.classList.add('open');
   overlay.classList.add('open');
-
-  const weather = await fetchWeather(city.lat, city.lon);
+  const weather = await fetchWeatherFor(city.lat, city.lon);
   const weatherRows = document.getElementById('weatherRows');
   if (weatherRows) {
     if (weather) {
-      const desc = WEATHER_CODES[weather.weathercode] || 'Unbekannt';
-      weatherRows.innerHTML = `
-        <div class="row"><span class="k">Temperatur</span><span class="v">${Math.round(weather.temperature)} °C</span></div>
-        <div class="row"><span class="k">Wetterlage</span><span class="v">${desc}</span></div>
-      `;
+      const [desc] = WEATHER_CODES[weather.weathercode] || ['Unbekannt'];
+      weatherRows.innerHTML = `<div class="row"><span class="k">Temperatur</span><span class="v">${Math.round(weather.temperature)} °C</span></div><div class="row"><span class="k">Wetterlage</span><span class="v">${desc}</span></div>`;
     } else {
       weatherRows.innerHTML = `<div class="row"><span class="k">Wetter</span><span class="v">Nicht verfügbar</span></div>`;
     }
   }
 }
-
 function closeCityPanel() {
   document.getElementById('cityPanel').classList.remove('open');
   document.getElementById('cityPanelOverlay').classList.remove('open');
 }
 
-function sparklineSvg(history, color) {
-  if (!history || history.length < 2) return '';
-  const w = 130, h = 34;
-  const min = Math.min(...history), max = Math.max(...history);
-  const range = (max - min) || 1;
-  const points = history.map((v, i) => {
-    const x = (i / (history.length - 1)) * w;
-    const y = h - ((v - min) / range) * h;
-    return `${x.toFixed(1)},${y.toFixed(1)}`;
-  }).join(' ');
-  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><polyline points="${points}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+/* Country detail sheet — new feature: clicking a country polygon opens a
+   sheet listing today's articles located in that country (matched via
+   article.location.name, best-effort) with a back button. */
+function openCountryPanel(countryName) {
+  document.getElementById('countryTitle').textContent = countryName;
+  const events = document.getElementById('countryEvents');
+  const articles = ((appData.news && appData.news.articles) || []).filter(a =>
+    a.location && a.location.name && (a.location.name === countryName || countryName.includes(a.location.name) || a.location.name.includes(countryName))
+  );
+  if (!articles.length) {
+    events.innerHTML = `<div class="status-empty">Keine spezifischen Meldungen für ${countryName} heute.<br><br><span style="color:var(--accent-2)">Alle Nachrichten ansehen</span></div>`;
+    events.querySelector('span').onclick = () => { closeSheet('sheet-country'); goTab('news'); };
+    events.querySelector('span').style.cursor = 'pointer';
+  } else {
+    events.innerHTML = articles.map(a => `
+      <div class="ev-row">
+        <span class="ev-dot" style="background:${EVENT_RING_COLORS[a.event_type] || CATEGORY_FALLBACK_COLOR}"></span>
+        <div>
+          <div style="font-weight:600;font-size:0.9rem;">${a.title}</div>
+          <div style="font-size:0.8rem;color:var(--text-dim);margin-top:2px;">${a.summary || ''}</div>
+        </div>
+      </div>`).join('');
+  }
+  openSheet('sheet-country');
 }
 
-async function loadStocks() {
+async function loadCountryBorders() {
   try {
-    const res = await fetch('stocks.json?_=' + Date.now());
+    const res = await fetch('https://raw.githubusercontent.com/vasturiano/globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson');
     if (!res.ok) throw new Error('HTTP ' + res.status);
-    return await res.json();
-  } catch (err) {
-    console.warn('Konnte stocks.json nicht laden:', err);
-    return null;
-  }
+    const geo = await res.json();
+    return geo.features || [];
+  } catch (err) { return []; }
 }
 
-function renderStocks(data) {
-  const grid = document.getElementById('stocksGrid');
-  if (!data || !data.stocks || data.stocks.length === 0) {
-    grid.innerHTML = '<div class="empty">Noch keine Kursdaten verfügbar.</div>';
-    return;
-  }
-  grid.innerHTML = data.stocks.map(s => {
-    const up = s.change_pct >= 0;
-    const color = up ? '#34c759' : '#ff3b30';
-    return `
-      <div class="stock-box">
-        <div class="symbol">${s.symbol}</div>
-        <div class="name">${s.name}</div>
-        <div class="price">${s.price.toLocaleString('de-DE', {maximumFractionDigits: 2})}</div>
-        <div class="change ${up ? 'up' : 'down'}">${up ? '▲' : '▼'} ${Math.abs(s.change_pct).toFixed(2)}%</div>
-        ${sparklineSvg(s.history, color)}
-      </div>`;
-  }).join('');
-}
-
-async function buildGlobe(categories, articles, eventColors, crises) {
+async function buildGlobe(newsData, crises) {
+  const articles = (newsData && newsData.articles) || [];
+  const categories = (newsData && newsData.categories) || [];
   const colorById = Object.fromEntries(categories.map(c => [c.id, c.color]));
   crises = crises || [];
 
   const newsMarkers = articles
     .filter(a => a.location && typeof a.location.lat === 'number')
-    .map(a => ({
-      kind: 'event',
-      lat: a.location.lat,
-      lng: a.location.lon,
-      color: eventColor(a, colorById),
-      type: a.event_type,
-      article: a,
-    }));
+    .map(a => ({ kind: 'event', lat: a.location.lat, lng: a.location.lon, color: eventColor(a, colorById), type: a.event_type, article: a }));
 
-  const cityMarkers = CITY_PROFILES.map(city => ({
-    kind: 'city',
-    lat: city.lat,
-    lng: city.lon,
-    city,
-  }));
+  const cityMarkers = CITY_PROFILES.map(city => ({ kind: 'city', lat: city.lat, lng: city.lon, city }));
 
-  // Persistent crisis overlays driven by ongoing_events.json: ONE big
-  // pulsing circle for disaster/blockade (and the bespoke storm/wildfire/
-  // health/protest/outage animations), MANY small overlapping red dots for
-  // a conflict (count scales with intensity = how "hot" the conflict is).
   const crisisMarkers = [];
   crises.forEach(c => {
     if (c.type === 'conflict') {
       (c.subpoints && c.subpoints.length ? c.subpoints : [c.location]).forEach(p => {
         crisisMarkers.push({ kind: 'conflict-dot', lat: p.lat, lng: p.lon });
       });
-    } else {
-      crisisMarkers.push({
-        kind: 'crisis', type: c.type, lat: c.location.lat, lng: c.location.lon,
-        intensity: c.intensity, label: c.label, url: c.url,
-      });
+    } else if (c.location) {
+      crisisMarkers.push({ kind: 'crisis', type: c.type, lat: c.location.lat, lng: c.location.lon, intensity: c.intensity, label: c.label, url: c.url });
     }
   });
 
-  // City markers must always stay clickable, even when a war zone's
-  // overlapping conflict dots (or a big crisis pulse) sit on the same spot -
-  // e.g. Kyiv/Moscow/Istanbul often coincide with conflict clusters. Putting
-  // them last in the array (painted last / on top) plus giving them the
-  // highest htmlAltitude below keeps the city profile button clickable.
   const markers = [...newsMarkers, ...crisisMarkers, ...cityMarkers];
 
   const arcs = [];
   articles.forEach(a => {
     (a.connections || []).forEach(c => {
       if (!c.from || !c.to) return;
-      arcs.push({
-        startLat: c.from.lat, startLng: c.from.lon,
-        endLat: c.to.lat, endLng: c.to.lon,
-        color: eventColor(a, colorById),
-        article: a,
-      });
+      arcs.push({ startLat: c.from.lat, startLng: c.from.lon, endLat: c.to.lat, endLng: c.to.lon, color: eventColor(a, colorById), article: a });
     });
   });
-  // Shipping lanes through blockaded chokepoints
   crises.forEach(c => {
     if (c.type === 'blockade' && c.chokepoint_lane && c.chokepoint_lane.length === 2) {
       const [from, to] = c.chokepoint_lane;
-      arcs.push({
-        startLat: from[0], startLng: from[1],
-        endLat: to[0], endLng: to[1],
-        color: EVENT_RING_COLORS.blockade,
-        article: { title: `Handelsroute blockiert: ${c.label}`, url: '#', category: 'wirtschaft' },
-      });
+      arcs.push({ startLat: from[0], startLng: from[1], endLat: to[0], endLng: to[1], color: EVENT_RING_COLORS.blockade, article: { title: `Handelsroute blockiert: ${c.label}`, url: '#', category: 'wirtschaft' } });
     }
   });
 
   const countries = await loadCountryBorders();
+  globeHostEl = document.getElementById('globeHostHome');
 
-  const el = document.getElementById('globeViz');
-  const globe = Globe()(el)
+  globe = Globe()(globeHostEl)
     .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
     .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
     .backgroundColor('rgba(0,0,0,0)')
-
-    // Country borders overlay
     .polygonsData(countries)
     .polygonCapColor(() => 'rgba(91,155,213,0.04)')
     .polygonSideColor(() => 'rgba(0,0,0,0.1)')
     .polygonStrokeColor(() => 'rgba(210,220,235,0.45)')
     .polygonAltitude(0.006)
     .polygonLabel(d => d.properties && d.properties.NAME || '')
-
-    // Event, city & crisis markers - all CSS-animated divs rendered via
-    // globe.gl's htmlElementsData layer, which sits on top of the WebGL
-    // canvas as a DOM overlay, so every marker/animation is always drawn
-    // above the globe surface itself.
+    .onPolygonClick(d => { const name = d.properties && d.properties.NAME; if (name) openCountryPanel(name); })
     .htmlElementsData(markers)
     .htmlLat('lat')
     .htmlLng('lng')
     .htmlAltitude(d => {
-      // City markers sit highest so they're never buried under (and always
-      // receive clicks ahead of) overlapping conflict/crisis markers.
       if (d.kind === 'city') return 0.02;
       if (d.kind === 'crisis') return 0.016;
       if (d.kind === 'conflict-dot') return 0.014;
@@ -1054,8 +1397,6 @@ async function buildGlobe(categories, articles, eventColors, crises) {
       if (d.kind === 'crisis') return createCrisisOverlay(d);
       return createEventMarker(d);
     })
-
-    // Connections: conflict fronts, trade routes, transport routes & blockaded shipping lanes
     .arcsData(arcs)
     .arcColor(d => [d.color, d.color])
     .arcAltitude(0.25)
@@ -1065,28 +1406,18 @@ async function buildGlobe(categories, articles, eventColors, crises) {
     .arcDashAnimateTime(3500)
     .arcLabel(d => `<div style="background:#131722;border:1px solid #232838;padding:6px 10px;border-radius:8px;max-width:220px;font-size:12px;color:#e6e8ee">${d.article.title}</div>`)
     .onArcClick(d => { if (d.article.url && d.article.url !== '#') openArticle(d.article); })
-
-    .width(el.clientWidth)
-    .height(el.clientHeight);
+    .width(globeHostEl.clientWidth)
+    .height(globeHostEl.clientHeight);
 
   const controls = globe.controls();
   controls.autoRotate = true;
   controls.autoRotateSpeed = 0.6;
   controls.enableZoom = true;
-
-  // Smoother drag/rotate: enable inertia damping instead of the default
-  // "stops the instant you release the mouse" feel.
   controls.enableDamping = true;
   controls.dampingFactor = 0.08;
   controls.rotateSpeed = 0.55;
   controls.zoomSpeed = 0.7;
 
-  // Auto-rotation should only run while zoomed out to the "overview" level -
-  // once you zoom in on a region (e.g. Europe) it should stop so the view
-  // holds still, then resume automatically once you zoom back out. globe.gl's
-  // pointOfView().altitude is the camera distance in globe-radius units;
-  // capture whatever the initial (zoomed-out) altitude is as the baseline
-  // rather than hard-coding a number, since that baseline can vary.
   let baseAltitude = null;
   function updateAutoRotate() {
     const alt = globe.pointOfView().altitude;
@@ -1097,26 +1428,72 @@ async function buildGlobe(categories, articles, eventColors, crises) {
   updateAutoRotate();
 
   window.addEventListener('resize', () => {
-    globe.width(el.clientWidth).height(el.clientHeight);
+    if (globeHostEl) globe.width(globeHostEl.clientWidth).height(globeHostEl.clientHeight);
   });
 
-  return globe;
+  renderWorldLegend();
 }
 
+function renderWorldLegend() {
+  const legend = document.getElementById('worldLegend');
+  const items = [
+    ['#ff3b30','Konflikt / Krieg'], ['#ff9500','Umweltkatastrophe'], ['#ffd60a','Spannung'],
+    ['#34c759','Handelsroute'], ['#0a84ff','Blockade'], ['#26c6da','Unwetter'], ['#ff5722','Waldbrand'],
+    ['#9c27b0','Gesundheitswarnung'], ['#ff7a00','Proteste / Unruhen'], ['#ffeb3b','Stromausfall'],
+    ['#78909c','Verkehrsereignis'], ['#1e88e5','Politisches Ereignis'], ['#ffd700','Großveranstaltung'],
+    ['#7ec8ff','Stadt (Profil antippen)'],
+  ];
+  legend.innerHTML = items.map(([c,l]) => `<span class="item"><span class="swatch" style="background:${c}"></span>${l}</span>`).join('');
+}
+
+/* Move the single globe DOM node (and resize) between the Home preview
+   card and the World tab's full-bleed container — avoids running two
+   expensive WebGL globe instances at once. */
+function moveGlobeTo(container, fullscreen) {
+  if (!globe || !globeHostEl || !container) return;
+  if (globeHostEl.parentElement !== container) {
+    container.appendChild(globeHostEl);
+  }
+  globeHostEl.classList.toggle('fullscreen', !!fullscreen);
+  requestAnimationFrame(() => {
+    if (globeHostEl.clientWidth && globeHostEl.clientHeight) {
+      globe.width(globeHostEl.clientWidth).height(globeHostEl.clientHeight);
+    }
+  });
+}
+
+/* =====================================================================
+   Bootstrap
+   ===================================================================== */
 (async function init() {
-  const data = await loadData();
-  if (!data) return;
+  renderInterests();
+  renderLiveNow();
+  const mails = loadMail();
+  renderMailSummary(mails);
+  renderMailList('all');
 
-  document.getElementById('generatedAt').textContent =
-    'Stand: ' + formatTime(data.generated_at);
+  const [newsData, crises, stocksData] = await Promise.all([loadNews(), loadCrises(), loadStocks()]);
+  appData.news = newsData;
+  appData.crises = crises;
+  appData.stocks = stocksData;
 
-  buildTabs(data.categories, data.articles);
-  buildContent(data.categories, data.articles);
-  buildGlobe(data.categories, data.articles, data.event_colors || {}, data.crises || []);
+  const articles = (newsData && newsData.articles) || [];
+  renderTopStory(articles);
+  renderNewsList(null);
 
-  const stocksData = await loadStocks();
-  renderStocks(stocksData);
+  const briefText = generateBrief(articles, crises);
+  document.getElementById('briefText').textContent = briefText;
+  document.getElementById('briefFull').innerHTML = `<p>${briefText}</p>`;
+
+  if (stocksData && stocksData.stocks) {
+    renderHomeMarkets(stocksData.stocks);
+    renderMarketsPage(stocksData.stocks);
+  }
+
+  await buildGlobe(newsData, crises);
+  loadWeather();
 })();
 </script>
+
 </body>
 </html>
