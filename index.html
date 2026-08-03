@@ -769,7 +769,10 @@ async function loadCrises() {
     const res = await fetch('ongoing_events.json?_=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    return data.crises || data || [];
+    if (Array.isArray(data)) return data;
+    if (Array.isArray(data.events)) return data.events;
+    if (Array.isArray(data.crises)) return data.crises;
+    return [];
   } catch (err) {
     return [];
   }
