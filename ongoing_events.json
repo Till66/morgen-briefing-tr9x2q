@@ -8,10 +8,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine und Polen: Wie die Vergangenheit die Nachbarn spaltet",
+      "label": "Ukraine: Neue Angriffe auf russischen Versandhändler Wildberries",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-03",
-      "intensity": 6,
+      "last_seen": "2026-08-04",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -173,9 +173,29 @@
         {
           "lat": 47.09769311496538,
           "lon": 31.47165387252431
+        },
+        {
+          "lat": 46.03319345991038,
+          "lon": 28.419125523993543
+        },
+        {
+          "lat": 46.222739581704545,
+          "lon": 33.568250183858964
+        },
+        {
+          "lat": 49.55165014562072,
+          "lon": 33.04233067834152
+        },
+        {
+          "lat": 45.91886507734699,
+          "lon": 29.388640848789514
+        },
+        {
+          "lat": 48.94199973988928,
+          "lon": 33.41227151673853
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-wildberries-100.html"
     },
     {
       "id": "conflict-russland",
@@ -185,9 +205,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Selenskyj bittet erneut um Lieferung von \"Patriot\"-Raketen",
+      "label": "Selenskyj hofft auf Kriegsende bis Herbst",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -392,7 +412,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html"
     },
     {
       "id": "wildfire-spanien",
@@ -406,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -422,7 +442,7 @@
       "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-01",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -564,26 +584,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -595,10 +595,10 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Trump sagt Angriffe auf Iran vorerst ab",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
+      "label": "Trump kündigt neue Iran-Gespräche an",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -816,7 +816,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-02",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -978,26 +978,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -1013,66 +993,9 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-syrien",
-      "type": "conflict",
-      "location": {
-        "name": "Syrien",
-        "lat": 34.8021,
-        "lon": 38.9968
-      },
-      "label": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
-      "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-28",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 35.358871949296066,
-          "lon": 37.73681280677971
-        },
-        {
-          "lat": 37.267357975614,
-          "lon": 40.72038361369082
-        },
-        {
-          "lat": 34.9820321885174,
-          "lon": 36.96594288610433
-        },
-        {
-          "lat": 37.35249628398381,
-          "lon": 36.73038697926942
-        },
-        {
-          "lat": 35.647768710732294,
-          "lon": 41.59653248876625
-        },
-        {
-          "lat": 35.09759117975298,
-          "lon": 41.861389988222484
-        },
-        {
-          "lat": 34.773762134158346,
-          "lon": 38.41335738521753
-        },
-        {
-          "lat": 34.57079277161749,
-          "lon": 37.03701035950636
-        },
-        {
-          "lat": 36.708719725028665,
-          "lon": 36.73416270115184
-        },
-        {
-          "lat": 32.67754251393421,
-          "lon": 37.70949175869242
-        }
-      ]
     },
     {
       "id": "wildfire-madrid",
@@ -1118,7 +1041,7 @@
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-08-02",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1220,26 +1143,6 @@
         {
           "lat": 54.24119048641627,
           "lon": 17.910073879737073
-        },
-        {
-          "lat": 53.41580928313518,
-          "lon": 19.317814565222317
-        },
-        {
-          "lat": 51.660368707655785,
-          "lon": 20.63647702456009
-        },
-        {
-          "lat": 50.03643776361352,
-          "lon": 17.279217671086947
-        },
-        {
-          "lat": 49.71812231995658,
-          "lon": 19.534583496404597
-        },
-        {
-          "lat": 52.69267970875737,
-          "lon": 18.16814452704802
         }
       ]
     },
@@ -1271,7 +1174,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
       "last_seen": "2026-08-02",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1333,26 +1236,6 @@
         {
           "lat": 33.86002521248535,
           "lon": 37.36008205893684
-        },
-        {
-          "lat": 34.403514002893004,
-          "lon": 36.85739747819197
-        },
-        {
-          "lat": 32.25765817839598,
-          "lon": 32.7895418914127
-        },
-        {
-          "lat": 30.25792685471427,
-          "lon": 31.681167431019983
-        },
-        {
-          "lat": 28.742731940523427,
-          "lon": 36.779051273229776
-        },
-        {
-          "lat": 34.1637898035496,
-          "lon": 32.415439378019755
         }
       ]
     },
@@ -1425,7 +1308,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1441,7 +1324,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-03",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1472,8 +1355,8 @@
       "label": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-03",
-      "intensity": 4,
+      "last_seen": "2026-08-04",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1488,8 +1371,8 @@
       "label": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
-      "intensity": 1,
+      "last_seen": "2026-08-04",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1551,9 +1434,106 @@
         {
           "lat": 43.790195752547056,
           "lon": 33.216098094519594
+        },
+        {
+          "lat": 44.61447392810415,
+          "lon": 33.06458123180505
+        },
+        {
+          "lat": 47.50106292458683,
+          "lon": 28.769412135761907
+        },
+        {
+          "lat": 46.602094030342904,
+          "lon": 30.60248630076553
+        },
+        {
+          "lat": 46.07770951253251,
+          "lon": 27.829296783381793
+        },
+        {
+          "lat": 48.10877043449932,
+          "lon": 32.718501411423084
+        }
+      ]
+    },
+    {
+      "id": "conflict-d-nemark",
+      "type": "conflict",
+      "location": {
+        "name": "Dänemark",
+        "lat": 56.2639,
+        "lon": 9.5018
+      },
+      "label": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 58.47345415982976,
+          "lon": 10.294876442506414
+        },
+        {
+          "lat": 56.178150724230484,
+          "lon": 11.628730696220819
+        },
+        {
+          "lat": 57.16885548767619,
+          "lon": 7.913228207394534
+        },
+        {
+          "lat": 54.54599891432945,
+          "lon": 10.465742515189746
+        },
+        {
+          "lat": 57.21232866015351,
+          "lon": 9.426960042225653
+        },
+        {
+          "lat": 56.98324367476947,
+          "lon": 12.280545782510085
+        },
+        {
+          "lat": 54.833197074705666,
+          "lon": 6.636977564838709
+        },
+        {
+          "lat": 56.26968995817476,
+          "lon": 8.591539408830585
+        },
+        {
+          "lat": 54.89373130096221,
+          "lon": 11.68032699458099
+        },
+        {
+          "lat": 55.880558931275985,
+          "lon": 7.927353202029678
+        },
+        {
+          "lat": 53.37203660782485,
+          "lon": 7.939622049352764
+        },
+        {
+          "lat": 56.93653629885219,
+          "lon": 8.96865121964357
+        },
+        {
+          "lat": 54.1211841712407,
+          "lon": 8.554904287957097
+        },
+        {
+          "lat": 55.84957608394326,
+          "lon": 9.840333175955184
+        },
+        {
+          "lat": 58.74128806472099,
+          "lon": 11.930517503191139
         }
       ]
     }
   ],
-  "updated_at": "2026-08-03"
+  "updated_at": "2026-08-04"
 }
