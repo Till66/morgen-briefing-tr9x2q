@@ -10,8 +10,8 @@
       },
       "label": "Ukraine: Neue Angriffe auf russischen Versandhändler Wildberries",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-04",
-      "intensity": 7,
+      "last_seen": "2026-08-05",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,6 +193,26 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
+        },
+        {
+          "lat": 47.2410417403942,
+          "lon": 29.61412063093533
+        },
+        {
+          "lat": 45.75347750458784,
+          "lon": 32.04224714080203
+        },
+        {
+          "lat": 47.48508185572179,
+          "lon": 29.96273554535926
+        },
+        {
+          "lat": 50.457943303319844,
+          "lon": 28.654934935902
+        },
+        {
+          "lat": 45.48967851656784,
+          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-wildberries-100.html"
@@ -207,7 +227,7 @@
       },
       "label": "Selenskyj hofft auf Kriegsende bis Herbst",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -426,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -442,7 +462,7 @@
       "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-01",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -564,26 +584,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -599,7 +599,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-04",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -781,26 +781,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
         }
       ]
     },
@@ -812,11 +792,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Mindestens zehn Tote und viele Verletzte bei russischem Angriff auf Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
+      "label": "Kiew wieder unter russischem Raketenbeschuss",
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-02",
-      "intensity": 6,
+      "last_seen": "2026-08-05",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -978,6 +958,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -993,23 +993,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 4,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "wildfire-madrid",
-      "type": "wildfire",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "label": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html",
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-29",
-      "intensity": 0,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1041,7 +1025,7 @@
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-08-02",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1123,26 +1107,6 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
-        },
-        {
-          "lat": 50.628622392577036,
-          "lon": 19.54377604277066
-        },
-        {
-          "lat": 49.92625879751269,
-          "lon": 18.983356129258837
-        },
-        {
-          "lat": 54.375906749022874,
-          "lon": 17.898568780255285
-        },
-        {
-          "lat": 50.1121355987003,
-          "lon": 17.831168062597435
-        },
-        {
-          "lat": 54.24119048641627,
-          "lon": 17.910073879737073
         }
       ]
     },
@@ -1174,7 +1138,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "first_seen": "2026-07-31",
       "last_seen": "2026-08-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1216,26 +1180,6 @@
         {
           "lat": 32.88771255043981,
           "lon": 32.23738530648113
-        },
-        {
-          "lat": 29.70543966516979,
-          "lon": 31.731139805489484
-        },
-        {
-          "lat": 31.872210198867183,
-          "lon": 33.97021486554765
-        },
-        {
-          "lat": 30.259098132084844,
-          "lon": 35.608834927263395
-        },
-        {
-          "lat": 33.32409579512293,
-          "lon": 33.95328104347067
-        },
-        {
-          "lat": 33.86002521248535,
-          "lon": 37.36008205893684
         }
       ]
     },
@@ -1324,7 +1268,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-03",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1352,11 +1296,11 @@
         "lat": 39.0742,
         "lon": 21.8243
       },
-      "label": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+      "label": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "intensity": 6,
+      "last_seen": "2026-08-05",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1371,8 +1315,8 @@
       "label": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-04",
-      "intensity": 2,
+      "last_seen": "2026-08-05",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1454,6 +1398,26 @@
         {
           "lat": 48.10877043449932,
           "lon": 32.718501411423084
+        },
+        {
+          "lat": 45.281535330256226,
+          "lon": 32.16346277194958
+        },
+        {
+          "lat": 45.93619832181691,
+          "lon": 32.982727443439934
+        },
+        {
+          "lat": 46.70654183103331,
+          "lon": 32.362475380263284
+        },
+        {
+          "lat": 44.94844760647648,
+          "lon": 27.97693332644422
+        },
+        {
+          "lat": 47.833315655745295,
+          "lon": 28.090696202955254
         }
       ]
     },
@@ -1468,8 +1432,8 @@
       "label": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "intensity": 1,
+      "last_seen": "2026-08-05",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1531,9 +1495,45 @@
         {
           "lat": 58.74128806472099,
           "lon": 11.930517503191139
+        },
+        {
+          "lat": 55.698485290130826,
+          "lon": 7.044653257745237
+        },
+        {
+          "lat": 55.50270912741618,
+          "lon": 10.279341455295295
+        },
+        {
+          "lat": 58.85686840466395,
+          "lon": 10.662578073631407
+        },
+        {
+          "lat": 54.78137488545195,
+          "lon": 11.048281351961027
+        },
+        {
+          "lat": 55.037204315231115,
+          "lon": 6.945824285404948
         }
       ]
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
+      "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-08-04"
+  "updated_at": "2026-08-05"
 }
