@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Neue Angriffe auf russischen Versandhändler Wildberries",
+      "label": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-wildberries-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj hofft auf Kriegsende bis Herbst",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-31",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -458,11 +458,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
-      "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
+      "label": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-01",
-      "intensity": 4,
+      "last_seen": "2026-08-06",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -584,6 +584,26 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -599,7 +619,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-04",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -761,26 +781,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
         }
       ]
     },
@@ -795,8 +795,8 @@
       "label": "Kiew wieder unter russischem Raketenbeschuss",
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-05",
-      "intensity": 7,
+      "last_seen": "2026-08-06",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -978,6 +978,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -993,23 +1013,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-31",
-      "intensity": 3,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "storm-deutschland",
-      "type": "storm",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
-      "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "intensity": 0,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1025,7 +1029,7 @@
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "first_seen": "2026-07-30",
       "last_seen": "2026-08-02",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1087,44 +1091,8 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
-        },
-        {
-          "lat": 50.76163129503481,
-          "lon": 19.024353967869853
-        },
-        {
-          "lat": 50.25640800764771,
-          "lon": 20.485090922329015
-        },
-        {
-          "lat": 50.27951507766324,
-          "lon": 19.93900006647303
-        },
-        {
-          "lat": 52.72821126406808,
-          "lon": 16.34274847312999
-        },
-        {
-          "lat": 53.57140967915636,
-          "lon": 20.1064498528398
         }
       ]
-    },
-    {
-      "id": "wildfire-t-rkei",
-      "type": "wildfire",
-      "location": {
-        "name": "Türkei",
-        "lat": 38.9637,
-        "lon": 35.2433
-      },
-      "label": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-gaza",
@@ -1268,7 +1236,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-03",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1299,8 +1267,8 @@
       "label": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-05",
-      "intensity": 7,
+      "last_seen": "2026-08-06",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1316,7 +1284,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-05",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1398,26 +1366,6 @@
         {
           "lat": 48.10877043449932,
           "lon": 32.718501411423084
-        },
-        {
-          "lat": 45.281535330256226,
-          "lon": 32.16346277194958
-        },
-        {
-          "lat": 45.93619832181691,
-          "lon": 32.982727443439934
-        },
-        {
-          "lat": 46.70654183103331,
-          "lon": 32.362475380263284
-        },
-        {
-          "lat": 44.94844760647648,
-          "lon": 27.97693332644422
-        },
-        {
-          "lat": 47.833315655745295,
-          "lon": 28.090696202955254
         }
       ]
     },
@@ -1432,8 +1380,8 @@
       "label": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-05",
-      "intensity": 2,
+      "last_seen": "2026-08-06",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1515,6 +1463,26 @@
         {
           "lat": 55.037204315231115,
           "lon": 6.945824285404948
+        },
+        {
+          "lat": 58.601753073919625,
+          "lon": 6.911907157288609
+        },
+        {
+          "lat": 57.77335295638159,
+          "lon": 12.244324275030596
+        },
+        {
+          "lat": 53.731976364711876,
+          "lon": 10.574313362875328
+        },
+        {
+          "lat": 54.61834035878275,
+          "lon": 10.261630519035418
+        },
+        {
+          "lat": 53.91082522926418,
+          "lon": 10.220118438091854
         }
       ]
     },
@@ -1530,10 +1498,103 @@
       "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05",
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-m-nchen",
+      "type": "protest",
+      "location": {
+        "name": "München",
+        "lat": 48.1351,
+        "lon": 11.582
+      },
+      "label": "Lebenslange Haft nach Auto-Anschlag auf ver.di-Demo in München",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-verdi-demonstration-100.html",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-israel",
+      "type": "conflict",
+      "location": {
+        "name": "Israel",
+        "lat": 31.0461,
+        "lon": 34.8516
+      },
+      "label": "Israel bestätigt Tod zweier Soldaten im Libanon",
+      "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 33.66674323612038,
+          "lon": 35.19046252887055
+        },
+        {
+          "lat": 31.184756386439375,
+          "lon": 32.58215950010441
+        },
+        {
+          "lat": 32.43053201323609,
+          "lon": 34.225987581919874
+        },
+        {
+          "lat": 29.83770240939623,
+          "lon": 36.90332819808398
+        },
+        {
+          "lat": 29.223870797437467,
+          "lon": 35.960042034597606
+        },
+        {
+          "lat": 32.15285766321522,
+          "lon": 36.87970884989521
+        },
+        {
+          "lat": 32.065266119866806,
+          "lon": 34.76072980048664
+        },
+        {
+          "lat": 33.95746345265232,
+          "lon": 35.91208745942779
+        },
+        {
+          "lat": 29.576879213535314,
+          "lon": 36.828758643998476
+        },
+        {
+          "lat": 32.885738951895675,
+          "lon": 37.37357189804212
+        },
+        {
+          "lat": 33.667045385569,
+          "lon": 33.15317554738726
+        },
+        {
+          "lat": 29.549608924856667,
+          "lon": 34.40519982712045
+        },
+        {
+          "lat": 32.82189403034779,
+          "lon": 36.296864544441654
+        },
+        {
+          "lat": 33.22593395540617,
+          "lon": 36.612669738017644
+        },
+        {
+          "lat": 33.23906464817435,
+          "lon": 36.00755101522187
+        }
+      ]
     }
   ],
-  "updated_at": "2026-08-05"
+  "updated_at": "2026-08-06"
 }
