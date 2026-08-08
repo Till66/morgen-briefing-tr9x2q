@@ -10,7 +10,7 @@
       },
       "label": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj hofft auf Kriegsende bis Herbst",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -435,22 +435,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html"
     },
     {
-      "id": "wildfire-spanien",
-      "type": "wildfire",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Waldbrände in Spanien: \"Das wird alles brennen\"",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-124.html",
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-usa",
       "type": "conflict",
       "location": {
@@ -461,8 +445,8 @@
       "label": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-07",
-      "intensity": 6,
+      "last_seen": "2026-08-08",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -624,6 +608,26 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
         }
       ]
     },
@@ -638,8 +642,8 @@
       "label": "Kündigungen wegen des Iran-Kriegs: \"Schlechte Stimmung in der US-Truppe\"",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-armee-kuendigungen-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-07",
-      "intensity": 7,
+      "last_seen": "2026-08-08",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -821,6 +825,26 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -835,7 +859,7 @@
       "label": "Kiew wieder unter russischem Raketenbeschuss",
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1042,22 +1066,6 @@
       ]
     },
     {
-      "id": "wildfire-frankreich",
-      "type": "wildfire",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Frankreich und Spanien melden leichte Entspannung bei Waldbränden",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html",
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-31",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-polen",
       "type": "conflict",
       "location": {
@@ -1172,63 +1180,6 @@
       ]
     },
     {
-      "id": "conflict-spanien",
-      "type": "conflict",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-08-01",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 40.92892614533669,
-          "lon": -4.11890833208638
-        },
-        {
-          "lat": 39.99204498382368,
-          "lon": -2.76568715045687
-        },
-        {
-          "lat": 43.39012705001087,
-          "lon": -5.665524367960059
-        },
-        {
-          "lat": 38.52308602775787,
-          "lon": -1.7981199252447393
-        },
-        {
-          "lat": 43.225527317476704,
-          "lon": -6.517750873680169
-        },
-        {
-          "lat": 43.121711165833574,
-          "lon": -0.9543041424751992
-        },
-        {
-          "lat": 41.34013998905002,
-          "lon": -6.503827340881766
-        },
-        {
-          "lat": 40.651699000583776,
-          "lon": -6.262031853123576
-        },
-        {
-          "lat": 39.74048583615385,
-          "lon": -2.7980242004180385
-        },
-        {
-          "lat": 42.55157622980026,
-          "lon": -4.17985853543362
-        }
-      ]
-    },
-    {
       "id": "storm-schweiz",
       "type": "storm",
       "location": {
@@ -1256,7 +1207,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-03",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1268,11 +1219,11 @@
         "lat": 41.8719,
         "lon": 12.5674
       },
-      "label": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "label": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
-      "intensity": 0,
+      "last_seen": "2026-08-08",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1288,7 +1239,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1304,7 +1255,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-05",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1346,26 +1297,6 @@
         {
           "lat": 48.5006436960162,
           "lon": 29.76639298331921
-        },
-        {
-          "lat": 46.45345339535059,
-          "lon": 28.73879308118771
-        },
-        {
-          "lat": 45.56873176954832,
-          "lon": 29.177650941687435
-        },
-        {
-          "lat": 47.38852296355787,
-          "lon": 30.486131348637777
-        },
-        {
-          "lat": 46.02989102175166,
-          "lon": 29.599870756518413
-        },
-        {
-          "lat": 43.790195752547056,
-          "lon": 33.216098094519594
         }
       ]
     },
@@ -1381,7 +1312,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-07",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1483,26 +1414,6 @@
         {
           "lat": 53.91082522926418,
           "lon": 10.220118438091854
-        },
-        {
-          "lat": 55.84667001804271,
-          "lon": 11.253843618530045
-        },
-        {
-          "lat": 55.140406052416864,
-          "lon": 11.280430094783991
-        },
-        {
-          "lat": 57.50285875975465,
-          "lon": 9.238199179030302
-        },
-        {
-          "lat": 54.597443919337344,
-          "lon": 12.126060598706141
-        },
-        {
-          "lat": 53.36271230632281,
-          "lon": 6.943754936003767
         }
       ]
     },
@@ -1549,8 +1460,8 @@
       "label": "Israel bestätigt Tod zweier Soldaten im Libanon",
       "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07",
-      "intensity": 2,
+      "last_seen": "2026-08-08",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1632,9 +1543,61 @@
         {
           "lat": 30.252966243436667,
           "lon": 32.82542904472151
+        },
+        {
+          "lat": 31.285475273985643,
+          "lon": 36.331246478425626
+        },
+        {
+          "lat": 28.88897232971817,
+          "lon": 33.41756507541043
+        },
+        {
+          "lat": 28.511118126756188,
+          "lon": 32.22067220640431
+        },
+        {
+          "lat": 32.40886875537885,
+          "lon": 34.43456164231909
+        },
+        {
+          "lat": 30.55955133793388,
+          "lon": 34.87682500721394
         }
       ]
+    },
+    {
+      "id": "storm-madrid",
+      "type": "storm",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "label": "Ceuta-Krise - Madrid droht Rom im Streit um Grenzkontrollen",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "disaster-ungarn",
+      "type": "disaster",
+      "location": {
+        "name": "Ungarn",
+        "lat": 47.1625,
+        "lon": 19.5033
+      },
+      "label": "Ungarn schaltet Licht an Wahrzeichen wegen Energiekrise ab",
+      "url": "https://www.tagesschau.de/ausland/europa/ungarn-energiesparen-niedrigwasser-100.html",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-08-07"
+  "updated_at": "2026-08-08"
 }
