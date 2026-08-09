@@ -10,7 +10,7 @@
       },
       "label": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Selenskyj hofft auf Kriegsende bis Herbst",
+      "label": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html"
     },
     {
       "id": "conflict-usa",
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -608,26 +608,6 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
     },
@@ -642,7 +622,7 @@
       "label": "Kündigungen wegen des Iran-Kriegs: \"Schlechte Stimmung in der US-Truppe\"",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-armee-kuendigungen-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -859,7 +839,7 @@
       "label": "Kiew wieder unter russischem Raketenbeschuss",
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1066,136 +1046,6 @@
       ]
     },
     {
-      "id": "conflict-polen",
-      "type": "conflict",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "label": "Rakete in Polens Luftraum alarmiert NATO",
-      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-08-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 51.009310247384086,
-          "lon": 19.52671016241219
-        },
-        {
-          "lat": 51.268867333021916,
-          "lon": 20.220932986290528
-        },
-        {
-          "lat": 52.50150158152089,
-          "lon": 21.541303291927512
-        },
-        {
-          "lat": 52.426743978040705,
-          "lon": 20.054672188255743
-        },
-        {
-          "lat": 49.023836888849466,
-          "lon": 19.830324861298973
-        },
-        {
-          "lat": 51.99265653104886,
-          "lon": 21.201858155826656
-        },
-        {
-          "lat": 50.72566490754222,
-          "lon": 19.67325012064021
-        },
-        {
-          "lat": 51.43218876664881,
-          "lon": 19.400413936447563
-        },
-        {
-          "lat": 52.83624476749898,
-          "lon": 19.739278216437384
-        },
-        {
-          "lat": 54.68723291757289,
-          "lon": 18.97683596971476
-        }
-      ]
-    },
-    {
-      "id": "conflict-gaza",
-      "type": "conflict",
-      "location": {
-        "name": "Gaza",
-        "lat": 31.5,
-        "lon": 34.47
-      },
-      "label": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
-      "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-08-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 33.99088596447624,
-          "lon": 37.00237641731565
-        },
-        {
-          "lat": 33.6317900654701,
-          "lon": 34.939312186229344
-        },
-        {
-          "lat": 33.717993414778725,
-          "lon": 34.21031090707059
-        },
-        {
-          "lat": 31.102891843906345,
-          "lon": 35.243221978399255
-        },
-        {
-          "lat": 32.67631720569365,
-          "lon": 33.69207499160945
-        },
-        {
-          "lat": 30.889221001041406,
-          "lon": 33.74611917589701
-        },
-        {
-          "lat": 30.527281604247932,
-          "lon": 34.584698458256824
-        },
-        {
-          "lat": 28.991904489344897,
-          "lon": 35.53996505476301
-        },
-        {
-          "lat": 32.90611084746339,
-          "lon": 33.807677410882356
-        },
-        {
-          "lat": 32.88771255043981,
-          "lon": 32.23738530648113
-        }
-      ]
-    },
-    {
-      "id": "storm-schweiz",
-      "type": "storm",
-      "location": {
-        "name": "Schweiz",
-        "lat": 46.8182,
-        "lon": 8.2275
-      },
-      "label": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "storm-spanien",
       "type": "storm",
       "location": {
@@ -1222,8 +1072,8 @@
       "label": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-08",
-      "intensity": 1,
+      "last_seen": "2026-08-09",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1239,7 +1089,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1312,7 +1162,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-07",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1394,26 +1244,6 @@
         {
           "lat": 55.037204315231115,
           "lon": 6.945824285404948
-        },
-        {
-          "lat": 58.601753073919625,
-          "lon": 6.911907157288609
-        },
-        {
-          "lat": 57.77335295638159,
-          "lon": 12.244324275030596
-        },
-        {
-          "lat": 53.731976364711876,
-          "lon": 10.574313362875328
-        },
-        {
-          "lat": 54.61834035878275,
-          "lon": 10.261630519035418
-        },
-        {
-          "lat": 53.91082522926418,
-          "lon": 10.220118438091854
         }
       ]
     },
@@ -1461,7 +1291,7 @@
       "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-08",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1543,26 +1373,6 @@
         {
           "lat": 30.252966243436667,
           "lon": 32.82542904472151
-        },
-        {
-          "lat": 31.285475273985643,
-          "lon": 36.331246478425626
-        },
-        {
-          "lat": 28.88897232971817,
-          "lon": 33.41756507541043
-        },
-        {
-          "lat": 28.511118126756188,
-          "lon": 32.22067220640431
-        },
-        {
-          "lat": 32.40886875537885,
-          "lon": 34.43456164231909
-        },
-        {
-          "lat": 30.55955133793388,
-          "lon": 34.87682500721394
         }
       ]
     },
@@ -1577,8 +1387,8 @@
       "label": "Ceuta-Krise - Madrid droht Rom im Streit um Grenzkontrollen",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-08",
-      "intensity": 1,
+      "last_seen": "2026-08-09",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1594,10 +1404,26 @@
       "url": "https://www.tagesschau.de/ausland/europa/ungarn-energiesparen-niedrigwasser-100.html",
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-08",
+      "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-italien",
+      "type": "wildfire",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-08-08"
+  "updated_at": "2026-08-09"
 }
