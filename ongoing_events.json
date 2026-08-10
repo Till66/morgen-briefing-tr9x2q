@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
+      "label": "Ukraine meldet Tote bei Luftangriffen auf Vorort von Kiew",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-10",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-angriffe-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
+      "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-10",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html"
     },
     {
       "id": "conflict-usa",
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -588,26 +588,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -619,10 +599,10 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Kündigungen wegen des Iran-Kriegs: \"Schlechte Stimmung in der US-Truppe\"",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-armee-kuendigungen-iran-100.html",
+      "label": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
+      "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-10",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -840,7 +820,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1022,44 +1002,8 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
-    },
-    {
-      "id": "storm-spanien",
-      "type": "storm",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-03",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "storm-italien",
@@ -1072,8 +1016,8 @@
       "label": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-09",
-      "intensity": 2,
+      "last_seen": "2026-08-10",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1089,7 +1033,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1162,7 +1106,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-07",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1224,26 +1168,6 @@
         {
           "lat": 58.74128806472099,
           "lon": 11.930517503191139
-        },
-        {
-          "lat": 55.698485290130826,
-          "lon": 7.044653257745237
-        },
-        {
-          "lat": 55.50270912741618,
-          "lon": 10.279341455295295
-        },
-        {
-          "lat": 58.85686840466395,
-          "lon": 10.662578073631407
-        },
-        {
-          "lat": 54.78137488545195,
-          "lon": 11.048281351961027
-        },
-        {
-          "lat": 55.037204315231115,
-          "lon": 6.945824285404948
         }
       ]
     },
@@ -1291,7 +1215,7 @@
       "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-08",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1353,26 +1277,6 @@
         {
           "lat": 33.23906464817435,
           "lon": 36.00755101522187
-        },
-        {
-          "lat": 33.63403254745843,
-          "lon": 33.76483443453601
-        },
-        {
-          "lat": 30.501726895757304,
-          "lon": 34.609262920457695
-        },
-        {
-          "lat": 31.49867832283447,
-          "lon": 33.31910561508059
-        },
-        {
-          "lat": 32.3832819537918,
-          "lon": 37.060095255841055
-        },
-        {
-          "lat": 30.252966243436667,
-          "lon": 32.82542904472151
         }
       ]
     },
@@ -1388,7 +1292,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1419,11 +1323,27 @@
       "label": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
       "first_seen": "2026-08-09",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-10",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-spanien",
+      "type": "wildfire",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-08-09"
+  "updated_at": "2026-08-10"
 }
