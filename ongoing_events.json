@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine meldet Tote bei Luftangriffen auf Vorort von Kiew",
+      "label": "Ukraine und Serbien wollen stärker kooperieren - trotz Belgrads Kreml-Nähe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-angriffe-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-serbien-vucic-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,26 +568,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -602,7 +582,7 @@
       "label": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
       "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -820,7 +800,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -982,26 +962,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -1017,7 +977,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-10",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1033,7 +993,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1106,7 +1066,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-07",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1148,26 +1108,6 @@
         {
           "lat": 55.880558931275985,
           "lon": 7.927353202029678
-        },
-        {
-          "lat": 53.37203660782485,
-          "lon": 7.939622049352764
-        },
-        {
-          "lat": 56.93653629885219,
-          "lon": 8.96865121964357
-        },
-        {
-          "lat": 54.1211841712407,
-          "lon": 8.554904287957097
-        },
-        {
-          "lat": 55.84957608394326,
-          "lon": 9.840333175955184
-        },
-        {
-          "lat": 58.74128806472099,
-          "lon": 11.930517503191139
         }
       ]
     },
@@ -1215,7 +1155,7 @@
       "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-08",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1257,26 +1197,6 @@
         {
           "lat": 32.885738951895675,
           "lon": 37.37357189804212
-        },
-        {
-          "lat": 33.667045385569,
-          "lon": 33.15317554738726
-        },
-        {
-          "lat": 29.549608924856667,
-          "lon": 34.40519982712045
-        },
-        {
-          "lat": 32.82189403034779,
-          "lon": 36.296864544441654
-        },
-        {
-          "lat": 33.22593395540617,
-          "lon": 36.612669738017644
-        },
-        {
-          "lat": 33.23906464817435,
-          "lon": 36.00755101522187
         }
       ]
     },
@@ -1292,7 +1212,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-09",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1324,7 +1244,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
       "first_seen": "2026-08-09",
       "last_seen": "2026-08-10",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1336,14 +1256,14 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html",
+      "label": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
+      "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "intensity": 1,
+      "last_seen": "2026-08-11",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-08-10"
+  "updated_at": "2026-08-11"
 }
