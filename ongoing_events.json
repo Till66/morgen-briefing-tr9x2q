@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine und Serbien wollen stärker kooperieren - trotz Belgrads Kreml-Nähe",
+      "label": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-serbien-vucic-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -548,26 +548,6 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
-        },
-        {
-          "lat": 37.912293099314276,
-          "lon": -92.94674763864657
-        },
-        {
-          "lat": 34.091124287829764,
-          "lon": -93.97216174578706
-        },
-        {
-          "lat": 38.516843244090175,
-          "lon": -93.15389588562758
-        },
-        {
-          "lat": 37.95085245789026,
-          "lon": -95.99543142612114
-        },
-        {
-          "lat": 39.36966268424379,
-          "lon": -98.28475842366234
         }
       ]
     },
@@ -583,7 +563,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-11",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -765,26 +745,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
         }
       ]
     },
@@ -800,7 +760,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -942,26 +902,6 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
-        },
-        {
-          "lat": 53.43557468008135,
-          "lon": 33.214243411649306
-        },
-        {
-          "lat": 49.21286349084516,
-          "lon": 29.8246017682896
-        },
-        {
-          "lat": 51.043292299267556,
-          "lon": 28.402064929624334
-        },
-        {
-          "lat": 53.29054301459576,
-          "lon": 33.39491082369301
-        },
-        {
-          "lat": 48.159000078364855,
-          "lon": 30.26382984627663
         }
       ]
     },
@@ -977,7 +917,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-10",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -993,66 +933,9 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-odessa",
-      "type": "conflict",
-      "location": {
-        "name": "Odessa",
-        "lat": 46.4825,
-        "lon": 30.7233
-      },
-      "label": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-05",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 46.039610408450734,
-          "lon": 28.7101513985972
-        },
-        {
-          "lat": 44.03294887972773,
-          "lon": 31.955986232363962
-        },
-        {
-          "lat": 46.280951690654845,
-          "lon": 29.176513189135587
-        },
-        {
-          "lat": 46.83688834208865,
-          "lon": 29.108510522307363
-        },
-        {
-          "lat": 48.882061653705215,
-          "lon": 30.340868911197028
-        },
-        {
-          "lat": 47.97583338031856,
-          "lon": 33.1996179583187
-        },
-        {
-          "lat": 43.7157787574812,
-          "lon": 29.927747673215634
-        },
-        {
-          "lat": 45.80915016928843,
-          "lon": 28.515150466931203
-        },
-        {
-          "lat": 44.6523360240948,
-          "lon": 31.923201840230426
-        },
-        {
-          "lat": 48.5006436960162,
-          "lon": 29.76639298331921
-        }
-      ]
     },
     {
       "id": "conflict-d-nemark",
@@ -1110,22 +993,6 @@
           "lon": 7.927353202029678
         }
       ]
-    },
-    {
-      "id": "wildfire-deutschland",
-      "type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
-      "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "protest-m-nchen",
@@ -1244,7 +1111,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
       "first_seen": "2026-08-09",
       "last_seen": "2026-08-10",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1259,11 +1126,88 @@
       "label": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-11",
-      "intensity": 3,
+      "last_seen": "2026-08-12",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-schweiz",
+      "type": "conflict",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "label": "Volksinitiative: Will die Schweiz noch neutraler werden?",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 48.914727605572836,
+          "lon": 5.259496774028985
+        },
+        {
+          "lat": 46.44655627250102,
+          "lon": 6.043143454626119
+        },
+        {
+          "lat": 46.64835912138628,
+          "lon": 8.496550361418409
+        },
+        {
+          "lat": 49.03554715607421,
+          "lon": 7.155870395658623
+        },
+        {
+          "lat": 49.32258204116756,
+          "lon": 8.481700700962497
+        },
+        {
+          "lat": 45.59653208250308,
+          "lon": 11.157014462577532
+        },
+        {
+          "lat": 45.0266226490018,
+          "lon": 10.918739967870348
+        },
+        {
+          "lat": 44.92035989106851,
+          "lon": 10.940042854182547
+        },
+        {
+          "lat": 43.950094147054266,
+          "lon": 8.366888105631663
+        },
+        {
+          "lat": 44.4042445579947,
+          "lon": 8.46405493260281
+        },
+        {
+          "lat": 44.39745023757369,
+          "lon": 8.690759134782304
+        },
+        {
+          "lat": 48.65713087944922,
+          "lon": 7.81734492127547
+        },
+        {
+          "lat": 43.935721963109614,
+          "lon": 8.94611363614877
+        },
+        {
+          "lat": 47.821579204776924,
+          "lon": 6.504279991871858
+        },
+        {
+          "lat": 47.76184917882337,
+          "lon": 10.448911370491006
+        }
+      ]
     }
   ],
-  "updated_at": "2026-08-11"
+  "updated_at": "2026-08-12"
 }
