@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "label": "Mindestens neun Tote: Neue russische Luftangriffe auf Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -528,26 +528,6 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
-        },
-        {
-          "lat": 39.21289723441515,
-          "lon": -95.3185407491224
-        },
-        {
-          "lat": 34.85938201632081,
-          "lon": -98.08926331314602
-        },
-        {
-          "lat": 36.48879791435269,
-          "lon": -96.03788115844209
-        },
-        {
-          "lat": 37.97230655513269,
-          "lon": -93.49135820988958
-        },
-        {
-          "lat": 35.67827396692878,
-          "lon": -95.01808241792573
         }
       ]
     },
@@ -563,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-11",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -725,26 +705,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
         }
       ]
     },
@@ -760,7 +720,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -882,26 +842,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -917,7 +857,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-10",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -933,7 +873,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-06",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -993,22 +933,6 @@
           "lon": 7.927353202029678
         }
       ]
-    },
-    {
-      "id": "protest-m-nchen",
-      "type": "protest",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "label": "Lebenslange Haft nach Auto-Anschlag auf ver.di-Demo in München",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-verdi-demonstration-100.html",
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-israel",
@@ -1127,7 +1051,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1142,8 +1066,8 @@
       "label": "Volksinitiative: Will die Schweiz noch neutraler werden?",
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "intensity": 1,
+      "last_seen": "2026-08-13",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1205,9 +1129,29 @@
         {
           "lat": 47.76184917882337,
           "lon": 10.448911370491006
+        },
+        {
+          "lat": 46.100550875037335,
+          "lon": 5.726467261169796
+        },
+        {
+          "lat": 44.20566566148183,
+          "lon": 8.989085961971801
+        },
+        {
+          "lat": 45.27748271381633,
+          "lon": 9.306299156024771
+        },
+        {
+          "lat": 46.10938897167295,
+          "lon": 10.563858827849934
+        },
+        {
+          "lat": 44.80608860602953,
+          "lon": 7.728708598842194
         }
       ]
     }
   ],
-  "updated_at": "2026-08-12"
+  "updated_at": "2026-08-13"
 }
