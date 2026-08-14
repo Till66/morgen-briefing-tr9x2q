@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Mindestens neun Tote: Neue russische Luftangriffe auf Ukraine",
+      "label": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-08",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -508,26 +508,6 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
-        },
-        {
-          "lat": 34.116119926358834,
-          "lon": -93.2073491890479
-        },
-        {
-          "lat": 39.004944855583354,
-          "lon": -94.7579894185447
-        },
-        {
-          "lat": 39.89036589951706,
-          "lon": -94.34687975210892
-        },
-        {
-          "lat": 38.00759246619805,
-          "lon": -98.6588583219015
-        },
-        {
-          "lat": 34.517970304127545,
-          "lon": -93.35953343984788
         }
       ]
     },
@@ -543,7 +523,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-11",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -685,26 +665,6 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
-        },
-        {
-          "lat": 34.014725501310366,
-          "lon": 53.587224353697906
-        },
-        {
-          "lat": 31.855449622586825,
-          "lon": 52.18681148699178
-        },
-        {
-          "lat": 30.93758572811915,
-          "lon": 51.728242291763486
-        },
-        {
-          "lat": 33.597548523016286,
-          "lon": 53.25045432155264
-        },
-        {
-          "lat": 33.89578415370227,
-          "lon": 55.43893438680073
         }
       ]
     },
@@ -720,7 +680,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -822,26 +782,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -860,79 +800,6 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "wildfire-griechenland",
-      "type": "wildfire",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-06",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "conflict-d-nemark",
-      "type": "conflict",
-      "location": {
-        "name": "Dänemark",
-        "lat": 56.2639,
-        "lon": 9.5018
-      },
-      "label": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
-      "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.47345415982976,
-          "lon": 10.294876442506414
-        },
-        {
-          "lat": 56.178150724230484,
-          "lon": 11.628730696220819
-        },
-        {
-          "lat": 57.16885548767619,
-          "lon": 7.913228207394534
-        },
-        {
-          "lat": 54.54599891432945,
-          "lon": 10.465742515189746
-        },
-        {
-          "lat": 57.21232866015351,
-          "lon": 9.426960042225653
-        },
-        {
-          "lat": 56.98324367476947,
-          "lon": 12.280545782510085
-        },
-        {
-          "lat": 54.833197074705666,
-          "lon": 6.636977564838709
-        },
-        {
-          "lat": 56.26968995817476,
-          "lon": 8.591539408830585
-        },
-        {
-          "lat": 54.89373130096221,
-          "lon": 11.68032699458099
-        },
-        {
-          "lat": 55.880558931275985,
-          "lon": 7.927353202029678
-        }
-      ]
     },
     {
       "id": "conflict-israel",
@@ -1051,7 +918,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1067,7 +934,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-13",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1129,29 +996,9 @@
         {
           "lat": 47.76184917882337,
           "lon": 10.448911370491006
-        },
-        {
-          "lat": 46.100550875037335,
-          "lon": 5.726467261169796
-        },
-        {
-          "lat": 44.20566566148183,
-          "lon": 8.989085961971801
-        },
-        {
-          "lat": 45.27748271381633,
-          "lon": 9.306299156024771
-        },
-        {
-          "lat": 46.10938897167295,
-          "lon": 10.563858827849934
-        },
-        {
-          "lat": 44.80608860602953,
-          "lon": 7.728708598842194
         }
       ]
     }
   ],
-  "updated_at": "2026-08-13"
+  "updated_at": "2026-08-14"
 }
