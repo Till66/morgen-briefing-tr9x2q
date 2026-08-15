@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:40:29.047781+00:00",
+  "generated_at": "2026-08-15T04:35:35.981702+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,86 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Kampf gegen die Flammen im Hürtgenwald",
+      "summary": "Seit Tagen brennt es im Hürtgenwald in der Eifel. Auch in der Nacht gingen die Löscharbeiten weiter. Die Feuerwehr musste ihre Einsatzzentrale verlegen - der Wind hatte sich gedreht.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 15 Aug 2026 05:51:24 +0200"
+    },
+    {
+      "title": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
+      "summary": "Seit Wochen gibt es kaum Regen, dazu extreme Temperaturen und jetzt einen Waldbrand in der Eifel. Feuerökologe Alexander Held sieht darin einen \"doppelten Weckruf\". Wie gut ist Deutschland auf solche Gefahren vorbereitet?",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 18:49:59 +0200"
+    },
+    {
+      "title": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 15 Aug 2026 00:53:28 +0200"
+    },
+    {
+      "title": "Waldbrände: Grüne fordern Merz zum Handeln auf",
+      "summary": "Mehr Schutz vor Waldbränden: Die Grünen-Bundestagsfraktion fordert in einem dem ARD-Hauptstadtstudio vorliegenden Papier von der Bundesregierung konkrete Maßnahmen. Am Kanzler gibt es klare Kritik. Von Birthe Sönnichsen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 16:47:02 +0200"
+    },
+    {
+      "title": "Deutschland und Afghanistan: Zwischen Abschiebungen und Hilfe",
+      "summary": "Seit fünf Jahren sind die Taliban zurück an der Macht in Afghanistan. Deutschland erkennt sie nicht an, führt aber Gespräche, um abschieben zu können. Bei der Hilfe vor Ort geht die Bundesregierung andere Wege. Von Gabor Halasz.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/taliban-afghanistan-bundesregierung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 12:08:29 +0200"
+    },
     {
       "title": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
       "summary": "Angesichts hoher Spritpreise spricht Grünen-Fraktionschefin Dröge von \"Abzocke\" - und die Bundesregierung schaue zu. Sie fordert eine Übergewinnsteuer für Mineralölkonzerne. Einnahmen daraus könnten an die Bürger weitergegeben werden.",
@@ -93,11 +173,27 @@
       "published": "Thu, 13 Aug 2026 18:02:24 +0200"
     },
     {
-      "title": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
-      "summary": "Die Pegel im Rhein erreichen historische Tiefststände. Wo sonst Wasser fließt, kommen Kampfmittel, Munitionsreste und Blindgänger aus dem Zweiten Weltkrieg zutage. Der Kampfmittelräumdienst ist im Dauereinsatz. Von Lucretia Gather.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
-      "category": "politik",
+      "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+      "summary": "Probleme auf dem Arbeitsmarkt, eine hartnäckig hohe Inflation und noch höhere Renditen für langlaufende US-Staatsanleihen. All das belastet die Wirtschaft und die Notenbanker - auch in Europa. Von Melanie Böff.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 15 Aug 2026 04:13:14 +0200"
+    },
+    {
+      "title": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
+      "summary": "Über den Ausbau der Fahrrinne im Rhein wird seit Jahrzehnten diskutiert. Wegen des Niedrigwassers werden die Forderungen danach wieder lauter. Warum ist bislang nichts passiert? Von L. Colic, T. Peters, V. Schmidberger.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -106,30 +202,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 17:30:17 +0200"
+      "published": "Fri, 14 Aug 2026 16:01:01 +0200"
     },
     {
-      "title": "Was könnte gegen Niedrigwasser helfen?",
-      "summary": "Das Niedrigwasser in Deutschland belastet die Wirtschaft. Auf der Suche nach Lösungen wird auch ein Ausbau der Flüsse diskutiert. Das zieht Kritik nach sich. Welche Argumente und mögliche Alternativen gibt es? Ein Überblick.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 17:29:49 +0200"
-    },
-    {
-      "title": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
-      "summary": "Das Amtsgericht Chemnitz hat Haftbefehl gegen den AfD-Politiker Krah erlassen. Es geht dabei um eine juristische Auseinandersetzung mit dem Moderator Böhmermann und mutmaßlich versäumte Zahlungen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
-      "category": "politik",
+      "title": "Mehr Hitzewellen: Städte brauchen Abkühlung - doch wer bezahlt?",
+      "summary": "Viele Kommunen sind kaum vorbereitet auf Hitzewellen. Die Folgen für Mensch und Natur sind gravierend, die volkswirtschaftlichen Schäden hoch. Dagegen anzugehen ist vor allem für kleine Städte ein finanzieller Kraftakt. Von Jan Koch.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klima-staedte-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -138,39 +218,84 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 16:50:05 +0200"
+      "published": "Fri, 14 Aug 2026 10:16:22 +0200"
     },
     {
-      "title": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
-      "summary": "Könnten bald Raketen von Deutschland aus starten? Die Bundesregierung prüft den Aufbau einer eigenen Startbasis für Trägerraketen der Bundeswehr, um militärische Satelliten unabhängig ins All zu befördern. Von Bianca Schwarz.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/raketen-bundeswehr-startbasis-100.html",
-      "category": "politik",
+      "title": "Bauernverband befürchtet teils totalen Ernteausfall",
+      "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Deutschland",
+        "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 14:40:16 +0200"
+      "published": "Fri, 14 Aug 2026 14:29:08 +0200"
     },
     {
-      "title": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
-      "summary": "Vor 65 Jahren begann der Bau der Mauer in Berlin. Bei der zentralen Gedenkfeier haben Spitzenpolitiker dazu gemahnt, die Erinnerung an die deutsche Teilung wachzuhalten - und vor einer Verklärung der Geschichte gewarnt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
-      "category": "politik",
-      "event_type": "tension",
+      "title": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
+      "summary": "Auf stark belasteten Strecken muss die DB Kapazitäten für Konkurrenten freiräumen - so hat es die Bundesnetzagentur beschlossen. Das könnte in der Praxis zu massiven Problemen führen, kritisiert die Bahn. Jetzt klagt sie.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 13:36:06 +0200"
+      "published": "Fri, 14 Aug 2026 16:12:58 +0200"
+    },
+    {
+      "title": "Starke Geschäfte bei DAX-Konzernen - aber auch Stellenabbau",
+      "summary": "Zehntausende Industriejobs sind im ersten Halbjahr gestrichen worden. Auch DAX-Konzerne haben Arbeitsplätze abgebaut - obwohl in der obersten Börsenliga zuletzt so viel verdient wurde wie nie. Wie passt das zusammen? Von Bianca von der Au.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/stellenabbau-dax-konzerne-rekordgewinne-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 14:44:16 +0200"
+    },
+    {
+      "title": "USA wollen mit Zöllen auf Drohnen China treffen",
+      "summary": "Die USA wollen bei Drohnen aufholen - und vor allem unabhängiger von Importen aus China werden. Daher werden nun Zölle von bis zu 100 Prozent verhängt. Das dürfte den Handelsstreit mit Peking weiter verschärfen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/drohne-usa-zoll-china-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "China",
+            "lat": 35.8617,
+            "lon": 104.1954
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 08:12:30 +0200"
     },
     {
       "title": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
@@ -189,12 +314,12 @@
       "published": "Fri, 14 Aug 2026 06:00:13 +0200"
     },
     {
-      "title": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
+      "summary": "Auf den Straßen ist auffallend viel Polizei. Militärangehörige wurden aus dem Urlaub geholt. Stacheldrahtzäune verstärkt. In Ceuta wird ein neuer Massenandrang von Migranten befürchtet. Der Grund: falsche Gerüchte. Von Franka Welz.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -202,103 +327,55 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 02:47:51 +0200"
+      "published": "Sat, 15 Aug 2026 03:10:58 +0200"
     },
     {
-      "title": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"",
-      "summary": "Das Niedrigwasser in den Flüssen wirkt sich auch auf die Kraftwerke in Deutschland aus. Das Wasserkraftwerk in Reckingen am Hochrhein produziert weniger Strom. Der Klimawandel dürfte das Problem verschärfen. Von L. Bisch und P. Jehle.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
+      "summary": "Jugendliche in Schweden können künftig früher und härter bestraft werden: Das Parlament senkte das Alter für Strafmündigkeit und strich Strafmilderungen. Die Maßnahmen sollen die wachsende Jugendkriminalität bekämpfen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 15:37:15 +0200"
+      "published": "Fri, 14 Aug 2026 10:18:08 +0200"
     },
     {
-      "title": "Was könnte gegen Niedrigwasser helfen?",
-      "summary": "Das Niedrigwasser in Deutschland belastet die Wirtschaft. Auf der Suche nach Lösungen wird auch ein Ausbau der Flüsse diskutiert. Das zieht Kritik nach sich. Welche Argumente und mögliche Alternativen gibt es? Ein Überblick.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
+      "summary": "Im Iran-Krieg ist ein Frieden immer noch nicht absehbar. Nun hat US-Präsident Trump angedroht: Bald schon wolle er die Straße von Hormus zu US-Territorium erklären. Iran reagierte umgehend.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 17:29:49 +0200"
+      "published": "Sat, 15 Aug 2026 03:12:08 +0200"
     },
     {
-      "title": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
-      "summary": "Weil die Donau zu wenig Wasser führt, muss Rumänien sein einziges Atomkraftwerk ganz herunterfahren. Damit fällt ein Fünftel der Stromproduktion des Landes aus. Wie die Menschen in Rumänien mit der Energiekrise umgehen, berichtet Silke Hahne.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
+      "summary": "Bisher hatte US-Präsident Trump die Angriffe in Iran vor allem mit dem Atomprogramm des Landes begründet. Vizepräsident Vance sagte nun, wichtigstes Ziel sei es, Öl und Gas für die Amerikaner bezahlbar zu halten.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 16:32:46 +0200"
-    },
-    {
-      "title": "Trockenheit und Dürre: Getreideernte in Deutschland leidet stark",
-      "summary": "Die Hitze im Sommer hat zu großen Verlusten auf deutschen Getreidefeldern geführt. Der Raiffeisenverband rechnet mit einer unterdurchschnittlichen, aber zumindest noch ausreichenden Ernte.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 15:20:02 +0200"
-    },
-    {
-      "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
-      "summary": "Die Pegelstände des Rheins sinken weiter - was die Logistik massiv stört. Gleichzeitig leidet die Landwirtschaft stark unter der anhaltenden Trockenheit. Woran sind die Folgen im Alltag bereits zu merken? Von Jens Eberl.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 06:00:09 +0200"
-    },
-    {
-      "title": "Weitere Bundesländer lockern Sonntagsfahrverbote für Lkw",
-      "summary": "Niedrige Wasserstände in deutschen Flüssen zwingen viele Gütertransporte auf die Straße. Nun haben weitere Bundesländer Lockerungen beim Sonntagsfahrverbot entschieden. Ein Überblick über aktuelle Regelungen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-sonntagsfahrverbot-lockerungen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 17:58:06 +0200"
+      "published": "Fri, 14 Aug 2026 08:30:49 +0200"
     },
     {
       "title": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
@@ -404,120 +481,84 @@
       "published": "Tue, 11 Aug 2026 03:59:10 +0200"
     },
     {
-      "title": "Mindestens neun Tote: Neue russische Luftangriffe auf Ukraine",
-      "summary": "In der Nacht hat die Ukraine neue russische Angriffe im ganzen Land gemeldet. Allein in Saporischschja wurden mindestens sechs Menschen getötet. Laut Präsident Selenskyj setzte Russland dort ballistische Raketen aus Nordkorea ein.",
+      "title": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
+      "summary": "Nur wenige Minuten brauchen Diebe vor einigen Monaten, um drei wertvolle Gemälde aus einem italienischen Museum zu stehlen. Nun hat die Polizei die Werke sichergestellt. Die Hintergründe der Tat werfen Fragen auf.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 11 Aug 2026 11:05:58 +0200"
+      "published": "Fri, 14 Aug 2026 17:51:29 +0200"
     },
     {
-      "title": "Mehrere Tote bei ukrainischem Drohnenangriff in Russland",
-      "summary": "Es soll einer der bislang schwersten Drohnenangriffe der Ukraine auf Russland gewesen sein: Tief im Hinterland wurden dabei mehrere Menschen getötet und verletzt. Ziel war offenbar erneut die russische Ölindustrie.",
+      "title": "Niederlage für Macron: Social-Media-Verbot gekippt",
+      "summary": "Erst vor Kurzem stimmten Frankreichs Nationalversammlung und Senat für die Einschränkung sozialer Medien für Minderjährige. Nun hat der Verfassungsrat das Vorhaben kassiert - ein Rückschlag auch für Präsident Macron.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriff-104.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 10 Aug 2026 12:58:23 +0200"
+      "published": "Fri, 14 Aug 2026 17:07:58 +0200"
     },
     {
-      "title": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
-      "summary": "Russland hat am Sonntag die ukrainische Küstenregion Odessa schwer getroffen. Präsident Selenskyj kündigte nun eine \"angemessene Antwort an. Der Krieg werde \"für alle Russen zu Hause\" immer spürbarer werden.",
+      "title": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "summary": "Wegen schwerer Vegetationsbrände mussten in mehreren europäischen Ländern Hunderte Menschen ihre Häuser verlassen. Betroffen waren neben Frankreich und England auch Kroatien und Griechenland.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "category": "welt",
+      "event_type": "wildfire",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Odessa",
-            "lat": 46.4825,
-            "lon": 30.7233
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 09 Aug 2026 22:11:34 +0200"
+      "published": "Fri, 14 Aug 2026 16:22:36 +0200"
     },
     {
-      "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
-      "summary": "Russische Angriffe in der Nacht, etwa auf die Hafenstadt Odessa, offenbaren erneut die Schwäche der ukrainischen Flugabwehr. Nach gegenseitigen Attacken werden auf beiden Seiten Tote gemeldet.",
+      "title": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
+      "summary": "Marokko warnt vor einem neuen Ansturm von Migranten auf Ceuta an diesem Wochenende. In Sozialen Medien kursierten entsprechende Aufrufe mit Fake News. Die EU nimmt in Sachen Falschinfos die Plattformen stärker in die Pflicht. Von Sabrina Fritz.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
+      "category": "welt",
+      "event_type": "storm",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Marokko",
+        "lat": 31.7917,
+        "lon": -7.0926
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Odessa",
-            "lat": 46.4825,
-            "lon": 30.7233
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 09 Aug 2026 11:19:11 +0200"
+      "published": "Fri, 14 Aug 2026 13:26:49 +0200"
+    },
+    {
+      "title": "Farage gewinnt Nachwahl im britischen Clacton",
+      "summary": "Der britische Rechtspopulist Farage zieht nach der von ihm selbst initiierten Nachwahl erneut ins Parlament ein. Die großen Parteien hatten die Abstimmung boykottiert, Farage selbst blieb der Auszählung fern.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 14 Aug 2026 09:05:46 +0200"
     },
     {
       "title": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
@@ -568,90 +609,10 @@
       "published": "Thu, 13 Aug 2026 16:32:46 +0200"
     },
     {
-      "title": "Riesige Marienstatue in Polen soll Pilger anziehen",
-      "summary": "Noch ist die gigantische Marienstatue im kleinen polnischen Dorf Konotopie nicht eingeweiht, schon machen Geschichten von Wundern die Runde. Mit dem 55 Meter hohen Monument bekommt Polen eine neue Pilgerstätte.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 13:57:07 +0200"
-    },
-    {
-      "title": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
-      "summary": "In Österreich können Arbeitnehmer, die besonders schwere Arbeit verrichten, mit 60 in Rente gehen: unter klaren Voraussetzungen und mit Abschlägen. Doch um die Finanzierbarkeit des Rentensystems wird auch in Österreich gestritten. Von C. Verenkotte.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Österreich",
-        "lat": 47.5162,
-        "lon": 14.5501
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 12:23:45 +0200"
-    },
-    {
-      "title": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
-      "summary": "Eine Nachwahl soll dem britischen Rechtspopulisten Farage den Rücken stärken. Nach dubiosen Millionen-Spenden hat er sein Mandat niedergelegt - er will aber heute durch die Nachwahl zurück ins Parlament. Geht sein Kalkül auf? Von C. Prössl.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 10:55:20 +0200"
-    },
-    {
-      "title": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
-      "summary": "Spätestens seit Leipzig ist klar: Deutschland ist nicht zureichend für die Bedrohung durch Drohnen gewappnet. Doch wie sieht es in anderen europäischen Ländern aus? Wie steht es dort um Erkennung und Abwehr von Drohnen? Von Stephan Stuchlik.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/drohnenabwehr-europa-100.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 14:41:43 +0200"
-    },
-    {
-      "title": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
-      "summary": "Anders als Deutschland hat Österreich die Wehrpflicht nicht ausgesetzt. Doch auch in Wien sieht man Reformbedarf und verlängert den Wehrdienst. Der Zivildienst könnte unattraktiver werden. Doch hier gibt es heftige Debatten. Von Silke Hahne.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/oesterreich-reform-wehrpflicht-100.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": "Österreich",
-        "lat": 47.5162,
-        "lon": 14.5501
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 12:51:20 +0200"
-    },
-    {
-      "title": "Zehnkampf-Gala! Gold für Leo Neugebauer, Niklas Kaul holt Silber",
-      "summary": "Deutschland jubelt - und das gleich doppelt: Weltmeister Leo Neugebauer krönte sich auch zum König der Leichtathletik-EM. Niklas Kaul rundete das Top-Ergebnis im Zehnkampf ab.",
+      "title": "Leichtathletik-EM: 19,95 Sekunden! Owen Ansah holt Gold über 200 Meter",
+      "summary": "40 Jahre nach Jürgen Evers hat auch Owen Ansah eine EM-Medaille über 200 Meter nach Deutschland geholt - und zwar die goldene. Es bleibt allerdings die Frage, ob er sie behalten darf.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/zehnkampf-gala-gold-fuer-neugebauer-kaul-holt-silber,la-em-2026-birmingham-zehnkampf-tag-zwei-neugebauer-kaul-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/1995-sekunden-owen-ansah-holt-gold-ueber-200-meter,la-em-2026-birmingham-200-meter-maenner-ansah-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -661,13 +622,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 23:33:57 +0200"
+      "published": "Fri, 14 Aug 2026 23:32:35 +0200"
     },
     {
-      "title": "Leichtathletik-EM: Krause stürmt zu Gold, Gürth zu Bronze, Meyer stürzt",
-      "summary": "Gesa Krause hat bei der Leichtathletik-EM in Birmingham das Gold-Triple über 3000 m Hindernis perfekt gemacht. Olivia Gürth holte Bronze, Lea Meyer erlebte ein Drama - und teilte aus.",
+      "title": "Leichtathletik-EM: Hürden-Silber für Emil Agyekum - nur \"Superman\" schneller",
+      "summary": "Medaille vorgenommen, Medaille geholt: Emil Agyekum hat bei der Leichtathletik-EM sein starkes Jahr gekrönt. Über 400 Meter Hürden wurde er Zweiter hinter Ausnahmeläufer Karsten Warholm.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/krause-stuermt-zu-gold-guerth-zu-bronze-sturz-drama-um-meyer,la-em-2026-birmingham-hindernis-krause-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/nur-superman-schneller-huerden-silber-fuer-agyekum,la-em-2026-birmingham-400-meter-huerden-finale-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -677,13 +638,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 23:16:46 +0200"
+      "published": "Fri, 14 Aug 2026 22:06:44 +0200"
     },
     {
-      "title": "Janssen holt überraschend Bronze - Neugebauer lädt ein",
-      "summary": "Diskuswerfer Henrik Janssen hat bei der Leichtathletik-EM für eine faustdicke Überraschung gesorgt. Es ist die erste deutsche Diskus-Medaille bei einer EM seit zwölf Jahren.",
+      "title": "Diskuswerferin Craft gewinnt Silber - \"Wie Gold für mich\"",
+      "summary": "Diskuswerferin Shanice Craft in Birmingham ihre erste EM-Silbermedaille gewonnen. Den Titel holte sich Jorinde van Klinken aus den Niederlanden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/janssen-holt-ueberraschend-bronze-neugebauer-laedt-ein,la-em-2026-birmingham-diskus-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/diskuswerferin-craft-krallt-sich-silber,la-em-2026-birmingham-diskus-frauen-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -693,13 +654,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 00:08:11 +0200"
+      "published": "Fri, 14 Aug 2026 23:20:54 +0200"
     },
     {
-      "title": "Gold für Krause und Neugebauer - Ansah als Schnellster ins Finale",
-      "summary": "Gesa Krause hat über 3000 Meter Hindernis Gold gewonnen, im Zehnkampf triumphierte Leo Neugebauer vor Niklas Kaul. Diskus-Bronze ging an Henrik Janssen, Owen Ansah stürmte als Schnellster ins 200-m-Finale.",
+      "title": "EM-Siebenkampf: Weißenberg stark, Sprengel ohne Medaillenchance",
+      "summary": "Nach vier Disziplinen im Siebenkampf hat Sophie Weißenberg bei der EM in Birmingham weiter eine Top-Platzierung im Blick. Für die WM-Fünfte Sandrina Sprengel ist der Traum vom Podest geplatzt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/gold-fuer-krause-und-neugebauer-ansah-als-schnellster-ins-finale,la-em-2026-birmingham-donnerstag-vierter-tag-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/weissenberg-bei-comeback-stark-grimm-macht-boden-gut,la-em-2026-birmingham-siebenkampf-erster-tag-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -709,13 +670,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 23:39:34 +0200"
+      "published": "Fri, 14 Aug 2026 23:48:43 +0200"
     },
     {
-      "title": "Leichtathletik-EM am Freitag: Die Höhepunkte in Birmingham",
-      "summary": "Am fünften EM-Tag in Birmingham hat der DLV über 400 m Hürden, 200 m und im Diskuswurf Medaillenchancen. Die Siebenkämpferinnen um Sandrina Sprengel starten. Die Highlights im Überblick.",
+      "title": "Leichtathletik-EM am Samstag: Die Höhepunkte in Birmingham",
+      "summary": "Am vorletzten EM-Tag werden die Medaillen im Gehen vergeben. Abends fällt die Entscheidung im Siebenkampf und acht weiteren Finals - unter anderem im Speerwurf und über 4x100 m. Die Highlights im Überblick.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/das-sind-die-em-hoehepunkte-am-freitag,la-em-2026-birmingham-hoehepunkte-freitag-100.html",
+      "url": "https://www.sportschau.de/leichtathletik/em/das-sind-die-em-hoehepunkte-am-samstag,la-em-2026-birmingham-hoehepunkte-samstag-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -725,29 +686,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 23:59:20 +0200"
+      "published": "Fri, 14 Aug 2026 23:55:53 +0200"
     },
     {
-      "title": "Viel investiert - Real will Barca vom Thron stoßen",
-      "summary": "Im Land des Weltmeisters Spanien geht die Liga wieder los. Real Madrid hat viel investiert und will Titelverteidiger FC Barcelona vom Thron stoßen. Alles, was man zum Start wissen muss.",
+      "title": "Bochum holt Braunschweig zurück auf den Boden",
+      "summary": "Der VfL Bochum feiert bei Eintracht Braunschweig den ersten Saisonsieg in der 2. Liga - und holt die furios gestarteten Niedersachsen zurück auf den Boden der Tatsachen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/la-liga-primera-division/viel-investiert-real-will-barca-vom-thron-stossen,faq-spanien-primera-division-neue-saison-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/bochum-holt-braunschweig-zurueck-auf-boden,spielbericht-eintracht-braunschweig-vfl-bochum-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 22:16:43 +0200"
+      "published": "Fri, 14 Aug 2026 20:29:57 +0200"
     },
     {
-      "title": "Sieg gegen Aston Villa: PSG gewinnt den UEFA-Supercup",
-      "summary": "Paris Saint-Germain hat sich den ersten Titel der Saison geschnappt und den UEFA Supercup gewonnen. Der Champions-League-Sieger tat sich gegen Aston Villa aber schwer.",
+      "title": "Sportschau Fußball Podcast: Wer holt den Derbysieg?",
+      "summary": "Der zweite Spieltag in der 2. Bundesliga bringt direkt Derbystimmung mit. Wer holt sich den Push für den weiteren Saisonverlauf?",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/paris-saint-germain-feiert-im-ersten-spiel-ersten-titel-der-saison,uefa-supercup-106.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/hoellische-nachbarn-fck-empfaengt-ksc,bundesliga-update-zweite-liga-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 13 Aug 2026 15:12:19 +0200"
+    },
+    {
+      "title": "Schwimm-EM: Isabel Gose holt Silber über 1500 Meter Freistil",
+      "summary": "Isabel Gose schwimmt bei der EM in Paris weiter auf der Erfolgswelle. Die Olympiadritte wurde drei Tage nach Silber über die 800 m Freistil am Freitag über die 1500 m ebenfalls Zweite.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/schwimmen/gose-holt-silber-ueber-1500-meter-freistil,gose-silber-1500-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -757,23 +734,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 23:27:47 +0200"
-    },
-    {
-      "title": "Xavi wird Nationaltrainer der Niederlande",
-      "summary": "Nach der enttäuschenden Fußball-WM haben die Niederlande einen neuen Nationaltrainer. Es ist der ehemalige spanische Weltklassefußballer Xavi Hernandez.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/xavi-wird-nationaltrainer-der-niederlande,xavi-trainer-der-niederlande-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Niederlande",
-        "lat": 52.1326,
-        "lon": 5.2913
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 22:10:59 +0200"
+      "published": "Fri, 14 Aug 2026 20:40:42 +0200"
     }
   ],
   "crises": [
@@ -785,9 +746,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "label": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -992,7 +953,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html"
     },
     {
       "id": "conflict-russland",
@@ -1002,9 +963,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
+      "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1209,84 +1170,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html"
-    },
-    {
-      "id": "conflict-usa",
-      "type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "label": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-08-08",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 34.64032570008406,
-          "lon": -95.3466789293923
-        },
-        {
-          "lat": 38.93207474633611,
-          "lon": -92.9036841708024
-        },
-        {
-          "lat": 39.78729989328336,
-          "lon": -93.65078216331459
-        },
-        {
-          "lat": 35.25552380952624,
-          "lon": -97.49849583071284
-        },
-        {
-          "lat": 34.57719311318039,
-          "lon": -96.08695574586571
-        },
-        {
-          "lat": 39.513931597937585,
-          "lon": -97.6341478867083
-        },
-        {
-          "lat": 36.31327558828571,
-          "lon": -92.93220417889248
-        },
-        {
-          "lat": 35.286569142550135,
-          "lon": -93.01018556990095
-        },
-        {
-          "lat": 35.87396990784514,
-          "lon": -95.79719153568212
-        },
-        {
-          "lat": 39.92862994129249,
-          "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
-        }
-      ]
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html"
     },
     {
       "id": "conflict-iran",
@@ -1296,11 +1180,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
-      "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
+      "label": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
+      "url": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-11",
-      "intensity": 5,
+      "last_seen": "2026-08-15",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1442,6 +1326,46 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
+        },
+        {
+          "lat": 34.014725501310366,
+          "lon": 53.587224353697906
+        },
+        {
+          "lat": 31.855449622586825,
+          "lon": 52.18681148699178
+        },
+        {
+          "lat": 30.93758572811915,
+          "lon": 51.728242291763486
+        },
+        {
+          "lat": 33.597548523016286,
+          "lon": 53.25045432155264
+        },
+        {
+          "lat": 33.89578415370227,
+          "lon": 55.43893438680073
+        },
+        {
+          "lat": 33.61046136593003,
+          "lon": 53.362900371738455
+        },
+        {
+          "lat": 32.22757508949332,
+          "lon": 52.97180688007079
+        },
+        {
+          "lat": 35.36947751881089,
+          "lon": 52.418770842109524
+        },
+        {
+          "lat": 34.87814921545998,
+          "lon": 56.30658008373962
+        },
+        {
+          "lat": 34.22179771185673,
+          "lon": 54.95010433763036
         }
       ]
     },
@@ -1457,7 +1381,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1539,26 +1463,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
         }
       ]
     },
@@ -1579,63 +1483,6 @@
       "subpoints": []
     },
     {
-      "id": "conflict-israel",
-      "type": "conflict",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "label": "Israel bestätigt Tod zweier Soldaten im Libanon",
-      "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-08",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 33.66674323612038,
-          "lon": 35.19046252887055
-        },
-        {
-          "lat": 31.184756386439375,
-          "lon": 32.58215950010441
-        },
-        {
-          "lat": 32.43053201323609,
-          "lon": 34.225987581919874
-        },
-        {
-          "lat": 29.83770240939623,
-          "lon": 36.90332819808398
-        },
-        {
-          "lat": 29.223870797437467,
-          "lon": 35.960042034597606
-        },
-        {
-          "lat": 32.15285766321522,
-          "lon": 36.87970884989521
-        },
-        {
-          "lat": 32.065266119866806,
-          "lon": 34.76072980048664
-        },
-        {
-          "lat": 33.95746345265232,
-          "lon": 35.91208745942779
-        },
-        {
-          "lat": 29.576879213535314,
-          "lon": 36.828758643998476
-        },
-        {
-          "lat": 32.885738951895675,
-          "lon": 37.37357189804212
-        }
-      ]
-    },
-    {
       "id": "storm-madrid",
       "type": "storm",
       "location": {
@@ -1647,22 +1494,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-09",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "disaster-ungarn",
-      "type": "disaster",
-      "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
-      },
-      "label": "Ungarn schaltet Licht an Wahrzeichen wegen Energiekrise ab",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-energiesparen-niedrigwasser-100.html",
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-08-08",
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1695,7 +1526,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1711,7 +1542,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-13",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1753,28 +1584,133 @@
         {
           "lat": 44.4042445579947,
           "lon": 8.46405493260281
-        },
-        {
-          "lat": 44.39745023757369,
-          "lon": 8.690759134782304
-        },
-        {
-          "lat": 48.65713087944922,
-          "lon": 7.81734492127547
-        },
-        {
-          "lat": 43.935721963109614,
-          "lon": 8.94611363614877
-        },
-        {
-          "lat": 47.821579204776924,
-          "lon": 6.504279991871858
-        },
-        {
-          "lat": 47.76184917882337,
-          "lon": 10.448911370491006
         }
       ]
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-schweden",
+      "type": "conflict",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "label": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 58.65692408263588,
+          "lon": 18.842782254837285
+        },
+        {
+          "lat": 62.31696646719611,
+          "lon": 21.33714050582369
+        },
+        {
+          "lat": 58.256170893198615,
+          "lon": 16.092293663747792
+        },
+        {
+          "lat": 62.008070864767554,
+          "lon": 17.302641223798304
+        },
+        {
+          "lat": 58.01647941820218,
+          "lon": 19.415762529882663
+        },
+        {
+          "lat": 62.88870476212066,
+          "lon": 17.22176427220792
+        },
+        {
+          "lat": 61.61019639387475,
+          "lon": 20.354250006304763
+        },
+        {
+          "lat": 61.21853139750602,
+          "lon": 16.86916776518376
+        },
+        {
+          "lat": 62.446558178091784,
+          "lon": 17.66965707554532
+        },
+        {
+          "lat": 58.361046101101685,
+          "lon": 17.47356624780364
+        },
+        {
+          "lat": 57.77746778260834,
+          "lon": 16.995446274599047
+        },
+        {
+          "lat": 61.60685057002721,
+          "lon": 20.816809426096572
+        },
+        {
+          "lat": 61.63176408406598,
+          "lon": 16.31936377930731
+        },
+        {
+          "lat": 62.54735414282567,
+          "lon": 16.64437327626554
+        },
+        {
+          "lat": 60.83234311711307,
+          "lon": 17.295866686065764
+        }
+      ]
+    },
+    {
+      "id": "wildfire-frankreich",
+      "type": "wildfire",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-marokko",
+      "type": "storm",
+      "location": {
+        "name": "Marokko",
+        "lat": 31.7917,
+        "lon": -7.0926
+      },
+      "label": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }

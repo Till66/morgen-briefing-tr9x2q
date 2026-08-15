@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "label": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
+      "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,84 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html"
-    },
-    {
-      "id": "conflict-usa",
-      "type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "label": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-08-08",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 34.64032570008406,
-          "lon": -95.3466789293923
-        },
-        {
-          "lat": 38.93207474633611,
-          "lon": -92.9036841708024
-        },
-        {
-          "lat": 39.78729989328336,
-          "lon": -93.65078216331459
-        },
-        {
-          "lat": 35.25552380952624,
-          "lon": -97.49849583071284
-        },
-        {
-          "lat": 34.57719311318039,
-          "lon": -96.08695574586571
-        },
-        {
-          "lat": 39.513931597937585,
-          "lon": -97.6341478867083
-        },
-        {
-          "lat": 36.31327558828571,
-          "lon": -92.93220417889248
-        },
-        {
-          "lat": 35.286569142550135,
-          "lon": -93.01018556990095
-        },
-        {
-          "lat": 35.87396990784514,
-          "lon": -95.79719153568212
-        },
-        {
-          "lat": 39.92862994129249,
-          "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
-        }
-      ]
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html"
     },
     {
       "id": "conflict-iran",
@@ -519,11 +442,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
-      "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
+      "label": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
+      "url": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-11",
-      "intensity": 5,
+      "last_seen": "2026-08-15",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -665,6 +588,46 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
+        },
+        {
+          "lat": 34.014725501310366,
+          "lon": 53.587224353697906
+        },
+        {
+          "lat": 31.855449622586825,
+          "lon": 52.18681148699178
+        },
+        {
+          "lat": 30.93758572811915,
+          "lon": 51.728242291763486
+        },
+        {
+          "lat": 33.597548523016286,
+          "lon": 53.25045432155264
+        },
+        {
+          "lat": 33.89578415370227,
+          "lon": 55.43893438680073
+        },
+        {
+          "lat": 33.61046136593003,
+          "lon": 53.362900371738455
+        },
+        {
+          "lat": 32.22757508949332,
+          "lon": 52.97180688007079
+        },
+        {
+          "lat": 35.36947751881089,
+          "lon": 52.418770842109524
+        },
+        {
+          "lat": 34.87814921545998,
+          "lon": 56.30658008373962
+        },
+        {
+          "lat": 34.22179771185673,
+          "lon": 54.95010433763036
         }
       ]
     },
@@ -680,7 +643,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -762,26 +725,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
         }
       ]
     },
@@ -802,63 +745,6 @@
       "subpoints": []
     },
     {
-      "id": "conflict-israel",
-      "type": "conflict",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "label": "Israel bestätigt Tod zweier Soldaten im Libanon",
-      "url": "https://www.tagesschau.de/ausland/nahost-libanon-tod-soldaten-100.html",
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-08",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 33.66674323612038,
-          "lon": 35.19046252887055
-        },
-        {
-          "lat": 31.184756386439375,
-          "lon": 32.58215950010441
-        },
-        {
-          "lat": 32.43053201323609,
-          "lon": 34.225987581919874
-        },
-        {
-          "lat": 29.83770240939623,
-          "lon": 36.90332819808398
-        },
-        {
-          "lat": 29.223870797437467,
-          "lon": 35.960042034597606
-        },
-        {
-          "lat": 32.15285766321522,
-          "lon": 36.87970884989521
-        },
-        {
-          "lat": 32.065266119866806,
-          "lon": 34.76072980048664
-        },
-        {
-          "lat": 33.95746345265232,
-          "lon": 35.91208745942779
-        },
-        {
-          "lat": 29.576879213535314,
-          "lon": 36.828758643998476
-        },
-        {
-          "lat": 32.885738951895675,
-          "lon": 37.37357189804212
-        }
-      ]
-    },
-    {
       "id": "storm-madrid",
       "type": "storm",
       "location": {
@@ -870,22 +756,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-09",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "disaster-ungarn",
-      "type": "disaster",
-      "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
-      },
-      "label": "Ungarn schaltet Licht an Wahrzeichen wegen Energiekrise ab",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-energiesparen-niedrigwasser-100.html",
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-08-08",
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
@@ -918,7 +788,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -934,7 +804,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-13",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -976,29 +846,134 @@
         {
           "lat": 44.4042445579947,
           "lon": 8.46405493260281
-        },
-        {
-          "lat": 44.39745023757369,
-          "lon": 8.690759134782304
-        },
-        {
-          "lat": 48.65713087944922,
-          "lon": 7.81734492127547
-        },
-        {
-          "lat": 43.935721963109614,
-          "lon": 8.94611363614877
-        },
-        {
-          "lat": 47.821579204776924,
-          "lon": 6.504279991871858
-        },
-        {
-          "lat": 47.76184917882337,
-          "lon": 10.448911370491006
         }
       ]
+    },
+    {
+      "id": "wildfire-deutschland",
+      "type": "wildfire",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-schweden",
+      "type": "conflict",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "label": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 58.65692408263588,
+          "lon": 18.842782254837285
+        },
+        {
+          "lat": 62.31696646719611,
+          "lon": 21.33714050582369
+        },
+        {
+          "lat": 58.256170893198615,
+          "lon": 16.092293663747792
+        },
+        {
+          "lat": 62.008070864767554,
+          "lon": 17.302641223798304
+        },
+        {
+          "lat": 58.01647941820218,
+          "lon": 19.415762529882663
+        },
+        {
+          "lat": 62.88870476212066,
+          "lon": 17.22176427220792
+        },
+        {
+          "lat": 61.61019639387475,
+          "lon": 20.354250006304763
+        },
+        {
+          "lat": 61.21853139750602,
+          "lon": 16.86916776518376
+        },
+        {
+          "lat": 62.446558178091784,
+          "lon": 17.66965707554532
+        },
+        {
+          "lat": 58.361046101101685,
+          "lon": 17.47356624780364
+        },
+        {
+          "lat": 57.77746778260834,
+          "lon": 16.995446274599047
+        },
+        {
+          "lat": 61.60685057002721,
+          "lon": 20.816809426096572
+        },
+        {
+          "lat": 61.63176408406598,
+          "lon": 16.31936377930731
+        },
+        {
+          "lat": 62.54735414282567,
+          "lon": 16.64437327626554
+        },
+        {
+          "lat": 60.83234311711307,
+          "lon": 17.295866686065764
+        }
+      ]
+    },
+    {
+      "id": "wildfire-frankreich",
+      "type": "wildfire",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "storm-marokko",
+      "type": "storm",
+      "location": {
+        "name": "Marokko",
+        "lat": 31.7917,
+        "lon": -7.0926
+      },
+      "label": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-08-14"
+  "updated_at": "2026-08-15"
 }
