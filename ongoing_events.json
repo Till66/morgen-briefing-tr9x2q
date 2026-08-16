@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
+      "label": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,8 +445,8 @@
       "label": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
       "url": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-15",
-      "intensity": 7,
+      "last_seen": "2026-08-16",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -628,6 +628,26 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -643,7 +663,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
       "first_seen": "2026-07-19",
       "last_seen": "2026-08-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -705,26 +725,6 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
-        },
-        {
-          "lat": 51.45047349201747,
-          "lon": 28.871659015322724
-        },
-        {
-          "lat": 51.86005130557798,
-          "lon": 30.754070191168474
-        },
-        {
-          "lat": 49.68477979259665,
-          "lon": 31.144236065993837
-        },
-        {
-          "lat": 50.77939239313334,
-          "lon": 31.598203924671093
-        },
-        {
-          "lat": 50.357442341474105,
-          "lon": 32.2222066715884
         }
       ]
     },
@@ -740,22 +740,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-10",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "storm-madrid",
-      "type": "storm",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "label": "Ceuta-Krise - Madrid droht Rom im Streit um Grenzkontrollen",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html",
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-08-09",
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
@@ -788,7 +772,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -861,7 +845,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -876,8 +860,8 @@
       "label": "Wachsende Jugendkriminalität. Schweden senkt Alter für Strafmündigkeit",
       "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "intensity": 1,
+      "last_seen": "2026-08-16",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -939,6 +923,26 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
+        },
+        {
+          "lat": 57.657802307018265,
+          "lon": 18.030372000616712
+        },
+        {
+          "lat": 58.428104095311625,
+          "lon": 18.79612000708669
+        },
+        {
+          "lat": 62.264254485835146,
+          "lon": 20.564426601374738
+        },
+        {
+          "lat": 62.999660360444956,
+          "lon": 17.934568298809943
+        },
+        {
+          "lat": 60.504621070046824,
+          "lon": 17.792342373431858
         }
       ]
     },
@@ -953,8 +957,8 @@
       "label": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "intensity": 1,
+      "last_seen": "2026-08-16",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -969,11 +973,104 @@
       "label": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
       "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-gro-britannien",
+      "type": "wildfire",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "label": "Waldbrände in Europa: Wo es gerade brennt",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-libanon",
+      "type": "conflict",
+      "location": {
+        "name": "Libanon",
+        "lat": 33.8547,
+        "lon": 35.8623
+      },
+      "label": "Tote bei schwerem israelischem Angriff im Libanon",
+      "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 35.08641741148264,
+          "lon": 36.34296952533104
+        },
+        {
+          "lat": 33.357864365073475,
+          "lon": 37.621224423427996
+        },
+        {
+          "lat": 35.52647271905164,
+          "lon": 35.41051206828305
+        },
+        {
+          "lat": 36.68397986602981,
+          "lon": 35.87435056510215
+        },
+        {
+          "lat": 31.463858130970124,
+          "lon": 33.238745484435285
+        },
+        {
+          "lat": 32.89288249144549,
+          "lon": 34.98919178113986
+        },
+        {
+          "lat": 33.99781813496592,
+          "lon": 33.40849748484022
+        },
+        {
+          "lat": 31.18912794818767,
+          "lon": 36.81101308886183
+        },
+        {
+          "lat": 34.30592929323726,
+          "lon": 34.24929456290039
+        },
+        {
+          "lat": 35.28182928411251,
+          "lon": 35.73092367784339
+        },
+        {
+          "lat": 34.052103533663,
+          "lon": 34.890949455408716
+        },
+        {
+          "lat": 35.3315490852967,
+          "lon": 34.02218311617632
+        },
+        {
+          "lat": 35.12794185573339,
+          "lon": 35.0312547626695
+        },
+        {
+          "lat": 33.50723245286935,
+          "lon": 36.666029444696505
+        },
+        {
+          "lat": 31.33429856746709,
+          "lon": 36.224436358246706
+        }
+      ]
     }
   ],
-  "updated_at": "2026-08-15"
+  "updated_at": "2026-08-16"
 }
