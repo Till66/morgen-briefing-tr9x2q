@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
+      "label": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -442,10 +442,10 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran",
-      "url": "https://www.tagesschau.de/ausland/amerika/vance-iran-100.html",
+      "label": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -652,115 +652,6 @@
       ]
     },
     {
-      "id": "conflict-kiew",
-      "type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "label": "Kiew wieder unter russischem Raketenbeschuss",
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-08-09",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 52.62998156601318,
-          "lon": 28.326232658589543
-        },
-        {
-          "lat": 50.3313085159312,
-          "lon": 33.389491863221046
-        },
-        {
-          "lat": 51.20745816912664,
-          "lon": 30.683347839835644
-        },
-        {
-          "lat": 52.64227211408358,
-          "lon": 29.159287383864232
-        },
-        {
-          "lat": 49.989688305293484,
-          "lon": 29.873332284175866
-        },
-        {
-          "lat": 52.789783221965024,
-          "lon": 32.13611678810304
-        },
-        {
-          "lat": 47.613306473030896,
-          "lon": 31.572025212639716
-        },
-        {
-          "lat": 50.49795398325134,
-          "lon": 28.57057723397705
-        },
-        {
-          "lat": 48.97908699220479,
-          "lon": 28.400787643530357
-        },
-        {
-          "lat": 48.940084609533564,
-          "lon": 28.087134363895778
-        },
-        {
-          "lat": 47.94889658466643,
-          "lon": 29.295217752572665
-        },
-        {
-          "lat": 49.311037932939485,
-          "lon": 29.905565967110117
-        },
-        {
-          "lat": 53.269015380122816,
-          "lon": 31.036540829632322
-        },
-        {
-          "lat": 50.509987159396864,
-          "lon": 27.66817148841712
-        },
-        {
-          "lat": 48.069011109543155,
-          "lon": 29.35509277567223
-        }
-      ]
-    },
-    {
-      "id": "storm-italien",
-      "type": "storm",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-10",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "wildfire-italien",
-      "type": "wildfire",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
-      "first_seen": "2026-08-09",
-      "last_seen": "2026-08-10",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "wildfire-spanien",
       "type": "wildfire",
       "location": {
@@ -772,7 +663,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-12",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -841,11 +732,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "label": "Überblick: Waldbrände in Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "intensity": 0,
+      "last_seen": "2026-08-17",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -861,7 +752,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -923,26 +814,6 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
-        },
-        {
-          "lat": 57.657802307018265,
-          "lon": 18.030372000616712
-        },
-        {
-          "lat": 58.428104095311625,
-          "lon": 18.79612000708669
-        },
-        {
-          "lat": 62.264254485835146,
-          "lon": 20.564426601374738
-        },
-        {
-          "lat": 62.999660360444956,
-          "lon": 17.934568298809943
-        },
-        {
-          "lat": 60.504621070046824,
-          "lon": 17.792342373431858
         }
       ]
     },
@@ -958,7 +829,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -974,7 +845,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -989,8 +860,8 @@
       "label": "Waldbrände in Europa: Wo es gerade brennt",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "intensity": 1,
+      "last_seen": "2026-08-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1005,8 +876,8 @@
       "label": "Tote bei schwerem israelischem Angriff im Libanon",
       "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "intensity": 1,
+      "last_seen": "2026-08-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1068,9 +939,61 @@
         {
           "lat": 31.33429856746709,
           "lon": 36.224436358246706
+        },
+        {
+          "lat": 35.42056548093843,
+          "lon": 36.19537569644718
+        },
+        {
+          "lat": 33.97987234755801,
+          "lon": 37.76536526862622
+        },
+        {
+          "lat": 33.2402517893996,
+          "lon": 36.990714369218146
+        },
+        {
+          "lat": 34.6204446893318,
+          "lon": 36.02643721562459
+        },
+        {
+          "lat": 34.87004987986445,
+          "lon": 37.13292821208281
         }
       ]
+    },
+    {
+      "id": "wildfire-belgien",
+      "type": "wildfire",
+      "location": {
+        "name": "Belgien",
+        "lat": 50.5039,
+        "lon": 4.4699
+      },
+      "label": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "wildfire-griechenland",
+      "type": "wildfire",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
+      "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-08-16"
+  "updated_at": "2026-08-17"
 }
