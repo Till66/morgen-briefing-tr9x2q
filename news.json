@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:47:57.543473+00:00",
+  "generated_at": "2026-08-18T04:39:40.870773+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,90 +45,10 @@
   },
   "articles": [
     {
-      "title": "Überblick: Waldbrände in Deutschland",
-      "summary": "Nicht nur im Westen Nordrhein-Westfalens ist die Feuerwehr wegen Waldbränden im Einsatz. Auch in anderen Regionen Deutschlands sind Wald- oder Vegetationsflächen in Brand geraten. Wo brennt es und wie ist die Lage dort?",
+      "title": "Unfälle mit E-Scootern: \"Jeder Helm ist eine Hilfe\"",
+      "summary": "Sie sind praktisch, schnell und unkompliziert auszuleihen: E-Scooter. Doch die Zahl der Unfälle in Deutschland steigt. Chirurg Michael Zyskowski erklärt, was die Roller gefährlich macht und welche Maßnahmen helfen könnten.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
-      "category": "politik",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 18:40:31 +0200"
-    },
-    {
-      "title": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
-      "summary": "Noch ist der Bundestag in der Sommerpause. Doch wenn der parlamentarische Betrieb im September wieder los geht, warten auf die Bundesregierung schwierige Themen. Bei Rente und Pflege stehen harte Debatten an. Und der Haushalt lässt kaum Spielraum.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 16:01:13 +0200"
-    },
-    {
-      "title": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
-      "summary": "Valentin Melnyk verlor im Krieg ein Bein. In Berlin lernt der 24-Jährige nun, Prothesen herzustellen. Danach will er zurück in die Ukraine - und anderen Kriegsversehrten helfen, wieder ins Leben zurückzufinden. Von Andreas König.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 14:02:04 +0200"
-    },
-    {
-      "title": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
-      "summary": "Wegen drohender Rauchbelastung hatte Monschau Bewohnern empfohlen, ihre Häuser zu verlassen. Jetzt die vorsichtige Entwarnung: Der Waldbrand in Belgien bewegt sich aktuell nicht weiter auf die deutsche Grenze zu. Aufatmen kann auch Hürtgenwald.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
-      "category": "politik",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 18:05:13 +0200"
-    },
-    {
-      "title": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
-      "summary": "Die Dringlichkeit sei unübersehbar: Die SPD-Ministerien haben gemeinsam einen Plan für den Umgang mit der Hitze verfasst. Darin fordern sie auch eine Verfassungsänderung. Der Druck auf den Koalitionspartner Union wächst.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 15:09:33 +0200"
-    },
-    {
-      "title": "Neue Lage im Heimatland: Immer mehr Syrer verlieren Schutzstatus",
-      "summary": "Nach dem Sturz von Syriens Machthaber Assad hat sich die Lage im Land geändert. Deswegen wird syrischen Flüchtlingen in Deutschland immer häufiger der Schutzstatus aberkannt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/bundesregierung-syrer-schutzstatus-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-helmpflicht-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -138,13 +58,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 08:59:34 +0200"
+      "published": "Tue, 18 Aug 2026 04:59:10 +0200"
     },
     {
-      "title": "Hochbetrieb an Bergseen: Wenn Erholung zur Belastung für die Natur wird",
-      "summary": "\"Coolcation\" liegt in Hitzezeiten im Trend. Kühle Bergseen können zwar für Erfrischung sorgen, aber solche Gewässer und ihre Umgebung sind sehr empfindlich, wie ein Beispiel aus Bayern zeigt. Von Alexander Brutscher.",
+      "title": "So können Drohnen im Katastrophenfall helfen",
+      "summary": "Heute wird ein neues Forschungszentrum zur Drohnenabwehr eröffnet. An dem Standort in Sachsen-Anhalt zeigt sich aber auch, welche Rolle Drohnen im Katastrophenschutz spielen. Ein Einblick, wie Forschende dort arbeiten. Von Boris Geiger.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/overtourism-bergseen-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/drohnen-testzentrum-katastrophenschutz-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -154,13 +74,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 08:02:35 +0200"
+      "published": "Tue, 18 Aug 2026 04:57:57 +0200"
     },
     {
-      "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-      "summary": "Bis auf 250 Meter waren die Flammen an ihre Häuser herangerückt - nun dürfen die Bewohner eines evakuierten Ortsteils in Hürtgenwald zurück. Zuvor waren Fortschritte bei der Bekämpfung des Brandes vermeldet worden.",
+      "title": "Deutsch-belgische Grenzregion: Waldbrand-Lage stabil - doch es droht Wind",
+      "summary": "Der Waldbrand im belgischen Naturschutzgebiet Hohes Venn hat sich nicht weiter der deutschen Stadt Monschau angenähert. Entwarnung gibt die Feuerwehr aber nicht - für Dienstag ist starker Wind vorhergesagt.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-monschau-100.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 19:04:10 +0200"
+    },
+    {
+      "title": "Vorstoß zu Klimaanpassung: Rückt eine Grundgesetzänderung näher?",
+      "summary": "Die SPD-Ministerien fordern eine Grundgesetzänderung für mehr Klimaanpassung. Doch die Union reagiert skeptisch. Es geht um Geld, Zuständigkeiten und die Frage: Wie viel finanzielle Verantwortung soll der Bund übernehmen? Von I. Karras.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimaaktionsplan-union-grundgesetzaenderung-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,29 +106,77 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 21:38:07 +0200"
+      "published": "Mon, 17 Aug 2026 18:47:30 +0200"
     },
     {
-      "title": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
-      "summary": "Als Industrieland ist Deutschland angezählt: teure Produktion, gesunkene Nachfrage. Immer attraktiver wird dafür Osteuropa. Teils kurze Lieferwege und geringe Kosten - damit wollen Unternehmen wieder wettbewerbsfähig werden. Von Julian Gräfe.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html",
-      "category": "wirtschaft",
+      "title": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
+      "summary": "Staatsminister Amthor von der CDU hat sich gegen \"abstrakte Diskussionen über eine Verfassungsänderung\" ausgesprochen. Zuvor hatten verschiedene SPD-Ministerien dafür plädiert, Klima- und Hitzeschutz im Grundgesetz festzuschreiben.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
+      "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 17 Aug 2026 06:24:17 +0200"
+      "published": "Mon, 17 Aug 2026 15:16:24 +0200"
     },
     {
-      "title": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
-      "summary": "Nach Jahren der Null-Zins-Phase werben Banken plötzlich wieder mit drei oder vier Prozent Zinsen aufs Tagesgeld und überbieten sich regelrecht. Doch bei solchen Lockangeboten sollten Kunden genauer hinsehen. Von L.-M. Hiltscher und C. Dörr.",
+      "title": "Bundeswehr erreicht Personalziel für das Jahr 2026",
+      "summary": "Die Bundeswehr soll wachsen - und bisher scheint das auf freiwilliger Basis zu gelingen: Das Personalziel für 2026 ist erreicht. Auf geringe Resonanz stößt weiterhin die direkte Ansprache junger Frauen durch die Bundeswehr.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 15:12:15 +0200"
+    },
+    {
+      "title": "Wie gerecht ist die deutsche Klimapolitik?",
+      "summary": "Hitzewelle, Dürre, Brände: Klimaschutz wird immer dringlicher. Doch die Kosten treffen nicht alle gleich - wer wenig verdient, kann sich E-Auto oder Wärmepumpe nicht leisten. Tut die Regierung genug für den sozialen Ausgleich? Von Katrin Aue.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 14:14:08 +0200"
+    },
+    {
+      "title": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
+      "summary": "Noch immer ist die Lage beim Feuer im Hohen Venn im deutsch-belgischen Grenzgebiet angespannt. In Monschau in der Eifel mussten 30 Menschen ihre Häuser wegen des starken Rauchs verlassen. Ein Waldbrand im Schwarzwald hat sich ausgeweitet.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
+      "category": "politik",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 11:57:30 +0200"
+    },
+    {
+      "title": "Dünger und Klimaschutz: Wie unsere Ernten von Erdgas abhängen",
+      "summary": "Chemisch-synthetischer Dünger ermöglicht hohe Ernteerträge. Doch für dessen Produktion werden bisher große Mengen an Erdgas eingesetzt. Ist klimafreundlicher Industriedünger eine Alternative? Von Oda Lambrecht.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/tagesgeld-sparen-lockangebote-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/duenger-klimawirkung-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,13 +186,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 13:07:56 +0200"
+      "published": "Tue, 18 Aug 2026 06:08:18 +0200"
     },
     {
-      "title": "Warum sind Luxusdüfte so teuer?",
-      "summary": "Luxusparfüms boomen. Immer mehr kleine Marken bringen exklusive Düfte für mehrere hundert Euro pro Flakon auf den Markt. Sind solche Preise gerechtfertigt? Von D. Werkman, L. Tepel und L.-M. Hiltscher.",
+      "title": "25 Jahre Miniatur Wunderland: \"In ganz vielen Menschen schlummern verrückteste Ideen\"",
+      "summary": "Seit 25 Jahren gibt es das Miniatur Wunderland in Hamburg - eine der beliebtesten Touristen-Attraktionen Deutschlands. Doch der Weg dahin sei \"wirklich steinig\" gewesen, erzählt Mitgründer Frederik Braun im Interview.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/miniatur-wunderland-gruendergeist-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 15:00:34 +0200"
+    },
+    {
+      "title": "Wie gerecht ist die deutsche Klimapolitik?",
+      "summary": "Hitzewelle, Dürre, Brände: Klimaschutz wird immer dringlicher. Doch die Kosten treffen nicht alle gleich - wer wenig verdient, kann sich E-Auto oder Wärmepumpe nicht leisten. Tut die Regierung genug für den sozialen Ausgleich? Von Katrin Aue.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-sozialer-ausgleich-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,29 +218,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 07:46:13 +0200"
+      "published": "Mon, 17 Aug 2026 14:14:08 +0200"
     },
     {
-      "title": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
-      "summary": "Nach Arztpraxen und Kliniken gerät eine neue Branche in den Fokus von Finanzinvestoren: das Handwerk. Gerade ist eine familiengeführte Bäckereikette aus Frankfurt von einer Private-Equity-Firma übernommen worden. Von Bianca von der Au.",
+      "title": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
+      "summary": "Auch Russland setzt im Krieg gegen die Ukraine auf Angriffe gegen Online-Händler. Mit Raketen werden Lager der Unternehmen Rozetka und Epizentr attackiert - der wirtschaftliche Schaden ist enorm. Von F. Kellermann.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 18:13:41 +0200"
+      "published": "Mon, 17 Aug 2026 16:13:56 +0200"
     },
     {
-      "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
-      "summary": "Probleme auf dem Arbeitsmarkt, eine hartnäckig hohe Inflation und noch höhere Renditen für langlaufende US-Staatsanleihen. All das belastet die Wirtschaft und die Notenbanker - auch in Europa. Von Melanie Böff.",
+      "title": "Ventilatorenspezialist ebm-papst wird an US-Konzern verkauft",
+      "summary": "Das deutsche Familienunternehmen ebm-papst wird in die USA verkauft. Für fast fünf Milliarden Euro übernimmt der US-Konzern Madison Air den Ventilatorenspezialisten aus Baden-Württemberg.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ventilatorenspezialist-ebm-papst-verkauf-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -250,13 +250,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 04:13:14 +0200"
+      "published": "Mon, 17 Aug 2026 14:39:42 +0200"
     },
     {
-      "title": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
-      "summary": "Über den Ausbau der Fahrrinne im Rhein wird seit Jahrzehnten diskutiert. Wegen des Niedrigwassers werden die Forderungen danach wieder lauter. Warum ist bislang nichts passiert? Von L. Colic, T. Peters, V. Schmidberger.",
+      "title": "Apple ändert Anti-Tracking-Abfrage in der EU",
+      "summary": "Die Tracking-Abfrage für Apps von Drittanbietern auf iPhones ändert sich. Damit erreicht Apple, dass ein Verfahren beim Bundeskartellamt beigelegt wird.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/apple-app-traking-eu-aenderungen-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -266,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 16:01:01 +0200"
+      "published": "Mon, 17 Aug 2026 14:20:57 +0200"
     },
     {
-      "title": "Mehr Hitzewellen: Städte brauchen Abkühlung - doch wer bezahlt?",
-      "summary": "Viele Kommunen sind kaum vorbereitet auf Hitzewellen. Die Folgen für Mensch und Natur sind gravierend, die volkswirtschaftlichen Schäden hoch. Dagegen anzugehen ist vor allem für kleine Städte ein finanzieller Kraftakt. Von Jan Koch.",
+      "title": "Deutsche verreisen häufiger im Inland",
+      "summary": "Die Deutschen haben im vergangenen Jahr so viele Reisen im eigenen Land unternommen wie noch nie. Das lag vor allem an einer gestiegenen Zahl von Geschäftsreisen innerhalb Deutschlands.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klima-staedte-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-privat-geschaeftlich-deutschland-ausland-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -282,55 +282,52 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 10:16:22 +0200"
+      "published": "Mon, 17 Aug 2026 12:46:23 +0200"
     },
     {
-      "title": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
+      "title": "Tarifstreit: Warnstreik legt Seehäfen still",
+      "summary": "24 Stunden soll die Arbeit in den Häfen Hamburg, Bremerhaven, Bremen, Wilhelmshaven, Emden und Brake ruhen. In Hamburg gibt es eine Kundgebung.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+      "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-warnstreik-in-seehaefen,seehaefen-112.html",
       "category": "wirtschaft",
-      "event_type": "standard",
+      "event_type": "protest",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 14:29:08 +0200"
+      "published": "Tue, 18 Aug 2026 06:03:37 +0200"
     },
     {
-      "title": "Waldbrände in Europa: Wo es gerade brennt",
-      "summary": "Europaweit kämpfen Feuerwehrleute gegen Waldbrände. Tausende Hektar Fläche sind verbrannt, viele Menschen mussten sich in Sicherheit bringen. Ein Überblick über die Lage von Großbritannien bis Griechenland.",
+      "title": "Die politischen Risse hinter der Militärparade in Warschau",
+      "summary": "Mit einer großen Parade wollte Polen am vergangenen Wochenende Stärke demonstrieren. Doch innenpolitische Konflikte trüben die Wirkung: Premier und Präsident streiten - ausgerechnet über ein EU-Rüstungsprogramm. Von Peter Sawicki.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
-      "category": "konflikte",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 14:23:54 +0200"
-    },
-    {
-      "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-      "summary": "Auf den Straßen ist auffallend viel Polizei. Militärangehörige wurden aus dem Urlaub geholt. Stacheldrahtzäune verstärkt. In Ceuta wird ein neuer Massenandrang von Migranten befürchtet. Der Grund: falsche Gerüchte. Von Franka Welz.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
+      "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Warschau",
+        "lat": 52.2297,
+        "lon": 21.0122
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Warschau",
+            "lat": 52.2297,
+            "lon": 21.0122
+          },
+          "to": {
+            "name": "Polen",
+            "lat": 51.9194,
+            "lon": 19.1451
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 03:10:58 +0200"
+      "published": "Mon, 17 Aug 2026 14:19:02 +0200"
     },
     {
       "title": "Tote bei schwerem israelischem Angriff im Libanon",
@@ -378,6 +375,80 @@
       "published": "Sat, 15 Aug 2026 03:12:08 +0200"
     },
     {
+      "title": "Ukraine: Russland legt Internet-Warenlager in Trümmer",
+      "summary": "Auch Russland setzt im Krieg gegen die Ukraine auf Angriffe gegen Online-Händler. Mit Raketen werden Lager der Unternehmen Rozetka und Epizentr attackiert - der wirtschaftliche Schaden ist enorm. Von F. Kellermann.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-warenlager-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 16:13:56 +0200"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Russland greift erneut Region Odessa an",
+      "summary": "Die russische Armee hat in der Nacht die Hafen-Infrastruktur in der südukrainischen Region Odessa ins Visier genommen. Nach ukrainischen Angaben gab es Verletzte auf einem zivilen Schiff. Odessa ist wichtig für den Export von Getreide.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 15:08:23 +0200"
+    },
+    {
+      "title": "Ukraine-Krieg: Wie Forensiker den Toten ihre Namen zurückgeben",
+      "summary": "Im Ukraine-Krieg sterben jeden Tag Menschen - was bleibt, sind oft nur Knochen. Ukrainische Forensiker versuchen, den Toten ihre Namen zurückzugeben und Angehörigen Gewissheit zu geben. Eine Arbeit, die zermürbt. Von S. Petersohn.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 13:51:10 +0200"
+    },
+    {
       "title": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "summary": "Die ukrainische Hauptstadt ist erneut mit Raketen angegriffen worden, andere Landesteile wurden ebenfalls getroffen. Russland meldete Angriffe mit Drohnen. Mindestens 16 Menschen wurden bei den gegenseitigen Angriffen getötet.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -423,62 +494,68 @@
       "published": "Sun, 16 Aug 2026 06:03:05 +0200"
     },
     {
-      "title": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
-      "summary": "Die russische Schwarzmeerküste, besonders die Hafenstadt Noworossijsk, ist laut russischen Angaben von zahlreichen ukrainischen Drohnen getroffen worden. Die beiderseitigen Angriffe scheinen sich derzeit auf die Region zu konzentrieren.",
+      "title": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
+      "summary": "In Dänemark gelten zum Start ins neue Schuljahr verschärfte Regeln für den Einsatz von Künstlicher Intelligenz. So sollen etwa mehr Aufgaben in der Schule erledigt und Prüfungen stärker überwacht werden. Von Arne Bartram.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-kuenstliche-intelligenz-schulen-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "Dänemark",
+        "lat": 56.2639,
+        "lon": 9.5018
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 13 Aug 2026 10:52:18 +0200"
+      "published": "Tue, 18 Aug 2026 04:58:39 +0200"
     },
     {
-      "title": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
-      "summary": "Russland setzt im Krieg gegen die Ukraine auch ausländische Soldaten ein. Manche werden mit falschen Versprechen gelockt. Geraten sie in Kriegsgefangenschaft, müssen sie realisieren: Russland kümmert sich nicht mehr um sie. Von T. Gläßgen.",
+      "title": "London: Tausende bei Mahnwache für tot aufgefundenen Arday",
+      "summary": "Jason Arday war der jüngste schwarze Professor der britischen Elite-Uni Cambridge. Doch nach Plagiatsvorwürfen trat er zurück - und wurde vor wenigen Tagen tot aufgefunden. Die Uni spricht von einer \"rassistischen Hetzjagd\".",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/mahnwache-london-arday-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "London",
+        "lat": 51.5072,
+        "lon": -0.1276
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 12 Aug 2026 15:22:34 +0200"
+      "published": "Tue, 18 Aug 2026 04:57:30 +0200"
+    },
+    {
+      "title": "100 Tagen Magyar - Wo Ungarn mit seinem neuen Regierungschef steht",
+      "summary": "Seit 100 Tagen ist Ungarns neuer Ministerpräsident Magyar im Amt. Versprochen hat er die Wiederherstellung von Rechtsstaat und Demokratie. Was hat er bereits geschafft? Welche Vorhaben sind heikel? Von Silke Hahne.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ungarn-ministerpraesident-magyar-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Ungarn",
+        "lat": 47.1625,
+        "lon": 19.5033
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 14:40:50 +0200"
+    },
+    {
+      "title": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
+      "summary": "In die spanischen Exklave Ceuta sind auch viele Mädchen gekommen, die Asyl suchen, um ihre Eltern in der Heimat zu unterstützen. Ihre Zukunft ist ungewiss. Doch es gibt Menschen, die den Minderjährigen helfen. Von F. Welz.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-spanien-106.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 11:39:57 +0200"
     },
     {
       "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
@@ -545,43 +622,11 @@
       "published": "Sun, 16 Aug 2026 13:45:22 +0200"
     },
     {
-      "title": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
-      "summary": "In Ungarn hat sich in der Nacht ein schweres Busunglück ereignet, zwölf Menschen starben. Ersten Erkenntnissen zufolge soll der Fahrer eingeschlafen sein. Im Bus saß eine Pilgergruppe aus Polen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 11:18:50 +0200"
-    },
-    {
-      "title": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "summary": "Wegen Gerüchten in Sozialen Medien hatten sich Spanien und Marokko auf einen neuen Andrang von Migranten auf Ceuta vorbereitet. Auf marokkanischer Seite gab es zwar Festnahmen - doch das befürchtete Chaos wie Ende Juli blieb bisher aus.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 22:03:58 +0200"
-    },
-    {
-      "title": "Millionen-Goldfund auf belgischer Baustelle",
-      "summary": "Goldbarren und Münzen im Wert von neun Millionen Euro sind in Belgien bei der Renovierung eines historischen Gebäudes aufgetaucht. Der Schatz war offenbar in Kellerwände eingemauert - und befindet sich jetzt in der Obhut der Polizei.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html",
-      "category": "welt",
+      "title": "Knapper Sieg gegen Belgien: Deutsche Hockey-Männer begeistern Bundestrainer",
+      "summary": "Die neuformierte deutsche Hockey-Nationalmannschaft der Männer hat bei der WM vorzeitig die Zwischenrunde erreicht. Trainer Henning war voll des Lobes.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/hockey/baerenstarke-leistung-deutsche-hockey-maenner-begeistern-bundestrainer,wm-maenner-deutschland-belgien-spielbericht-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": "Belgien",
@@ -590,29 +635,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 15 Aug 2026 09:24:23 +0200"
+      "published": "Mon, 17 Aug 2026 23:06:19 +0200"
     },
     {
-      "title": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "summary": "Nur wenige Minuten brauchen Diebe vor einigen Monaten, um drei wertvolle Gemälde aus einem italienischen Museum zu stehlen. Nun hat die Polizei die Werke sichergestellt. Die Hintergründe der Tat werfen Fragen auf.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
-      "category": "welt",
+      "title": "Deutsche Hockey-Frauen können Aufholjagd nicht krönen",
+      "summary": "Bei der Hockey-WM haben die deutschen Frauen ihr zweites Gruppenspiel gegen Argentinien knapp verloren und stehen vor dem letzten Gruppenspiel bereits unter Druck.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/hockey/deutsche-hockey-frauen-koennen-aufholjagd-nicht-kroenen,wm-frauen-deutschland-argentinien-spielbericht-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 14 Aug 2026 17:51:29 +0200"
+      "published": "Mon, 17 Aug 2026 19:57:42 +0200"
     },
     {
-      "title": "DLV-Team im Medaillenrausch und bereit für mehr",
-      "summary": "Die deutschen Leichtathleten haben bei der EM ein Medaillen-Feuerwerk gezündet. Das macht Mut auf dem Weg Richtung Olympia 2028. Grund zum Übermut gibt es aber nicht.",
+      "title": "FIFA trennt sich von Betriebsdirektor Lamour",
+      "summary": "Nach der Kritik an den Investorenplänen von FIFA-Präsident Gianni Infantino haben sich Betriebsdirektor Kevin Lamour und der Weltfußballverband getrennt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/dlv-team-im-medaillenrausch-und-bereit-fuer-mehr,la-em-2026-birmingham-bilanz-100.html",
+      "url": "https://www.sportschau.de/fussball/fifa-trennt-sich-von-betriebsdirektor-lamour,fifa-lamour-aus-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -622,13 +667,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 17 Aug 2026 00:45:07 +0200"
+      "published": "Mon, 17 Aug 2026 22:40:01 +0200"
     },
     {
-      "title": "Gold und Bronze! Ruppert und Bebendorf feiern Hindernis-Triumph",
-      "summary": "Frederik Ruppert und Karl Bebendorf haben für die nächste deutsche EM-Party gesorgt. Über 3000 Meter Hindernis räumten die beiden DLV-Asse Gold und Bronze ab.",
+      "title": "Plan B geht auf – Konstantelias und Veerman kommen zum BVB",
+      "summary": "Der BVB investiert die gesparten El-Mala-Millionen in die beiden Neuzugänge Giannis Konstantelias und Joey Veerman.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/gold-und-bronze-ruppert-und-bebendorf-feiern-hindernis-triumph,la-em-2026-birmingham-3000-meter-hindernis-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-plan-b-geht-auf--konstantelias-und-veerman-kommen-zum-bvb-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -638,29 +683,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 23:37:27 +0200"
+      "published": "Mon, 17 Aug 2026 21:34:00 +0200"
     },
     {
-      "title": "Leichtathletik-EM: Gina Lückenkemper holt Silber mit 4x100-Meter-Mixed-Staffel",
-      "summary": "Die neue Sprintnation hat wieder zugeschlagen: In der 4x100-Meter-Mixed-Staffel hat Deutschland um Gina Lückenkemper die vierte EM-Medaille auf der Kurzstrecke gewonnen.",
+      "title": "Wie geht es für Kane beim FCB weiter? \"Beide Seiten relaxed\"",
+      "summary": "Während beim FC Bayern die Vorbereitung auf die Saison läuft, stehen bei Harry Kane noch Vertragsgespräche an. Sein Vertrag läuft 2027 aus – eine Verlängerung scheint zwar so gut wie sicher, Details sollen aber noch verhandelt werden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/silber-happy-end-fuer-lueckenkemper-in-der-mixed-staffel,la-em-2026-birmingham-4x100-meter-mixed-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 23:43:42 +0200"
-    },
-    {
-      "title": "Leichtathletik-EM: Speerwerferin Ulbricht holt sensationell Silber",
-      "summary": "Julia Ulbricht hat für eine der größten deutschen Überraschungen bei der Leichtathletik-EM in Birmingham gesorgt und Silber im Speerwurf gewonnen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/leichtathletik-em-speerwerferin-ulbricht-sensationell-vize-europameisterin,la-em-2026-birmingham-speer-100.html",
+      "url": "https://www.sportschau.de/regional/br/br-wie-geht-es-fuer-kane-beim-fcb-weiter-beide-seiten-relaxed-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -670,13 +699,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 17 Aug 2026 01:15:51 +0200"
+      "published": "Mon, 17 Aug 2026 20:06:34 +0200"
     },
     {
-      "title": "Leichtathletik-EM: Mihambo verpasst überraschend eine Medaille",
-      "summary": "Weitsprung-Ikone Malaika Mihambo hat am Schlusstag der Leichtathletik-EM überraschend um ein paar Zentimeter eine Medaille verfehlt. Die 32-Jährige wurde mit 6,94 m Fünfte.",
+      "title": "Bundesliga: Freiburgs Atubolu könnte die neue Nummer eins in Frankfurt werden",
+      "summary": "Die 0:7-Testspiel-Niederlage hat bei Eintracht Frankfurt Spuren hinterlassen. Eine Erkenntnis aus dem Debakel ist, dass wohl ein neuer Torwart kommen soll. Freiburgs Noah Atubolu könnte die neue Nummer eins werden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/leichtathletik/em/mihambo-verpasst-ueberraschend-eine-em-medaille,la-em-2026-birmingham-mihambo-102.html",
+      "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-loest-noah-atubolu-eines-der-sge-probleme-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 17 Aug 2026 11:55:38 +0200"
+    },
+    {
+      "title": "Olympia-Gipfel? Kirsty Coventry bei der Reit-WM in Aachen",
+      "summary": "IOC-Präsidentin Kirsty Coventry schwärmt bei ihrem Aachen-Besuch von der Reit-WM. Vor Ort gab es auch Gespräche mit hochrangigen Vertretern der drei deutschen Olympia-Bewerbungen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-coventry-schwaermt-von-aachen-und-haelt-sich-bei-olympia-bedeckt-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -686,29 +731,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 22:49:19 +0200"
+      "published": "Mon, 17 Aug 2026 19:54:00 +0200"
     },
     {
-      "title": "Enttäuscht trotz Doppel-Podium - Gose und Werner holen Medaillen",
-      "summary": "Isabel Gose und Maya Werner haben über die 400 Meter Freistil bei der Schwimm-EM in Paris erneut Silber und Bronze geholt - trotzdem war Gose nachher enttäuscht.",
+      "title": "Reit-WM 2026 - Programm und TV-Zeitplan",
+      "summary": "Die Reit-WM kehrt 2026 nach Aachen zurück. Alle Wettbewerbe sowie TV-Sendezeiten im Überblick.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/schwimmen/enttaeuscht-trotz-doppel-podium-gose-und-werner-holen-medaillen,schwimmen-em-sonntag-gose-werner-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 21:15:47 +0200"
-    },
-    {
-      "title": "Märtens schwimmt in tollem Schlussspurt zu Bronze",
-      "summary": "Lukas Märtens hat bei der Schwimm-EM über 400 Meter Freistil mit einem herausragenden Schlussspurt noch Bronze geholt. Oliver Klemet lag lange auf Medaillenkurs, wurde aber Fünfter.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/schwimmen/maertens-schwimmt-in-tollem-schlussspurt-zu-bronze,schwimmen-em-sonntag-maertens-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-reit-wm-2026-programm-und-tv-zeitplan-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -718,23 +747,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 16 Aug 2026 20:00:56 +0200"
-    },
-    {
-      "title": "Dresden feiert gelungene Heimpremiere",
-      "summary": "Dynamo Dresden ist nach der Auftaktpleite mit einem Sieg gegen Darmstadt in der neuen Saison angekommen. Die enttäuschenden Darmstädter haben die Formkrise aus der Endphase der vergangenen Saison offenbar mitgenommen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/dresden-feiert-gelungene-heimpremiere,spielbericht-dynamo-dresden-sv-darmstadt-106.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 17 Aug 2026 00:00:20 +0200"
+      "published": "Mon, 17 Aug 2026 12:03:00 +0200"
     }
   ],
   "crises": [
@@ -746,9 +759,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
+      "label": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -953,7 +966,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html"
     },
     {
       "id": "conflict-russland",
@@ -963,9 +976,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
+      "label": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1170,7 +1183,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html"
     },
     {
       "id": "conflict-iran",
@@ -1183,7 +1196,7 @@
       "label": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1474,7 +1487,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1490,7 +1503,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1532,26 +1545,6 @@
         {
           "lat": 58.361046101101685,
           "lon": 17.47356624780364
-        },
-        {
-          "lat": 57.77746778260834,
-          "lon": 16.995446274599047
-        },
-        {
-          "lat": 61.60685057002721,
-          "lon": 20.816809426096572
-        },
-        {
-          "lat": 61.63176408406598,
-          "lon": 16.31936377930731
-        },
-        {
-          "lat": 62.54735414282567,
-          "lon": 16.64437327626554
-        },
-        {
-          "lat": 60.83234311711307,
-          "lon": 17.295866686065764
         }
       ]
     },
@@ -1567,7 +1560,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1583,7 +1576,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1599,7 +1592,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-17",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1614,8 +1607,8 @@
       "label": "Tote bei schwerem israelischem Angriff im Libanon",
       "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "intensity": 2,
+      "last_seen": "2026-08-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1697,6 +1690,26 @@
         {
           "lat": 34.87004987986445,
           "lon": 37.13292821208281
+        },
+        {
+          "lat": 32.17425712552172,
+          "lon": 33.28222635149972
+        },
+        {
+          "lat": 32.7708608754462,
+          "lon": 36.95022923206648
+        },
+        {
+          "lat": 34.307453159555784,
+          "lon": 33.81929840247561
+        },
+        {
+          "lat": 36.17303363867326,
+          "lon": 36.35342870020119
+        },
+        {
+          "lat": 31.13287188442642,
+          "lon": 36.85005494750304
         }
       ]
     },
@@ -1711,8 +1724,8 @@
       "label": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "intensity": 2,
+      "last_seen": "2026-08-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1727,10 +1740,103 @@
       "label": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
       "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-hamburg",
+      "type": "protest",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "label": "Tarifstreit: Warnstreik legt Seehäfen still",
+      "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-warnstreik-in-seehaefen,seehaefen-112.html",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-warschau",
+      "type": "conflict",
+      "location": {
+        "name": "Warschau",
+        "lat": 52.2297,
+        "lon": 21.0122
+      },
+      "label": "Die politischen Risse hinter der Militärparade in Warschau",
+      "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 49.70256987455396,
+          "lon": 21.100515698571577
+        },
+        {
+          "lat": 49.584301350695505,
+          "lon": 20.22262151288372
+        },
+        {
+          "lat": 52.52659802352733,
+          "lon": 23.450132353801543
+        },
+        {
+          "lat": 50.99147623815876,
+          "lon": 22.724275608482603
+        },
+        {
+          "lat": 51.02039467582523,
+          "lon": 22.582022678009473
+        },
+        {
+          "lat": 49.98521150384255,
+          "lon": 24.001480094855765
+        },
+        {
+          "lat": 53.97200792064739,
+          "lon": 19.639685904755883
+        },
+        {
+          "lat": 50.34217282408002,
+          "lon": 21.54616614443836
+        },
+        {
+          "lat": 53.53620916423335,
+          "lon": 19.77908753947776
+        },
+        {
+          "lat": 53.13716039149991,
+          "lon": 23.228034515918008
+        },
+        {
+          "lat": 50.16859884346605,
+          "lon": 22.183259008727564
+        },
+        {
+          "lat": 50.56977198022214,
+          "lon": 20.31715736941345
+        },
+        {
+          "lat": 52.57909245678238,
+          "lon": 21.57091763768576
+        },
+        {
+          "lat": 50.55067425249428,
+          "lon": 18.860246461783362
+        },
+        {
+          "lat": 53.85038650420306,
+          "lon": 23.598553740558575
+        }
+      ]
     }
   ]
 }

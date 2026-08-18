@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
+      "label": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-soeldner-afrika-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
+      "label": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html"
     },
     {
       "id": "conflict-iran",
@@ -445,7 +445,7 @@
       "label": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -736,7 +736,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -752,7 +752,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-strafmuendigkeit-102.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -794,26 +794,6 @@
         {
           "lat": 58.361046101101685,
           "lon": 17.47356624780364
-        },
-        {
-          "lat": 57.77746778260834,
-          "lon": 16.995446274599047
-        },
-        {
-          "lat": 61.60685057002721,
-          "lon": 20.816809426096572
-        },
-        {
-          "lat": 61.63176408406598,
-          "lon": 16.31936377930731
-        },
-        {
-          "lat": 62.54735414282567,
-          "lon": 16.64437327626554
-        },
-        {
-          "lat": 60.83234311711307,
-          "lon": 17.295866686065764
         }
       ]
     },
@@ -829,7 +809,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -845,7 +825,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -861,7 +841,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-17",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -876,8 +856,8 @@
       "label": "Tote bei schwerem israelischem Angriff im Libanon",
       "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "intensity": 2,
+      "last_seen": "2026-08-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -959,6 +939,26 @@
         {
           "lat": 34.87004987986445,
           "lon": 37.13292821208281
+        },
+        {
+          "lat": 32.17425712552172,
+          "lon": 33.28222635149972
+        },
+        {
+          "lat": 32.7708608754462,
+          "lon": 36.95022923206648
+        },
+        {
+          "lat": 34.307453159555784,
+          "lon": 33.81929840247561
+        },
+        {
+          "lat": 36.17303363867326,
+          "lon": 36.35342870020119
+        },
+        {
+          "lat": 31.13287188442642,
+          "lon": 36.85005494750304
         }
       ]
     },
@@ -973,8 +973,8 @@
       "label": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
       "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "intensity": 2,
+      "last_seen": "2026-08-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -989,11 +989,104 @@
       "label": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
       "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-hamburg",
+      "type": "protest",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "label": "Tarifstreit: Warnstreik legt Seehäfen still",
+      "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-warnstreik-in-seehaefen,seehaefen-112.html",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-warschau",
+      "type": "conflict",
+      "location": {
+        "name": "Warschau",
+        "lat": 52.2297,
+        "lon": 21.0122
+      },
+      "label": "Die politischen Risse hinter der Militärparade in Warschau",
+      "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 49.70256987455396,
+          "lon": 21.100515698571577
+        },
+        {
+          "lat": 49.584301350695505,
+          "lon": 20.22262151288372
+        },
+        {
+          "lat": 52.52659802352733,
+          "lon": 23.450132353801543
+        },
+        {
+          "lat": 50.99147623815876,
+          "lon": 22.724275608482603
+        },
+        {
+          "lat": 51.02039467582523,
+          "lon": 22.582022678009473
+        },
+        {
+          "lat": 49.98521150384255,
+          "lon": 24.001480094855765
+        },
+        {
+          "lat": 53.97200792064739,
+          "lon": 19.639685904755883
+        },
+        {
+          "lat": 50.34217282408002,
+          "lon": 21.54616614443836
+        },
+        {
+          "lat": 53.53620916423335,
+          "lon": 19.77908753947776
+        },
+        {
+          "lat": 53.13716039149991,
+          "lon": 23.228034515918008
+        },
+        {
+          "lat": 50.16859884346605,
+          "lon": 22.183259008727564
+        },
+        {
+          "lat": 50.56977198022214,
+          "lon": 20.31715736941345
+        },
+        {
+          "lat": 52.57909245678238,
+          "lon": 21.57091763768576
+        },
+        {
+          "lat": 50.55067425249428,
+          "lon": 18.860246461783362
+        },
+        {
+          "lat": 53.85038650420306,
+          "lon": 23.598553740558575
+        }
+      ]
     }
   ],
-  "updated_at": "2026-08-17"
+  "updated_at": "2026-08-18"
 }
