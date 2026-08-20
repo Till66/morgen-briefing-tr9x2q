@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine-Krieg: Wie Forensiker den Toten ihre Namen zurückgeben",
+      "label": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-forensik-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-18",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +390,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html"
@@ -426,7 +406,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-19",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -608,83 +588,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
-        }
-      ]
-    },
-    {
-      "id": "conflict-schweiz",
-      "type": "conflict",
-      "location": {
-        "name": "Schweiz",
-        "lat": 46.8182,
-        "lon": 8.2275
-      },
-      "label": "Volksinitiative: Will die Schweiz noch neutraler werden?",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html",
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 48.914727605572836,
-          "lon": 5.259496774028985
-        },
-        {
-          "lat": 46.44655627250102,
-          "lon": 6.043143454626119
-        },
-        {
-          "lat": 46.64835912138628,
-          "lon": 8.496550361418409
-        },
-        {
-          "lat": 49.03554715607421,
-          "lon": 7.155870395658623
-        },
-        {
-          "lat": 49.32258204116756,
-          "lon": 8.481700700962497
-        },
-        {
-          "lat": 45.59653208250308,
-          "lon": 11.157014462577532
-        },
-        {
-          "lat": 45.0266226490018,
-          "lon": 10.918739967870348
-        },
-        {
-          "lat": 44.92035989106851,
-          "lon": 10.940042854182547
-        },
-        {
-          "lat": 43.950094147054266,
-          "lon": 8.366888105631663
-        },
-        {
-          "lat": 44.4042445579947,
-          "lon": 8.46405493260281
         }
       ]
     },
@@ -821,7 +724,7 @@
       "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-19",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -923,26 +826,6 @@
         {
           "lat": 31.13287188442642,
           "lon": 36.85005494750304
-        },
-        {
-          "lat": 32.87966351628214,
-          "lon": 34.52427996904654
-        },
-        {
-          "lat": 32.51633494476621,
-          "lon": 33.21283098954971
-        },
-        {
-          "lat": 35.57863284708353,
-          "lon": 37.85083115015396
-        },
-        {
-          "lat": 36.58550381791359,
-          "lon": 34.81672188436967
-        },
-        {
-          "lat": 32.59481148273482,
-          "lon": 38.177516047064216
         }
       ]
     },
@@ -954,11 +837,11 @@
         "lat": 50.5039,
         "lon": 4.4699
       },
-      "label": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "label": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-19",
-      "intensity": 4,
+      "last_seen": "2026-08-20",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -974,7 +857,7 @@
       "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-19",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -990,7 +873,7 @@
       "url": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-der-arbeiter-legt-seehaefen-lahm,seehaefen-112.html",
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-19",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1005,8 +888,8 @@
       "label": "Die politischen Risse hinter der Militärparade in Warschau",
       "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-19",
-      "intensity": 2,
+      "last_seen": "2026-08-20",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1088,6 +971,26 @@
         {
           "lat": 52.917143760616575,
           "lon": 22.31870289736374
+        },
+        {
+          "lat": 50.38822534146014,
+          "lon": 22.65080457126019
+        },
+        {
+          "lat": 52.247568831059404,
+          "lon": 18.424311722960162
+        },
+        {
+          "lat": 54.835527486050744,
+          "lon": 20.635922369462186
+        },
+        {
+          "lat": 54.9127823714107,
+          "lon": 23.322188522275816
+        },
+        {
+          "lat": 53.64037492785181,
+          "lon": 21.17437452733828
         }
       ]
     },
@@ -1102,8 +1005,8 @@
       "label": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "intensity": 1,
+      "last_seen": "2026-08-20",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1165,9 +1068,203 @@
         {
           "lat": 47.20030192769663,
           "lon": 34.115884880508276
+        },
+        {
+          "lat": 51.71896706924342,
+          "lon": 37.300018854222266
+        },
+        {
+          "lat": 50.599100709469425,
+          "lon": 36.864563973767815
+        },
+        {
+          "lat": 47.883602825800445,
+          "lon": 38.76490188774954
+        },
+        {
+          "lat": 47.37667432822268,
+          "lon": 35.726001703528226
+        },
+        {
+          "lat": 52.28730402418174,
+          "lon": 33.57261695744019
+        }
+      ]
+    },
+    {
+      "id": "conflict-italien",
+      "type": "conflict",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Warum Italien und Deutschland wieder über Migranten streiten",
+      "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.96354556816491,
+          "lon": 14.954405376952469
+        },
+        {
+          "lat": 40.77941933863096,
+          "lon": 12.666001159895444
+        },
+        {
+          "lat": 41.115819795901494,
+          "lon": 15.561402355726901
+        },
+        {
+          "lat": 41.2207650932789,
+          "lon": 14.576932100756077
+        },
+        {
+          "lat": 42.02290548489741,
+          "lon": 14.583231353845035
+        },
+        {
+          "lat": 42.12479287819827,
+          "lon": 13.078262670259285
+        },
+        {
+          "lat": 43.87671267017424,
+          "lon": 9.737887733131853
+        },
+        {
+          "lat": 44.72522332035837,
+          "lon": 12.892993543081914
+        },
+        {
+          "lat": 42.98494797840142,
+          "lon": 13.99736330057037
+        },
+        {
+          "lat": 40.05018851546586,
+          "lon": 10.067263518518363
+        },
+        {
+          "lat": 41.034690375799585,
+          "lon": 14.115707447356243
+        },
+        {
+          "lat": 39.312250141013116,
+          "lon": 11.216163544775723
+        },
+        {
+          "lat": 40.380055754187175,
+          "lon": 14.273855916796451
+        },
+        {
+          "lat": 44.70445178663706,
+          "lon": 12.173927512568637
+        },
+        {
+          "lat": 44.02802147728822,
+          "lon": 12.934389760977911
+        }
+      ]
+    },
+    {
+      "id": "conflict-kiew",
+      "type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "label": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 52.62998156601318,
+          "lon": 28.326232658589543
+        },
+        {
+          "lat": 50.3313085159312,
+          "lon": 33.389491863221046
+        },
+        {
+          "lat": 51.20745816912664,
+          "lon": 30.683347839835644
+        },
+        {
+          "lat": 52.64227211408358,
+          "lon": 29.159287383864232
+        },
+        {
+          "lat": 49.989688305293484,
+          "lon": 29.873332284175866
+        },
+        {
+          "lat": 52.789783221965024,
+          "lon": 32.13611678810304
+        },
+        {
+          "lat": 47.613306473030896,
+          "lon": 31.572025212639716
+        },
+        {
+          "lat": 50.49795398325134,
+          "lon": 28.57057723397705
+        },
+        {
+          "lat": 48.97908699220479,
+          "lon": 28.400787643530357
+        },
+        {
+          "lat": 48.940084609533564,
+          "lon": 28.087134363895778
+        },
+        {
+          "lat": 47.94889658466643,
+          "lon": 29.295217752572665
+        },
+        {
+          "lat": 49.311037932939485,
+          "lon": 29.905565967110117
+        },
+        {
+          "lat": 53.269015380122816,
+          "lon": 31.036540829632322
+        },
+        {
+          "lat": 50.509987159396864,
+          "lon": 27.66817148841712
+        },
+        {
+          "lat": 48.069011109543155,
+          "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
     }
   ],
-  "updated_at": "2026-08-19"
+  "updated_at": "2026-08-20"
 }
