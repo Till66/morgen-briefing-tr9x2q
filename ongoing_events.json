@@ -10,7 +10,7 @@
       },
       "label": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -228,7 +228,7 @@
       "label": "Russland greift Kiew erneut mit ballistischen Raketen an",
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-18",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -370,26 +370,6 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
-        },
-        {
-          "lat": 63.01591423191035,
-          "lon": 106.50348857002088
-        },
-        {
-          "lat": 63.406282377426116,
-          "lon": 106.11403138929978
-        },
-        {
-          "lat": 63.56320607199874,
-          "lon": 107.52500839744951
-        },
-        {
-          "lat": 61.86481182566956,
-          "lon": 106.43257439045202
-        },
-        {
-          "lat": 62.867105840110945,
-          "lon": 106.93341763191377
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html"
@@ -402,11 +382,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+      "label": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-19",
-      "intensity": 7,
+      "last_seen": "2026-08-21",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -588,6 +568,26 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -724,7 +724,7 @@
       "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-19",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -806,26 +806,6 @@
         {
           "lat": 34.87004987986445,
           "lon": 37.13292821208281
-        },
-        {
-          "lat": 32.17425712552172,
-          "lon": 33.28222635149972
-        },
-        {
-          "lat": 32.7708608754462,
-          "lon": 36.95022923206648
-        },
-        {
-          "lat": 34.307453159555784,
-          "lon": 33.81929840247561
-        },
-        {
-          "lat": 36.17303363867326,
-          "lon": 36.35342870020119
-        },
-        {
-          "lat": 31.13287188442642,
-          "lon": 36.85005494750304
         }
       ]
     },
@@ -837,11 +817,11 @@
         "lat": 50.5039,
         "lon": 4.4699
       },
-      "label": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
-      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
+      "label": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
-      "intensity": 6,
+      "last_seen": "2026-08-21",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -857,7 +837,7 @@
       "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-19",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -873,7 +853,7 @@
       "url": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-der-arbeiter-legt-seehaefen-lahm,seehaefen-112.html",
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-19",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -889,7 +869,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/militaerparade-polen-106.html",
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-20",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -971,26 +951,6 @@
         {
           "lat": 52.917143760616575,
           "lon": 22.31870289736374
-        },
-        {
-          "lat": 50.38822534146014,
-          "lon": 22.65080457126019
-        },
-        {
-          "lat": 52.247568831059404,
-          "lon": 18.424311722960162
-        },
-        {
-          "lat": 54.835527486050744,
-          "lon": 20.635922369462186
-        },
-        {
-          "lat": 54.9127823714107,
-          "lon": 23.322188522275816
-        },
-        {
-          "lat": 53.64037492785181,
-          "lon": 21.17437452733828
         }
       ]
     },
@@ -1006,7 +966,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "first_seen": "2026-08-19",
       "last_seen": "2026-08-20",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1068,26 +1028,6 @@
         {
           "lat": 47.20030192769663,
           "lon": 34.115884880508276
-        },
-        {
-          "lat": 51.71896706924342,
-          "lon": 37.300018854222266
-        },
-        {
-          "lat": 50.599100709469425,
-          "lon": 36.864563973767815
-        },
-        {
-          "lat": 47.883602825800445,
-          "lon": 38.76490188774954
-        },
-        {
-          "lat": 47.37667432822268,
-          "lon": 35.726001703528226
-        },
-        {
-          "lat": 52.28730402418174,
-          "lon": 33.57261695744019
         }
       ]
     },
@@ -1102,8 +1042,8 @@
       "label": "Warum Italien und Deutschland wieder über Migranten streiten",
       "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "intensity": 1,
+      "last_seen": "2026-08-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1165,6 +1105,26 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
+        },
+        {
+          "lat": 44.79071973806741,
+          "lon": 11.074754779519921
+        },
+        {
+          "lat": 43.15981340633479,
+          "lon": 15.513897103652566
+        },
+        {
+          "lat": 43.68310051648728,
+          "lon": 11.30539079836765
+        },
+        {
+          "lat": 39.73122930951456,
+          "lon": 15.493655383045937
+        },
+        {
+          "lat": 41.90542024989051,
+          "lon": 13.262696645559206
         }
       ]
     },
@@ -1179,8 +1139,8 @@
       "label": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "intensity": 2,
+      "last_seen": "2026-08-21",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1262,9 +1222,126 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
+        },
+        {
+          "lat": 50.948850684666155,
+          "lon": 28.325279312098463
+        },
+        {
+          "lat": 51.351796749008656,
+          "lon": 27.682541009710526
+        },
+        {
+          "lat": 50.25431719113463,
+          "lon": 31.461124293660774
+        },
+        {
+          "lat": 49.57292332967101,
+          "lon": 30.14628348204989
+        },
+        {
+          "lat": 50.74693274107446,
+          "lon": 28.645578690769284
+        },
+        {
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
+        },
+        {
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
+        },
+        {
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
+        },
+        {
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
+        },
+        {
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
+        }
+      ]
+    },
+    {
+      "id": "conflict-den-haag",
+      "type": "conflict",
+      "location": {
+        "name": "Den Haag",
+        "lat": 52.0705,
+        "lon": 4.3007
+      },
+      "label": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
+      "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.02295769572269,
+          "lon": 3.886546796768216
+        },
+        {
+          "lat": 53.87746803955524,
+          "lon": 2.148660600361219
+        },
+        {
+          "lat": 54.46624706773175,
+          "lon": 6.96603251098947
+        },
+        {
+          "lat": 54.92731906432305,
+          "lon": 1.5276505071982163
+        },
+        {
+          "lat": 53.03178255034827,
+          "lon": 4.841055878775091
+        },
+        {
+          "lat": 54.90586464158338,
+          "lon": 4.6283395879983065
+        },
+        {
+          "lat": 53.61044727426673,
+          "lon": 1.4197651050114692
+        },
+        {
+          "lat": 52.37636481590427,
+          "lon": 3.271460696095126
+        },
+        {
+          "lat": 52.729214804253246,
+          "lon": 6.764220101146661
+        },
+        {
+          "lat": 51.096337083818824,
+          "lon": 3.7756891381885365
+        },
+        {
+          "lat": 49.303537238529195,
+          "lon": 3.1783835603354693
+        },
+        {
+          "lat": 54.490199026602255,
+          "lon": 2.0917669336074654
+        },
+        {
+          "lat": 49.079433932522534,
+          "lon": 6.933291650270063
+        },
+        {
+          "lat": 50.35825192827167,
+          "lon": 5.055614324673572
+        },
+        {
+          "lat": 50.20031550421795,
+          "lon": 4.01353173158598
         }
       ]
     }
   ],
-  "updated_at": "2026-08-20"
+  "updated_at": "2026-08-21"
 }
