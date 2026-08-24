@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
+      "label": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html"
+      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-22",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,26 +350,6 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html"
@@ -386,7 +366,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-23",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,26 +548,6 @@
         {
           "lat": 34.22179771185673,
           "lon": 54.95010433763036
-        },
-        {
-          "lat": 34.284216806016566,
-          "lon": 56.259383622375175
-        },
-        {
-          "lat": 32.3604558480184,
-          "lon": 56.28937088261577
-        },
-        {
-          "lat": 31.711185426507537,
-          "lon": 55.80954118416867
-        },
-        {
-          "lat": 29.721186162962507,
-          "lon": 51.42462317142278
-        },
-        {
-          "lat": 34.758996716535066,
-          "lon": 56.35543587275674
         }
       ]
     },
@@ -599,11 +559,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Überblick: Waldbrände in Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
+      "label": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-17",
-      "intensity": 0,
+      "last_seen": "2026-08-24",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -618,8 +578,8 @@
       "label": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
       "url": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-23",
-      "intensity": 2,
+      "last_seen": "2026-08-24",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -701,24 +661,48 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
+        },
+        {
+          "lat": 60.59262660816582,
+          "lon": 17.40628773969104
+        },
+        {
+          "lat": 60.653755149075934,
+          "lon": 16.706898640384757
+        },
+        {
+          "lat": 60.209001540306026,
+          "lon": 20.508900766223995
+        },
+        {
+          "lat": 58.57864901069497,
+          "lon": 17.37653369892133
+        },
+        {
+          "lat": 62.20022520292998,
+          "lon": 19.417083908978288
+        },
+        {
+          "lat": 62.80073923222249,
+          "lon": 17.028248495040636
+        },
+        {
+          "lat": 62.96228098663997,
+          "lon": 17.106687850886765
+        },
+        {
+          "lat": 58.00324322241876,
+          "lon": 17.567697871686004
+        },
+        {
+          "lat": 57.78397834068234,
+          "lon": 17.34036273012703
+        },
+        {
+          "lat": 57.34168017133155,
+          "lon": 15.943715786858512
         }
       ]
-    },
-    {
-      "id": "wildfire-gro-britannien",
-      "type": "wildfire",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "label": "Waldbrände in Europa: Wo es gerade brennt",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-libanon",
@@ -788,7 +772,7 @@
       "label": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -804,8 +788,8 @@
       "label": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
-      "intensity": 3,
+      "last_seen": "2026-08-24",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -890,11 +874,11 @@
         "lat": 49.9935,
         "lon": 36.2304
       },
-      "label": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
+      "label": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-20",
-      "intensity": 0,
+      "last_seen": "2026-08-24",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -936,6 +920,26 @@
         {
           "lat": 51.57711552576153,
           "lon": 35.965563715839195
+        },
+        {
+          "lat": 48.82559998808617,
+          "lon": 35.4129313042343
+        },
+        {
+          "lat": 49.80692789409994,
+          "lon": 38.03973023728648
+        },
+        {
+          "lat": 50.49980934804359,
+          "lon": 38.2572084534972
+        },
+        {
+          "lat": 51.54052681827988,
+          "lon": 37.117697881275255
+        },
+        {
+          "lat": 47.20030192769663,
+          "lon": 34.115884880508276
         }
       ]
     },
@@ -951,7 +955,7 @@
       "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-22",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1013,26 +1017,6 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
-        },
-        {
-          "lat": 44.79071973806741,
-          "lon": 11.074754779519921
-        },
-        {
-          "lat": 43.15981340633479,
-          "lon": 15.513897103652566
-        },
-        {
-          "lat": 43.68310051648728,
-          "lon": 11.30539079836765
-        },
-        {
-          "lat": 39.73122930951456,
-          "lon": 15.493655383045937
-        },
-        {
-          "lat": 41.90542024989051,
-          "lon": 13.262696645559206
         }
       ]
     },
@@ -1048,7 +1032,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-21",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1110,26 +1094,6 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
-        },
-        {
-          "lat": 51.45047349201747,
-          "lon": 28.871659015322724
-        },
-        {
-          "lat": 51.86005130557798,
-          "lon": 30.754070191168474
-        },
-        {
-          "lat": 49.68477979259665,
-          "lon": 31.144236065993837
-        },
-        {
-          "lat": 50.77939239313334,
-          "lon": 31.598203924671093
-        },
-        {
-          "lat": 50.357442341474105,
-          "lon": 32.2222066715884
         }
       ]
     },
@@ -1144,8 +1108,8 @@
       "label": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
       "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-23",
-      "intensity": 3,
+      "last_seen": "2026-08-24",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1247,6 +1211,26 @@
         {
           "lat": 50.747120125229614,
           "lon": 6.553733881367425
+        },
+        {
+          "lat": 50.84542130589088,
+          "lon": 4.155883213682655
+        },
+        {
+          "lat": 51.65275098684948,
+          "lon": 5.5996693615350335
+        },
+        {
+          "lat": 51.26740229934568,
+          "lon": 2.531947054699633
+        },
+        {
+          "lat": 49.814769855959405,
+          "lon": 3.0762948686449776
+        },
+        {
+          "lat": 52.96349280752731,
+          "lon": 1.5626796526296949
         }
       ]
     },
@@ -1302,8 +1286,8 @@
       "label": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
-      "intensity": 1,
+      "last_seen": "2026-08-24",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1365,9 +1349,29 @@
         {
           "lat": 54.51822002390079,
           "lon": -105.39388049913101
+        },
+        {
+          "lat": 54.26537199097997,
+          "lon": -107.79988484892665
+        },
+        {
+          "lat": 54.67824158327334,
+          "lon": -105.28256220747451
+        },
+        {
+          "lat": 55.64549066077767,
+          "lon": -104.31278753262451
+        },
+        {
+          "lat": 54.36790301665569,
+          "lon": -109.30117395105938
+        },
+        {
+          "lat": 58.038687406644854,
+          "lon": -106.84661358682267
         }
       ]
     }
   ],
-  "updated_at": "2026-08-23"
+  "updated_at": "2026-08-24"
 }
