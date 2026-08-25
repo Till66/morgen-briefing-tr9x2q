@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:50:23.152808+00:00",
+  "generated_at": "2026-08-25T04:42:56.735547+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,22 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
+      "summary": "Die Erwartungen sind hoch vor der Kabinettsklausur im Schloss Neuhardenberg. Die schwarz-rote Koalition will Handlungsfähigkeit beweisen. Doch miese Umfragewerte und Gegenwind aus den eigenen Reihen belasten die Stimmung. Von Dagmar Pepping.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 21:38:42 +0200"
+    },
     {
       "title": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
       "summary": "Die Linke präsentiert heute ihr Programm für ein \"zukunftsfestes Sachsen-Anhalt\". Die Partei kämpft um ein starkes Ergebnis bei der Wahl - mit prominenter Unterstützung. Aus Berlin kam aber nicht nur Rückenwind. Von Alexander Budweg.",
@@ -157,11 +173,56 @@
       "published": "Sun, 23 Aug 2026 02:21:07 +0200"
     },
     {
-      "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
-      "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von T. Denzel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
-      "category": "politik",
+      "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "Kanada",
+        "lat": 56.1304,
+        "lon": -106.3468
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Kanada",
+            "lat": 56.1304,
+            "lon": -106.3468
+          },
+          "to": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 00:56:35 +0200"
+    },
+    {
+      "title": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "summary": "Schon jetzt bezieht Deutschland den größten Anteil seiner Gaslieferungen aus Norwegen - langfristig soll es noch mehr werden. Dazu hat der staatliche Gashändler Uniper einen umfangreichen Liefervertrag abgeschlossen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 17:04:43 +0200"
+    },
+    {
+      "title": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
+      "summary": "Er galt als einer der einflussreichsten Geschäftsmänner und als einer der reichsten Deutschen: Klaus-Michael Kühne ist im Alter von 89 Jahren gestorben. Der gebürtige Hamburger förderte auch Sport und Kultur.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -170,11 +231,75 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 22 Aug 2026 19:59:00 +0200"
+      "published": "Mon, 24 Aug 2026 14:42:04 +0200"
+    },
+    {
+      "title": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
+      "summary": "Der heimische Apfelanbau kämpft nicht nur mit günstiger Konkurrenz aus dem Ausland: Auch Hitze und ausbleibender Regen belasten Betriebe. Wie Apfelbauern damit umgehen und was in Zukunft helfen könnte. Von M. Holzreiter.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 16:43:53 +0200"
+    },
+    {
+      "title": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
+      "summary": "Niedrige Flusspegel, schlechte Ernten, Waldbrände - die Hitze bringt einer Schätzung von Greenpeace zufolge wirtschaftliche Einbußen in zweistelliger Milliardenhöhe mit sich. Zu den Folgekosten der Hitze gibt es bereits mehrere Studien.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
+      "category": "wirtschaft",
+      "event_type": "wildfire",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 11:17:12 +0200"
+    },
+    {
+      "title": "EWC-Chef Reichert: \"E-Sport muss ein Aufstiegsversprechen geben\"",
+      "summary": "In Paris ist der \"Esports World Cup\" zu Ende gegangen. Es ist das weltweit größte Multi-E-Sport-Event, veranstaltet von der saudi-arabischen \"Esports Foundation\". CEO Reichert über den Einfluss des Events auf die Branche und den Vorwurf des Sportswashings.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/esports-world-cup-102.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 14:53:14 +0200"
+    },
+    {
+      "title": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
+      "summary": "Deutschlands Wohlstand hängt maßgeblich an seiner Exportwirtschaft. Besondere Bedeutung hat dabei die Europäische Union. Eine Studie beziffert die vom Export abhängigen Arbeitsplätze auf mehr als sieben Millionen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 12:52:11 +0200"
     },
     {
       "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-      "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und neue Ideen ins Land zu holen?",
+      "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und Ideen ins Land zu holen? Von Bianca v. d. Au.",
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
       "category": "wirtschaft",
@@ -189,129 +314,33 @@
       "published": "Mon, 24 Aug 2026 06:18:06 +0200"
     },
     {
-      "title": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
-      "summary": "Um mehrere Hundert Prozent sollen sich die Preise vom Anbieter E.ON für Fernwärme in einigen Fällen erhöht haben. Der Verbraucherzentrale Bundesverband klagt - heute beginnt die Verhandlung. Für Betroffene könnte es um Tausende Euro gehen. Von J. Eberl.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
+      "summary": "Zum heutigen Unabhängigkeitstag der Ukraine hat die EU neue Finanzhilfen in Milliardenhöhe genehmigt - auch vor dem Hintergrund intensivierter russischer Angriffe. Viele Verbündete der Ukraine treffen sich heute in Kiew.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 05:00:37 +0200"
-    },
-    {
-      "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "summary": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 20:34:43 +0200"
-    },
-    {
-      "title": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
-      "summary": "Der Urlaub ist um, die Erholung weicht dem Alltagsstress. Doch muss das sein? Wie lässt sich das Urlaubsgefühl in den Alltag hinüberretten - zumindest eine Zeit lang? Von Laura Lippert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 15:52:16 +0200"
-    },
-    {
-      "title": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
-      "summary": "Die Hitzewelle hat Deutschlands Flüssen erheblich zugesetzt. Auf dem Rhein läuft nun zumindest der Fährbetrieb wieder an. Bis sich die Lage für die großen Binnenschiffe normalisiert, dürfte es aber noch Wochen dauern.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 14:51:05 +0200"
-    },
-    {
-      "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
-      "summary": "Die deutschen Discounter liefern sich einen Preiskampf. Aldi setzt auf den besten Preis für alle - ganz ohne Bonus-App. Lidl kontert digital. Wer hat die bessere Strategie? Von Anke Heinhaus.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 22 Aug 2026 17:09:13 +0200"
-    },
-    {
-      "title": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
-      "summary": "China gibt bei humanoiden Robotern das Tempo vor. Doch Deutschland hat durchaus Chancen - ausgerechnet für die kriselnden Autozulieferer könnte der neue Milliardenmarkt zum Wachstumstreiber werden. Von Angela Göpfert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 22 Aug 2026 13:02:46 +0200"
-    },
-    {
-      "title": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
-      "summary": "Die Verhandlungen über ein Handelsabkommen zwischen den USA und Kanada sind gescheitert. Washington setzte daraufhin weitere Zölle in Kraft. Die Reaktion des Nachbarn fällt hart aus: Regierungschef Carney spricht von Vergeltung.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
       },
       "connections": [
         {
           "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
           },
           "to": {
-            "name": "Kanada",
-            "lat": 56.1304,
-            "lon": -106.3468
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
           }
         }
       ],
       "chokepoint_lane": null,
-      "published": "Sat, 22 Aug 2026 19:04:55 +0200"
+      "published": "Mon, 24 Aug 2026 11:42:47 +0200"
     },
     {
       "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
@@ -362,6 +391,60 @@
       "published": "Fri, 21 Aug 2026 22:01:48 +0200"
     },
     {
+      "title": "Erneut Tanker in Straße von Hormus angegriffen",
+      "summary": "Nach britischen Informationen ist in der Straße von Hormus wieder ein Öltanker getroffen worden - von einem \"unbekannten Geschoss\". Wer für den Angriff vor der Küste des Omans verantwortlich ist, ist noch unklar.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
+      "category": "konflikte",
+      "event_type": "blockade",
+      "location": {
+        "name": "Straße von Hormus",
+        "lat": 26.5,
+        "lon": 56.25
+      },
+      "connections": [],
+      "chokepoint_lane": [
+        [
+          26.7,
+          52.5
+        ],
+        [
+          25.0,
+          58.5
+        ]
+      ],
+      "published": "Tue, 25 Aug 2026 03:36:42 +0200"
+    },
+    {
+      "title": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
+      "summary": "Die USA haben eine große Militärübung mit Südkorea abgesagt. Wegen des Krieges gegen den Iran fehle es an Truppenkapazitäten. Zuvor hatte Präsident Trump bereits ein anderes Manöver verkürzt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Südkorea",
+            "lat": 35.9078,
+            "lon": 127.7669
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 13:07:30 +0200"
+    },
+    {
       "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "summary": "Die Zoll-Gespräche zwischen den USA und Kanada sind gescheitert - jetzt treten neue US-Zölle in Kraft. Ein neuer \"Handelskrieg\" droht, denn Kanada will mit Gegenzöllen antworten. Beide Seiten geben sich gegenseitig die Schuld.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -391,42 +474,10 @@
       "published": "Sun, 23 Aug 2026 09:19:06 +0200"
     },
     {
-      "title": "Acht Tote bei Flugzeugabsturz auf US-Luftwaffenstützpunkt in Alaska",
-      "summary": "An einer abgelegenen Radarstation im Westen Alaskas ist ein Charterflugzeug verunglückt - alle acht Passagiere kamen dabei ums Leben. Die Fachleute führten dort offenbar eine Mission durch - welche, ist unklar.",
+      "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "summary": "Mitten im russischen Angriffskrieg feiert die Ukraine ihre Unabhängigkeit. Präsident Selenskyj pocht auf die Stärke seines Landes - und erhält weitere Rüstungshilfe der EU und aus Großbritannien. Von F. Kellermann.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/alaska-flugzeugabsturz-luftwaffe-100.html",
-      "category": "konflikte",
-      "event_type": "transport",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 21 Aug 2026 14:50:12 +0200"
-    },
-    {
-      "title": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
-      "summary": "Der US-Regierung ist der Internationale Strafgerichtshof in Den Haag ein Dorn im Auge. Jüngst verhängte sie sogar Sanktionen gegen Gerichtsmitglieder. Aber welche Aufgaben hat der Gerichtshof eigentlich? Von A. Stephany und F. Bräutigam.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Den Haag",
-        "lat": 52.0705,
-        "lon": 4.3007
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 16:08:49 +0200"
-    },
-    {
-      "title": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
-      "summary": "Sein Besuch sollte ein Symbol der deutschen Verbundenheit mit der Ukraine sein. Doch der Krieg und dessen Folgen vor Ort erinnern Bundesaußenminister Wadephul daran, was das Land am Dringendsten braucht: Abwehrraketen. Von Claudia Buckenmaier.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
@@ -434,25 +485,54 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Großbritannien",
+            "lat": 55.3781,
+            "lon": -3.436
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 03:41:08 +0200"
+      "published": "Mon, 24 Aug 2026 18:48:03 +0200"
     },
     {
-      "title": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
-      "summary": "Das ukrainische Charkiw liegt nur rund 30 Kilometer von der Front entfernt - häufig steht sie unter russischem Beschuss. Dennoch besuchte Außenminister Wadephul die Millionenstadt. Dabei würdigte er den Widerstandswillen der Bewohner.",
+      "title": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
+      "summary": "Island stimmt am Wochenende über EU-Beitrittsverhandlungen ab. Nicht zuletzt aus geopolitischen Gründen setzt man in Brüssel auf Zustimmung - und versucht, beim schwierigen Thema Fischerei auf die Isländer zuzugehen. Von Thomas Spickhofen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Charkiw",
-        "lat": 49.9935,
-        "lon": 36.2304
+        "name": "Brüssel",
+        "lat": 50.8503,
+        "lon": 4.3517
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 16:21:56 +0200"
+      "published": "Tue, 25 Aug 2026 06:36:19 +0200"
+    },
+    {
+      "title": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "summary": "Vor zehn Jahren wurde die Region um Amatrice in Italien von schweren Erdbeben erschüttert - 300 Menschen starben. Zum Gedenken heute kam auch Ministerpräsidentin Meloni. Der Wiederaufbau läuft weiter schleppend.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
+      "category": "welt",
+      "event_type": "disaster",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 18:44:15 +0200"
     },
     {
       "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
@@ -535,42 +615,10 @@
       "published": "Thu, 20 Aug 2026 19:28:42 +0200"
     },
     {
-      "title": "West-Nil-Virus: 157 Fälle in Griechenland gemeldet",
-      "summary": "Dutzende Menschen haben sich in Südeuropa in den vergangenen Wochen mit dem West-Nil-Virus infiziert. In Griechenland hat sich die Zahl seit Ende Juli vervierfacht, seit Jahresbeginn starben dort 13 Menschen nach einer Infektion.",
+      "title": "Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
+      "summary": "Kurz vor der Parlamentswahl will der republikanische US-Präsident die Regeln ändern. Jetzt hat der Supreme Court Trumps Briefwahl-Pläne erlaubt - vorerst. Kritiker vermuten, dass sie gezielt demokratische Wähler benachteiligen sollen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/griechenland-infektionen-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 18:49:58 +0200"
-    },
-    {
-      "title": "Waldbrand in Belgien nahe der deutschen Grenze unter Kontrolle",
-      "summary": "Einer der größten Waldbrände in der Geschichte Belgiens ist laut Behörden \"vollumfänglich\" unter Kontrolle. Nur im Osten des Hohen Venn wird weiter gegen die Flammen gekämpft. Deutsche Feuerwehrkräfte rücken ab.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
-      "category": "welt",
-      "event_type": "wildfire",
-      "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 18:04:55 +0200"
-    },
-    {
-      "title": "Ungarns öffentlich-rechtliches Fernsehen sendet wieder Nachrichten",
-      "summary": "Unter Orban galt Ungarns öffentlich-rechtlicher Sender M1 als Sprachrohr der Regierung - das will der neue Regierungschef Magyar ändern. Nach einer Zwangspause sendet M1 nun wieder Nachrichten. Doch es gibt auch Kritik. Von D. Freches.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/ungarn-oerr-nachrichten-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-104.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
@@ -580,13 +628,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 17:08:15 +0200"
+      "published": "Tue, 25 Aug 2026 03:36:35 +0200"
     },
     {
-      "title": "DFB-Pokal: Rot-Weiss Essen besiegt den FC St. Pauli",
-      "summary": "St. Pauli scheidet selbstverschuldet bei Drittligist Rot-Weiss Essen aus dem Pokal aus. Vorne vergibt Kaars Hochkaräter, hinten patzt die Abwehr.",
+      "title": "DFB-Pokal: Dzeko bewahrt Schalke vor Blamage in Halle",
+      "summary": "Schalke 04 drohte als erster Bundesligist in der ersten Runde des DFB-Pokals zu scheitern - dann drehte der Aufsteiger die Partie beim Halleschen FC dank Edin Dzeko doch noch glücklich.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/rw-essen-nutzt-st-paulis-abwehrluecken,spielbericht-dfb-pokal-essen-stpauli-100.html",
+      "url": "https://www.tagesschau.de/sport/dzeko-bewahrt-schalke-vor-pokal-blamage-in-halle,spielbericht-dfb-pokal-hallescher-schalke-04-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -596,13 +644,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 21:44:18 +0200"
+      "published": "Mon, 24 Aug 2026 23:32:37 +0200"
     },
     {
-      "title": "DFB-Pokal: Freiburg gewinnt souverän bei Fortuna Düsseldorf",
-      "summary": "In der Qualifikation zur Europa League hatte der SC Freiburg den ersten Schritt gemacht - im DFB-Pokal ist der Bundesligist nach einem Sieg bei Fortuna Düsseldorf schon eine Runde weiter.",
+      "title": "DFB-Pokal: Altglienicke vor Sensation - Wolfsburg rettet sich",
+      "summary": "Fast hätte auch der Pokalmontag seine Sensation bekommen: Der VfL Wolfsburg zog bei Viertligist VSG Altglienicke gerade noch den Kopf aus der Schlinge.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/freiburgs-vier-tage-trip-wird-zum-vollen-erfolg,spielbericht-dfb-pokal-duesseldorf-freiburg-100.html",
+      "url": "https://www.tagesschau.de/sport/altglienicke-schnuppert-an-der-sensation-woelfe-retten-sich,spielbericht-dfb-pokal-altglienicke-wolfsburg-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -612,13 +660,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 21:13:33 +0200"
+      "published": "Mon, 24 Aug 2026 21:01:38 +0200"
     },
     {
-      "title": "Der SC Paderborn hat sich im Pokal mit viel Mühe bei Regionalligist Phönix Lübeck durchgesetzt",
-      "summary": "Bundesligaaufsteiger SC Paderborn hat mit einem mühevollen und glanzlosen Sieg beim Regionalligisten Phönix Lübeck die 2. Runde des DFB-Pokals erreicht.",
+      "title": "Johannesson-Doppelpack rettet Köln in Würzburg",
+      "summary": "Der 1. FC Köln schrammt beim Drittligisten Würzburger Kickers knapp an einer Pokal-Blamage vorbei - ein Doppelpack von Isak Johannesson rettete die Kölner am Ende.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/sc-paderborn-gewinnt-glanzlos-bei-phoenix-luebeck,spielbericht-dfb-pokal-luebeck-paderborn-100.html",
+      "url": "https://www.tagesschau.de/sport/johannesson-doppelpack-rettet-koeln-in-wuerzburg,spielbericht-dfb-pokal-wuerzburg-koeln-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 20:00:14 +0200"
+    },
+    {
+      "title": "DFB-Pokal: Grönbaek und Lemke lassen HSV beim SC Verl gut aussehen",
+      "summary": "Der Hamburger SV war im ersten Pflichtspiel der Saison weit weg von einer Glanzleistung. Dank Albert Grönbaek und Louis Lemke strahlte er beim Sieg im DFB-Pokal beim SC Verl trotzdem.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/groenbaek-und-ein-16-jaehriger-lassen-hsv-gut-aussehen,spielbericht-dfb-pokal-verl-hamburg-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -628,29 +692,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 22:43:20 +0200"
+      "published": "Mon, 24 Aug 2026 20:11:59 +0200"
     },
     {
-      "title": "Braunschweig verpasst im DFB-Pokal die Überraschung gegen Union Berlin",
-      "summary": "Bundesligist Union Berlin hat in einem hart umkämpften Spiel bei Zweitligist Eintracht Braunschweig gewonnen und steht in der 2. Runde des DFB-Pokals.",
+      "title": "DFB-Pokal - alle Infos zur Auslosung der 2. Runde",
+      "summary": "Die 2. Runde im DFB-Pokal wird erneut mit zwei Lostöpfen ausgelost - die Ziehung findet wegen wegen der Landtagswahl in Sachsen-Anhalt samstags statt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/union-berlin-ringt-eintracht-braunschweig-nieder,spielbericht-dfb-pokal-braunschweig-union-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 20:16:04 +0200"
-    },
-    {
-      "title": "Sensation im DFB-Pokal: Jeddeloh II schießt Heidenheim ab",
-      "summary": "1:27 Tore. Das war die bisherige Bilanz von Jeddelohs Trainer Kristian Arambasic in der 1. DFB-Pokalrunde. Dann kam der 1. FC Heidenheim - und der wurde komplett auseinandergenommen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/sensationelles-jeddeloh-verewigt-sich-in-der-pokalgeschichte,spielbericht-dfb-pokal-jeddeloh-heidenheim-100.html",
+      "url": "https://www.tagesschau.de/sport/dfb-pokal-2-runde-wird-samstags-ausgelost,auslosung-zweite-runde-108.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -660,13 +708,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 18:26:47 +0200"
+      "published": "Mon, 24 Aug 2026 23:18:07 +0200"
     },
     {
-      "title": "Der FC Barcelona gewinnt in Elche und feiert Karim Adeyemi",
-      "summary": "Der spanische Meister FC Barcelona ist mit einem lockeren Auswärtssieg in die Spielzeit gestartet. Gefeiert wurde bei den Katalanen auch Karim Adeyemi, der Neue vom BVB.",
+      "title": "Zu starkes Unwetter: 3. Etappe der Vuelta abgebrochen",
+      "summary": "Die 3. Etappe der Vuelta musste wegen eines schweren Unwetters zehn Kilometer vor dem Ziel abgebrochen werden und wird nicht gewertet.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/la-liga-primera-division/adeyemi-trifft-barcelona-startet-souveraen-in-elche,spielbericht-elche-fc-barcelona-100.html",
+      "url": "https://www.sportschau.de/radsport/vuelta-a-espana/3-etappe-der-vuelta-abgebrochen,vuelta-3-etappe-106.html",
+      "category": "sport",
+      "event_type": "storm",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 18:55:37 +0200"
+    },
+    {
+      "title": "Deutschland Tour: Junge Stars und ein überraschendes Bergtrikot",
+      "summary": "Isaac del Toro war der große Name der diesjährigen Deutschland Tour und erfüllte alle Erwartungen. Überhaupt lieferten die jungen Stars ab. Sowie ein Team, welches mit der Radsport-Elite sonst nicht viel zu tun hat.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/deutschland-tour/junge-stars-und-ein-ueberraschendes-bergtrikot,vierte-etappe-heidemann-del-toro-die-jungen-stars-und-ein-ueberraschendes-bergtrikot-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 23 Aug 2026 20:53:49 +0200"
+    },
+    {
+      "title": "Niederlage gegen Bremen: Mainz 04 verliert Bundesliga-Premiere",
+      "summary": "Die Frauen des 1. FSV Mainz 05 haben im historischen ersten Bundesligaspiel gegen Werder Bremen verloren. Trotzdem feierten die Fans ihr Team.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/swr/swr-1-fsv-mainz-05-unterliegt-werder-bremen-im-bundesliga-debuet-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -676,39 +756,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 23:38:49 +0200"
-    },
-    {
-      "title": "FC Liverpool spielt remis in der Premier League-Partie bei Newcastle United",
-      "summary": "Der FC Liverpool mit einem schwachen Flo Wirtz erlebte fast eine Pleite zum Saisonstart. In Newcastle rettete Dominik Szoboszlai sein Team erst in der Nachspielzeit.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/premier-league/szoboszlai-laesst-liverpool-in-newcastle-aufatmen,spielbericht-newcastle-liverpool-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 19:57:09 +0200"
-    },
-    {
-      "title": "CONCACAF will Infantino nicht bei Jugendturnier haben",
-      "summary": "FIFA-Präsident Gianni Infantino will ein Jugendturnier in der Dominikanischen Republik besuchen - der Chef des nordamerikanischen Kontinentalverbands bittet ihn, fernzubleiben.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/concacaf-will-infantino-nicht-bei-jugendturnier-haben,concacaf-brief-infantino-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 22 Aug 2026 16:42:18 +0200"
+      "published": "Mon, 24 Aug 2026 21:34:10 +0200"
     }
   ],
   "crises": [
@@ -720,9 +768,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+      "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -927,7 +975,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html"
     },
     {
       "id": "conflict-russland",
@@ -940,7 +988,7 @@
       "label": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-22",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1042,26 +1090,6 @@
         {
           "lat": 62.15599283174053,
           "lon": 106.21990910076208
-        },
-        {
-          "lat": 63.42260115779997,
-          "lon": 103.77809201633187
-        },
-        {
-          "lat": 62.30523703640449,
-          "lon": 106.93983084954922
-        },
-        {
-          "lat": 60.45305853733631,
-          "lon": 103.62578970921966
-        },
-        {
-          "lat": 59.3231286075672,
-          "lon": 107.25013836121562
-        },
-        {
-          "lat": 61.581154175605896,
-          "lon": 102.3256459054471
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html"
@@ -1078,7 +1106,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-23",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1240,26 +1268,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
         }
       ]
     },
@@ -1274,8 +1282,8 @@
       "label": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-24",
-      "intensity": 1,
+      "last_seen": "2026-08-25",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1290,8 +1298,8 @@
       "label": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
       "url": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-24",
-      "intensity": 4,
+      "last_seen": "2026-08-25",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1413,6 +1421,46 @@
         {
           "lat": 57.34168017133155,
           "lon": 15.943715786858512
+        },
+        {
+          "lat": 59.34228818760283,
+          "lon": 20.30925606043119
+        },
+        {
+          "lat": 61.84859140637973,
+          "lon": 19.129647195446804
+        },
+        {
+          "lat": 62.0127885798532,
+          "lon": 19.991653221036344
+        },
+        {
+          "lat": 58.08435778559729,
+          "lon": 17.816616366419268
+        },
+        {
+          "lat": 58.58552694758506,
+          "lon": 16.91748272447148
+        },
+        {
+          "lat": 58.81549969665578,
+          "lon": 20.739614883454543
+        },
+        {
+          "lat": 62.68355346724916,
+          "lon": 16.157718655068944
+        },
+        {
+          "lat": 59.866196976528784,
+          "lon": 17.469858343899798
+        },
+        {
+          "lat": 61.249745458240795,
+          "lon": 21.18521573080628
+        },
+        {
+          "lat": 61.552060242688995,
+          "lon": 19.90357806702053
         }
       ]
     },
@@ -1485,7 +1533,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1500,8 +1548,8 @@
       "label": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-24",
-      "intensity": 4,
+      "last_seen": "2026-08-25",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1590,7 +1638,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
       "first_seen": "2026-08-19",
       "last_seen": "2026-08-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1632,26 +1680,6 @@
         {
           "lat": 51.57711552576153,
           "lon": 35.965563715839195
-        },
-        {
-          "lat": 48.82559998808617,
-          "lon": 35.4129313042343
-        },
-        {
-          "lat": 49.80692789409994,
-          "lon": 38.03973023728648
-        },
-        {
-          "lat": 50.49980934804359,
-          "lon": 38.2572084534972
-        },
-        {
-          "lat": 51.54052681827988,
-          "lon": 37.117697881275255
-        },
-        {
-          "lat": 47.20030192769663,
-          "lon": 34.115884880508276
         }
       ]
     },
@@ -1667,7 +1695,7 @@
       "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1709,26 +1737,6 @@
         {
           "lat": 40.05018851546586,
           "lon": 10.067263518518363
-        },
-        {
-          "lat": 41.034690375799585,
-          "lon": 14.115707447356243
-        },
-        {
-          "lat": 39.312250141013116,
-          "lon": 11.216163544775723
-        },
-        {
-          "lat": 40.380055754187175,
-          "lon": 14.273855916796451
-        },
-        {
-          "lat": 44.70445178663706,
-          "lon": 12.173927512568637
-        },
-        {
-          "lat": 44.02802147728822,
-          "lon": 12.934389760977911
         }
       ]
     },
@@ -1744,7 +1752,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-21",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1786,26 +1794,6 @@
         {
           "lat": 48.940084609533564,
           "lon": 28.087134363895778
-        },
-        {
-          "lat": 47.94889658466643,
-          "lon": 29.295217752572665
-        },
-        {
-          "lat": 49.311037932939485,
-          "lon": 29.905565967110117
-        },
-        {
-          "lat": 53.269015380122816,
-          "lon": 31.036540829632322
-        },
-        {
-          "lat": 50.509987159396864,
-          "lon": 27.66817148841712
-        },
-        {
-          "lat": 48.069011109543155,
-          "lon": 29.35509277567223
         }
       ]
     },
@@ -1821,7 +1809,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-24",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1923,26 +1911,6 @@
         {
           "lat": 50.747120125229614,
           "lon": 6.553733881367425
-        },
-        {
-          "lat": 50.84542130589088,
-          "lon": 4.155883213682655
-        },
-        {
-          "lat": 51.65275098684948,
-          "lon": 5.5996693615350335
-        },
-        {
-          "lat": 51.26740229934568,
-          "lon": 2.531947054699633
-        },
-        {
-          "lat": 49.814769855959405,
-          "lon": 3.0762948686449776
-        },
-        {
-          "lat": 52.96349280752731,
-          "lon": 1.5626796526296949
         }
       ]
     },
@@ -1998,8 +1966,8 @@
       "label": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
       "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "intensity": 2,
+      "last_seen": "2026-08-25",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2081,8 +2049,146 @@
         {
           "lat": 58.038687406644854,
           "lon": -106.84661358682267
+        },
+        {
+          "lat": 57.622501786772744,
+          "lon": -106.43739827241362
+        },
+        {
+          "lat": 58.959468005045196,
+          "lon": -108.25985097213784
+        },
+        {
+          "lat": 56.407272349268965,
+          "lon": -103.69859447903107
+        },
+        {
+          "lat": 58.904502435860344,
+          "lon": -105.01266326846523
+        },
+        {
+          "lat": 56.964894706204745,
+          "lon": -105.90152977053252
         }
       ]
+    },
+    {
+      "id": "blockade-stra-e-von-hormus",
+      "type": "blockade",
+      "location": {
+        "name": "Straße von Hormus",
+        "lat": 26.5,
+        "lon": 56.25
+      },
+      "label": "Erneut Tanker in Straße von Hormus angegriffen",
+      "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "intensity": 1,
+      "chokepoint_lane": [
+        [
+          26.7,
+          52.5
+        ],
+        [
+          25.0,
+          58.5
+        ]
+      ],
+      "subpoints": []
+    },
+    {
+      "id": "conflict-usa",
+      "type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "label": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.64032570008406,
+          "lon": -95.3466789293923
+        },
+        {
+          "lat": 38.93207474633611,
+          "lon": -92.9036841708024
+        },
+        {
+          "lat": 39.78729989328336,
+          "lon": -93.65078216331459
+        },
+        {
+          "lat": 35.25552380952624,
+          "lon": -97.49849583071284
+        },
+        {
+          "lat": 34.57719311318039,
+          "lon": -96.08695574586571
+        },
+        {
+          "lat": 39.513931597937585,
+          "lon": -97.6341478867083
+        },
+        {
+          "lat": 36.31327558828571,
+          "lon": -92.93220417889248
+        },
+        {
+          "lat": 35.286569142550135,
+          "lon": -93.01018556990095
+        },
+        {
+          "lat": 35.87396990784514,
+          "lon": -95.79719153568212
+        },
+        {
+          "lat": 39.92862994129249,
+          "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
+        }
+      ]
+    },
+    {
+      "id": "disaster-italien",
+      "type": "disaster",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
