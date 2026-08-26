@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:42:56.735547+00:00",
+  "generated_at": "2026-08-26T04:43:46.852140+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,70 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Warken zu Reformvorhaben: \"Nicht im Voraus schon Dinge tot reden\"",
+      "summary": "Nach der Sommerpause ist das Kabinett zu einer Klausur in Neuhardenberg zusammengekommen. Das Ziel: Deutschland auf Reformkurs bringen. Der Herbst werde arbeitsreich, sagt die neue Kanzleramtschefin Warken in den tagesthemen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-tagesthemen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 22:08:17 +0200"
+    },
+    {
+      "title": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
+      "summary": "Es ist die erste Publikumsveranstaltung des Bundespräsidenten in seinem Übergangsquartier - und Steinmeier nutzt sie für eine Warnung vor einem Rückfall in völkisches Denken. Er sagt auch, Zuwanderung koste Kraft.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 16:55:55 +0200"
+    },
+    {
+      "title": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
+      "summary": "Die Bundesregierung will eine Steuer auf zuckerhaltige Getränke einführen. Nun wurde bekannt, dass die geplante Steuer womöglich ausgeweitet werden soll, etwa auf Fruchtnektar oder Haferdrinks. Das Vorhaben ist umstritten.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 14:37:18 +0200"
+    },
+    {
+      "title": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
+      "summary": "Bei der Kabinettsklausur in Neuhardenberg geht es zum Auftakt um die Stärkung der schwächelnden deutschen Wirtschaft. Kanzler Merz sieht keinen Grund, \"uns kleinzumachen\".",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 12:00:40 +0200"
+    },
     {
       "title": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
       "summary": "Die Erwartungen sind hoch vor der Kabinettsklausur im Schloss Neuhardenberg. Die schwarz-rote Koalition will Handlungsfähigkeit beweisen. Doch miese Umfragewerte und Gegenwind aus den eigenen Reihen belasten die Stimmung. Von Dagmar Pepping.",
@@ -109,119 +173,10 @@
       "published": "Sun, 23 Aug 2026 13:27:04 +0200"
     },
     {
-      "title": "Nahverkehr auf dem Land: Wenn der Bus nur alle paar Stunden kommt",
-      "summary": "Der Spardruck ist bei vielen Kommunen groß - und sorgt für Kürzungen auch beim Nahverkehr. Linien werden eingestellt oder fahren seltener. Manche steigen aufs Auto um. Und was machen die, die das nicht können? Von D. Olivares.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-bus-land-verkehrswende-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 12:16:47 +0200"
-    },
-    {
-      "title": "Antisemitismusbeauftragter Klein kritisiert Israels Siedlungspolitik",
-      "summary": "Auch der Antisemitismusbeauftragte der Bundesregierung, Klein, schließt sich der deutlichen Kritik an Israels Siedlungspolitik an. Zugleich mahnt er, Kritik an Israel dürfe niemals in Antisemitismus umschlagen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/klein-antisemitismusbeauftragter-siedlungspolitik-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 11:48:08 +0200"
-    },
-    {
-      "title": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in Rheinland-Pfalz Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 11:37:15 +0200"
-    },
-    {
-      "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
-      "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 02:21:07 +0200"
-    },
-    {
-      "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an.",
+      "title": "Schattendatenbank: Der Schufa droht eine Sammelklage",
+      "summary": "Der Schufa drohen im Zusammenhang mit der sogenannten Schattendatenbank rechtliche Konsequenzen. Die gemeinnützige europäische Datenschutzorganisation NOYB will gerichtlich gegen Deutschlands größte Wirtschaftsauskunftei vorgehen. Von Peter Hornung.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kanada",
-            "lat": 56.1304,
-            "lon": -106.3468
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 25 Aug 2026 00:56:35 +0200"
-    },
-    {
-      "title": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
-      "summary": "Schon jetzt bezieht Deutschland den größten Anteil seiner Gaslieferungen aus Norwegen - langfristig soll es noch mehr werden. Dazu hat der staatliche Gashändler Uniper einen umfangreichen Liefervertrag abgeschlossen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Norwegen",
-        "lat": 60.472,
-        "lon": 8.4689
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 17:04:43 +0200"
-    },
-    {
-      "title": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
-      "summary": "Er galt als einer der einflussreichsten Geschäftsmänner und als einer der reichsten Deutschen: Klaus-Michael Kühne ist im Alter von 89 Jahren gestorben. Der gebürtige Hamburger förderte auch Sport und Kultur.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -231,13 +186,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 14:42:04 +0200"
+      "published": "Wed, 26 Aug 2026 06:02:02 +0200"
     },
     {
-      "title": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
-      "summary": "Der heimische Apfelanbau kämpft nicht nur mit günstiger Konkurrenz aus dem Ausland: Auch Hitze und ausbleibender Regen belasten Betriebe. Wie Apfelbauern damit umgehen und was in Zukunft helfen könnte. Von M. Holzreiter.",
+      "title": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
+      "summary": "SpaceX will nach den Sternen greifen - und das bald noch regelmäßiger. Das Unternehmen plant in Louisiana einen neuen Weltraumbahnhof. Tech-Milliardär Musk träumt bereits vom größten Startplatz der Erde.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -247,47 +202,31 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 16:43:53 +0200"
+      "published": "Wed, 26 Aug 2026 02:43:47 +0200"
     },
     {
-      "title": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
-      "summary": "Niedrige Flusspegel, schlechte Ernten, Waldbrände - die Hitze bringt einer Schätzung von Greenpeace zufolge wirtschaftliche Einbußen in zweistelliger Milliardenhöhe mit sich. Zu den Folgekosten der Hitze gibt es bereits mehrere Studien.",
+      "title": "Firmen werden optimistischer - das Beispiel des Kabelherstellers Lapp",
+      "summary": "Die Stimmung in der deutschen Wirtschaft hat sich aufgehellt, der ifo-Geschäftsklimaindex steigt. Der Kabelhersteller Lapp aus Stuttgart spürt das ebenfalls. Erfolgreich ist das Unternehmen mit einer Abkehr von seinen Wurzeln. Von Laura Bisch.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
-      "category": "wirtschaft",
-      "event_type": "wildfire",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 11:17:12 +0200"
-    },
-    {
-      "title": "EWC-Chef Reichert: \"E-Sport muss ein Aufstiegsversprechen geben\"",
-      "summary": "In Paris ist der \"Esports World Cup\" zu Ende gegangen. Es ist das weltweit größte Multi-E-Sport-Event, veranstaltet von der saudi-arabischen \"Esports Foundation\". CEO Reichert über den Einfluss des Events auf die Branche und den Vorwurf des Sportswashings.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/esports-world-cup-102.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 14:53:14 +0200"
+      "published": "Tue, 25 Aug 2026 18:39:48 +0200"
     },
     {
-      "title": "Studie: EU-Exporte sichern in Deutschland 7,2 Millionen Arbeitsplätze",
-      "summary": "Deutschlands Wohlstand hängt maßgeblich an seiner Exportwirtschaft. Besondere Bedeutung hat dabei die Europäische Union. Eine Studie beziffert die vom Export abhängigen Arbeitsplätze auf mehr als sieben Millionen.",
+      "title": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
+      "summary": "Lange Zeit zeigten die Wirtschaftsdaten in Deutschland vor allem nach unten. Nun machen die jüngsten Konjunkturzahlen etwas Hoffnung. Wie kommt das? Und ist diese Entwicklung auch wirklich nachhaltig?",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-exporte-deutschland-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
       "category": "wirtschaft",
-      "event_type": "trade",
+      "event_type": "standard",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
@@ -295,15 +234,47 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 12:52:11 +0200"
+      "published": "Tue, 25 Aug 2026 16:28:43 +0200"
     },
     {
-      "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-      "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und Ideen ins Land zu holen? Von Bianca v. d. Au.",
+      "title": "Warten auf Reformen: Wirtschaft will Taten sehen",
+      "summary": "Schon 2025 versprach Kanzler Merz einen \"Herbst der Reformen\". Nun warten die Unternehmen darauf, dass der große Wurf tatsächlich kommt. Dabei steht vor allem die Rente im Blickpunkt. Von Stefan Wolff.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
       "category": "wirtschaft",
-      "event_type": "trade",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 12:16:15 +0200"
+    },
+    {
+      "title": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
+      "summary": "Bei der Kabinettsklausur in Neuhardenberg geht es zum Auftakt um die Stärkung der schwächelnden deutschen Wirtschaft. Kanzler Merz sieht keinen Grund, \"uns kleinzumachen\".",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 12:00:40 +0200"
+    },
+    {
+      "title": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
+      "summary": "Zum vierten Mal in Folge ist im August der ifo-Index gestiegen. Die Stimmung in den Chefetagen der Unternehmen hellt sich damit weiter auf. Deutschland trotzt damit auch den wirtschaftlichen Folgen des Iran-Kriegs.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
@@ -311,7 +282,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 06:18:06 +0200"
+      "published": "Tue, 25 Aug 2026 12:06:33 +0200"
+    },
+    {
+      "title": "Wie tief steckt VW in der Krise?",
+      "summary": "Beim Autobauer Volkswagen hat die Serie von Betriebsversammlungen begonnen, in denen es um die Sparpläne geht. Was steht dabei zur Debatte? Und warum kämpft der Konzern überhaupt mit so massiven wirtschaftlichen Problemen?",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-106.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 13:46:43 +0200"
     },
     {
       "title": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
@@ -391,6 +378,35 @@
       "published": "Fri, 21 Aug 2026 22:01:48 +0200"
     },
     {
+      "title": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "summary": "Gegenzölle von bis zu 50 Prozent auf bestimmte Importe aus den Vereinigten Staaten: So lautet die Antwort der kanadischen Regierung auf die neuen US-Zölle. Der Konflikt zwischen den Nachbarstaaten spitzt sich zu.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Kanada",
+        "lat": 56.1304,
+        "lon": -106.3468
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Kanada",
+            "lat": 56.1304,
+            "lon": -106.3468
+          },
+          "to": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 18:46:12 +0200"
+    },
+    {
       "title": "Erneut Tanker in Straße von Hormus angegriffen",
       "summary": "Nach britischen Informationen ist in der Straße von Hormus wieder ein Öltanker getroffen worden - von einem \"unbekannten Geschoss\". Wer für den Angriff vor der Küste des Omans verantwortlich ist, ist noch unklar.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -445,35 +461,6 @@
       "published": "Mon, 24 Aug 2026 13:07:30 +0200"
     },
     {
-      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "summary": "Die Zoll-Gespräche zwischen den USA und Kanada sind gescheitert - jetzt treten neue US-Zölle in Kraft. Ein neuer \"Handelskrieg\" droht, denn Kanada will mit Gegenzöllen antworten. Beide Seiten geben sich gegenseitig die Schuld.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kanada",
-            "lat": 56.1304,
-            "lon": -106.3468
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 09:19:06 +0200"
-    },
-    {
       "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "summary": "Mitten im russischen Angriffskrieg feiert die Ukraine ihre Unabhängigkeit. Präsident Selenskyj pocht auf die Stärke seines Landes - und erhält weitere Rüstungshilfe der EU und aus Großbritannien. Von F. Kellermann.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -501,6 +488,38 @@
       ],
       "chokepoint_lane": null,
       "published": "Mon, 24 Aug 2026 18:48:03 +0200"
+    },
+    {
+      "title": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
+      "summary": "Improvisiertes Napalm und ein handschriftlicher Plan: In der Slowakei haben Ermittler nach eigenen Angaben einen Anschlag auf eine Drohnenfabrik verhindert. Drei Männer wurden festgenommen - einer von ihnen in Deutschland.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 17:42:47 +0200"
+    },
+    {
+      "title": "Tornado zieht über Südfrankreich - mehrere Verletzte",
+      "summary": "Fast 40 Verletzte und Hunderte beschädigte Häuser - am Montag hat ein Tornado das französische Département Aude ungewöhnlich hart getroffen. Noch immer sind viele Haushalte in der Region ohne Strom.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
+      "category": "welt",
+      "event_type": "storm",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 13:45:35 +0200"
     },
     {
       "title": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
@@ -583,58 +602,42 @@
       "published": "Fri, 21 Aug 2026 08:56:37 +0200"
     },
     {
-      "title": "Auf Baustelle entdeckt: Wem gehört der Goldschatz von Dendermonde?",
-      "summary": "Der Fund machte weltweit Schlagzeilen: In Belgien entdeckten Bauarbeiter bei Renovierungsarbeiten Gold im Wert von rund neun Millionen Euro. Doch wem gehört es? Die Spur könnte zu einer Brauereifamilie führen. Von S. Fritz.",
+      "title": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
+      "summary": "Das jüngste Urteil des US Supreme Court zur Briefwahl ist nur ein Etappensieg für Trump - denn der juristische Streit ist noch lange nicht zu Ende. Doch die Entscheidung könnte für Unruhe bei den Zwischenwahlen sorgen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/belgien-dendermonde-goldschatz-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
       "category": "welt",
-      "event_type": "standard",
+      "event_type": "tension",
       "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 20:31:09 +0200"
+      "published": "Tue, 25 Aug 2026 22:01:08 +0200"
     },
     {
-      "title": "Spanien richtet Unterkünfte für Migranten in Exklave Ceuta ein",
-      "summary": "Im Juli gelangten Zehntausende Migranten von Marokko aus in die spanische Exklave Ceuta - die meisten kehrten danach zurück. Für die dort verbliebenen Menschen richtet Spaniens Regierung jetzt Unterkünfte ein.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-fluechtlinge-lager-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 20 Aug 2026 19:28:42 +0200"
-    },
-    {
-      "title": "Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
-      "summary": "Kurz vor der Parlamentswahl will der republikanische US-Präsident die Regeln ändern. Jetzt hat der Supreme Court Trumps Briefwahl-Pläne erlaubt - vorerst. Kritiker vermuten, dass sie gezielt demokratische Wähler benachteiligen sollen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-104.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 25 Aug 2026 03:36:35 +0200"
-    },
-    {
-      "title": "DFB-Pokal: Dzeko bewahrt Schalke vor Blamage in Halle",
-      "summary": "Schalke 04 drohte als erster Bundesligist in der ersten Runde des DFB-Pokals zu scheitern - dann drehte der Aufsteiger die Partie beim Halleschen FC dank Edin Dzeko doch noch glücklich.",
+      "title": "FC Bayern verlängert mit Eberl und Dreesen bis 2029",
+      "summary": "Der FC Bayern München setzt auf Kontinuität: Die Verträge mit Sportvorstand Max Eberl und dem Vorstandsvorsitzenden Jan-Christian Dreesen wurden jetzt bis 2029 verlängert. Das beschloss der Aufsichtsrat des Fußball-Rekordmeisters.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/dzeko-bewahrt-schalke-vor-pokal-blamage-in-halle,spielbericht-dfb-pokal-hallescher-schalke-04-100.html",
+      "url": "https://www.sportschau.de/regional/br/br-fc-bayern-verlaengert-mit-eberl-und-dreesen-bis-2029-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "München",
+        "lat": 48.1351,
+        "lon": 11.582
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 21:28:48 +0200"
+    },
+    {
+      "title": "Die Bayern-Jäger - die keine sein wollen",
+      "summary": "Der FC Bayern gilt auch vor der kommenden Bundesliga-Saison als das Maß der Dinge. Können sich Bayer 04 Leverkusen, RB Leipzig oder Borussia Dortmund zum echten Favoritenjäger aufmachen?",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga/die-bayern-jaeger-die-keine-sein-wollen,bundesliga-bayern-jaeger-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -644,13 +647,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 23:32:37 +0200"
+      "published": "Tue, 25 Aug 2026 18:45:36 +0200"
     },
     {
-      "title": "DFB-Pokal: Altglienicke vor Sensation - Wolfsburg rettet sich",
-      "summary": "Fast hätte auch der Pokalmontag seine Sensation bekommen: Der VfL Wolfsburg zog bei Viertligist VSG Altglienicke gerade noch den Kopf aus der Schlinge.",
+      "title": "US Open: Zverev scheidet im Mixed direkt aus",
+      "summary": "Beim besonderen Mixed-Format der US Open ist für Alexander Zverev nach dem Auftaktmatch schon wieder Schluss. Dafür feierte Carlos Alcaraz ein besonderes Comeback.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/altglienicke-schnuppert-an-der-sensation-woelfe-retten-sich,spielbericht-dfb-pokal-altglienicke-wolfsburg-100.html",
+      "url": "https://www.sportschau.de/tennis/us-open/zverev-im-mixed-direkt-raus,zeverev-mixed-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -660,45 +663,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 21:01:38 +0200"
+      "published": "Tue, 25 Aug 2026 23:17:48 +0200"
     },
     {
-      "title": "Johannesson-Doppelpack rettet Köln in Würzburg",
-      "summary": "Der 1. FC Köln schrammt beim Drittligisten Würzburger Kickers knapp an einer Pokal-Blamage vorbei - ein Doppelpack von Isak Johannesson rettete die Kölner am Ende.",
+      "title": "Stars und Streit - Mixed-Wettbewerb in New York polarisiert",
+      "summary": "Die Stars fiebern zum zweiten Mal dem spektakulär reformierten Mixed-Wettbewerb der US Open entgegen. Doch das neue Format gefällt nicht jedem.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/johannesson-doppelpack-rettet-koeln-in-wuerzburg,spielbericht-dfb-pokal-wuerzburg-koeln-100.html",
+      "url": "https://www.sportschau.de/tennis/stars-und-streit-mixed-wettbewerb-in-new-york-polarisiert,mixed-us-open-streit-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 20:00:14 +0200"
+      "published": "Tue, 25 Aug 2026 10:43:27 +0200"
     },
     {
-      "title": "DFB-Pokal: Grönbaek und Lemke lassen HSV beim SC Verl gut aussehen",
-      "summary": "Der Hamburger SV war im ersten Pflichtspiel der Saison weit weg von einer Glanzleistung. Dank Albert Grönbaek und Louis Lemke strahlte er beim Sieg im DFB-Pokal beim SC Verl trotzdem.",
+      "title": "Spielplan, Favoriten, TV-Übertragung - was man zu den US Open 2026 wissen muss",
+      "summary": "Das letzte Grand-Slam-Turnier des Jahres steht in den Startlöchern - und die Ereignisse überschlagen sich jetzt schon. Hier gibt es alle wichtigen Infos.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/groenbaek-und-ein-16-jaehriger-lassen-hsv-gut-aussehen,spielbericht-dfb-pokal-verl-hamburg-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 20:11:59 +0200"
-    },
-    {
-      "title": "DFB-Pokal - alle Infos zur Auslosung der 2. Runde",
-      "summary": "Die 2. Runde im DFB-Pokal wird erneut mit zwei Lostöpfen ausgelost - die Ziehung findet wegen wegen der Landtagswahl in Sachsen-Anhalt samstags statt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/dfb-pokal-2-runde-wird-samstags-ausgelost,auslosung-zweite-runde-108.html",
+      "url": "https://www.sportschau.de/tennis/alcaraz-da-sinner-weg-alles-wichtige-zu-us-open,tennis-us-open-faq-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -708,15 +695,47 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 23:18:07 +0200"
+      "published": "Mon, 24 Aug 2026 09:53:49 +0200"
     },
     {
-      "title": "Zu starkes Unwetter: 3. Etappe der Vuelta abgebrochen",
-      "summary": "Die 3. Etappe der Vuelta musste wegen eines schweren Unwetters zehn Kilometer vor dem Ziel abgebrochen werden und wird nicht gewertet.",
+      "title": "Champions League: Bodø/Glimt wieder in der Königsklasse",
+      "summary": "Das Überraschungsteam der Vorsaison ist wieder dabei. Erstaunlich souverän hat sich Bodø/Glimt aus Norwegen in den Playoffs wieder für die Champions League qualifiziert.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/vuelta-a-espana/3-etappe-der-vuelta-abgebrochen,vuelta-3-etappe-106.html",
+      "url": "https://www.sportschau.de/fussball/championsleague/bod-is-back-norweger-wieder-in-der-koenigklasse,cl-bodo-glimt-nijmegen-100.html",
       "category": "sport",
-      "event_type": "storm",
+      "event_type": "standard",
+      "location": {
+        "name": "Norwegen",
+        "lat": 60.472,
+        "lon": 8.4689
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 23:22:36 +0200"
+    },
+    {
+      "title": "Frankfurts Fußballerinnen mit Kampfansage an PSG",
+      "summary": "Wenn die Eintracht in der Champions-League-Qualifikation auf Paris St. Germain trifft, sind die Hessinnen in der Außenseiter-Rolle. Na und?, denken sie sich in Frankfurt - und schicken eine Kampfansage an PSG.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/hr/hr-wollen-ihnen-wehtun-eintracht-frankfurt-frauen-mit-kampfansage-an-paris-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 25 Aug 2026 18:03:36 +0200"
+    },
+    {
+      "title": "Cole Palmer überragt bei Chelseas Sieg gegen Fulham",
+      "summary": "Xabi Alonso feiert einen gelungenen Einstand als neuer Coach beim FC Chelsea - und profitiert dabei auch vom wiedererstarkten Cole Palmer.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/premier-league/palmer-ueberragt-bei-chelseas-sieg-in-fulham,spielbericht-fulham-chelsea-100.html",
+      "category": "sport",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -724,39 +743,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 18:55:37 +0200"
-    },
-    {
-      "title": "Deutschland Tour: Junge Stars und ein überraschendes Bergtrikot",
-      "summary": "Isaac del Toro war der große Name der diesjährigen Deutschland Tour und erfüllte alle Erwartungen. Überhaupt lieferten die jungen Stars ab. Sowie ein Team, welches mit der Radsport-Elite sonst nicht viel zu tun hat.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/deutschland-tour/junge-stars-und-ein-ueberraschendes-bergtrikot,vierte-etappe-heidemann-del-toro-die-jungen-stars-und-ein-ueberraschendes-bergtrikot-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 23 Aug 2026 20:53:49 +0200"
-    },
-    {
-      "title": "Niederlage gegen Bremen: Mainz 04 verliert Bundesliga-Premiere",
-      "summary": "Die Frauen des 1. FSV Mainz 05 haben im historischen ersten Bundesligaspiel gegen Werder Bremen verloren. Trotzdem feierten die Fans ihr Team.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-1-fsv-mainz-05-unterliegt-werder-bremen-im-bundesliga-debuet-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 21:34:10 +0200"
+      "published": "Mon, 24 Aug 2026 23:23:29 +0200"
     }
   ],
   "crises": [
@@ -770,7 +757,7 @@
       },
       "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -988,7 +975,7 @@
       "label": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-22",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1070,26 +1057,6 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
-        },
-        {
-          "lat": 60.550484926703035,
-          "lon": 103.69942325757476
-        },
-        {
-          "lat": 61.63667356367611,
-          "lon": 104.9261489167279
-        },
-        {
-          "lat": 58.643891106644624,
-          "lon": 103.74914459683819
-        },
-        {
-          "lat": 64.20791109157445,
-          "lon": 106.40524031828419
-        },
-        {
-          "lat": 62.15599283174053,
-          "lon": 106.21990910076208
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html"
@@ -1106,7 +1073,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-23",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1248,26 +1215,6 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
-        },
-        {
-          "lat": 34.014725501310366,
-          "lon": 53.587224353697906
-        },
-        {
-          "lat": 31.855449622586825,
-          "lon": 52.18681148699178
-        },
-        {
-          "lat": 30.93758572811915,
-          "lon": 51.728242291763486
-        },
-        {
-          "lat": 33.597548523016286,
-          "lon": 53.25045432155264
-        },
-        {
-          "lat": 33.89578415370227,
-          "lon": 55.43893438680073
         }
       ]
     },
@@ -1282,8 +1229,8 @@
       "label": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-25",
-      "intensity": 2,
+      "last_seen": "2026-08-26",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1298,8 +1245,8 @@
       "label": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
       "url": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-25",
-      "intensity": 6,
+      "last_seen": "2026-08-26",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1461,63 +1408,46 @@
         {
           "lat": 61.552060242688995,
           "lon": 19.90357806702053
-        }
-      ]
-    },
-    {
-      "id": "conflict-libanon",
-      "type": "conflict",
-      "location": {
-        "name": "Libanon",
-        "lat": 33.8547,
-        "lon": 35.8623
-      },
-      "label": "Tote bei schwerem israelischem Angriff im Libanon",
-      "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 35.08641741148264,
-          "lon": 36.34296952533104
         },
         {
-          "lat": 33.357864365073475,
-          "lon": 37.621224423427996
+          "lat": 57.72476011792751,
+          "lon": 18.206097995754934
         },
         {
-          "lat": 35.52647271905164,
-          "lon": 35.41051206828305
+          "lat": 61.97301801251993,
+          "lon": 16.061988313075734
         },
         {
-          "lat": 36.68397986602981,
-          "lon": 35.87435056510215
+          "lat": 60.919046669066425,
+          "lon": 16.972269462958156
         },
         {
-          "lat": 31.463858130970124,
-          "lon": 33.238745484435285
+          "lat": 60.32442144503431,
+          "lon": 19.286580428625243
         },
         {
-          "lat": 32.89288249144549,
-          "lon": 34.98919178113986
+          "lat": 58.490974503268944,
+          "lon": 20.970742644812734
         },
         {
-          "lat": 33.99781813496592,
-          "lon": 33.40849748484022
+          "lat": 60.05028981954541,
+          "lon": 18.76927819431335
         },
         {
-          "lat": 31.18912794818767,
-          "lon": 36.81101308886183
+          "lat": 62.1023438704017,
+          "lon": 20.104993301778446
         },
         {
-          "lat": 34.30592929323726,
-          "lon": 34.24929456290039
+          "lat": 60.64723863845371,
+          "lon": 17.796479782818114
         },
         {
-          "lat": 35.28182928411251,
-          "lon": 35.73092367784339
+          "lat": 61.48315978881487,
+          "lon": 20.018765468930653
+        },
+        {
+          "lat": 62.03762166813403,
+          "lon": 20.283119041383177
         }
       ]
     },
@@ -1533,7 +1463,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1548,24 +1478,8 @@
       "label": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-25",
-      "intensity": 5,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-hamburg",
-      "type": "protest",
-      "location": {
-        "name": "Hamburg",
-        "lat": 53.5511,
-        "lon": 9.9937
-      },
-      "label": "Warnstreik für höhere Löhne legt Seehäfen weitgehend lahm",
-      "url": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-der-arbeiter-legt-seehaefen-lahm,seehaefen-112.html",
-      "first_seen": "2026-08-18",
-      "last_seen": "2026-08-19",
-      "intensity": 0,
+      "last_seen": "2026-08-26",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1809,7 +1723,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-24",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1891,26 +1805,6 @@
         {
           "lat": 54.93813510291177,
           "lon": 5.24112727862029
-        },
-        {
-          "lat": 53.96164466004333,
-          "lon": 1.3346050442059303
-        },
-        {
-          "lat": 54.115728162092445,
-          "lon": 6.4665338748770385
-        },
-        {
-          "lat": 54.94260878028351,
-          "lon": 5.036293125628212
-        },
-        {
-          "lat": 49.78695395288162,
-          "lon": 3.261437153878607
-        },
-        {
-          "lat": 50.747120125229614,
-          "lon": 6.553733881367425
         }
       ]
     },
@@ -1963,11 +1857,11 @@
         "lat": 56.1304,
         "lon": -106.3468
       },
-      "label": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "label": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "intensity": 3,
+      "last_seen": "2026-08-26",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2069,6 +1963,26 @@
         {
           "lat": 56.964894706204745,
           "lon": -105.90152977053252
+        },
+        {
+          "lat": 55.350089087062074,
+          "lon": -106.51104521644699
+        },
+        {
+          "lat": 56.65186248927374,
+          "lon": -108.77102165847947
+        },
+        {
+          "lat": 55.147998914917935,
+          "lon": -105.16087087198787
+        },
+        {
+          "lat": 56.231014234595705,
+          "lon": -106.42029482576211
+        },
+        {
+          "lat": 54.85163346843785,
+          "lon": -105.94050926362316
         }
       ]
     },
@@ -2083,8 +1997,8 @@
       "label": "Erneut Tanker in Straße von Hormus angegriffen",
       "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "intensity": 1,
+      "last_seen": "2026-08-26",
+      "intensity": 2,
       "chokepoint_lane": [
         [
           26.7,
@@ -2108,8 +2022,8 @@
       "label": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "intensity": 1,
+      "last_seen": "2026-08-26",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2171,6 +2085,26 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
+        },
+        {
+          "lat": 34.116119926358834,
+          "lon": -93.2073491890479
+        },
+        {
+          "lat": 39.004944855583354,
+          "lon": -94.7579894185447
+        },
+        {
+          "lat": 39.89036589951706,
+          "lon": -94.34687975210892
+        },
+        {
+          "lat": 38.00759246619805,
+          "lon": -98.6588583219015
+        },
+        {
+          "lat": 34.517970304127545,
+          "lon": -93.35953343984788
         }
       ]
     },
@@ -2185,8 +2119,8 @@
       "label": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
       "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "intensity": 1,
+      "last_seen": "2026-08-26",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }
