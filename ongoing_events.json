@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "label": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,8 +227,8 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-27",
-      "intensity": 3,
+      "last_seen": "2026-08-28",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -330,6 +330,46 @@
         {
           "lat": 62.15599283174053,
           "lon": 106.21990910076208
+        },
+        {
+          "lat": 63.42260115779997,
+          "lon": 103.77809201633187
+        },
+        {
+          "lat": 62.30523703640449,
+          "lon": 106.93983084954922
+        },
+        {
+          "lat": 60.45305853733631,
+          "lon": 103.62578970921966
+        },
+        {
+          "lat": 59.3231286075672,
+          "lon": 107.25013836121562
+        },
+        {
+          "lat": 61.581154175605896,
+          "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html"
@@ -346,7 +386,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-23",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -448,26 +488,6 @@
         {
           "lat": 32.81624579833512,
           "lon": 55.56409883790745
-        },
-        {
-          "lat": 35.112305196384625,
-          "lon": 53.30711127497887
-        },
-        {
-          "lat": 32.89522257946099,
-          "lon": 54.07495529927196
-        },
-        {
-          "lat": 33.953080421426236,
-          "lon": 54.54675200523501
-        },
-        {
-          "lat": 32.91046266198181,
-          "lon": 56.06458339398368
-        },
-        {
-          "lat": 34.28541969294099,
-          "lon": 54.37494936523376
         }
       ]
     },
@@ -483,7 +503,7 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-26",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -499,7 +519,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -681,26 +701,6 @@
         {
           "lat": 58.490974503268944,
           "lon": 20.970742644812734
-        },
-        {
-          "lat": 60.05028981954541,
-          "lon": 18.76927819431335
-        },
-        {
-          "lat": 62.1023438704017,
-          "lon": 20.104993301778446
-        },
-        {
-          "lat": 60.64723863845371,
-          "lon": 17.796479782818114
-        },
-        {
-          "lat": 61.48315978881487,
-          "lon": 20.018765468930653
-        },
-        {
-          "lat": 62.03762166813403,
-          "lon": 20.283119041383177
         }
       ]
     },
@@ -716,7 +716,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -732,7 +732,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-26",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -747,8 +747,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-27",
-      "intensity": 1,
+      "last_seen": "2026-08-28",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -810,6 +810,26 @@
         {
           "lat": 47.20030192769663,
           "lon": 34.115884880508276
+        },
+        {
+          "lat": 51.71896706924342,
+          "lon": 37.300018854222266
+        },
+        {
+          "lat": 50.599100709469425,
+          "lon": 36.864563973767815
+        },
+        {
+          "lat": 47.883602825800445,
+          "lon": 38.76490188774954
+        },
+        {
+          "lat": 47.37667432822268,
+          "lon": 35.726001703528226
+        },
+        {
+          "lat": 52.28730402418174,
+          "lon": 33.57261695744019
         }
       ]
     },
@@ -871,63 +891,6 @@
       ]
     },
     {
-      "id": "conflict-kiew",
-      "type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "label": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-21",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 52.62998156601318,
-          "lon": 28.326232658589543
-        },
-        {
-          "lat": 50.3313085159312,
-          "lon": 33.389491863221046
-        },
-        {
-          "lat": 51.20745816912664,
-          "lon": 30.683347839835644
-        },
-        {
-          "lat": 52.64227211408358,
-          "lon": 29.159287383864232
-        },
-        {
-          "lat": 49.989688305293484,
-          "lon": 29.873332284175866
-        },
-        {
-          "lat": 52.789783221965024,
-          "lon": 32.13611678810304
-        },
-        {
-          "lat": 47.613306473030896,
-          "lon": 31.572025212639716
-        },
-        {
-          "lat": 50.49795398325134,
-          "lon": 28.57057723397705
-        },
-        {
-          "lat": 48.97908699220479,
-          "lon": 28.400787643530357
-        },
-        {
-          "lat": 48.940084609533564,
-          "lon": 28.087134363895778
-        }
-      ]
-    },
-    {
       "id": "conflict-den-haag",
       "type": "conflict",
       "location": {
@@ -939,7 +902,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -981,26 +944,6 @@
         {
           "lat": 51.096337083818824,
           "lon": 3.7756891381885365
-        },
-        {
-          "lat": 49.303537238529195,
-          "lon": 3.1783835603354693
-        },
-        {
-          "lat": 54.490199026602255,
-          "lon": 2.0917669336074654
-        },
-        {
-          "lat": 49.079433932522534,
-          "lon": 6.933291650270063
-        },
-        {
-          "lat": 50.35825192827167,
-          "lon": 5.055614324673572
-        },
-        {
-          "lat": 50.20031550421795,
-          "lon": 4.01353173158598
         }
       ]
     },
@@ -1056,8 +999,8 @@
       "label": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-27",
-      "intensity": 5,
+      "last_seen": "2026-08-28",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1199,6 +1142,26 @@
         {
           "lat": 56.972880322775076,
           "lon": -109.31671770015329
+        },
+        {
+          "lat": 54.36226924197522,
+          "lon": -107.27531686662262
+        },
+        {
+          "lat": 57.41473370224301,
+          "lon": -108.07588141993197
+        },
+        {
+          "lat": 53.495998575297186,
+          "lon": -104.26223410227527
+        },
+        {
+          "lat": 53.40788358768353,
+          "lon": -103.88098232000763
+        },
+        {
+          "lat": 53.60615967118046,
+          "lon": -108.77880693080016
         }
       ]
     },
@@ -1214,7 +1177,7 @@
       "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-27",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": [
         [
           26.7,
@@ -1239,7 +1202,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-26",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1281,26 +1244,6 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
         }
       ]
     },
@@ -1316,7 +1259,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-26",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1331,8 +1274,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "intensity": 1,
+      "last_seen": "2026-08-28",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1394,9 +1337,106 @@
         {
           "lat": 47.85103783227702,
           "lon": 16.932353528799922
+        },
+        {
+          "lat": 46.3480995655492,
+          "lon": 22.371362532476162
+        },
+        {
+          "lat": 45.13439591102579,
+          "lon": 17.996336104248147
+        },
+        {
+          "lat": 45.56499106320611,
+          "lon": 21.480065990950344
+        },
+        {
+          "lat": 45.882033260846406,
+          "lon": 21.541553014683316
+        },
+        {
+          "lat": 48.884570103213676,
+          "lon": 18.610032211566235
+        }
+      ]
+    },
+    {
+      "id": "conflict-moskau",
+      "type": "conflict",
+      "location": {
+        "name": "Moskau",
+        "lat": 55.7558,
+        "lon": 37.6173
+      },
+      "label": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
+      "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 53.85079470076873,
+          "lon": 39.21049073394714
+        },
+        {
+          "lat": 54.43292296817385,
+          "lon": 37.34577609425161
+        },
+        {
+          "lat": 56.315625424933764,
+          "lon": 35.332420415835436
+        },
+        {
+          "lat": 57.070031118260474,
+          "lon": 38.02364534168205
+        },
+        {
+          "lat": 54.1333272409845,
+          "lon": 39.598913219012886
+        },
+        {
+          "lat": 54.52378718370683,
+          "lon": 40.23348585596238
+        },
+        {
+          "lat": 56.705154924715444,
+          "lon": 38.005178698619986
+        },
+        {
+          "lat": 57.61803819033761,
+          "lon": 38.827676879249324
+        },
+        {
+          "lat": 58.440967664588705,
+          "lon": 39.74073244886106
+        },
+        {
+          "lat": 58.38256820429665,
+          "lon": 38.410024057518115
+        },
+        {
+          "lat": 57.51671356919169,
+          "lon": 39.856031501912405
+        },
+        {
+          "lat": 54.1458828807126,
+          "lon": 35.38094586287263
+        },
+        {
+          "lat": 57.510961849957695,
+          "lon": 38.95534149281654
+        },
+        {
+          "lat": 55.2444018672233,
+          "lon": 37.617962361039005
+        },
+        {
+          "lat": 57.98679453449971,
+          "lon": 37.716966003859525
         }
       ]
     }
   ],
-  "updated_at": "2026-08-27"
+  "updated_at": "2026-08-28"
 }
