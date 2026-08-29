@@ -10,7 +10,7 @@
       },
       "label": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,8 +227,8 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-28",
-      "intensity": 5,
+      "last_seen": "2026-08-29",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -370,6 +370,46 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
+        },
+        {
+          "lat": 63.01591423191035,
+          "lon": 106.50348857002088
+        },
+        {
+          "lat": 63.406282377426116,
+          "lon": 106.11403138929978
+        },
+        {
+          "lat": 63.56320607199874,
+          "lon": 107.52500839744951
+        },
+        {
+          "lat": 61.86481182566956,
+          "lon": 106.43257439045202
+        },
+        {
+          "lat": 62.867105840110945,
+          "lon": 106.93341763191377
+        },
+        {
+          "lat": 58.63076494150114,
+          "lon": 106.1283869379606
+        },
+        {
+          "lat": 62.81477312310477,
+          "lon": 107.03005341363047
+        },
+        {
+          "lat": 61.04260386983459,
+          "lon": 106.10346300801017
+        },
+        {
+          "lat": 64.34490395871106,
+          "lon": 105.75354971303594
+        },
+        {
+          "lat": 61.7017411632188,
+          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html"
@@ -382,11 +422,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "\"Beispielloser Wirtschaftskrieg\" - was steckt hinter Trumps Drohung?",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-222.html",
+      "label": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
+      "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-23",
-      "intensity": 3,
+      "last_seen": "2026-08-29",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,6 +528,26 @@
         {
           "lat": 32.81624579833512,
           "lon": 55.56409883790745
+        },
+        {
+          "lat": 35.112305196384625,
+          "lon": 53.30711127497887
+        },
+        {
+          "lat": 32.89522257946099,
+          "lon": 54.07495529927196
+        },
+        {
+          "lat": 33.953080421426236,
+          "lon": 54.54675200523501
+        },
+        {
+          "lat": 32.91046266198181,
+          "lon": 56.06458339398368
+        },
+        {
+          "lat": 34.28541969294099,
+          "lon": 54.37494936523376
         }
       ]
     },
@@ -503,7 +563,7 @@
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-26",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -519,7 +579,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -681,26 +741,6 @@
         {
           "lat": 61.552060242688995,
           "lon": 19.90357806702053
-        },
-        {
-          "lat": 57.72476011792751,
-          "lon": 18.206097995754934
-        },
-        {
-          "lat": 61.97301801251993,
-          "lon": 16.061988313075734
-        },
-        {
-          "lat": 60.919046669066425,
-          "lon": 16.972269462958156
-        },
-        {
-          "lat": 60.32442144503431,
-          "lon": 19.286580428625243
-        },
-        {
-          "lat": 58.490974503268944,
-          "lon": 20.970742644812734
         }
       ]
     },
@@ -716,7 +756,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -732,7 +772,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-26",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -747,8 +787,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-28",
-      "intensity": 2,
+      "last_seen": "2026-08-29",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -830,63 +870,26 @@
         {
           "lat": 52.28730402418174,
           "lon": 33.57261695744019
-        }
-      ]
-    },
-    {
-      "id": "conflict-italien",
-      "type": "conflict",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Warum Italien und Deutschland wieder über Migranten streiten",
-      "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-22",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 38.96354556816491,
-          "lon": 14.954405376952469
         },
         {
-          "lat": 40.77941933863096,
-          "lon": 12.666001159895444
+          "lat": 47.58943393527808,
+          "lon": 35.45904588262249
         },
         {
-          "lat": 41.115819795901494,
-          "lon": 15.561402355726901
+          "lat": 48.32198700120311,
+          "lon": 37.88412254481859
         },
         {
-          "lat": 41.2207650932789,
-          "lon": 14.576932100756077
+          "lat": 50.83874731753516,
+          "lon": 37.66301794988826
         },
         {
-          "lat": 42.02290548489741,
-          "lon": 14.583231353845035
+          "lat": 47.554749559875866,
+          "lon": 38.363992198401135
         },
         {
-          "lat": 42.12479287819827,
-          "lon": 13.078262670259285
-        },
-        {
-          "lat": 43.87671267017424,
-          "lon": 9.737887733131853
-        },
-        {
-          "lat": 44.72522332035837,
-          "lon": 12.892993543081914
-        },
-        {
-          "lat": 42.98494797840142,
-          "lon": 13.99736330057037
-        },
-        {
-          "lat": 40.05018851546586,
-          "lon": 10.067263518518363
+          "lat": 47.080406958391634,
+          "lon": 34.08572637938283
         }
       ]
     },
@@ -948,47 +951,6 @@
       ]
     },
     {
-      "id": "blockade-panamakanal",
-      "type": "blockade",
-      "location": {
-        "name": "Panamakanal",
-        "lat": 9.08,
-        "lon": -79.68
-      },
-      "label": "Schiffsverkehr durch Panamakanal wird wegen Trockenheit reduziert",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/panamakanal-schiffsverkehr-trockenheit-100.html",
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "intensity": 0,
-      "chokepoint_lane": [
-        [
-          9.4,
-          -79.9
-        ],
-        [
-          8.9,
-          -79.5
-        ]
-      ],
-      "subpoints": []
-    },
-    {
-      "id": "protest-deutschland",
-      "type": "protest",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Meier doch nicht disqualifiziert - Deutschland wieder auf Goldkurs",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-meier-doch-nicht-disqualifiziert-deutschland-wieder-auf-goldkurs-100.html",
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-kanada",
       "type": "conflict",
       "location": {
@@ -1000,7 +962,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-28",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1142,26 +1104,6 @@
         {
           "lat": 56.972880322775076,
           "lon": -109.31671770015329
-        },
-        {
-          "lat": 54.36226924197522,
-          "lon": -107.27531686662262
-        },
-        {
-          "lat": 57.41473370224301,
-          "lon": -108.07588141993197
-        },
-        {
-          "lat": 53.495998575297186,
-          "lon": -104.26223410227527
-        },
-        {
-          "lat": 53.40788358768353,
-          "lon": -103.88098232000763
-        },
-        {
-          "lat": 53.60615967118046,
-          "lon": -108.77880693080016
         }
       ]
     },
@@ -1177,7 +1119,7 @@
       "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-27",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": [
         [
           26.7,
@@ -1274,8 +1216,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
-      "intensity": 2,
+      "last_seen": "2026-08-29",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1357,6 +1299,26 @@
         {
           "lat": 48.884570103213676,
           "lon": 18.610032211566235
+        },
+        {
+          "lat": 45.53555255778438,
+          "lon": 20.8703158964505
+        },
+        {
+          "lat": 45.12372201973601,
+          "lon": 19.068907184210236
+        },
+        {
+          "lat": 44.218320164283696,
+          "lon": 18.99659594115105
+        },
+        {
+          "lat": 44.91456105009468,
+          "lon": 19.562526415366683
+        },
+        {
+          "lat": 48.84051444155118,
+          "lon": 17.943980665299456
         }
       ]
     },
@@ -1371,8 +1333,8 @@
       "label": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
       "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "intensity": 1,
+      "last_seen": "2026-08-29",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1434,9 +1396,29 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
+        },
+        {
+          "lat": 53.28120844551414,
+          "lon": 40.340743125310226
+        },
+        {
+          "lat": 54.872274709966334,
+          "lon": 37.963088907573045
+        },
+        {
+          "lat": 57.07682138323733,
+          "lon": 36.492827846597955
+        },
+        {
+          "lat": 52.762151489109534,
+          "lon": 39.930104468747416
+        },
+        {
+          "lat": 56.15920128480536,
+          "lon": 36.17733803889268
         }
       ]
     }
   ],
-  "updated_at": "2026-08-28"
+  "updated_at": "2026-08-29"
 }
