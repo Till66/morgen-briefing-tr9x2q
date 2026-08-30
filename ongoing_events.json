@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+      "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,8 +227,8 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-29",
-      "intensity": 7,
+      "last_seen": "2026-08-30",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,6 +410,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html"
@@ -425,8 +445,8 @@
       "label": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-29",
-      "intensity": 4,
+      "last_seen": "2026-08-30",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -548,6 +568,26 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
+        },
+        {
+          "lat": 30.42818316234245,
+          "lon": 54.62271356712625
+        },
+        {
+          "lat": 32.03191824177336,
+          "lon": 51.766116605775
+        },
+        {
+          "lat": 35.262294281225834,
+          "lon": 50.93838971152399
+        },
+        {
+          "lat": 30.246050697000825,
+          "lon": 55.09211794381312
+        },
+        {
+          "lat": 33.7522461168195,
+          "lon": 52.63693288471479
         }
       ]
     },
@@ -579,7 +619,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -721,26 +761,6 @@
         {
           "lat": 58.58552694758506,
           "lon": 16.91748272447148
-        },
-        {
-          "lat": 58.81549969665578,
-          "lon": 20.739614883454543
-        },
-        {
-          "lat": 62.68355346724916,
-          "lon": 16.157718655068944
-        },
-        {
-          "lat": 59.866196976528784,
-          "lon": 17.469858343899798
-        },
-        {
-          "lat": 61.249745458240795,
-          "lon": 21.18521573080628
-        },
-        {
-          "lat": 61.552060242688995,
-          "lon": 19.90357806702053
         }
       ]
     },
@@ -756,7 +776,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -772,7 +792,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-26",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -787,8 +807,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-29",
-      "intensity": 3,
+      "last_seen": "2026-08-30",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -890,6 +910,26 @@
         {
           "lat": 47.080406958391634,
           "lon": 34.08572637938283
+        },
+        {
+          "lat": 47.30394449990393,
+          "lon": 34.99304462428229
+        },
+        {
+          "lat": 49.023453105382146,
+          "lon": 37.117011976168726
+        },
+        {
+          "lat": 48.21262886649815,
+          "lon": 38.735845488147774
+        },
+        {
+          "lat": 50.580749826078126,
+          "lon": 35.272508493866894
+        },
+        {
+          "lat": 51.02976275901595,
+          "lon": 34.29853376887426
         }
       ]
     },
@@ -962,7 +1002,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-28",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1084,26 +1124,6 @@
         {
           "lat": 54.85163346843785,
           "lon": -105.94050926362316
-        },
-        {
-          "lat": 56.659770724113976,
-          "lon": -107.73788620779382
-        },
-        {
-          "lat": 58.836480849679674,
-          "lon": -105.83812271960642
-        },
-        {
-          "lat": 56.67264321514886,
-          "lon": -105.89907942311957
-        },
-        {
-          "lat": 55.681203311297395,
-          "lon": -105.7116457434878
-        },
-        {
-          "lat": 56.972880322775076,
-          "lon": -109.31671770015329
         }
       ]
     },
@@ -1119,7 +1139,7 @@
       "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-27",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": [
         [
           26.7,
@@ -1216,8 +1236,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
-      "intensity": 3,
+      "last_seen": "2026-08-30",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1319,6 +1339,26 @@
         {
           "lat": 48.84051444155118,
           "lon": 17.943980665299456
+        },
+        {
+          "lat": 49.32060745329552,
+          "lon": 19.554416741041447
+        },
+        {
+          "lat": 45.15500139924523,
+          "lon": 17.841131979463302
+        },
+        {
+          "lat": 48.502504482851364,
+          "lon": 21.202247854968473
+        },
+        {
+          "lat": 50.06066292745484,
+          "lon": 20.786655324595085
+        },
+        {
+          "lat": 47.10076079483569,
+          "lon": 19.771258656248627
         }
       ]
     },
@@ -1333,8 +1373,8 @@
       "label": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
       "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
-      "intensity": 2,
+      "last_seen": "2026-08-30",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1416,9 +1456,122 @@
         {
           "lat": 56.15920128480536,
           "lon": 36.17733803889268
+        },
+        {
+          "lat": 54.19331496715414,
+          "lon": 38.63616046957664
+        },
+        {
+          "lat": 56.23100763833896,
+          "lon": 37.65908422527429
+        },
+        {
+          "lat": 58.058991392520255,
+          "lon": 36.19814772005231
+        },
+        {
+          "lat": 52.78169037735618,
+          "lon": 38.954577559176386
+        },
+        {
+          "lat": 57.415598696790774,
+          "lon": 36.275319422008195
+        }
+      ]
+    },
+    {
+      "id": "storm-schweiz",
+      "type": "storm",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "label": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-kiew",
+      "type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 52.62998156601318,
+          "lon": 28.326232658589543
+        },
+        {
+          "lat": 50.3313085159312,
+          "lon": 33.389491863221046
+        },
+        {
+          "lat": 51.20745816912664,
+          "lon": 30.683347839835644
+        },
+        {
+          "lat": 52.64227211408358,
+          "lon": 29.159287383864232
+        },
+        {
+          "lat": 49.989688305293484,
+          "lon": 29.873332284175866
+        },
+        {
+          "lat": 52.789783221965024,
+          "lon": 32.13611678810304
+        },
+        {
+          "lat": 47.613306473030896,
+          "lon": 31.572025212639716
+        },
+        {
+          "lat": 50.49795398325134,
+          "lon": 28.57057723397705
+        },
+        {
+          "lat": 48.97908699220479,
+          "lon": 28.400787643530357
+        },
+        {
+          "lat": 48.940084609533564,
+          "lon": 28.087134363895778
+        },
+        {
+          "lat": 47.94889658466643,
+          "lon": 29.295217752572665
+        },
+        {
+          "lat": 49.311037932939485,
+          "lon": 29.905565967110117
+        },
+        {
+          "lat": 53.269015380122816,
+          "lon": 31.036540829632322
+        },
+        {
+          "lat": 50.509987159396864,
+          "lon": 27.66817148841712
+        },
+        {
+          "lat": 48.069011109543155,
+          "lon": 29.35509277567223
         }
       ]
     }
   ],
-  "updated_at": "2026-08-29"
+  "updated_at": "2026-08-30"
 }
