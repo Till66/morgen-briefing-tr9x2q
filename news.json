@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:50:17.488014+00:00",
+  "generated_at": "2026-08-31T10:41:50.377638+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,54 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Statistik: Mehr Männer in jüngeren Altersgruppen",
+      "summary": "Unter jungen Erwachsenen gibt es in Deutschland deutlich mehr Männer als Frauen. Das hat das Statistische Bundesamt untersucht. Ab 50 Jahren dreht sich das Geschlechterverhältnis.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 11:04:25 +0200"
+    },
+    {
+      "title": "Bilanz des DWD: Einer der wärmsten Sommer seit Aufzeichnung",
+      "summary": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Der Klimawandel habe dabei eine Rolle gespielt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
+      "category": "politik",
+      "event_type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 08:18:23 +0200"
+    },
+    {
+      "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
+      "summary": "Der Kanzler und seine Regierung stecken im Umfragetief. Dennoch zeigt sich Merz im ARD-Sommerinterview optimistisch. Die Wirtschaft erhole sich bereits - und wichtig sei vor allem, dass Deutschland langfristig gut aufgestellt sei.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 30 Aug 2026 19:55:49 +0200"
+    },
     {
       "title": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
       "summary": "Nach dem Weggang von Felix Klein bleibt das Amt des Antisemitismusbeauftragten unbesetzt. Angesichts steigender antisemitischer Vorfälle sorgt die Verzögerung bei der Nachfolge für Kritik. Von Dietrich Karl Mäurer.",
@@ -125,27 +173,43 @@
       "published": "Fri, 28 Aug 2026 22:57:28 +0200"
     },
     {
-      "title": "Ostsee-Anrainer vereinbaren Taskforce gegen hybride Bedrohungen",
-      "summary": "Die Anrainerstaaten der Ostsee wollen ihre Kräfte bündeln, um besser auf hybride Bedrohungen reagieren zu können. Geplant ist eine gemeinsame Taskforce. Innenminister Dobrindt sprach von einem \"gemeinsamen Sicherheitsraum\".",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/treffen-ostsee-anrainer-100.html",
-      "category": "politik",
-      "event_type": "tension",
+      "title": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+      "summary": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
       "location": {
-        "name": null,
+        "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 18:41:08 +0200"
+      "published": "Mon, 31 Aug 2026 11:06:42 +0200"
     },
     {
-      "title": "Özdemir und Pistorius werben für Verbotsverfahren von AfD-Landesverbänden",
-      "summary": "\"Rechtlich möglich, durch Belege gedeckt, von der Verfassung geboten\": Verteidigungsminister Pistorius und Baden-Württembergs Ministerpräsident Özdemir fordern ein AfD-Verbotsverfahren. Der Fokus solle auf \"eindeutig völkischen Landesverbänden\" liegen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-und-oezdemir-fuer-afd-verbotsverfahren-100.html",
-      "category": "politik",
+      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+      "summary": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 12:28:00 +0200"
+    },
+    {
+      "title": "Marktbericht: Der Kater nach dem DAX-Rekord?",
+      "summary": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -154,14 +218,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 17:51:40 +0200"
+      "published": "Mon, 31 Aug 2026 10:36:51 +0200"
     },
     {
-      "title": "Fraktionsklausur von Union und SPD: Wie weit trägt der \"Mut von Münster\"?",
-      "summary": "CDU, CSU und SPD beschwören nach ihren Klausuren neuen \"Mut\", um Reformen anzugehen und die schlechte Stimmung zu verbessern. Interne Konflikte, besonders zur Rentenreform, bleiben aber bestehen. Von Georg Schwarte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktionsspitzen-bundesregierung-100.html",
-      "category": "politik",
+      "title": "Wirtschaft vor acht vom 27.08.2026",
+      "summary": "Wirtschaft vor acht vom 27.08.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/video/video-1638498.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -170,7 +234,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 17:05:06 +0200"
+      "published": "Thu, 27 Aug 2026 20:27:47 +0200"
+    },
+    {
+      "title": "Update Wirtschaft vom 31.08.2026",
+      "summary": "Update Wirtschaft vom 31.08.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1640148.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 10:31:36 +0200"
+    },
+    {
+      "title": "Warum türkische TV-Serien so erfolgreich sind",
+      "summary": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "Türkei",
+        "lat": 38.9637,
+        "lon": 35.2433
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 30 Aug 2026 17:56:19 +0200"
     },
     {
       "title": "Gaming-Branche kämpft trotz Rekordzahlen um Anschluss an Weltspitze",
@@ -205,100 +301,33 @@
       "published": "Sat, 29 Aug 2026 18:16:37 +0200"
     },
     {
-      "title": "Was die energetische Sanierung von Häusern beschleunigen könnte",
-      "summary": "Millionen Häuser könnten energetisch saniert werden. Doch Eigenheimbesitzer sind oft zögerlich: Hohe Kosten, unkalkulierbare Risiken und die Aussicht auf monatelange Baustellen schrecken viele ab. Doch muss das sein? Von Andre Kartschall.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/haus-sanierung-tempo-umbau-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
+      "summary": "Bundesfinanzminister Klingbeil fliegt zum Treffen der G20-Finanzminister in die USA. Überschattet wird diese Reise vom Iran-Krieg - aber auch der Handelskonflikt zwischen Kanada und den USA steht auf der Agenda. Von P. Eckstein.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 08:29:16 +0200"
-    },
-    {
-      "title": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
-      "summary": "Die Rede von Fed-Chef Warsh beim jährlichen Notenbanker-Treffen war mit Spannung erwartet worden. Konkrete Hinweise für die nächste Zinsentscheidung blieb er schuldig. Dahinter steckt mehr als bloße Zurückhaltung. Von Anne Schneider.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 21:54:08 +0200"
-    },
-    {
-      "title": "Nach Betriebsversammlungen: Lauter offene Fragen bei VW",
-      "summary": "In mehreren Betriebsversammlungen hat Volkswagen-Chef Blume die Mitarbeiter auf harte Einschnitte eingestimmt. Doch viele Fragen blieben offen. Eine Lösung zeichnet sich nach NDR-Informationen für das Werk Osnabrück ab. A.Deutskens und K.Seiler.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-betriebsversammlungen-bilanz-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 19:57:27 +0200"
-    },
-    {
-      "title": "Amerikaner besorgt wegen wirtschaftlicher Folgen des Iran-Kriegs",
-      "summary": "Was als kurzer Feldzug geplant war, entwickelt sich zum Desaster für US-Präsident Trump. Die Amerikaner spüren die Folgen des Iran-Kriegs längst im Alltag - sei es im Supermarkt oder an der Zapfsäule. Von Anne Schneider.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-folgen-usa-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 13:33:00 +0200"
-    },
-    {
-      "title": "Wo es trotz Konjunkturflaute noch Jobs gibt",
-      "summary": "Jahrelang kein Wachstum, das schlägt längst auch auf den Arbeitsmarkt durch. Hinzu kommt der Strukturwandel in der Industrie, der auch Arbeitsplätze kostet. Wo fallen Stellen weg - und wo gibt es neue? Von E. Birkenstock.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/lichtblicke-am-arbeitsmarkt-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 11:10:07 +0200"
-    },
-    {
-      "title": "Arbeitslosigkeit im August erneut leicht gestiegen",
-      "summary": "Es bewegt sich wenig auf dem deutschen Arbeitsmarkt: Die Zahl der Arbeitslosen in Deutschland ist im August über der Marke von drei Millionen geblieben. Die Arbeitslosenquote stieg leicht auf 6,5 Prozent.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mehr-als-drei-millionen-arbeitslose-august-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 10:44:27 +0200"
+      "published": "Sun, 30 Aug 2026 12:31:14 +0200"
     },
     {
       "title": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
@@ -315,35 +344,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sat, 29 Aug 2026 04:54:49 +0200"
-    },
-    {
-      "title": "Was über den Besuch von CIA-Chef Ratcliffe in Moskau bekannt ist",
-      "summary": "Nach einem Besuch von CIA-Chef Ratcliffe in Moskau wird über den Zweck der Reise spekuliert. In US-Medien hieß es, Ratcliffe habe Russland vor einem Angriff auf die NATO gewarnt. Der Kreml spricht von \"Schauergeschichten\".",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Moskau",
-        "lat": 55.7558,
-        "lon": 37.6173
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Moskau",
-            "lat": 55.7558,
-            "lon": 37.6173
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Thu, 27 Aug 2026 20:22:07 +0200"
     },
     {
       "title": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
@@ -520,6 +520,102 @@
       "published": "Mon, 24 Aug 2026 10:28:34 +0200"
     },
     {
+      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+      "summary": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 12:28:00 +0200"
+    },
+    {
+      "title": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
+      "summary": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffdatenschreibers soll Aufklärung bringen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/nordzypern-faehrunglueck-vorwuerfe-besatzung-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 10:01:35 +0200"
+    },
+    {
+      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
+      "summary": "Nach den tödlichen Schüssen bei einem Rave in Aarau ermitteln die Schweizer Behörden auch in Richtung eines Terroraktes. Möglich seien ebenfalls ein Amoklauf oder ein anderes kriminelles Motiv. Unter den Verletzten ist eine deutsche Frau.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 02:28:59 +0200"
+    },
+    {
+      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
+      "summary": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 30 Aug 2026 19:42:47 +0200"
+    },
+    {
+      "title": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
+      "summary": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 30 Aug 2026 20:26:09 +0200"
+    },
+    {
+      "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
+      "summary": "Die Menschen in Island haben sich gegen die Wiederaufnahme von Beitrittsverhandlungen mit der Europäischen Union entschieden. Das Ergebnis des Referendums fiel mit 52,8 zu 47,2 Prozent der Stimmen allerdings knapp aus.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 30 Aug 2026 12:12:39 +0200"
+    },
+    {
       "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
       "summary": "Bei einem Rave im schweizerischen Aarau, westlich von Zürich, sind in der Nacht Schüsse gefallen. Die Polizei spricht von einer Toten und fünf Verletzten. Die Hintergründe der Tat sind noch unklar.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -533,7 +629,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 10:29:48 +0200"
+      "published": "Sun, 30 Aug 2026 18:50:34 +0200"
     },
     {
       "title": "Knappes Rennen bei EU-Referendum in Island",
@@ -552,106 +648,10 @@
       "published": "Sun, 30 Aug 2026 09:13:42 +0200"
     },
     {
-      "title": "Estland als Testlabor für neue synthetische Drogen",
-      "summary": "Estland ist zu einer Art Testmarkt für synthetische Drogen geworden. Das Land hat die höchste Zahl von Drogentoten pro Einwohner in der EU. Dabei war es eigentlich besonders erfolgreich im Kampf gegen illegale Opioide. Von Christian Stichler.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 11:37:08 +0200"
-    },
-    {
-      "title": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
-      "summary": "Es geht um Sicherheit, Souveränität und Fischereirechte: Heute stimmt Island darüber ab, ob die Beitrittsgespräche mit der EU wieder aufgenommen werden. Bei dem Referendum ist Island gespalten wie nie. Von Jana Sinram.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 15:02:55 +0200"
-    },
-    {
-      "title": "Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF",
-      "summary": "Acht Monate vor der Präsidentschaftswahl in Frankreich haben sich sieben Kandidaten vor Wirtschaftsvertretern präsentiert. Der Ort: das Pariser Tennisstadion Roland Garros. Im Fokus: die Verschuldung Frankreichs. Von Cai Rienäcker.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-wahlkampfauftakt-praesidentschaftswahl-unternehmerverband-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 28 Aug 2026 16:32:14 +0200"
-    },
-    {
-      "title": "Villena in Spanien - Bedeutender Schatz aus der Bronzezeit gestohlen",
-      "summary": "Sie kamen frühmorgens und brauchten nur wenige Minuten: Unbekannte haben im spanischen Villena einen prähistorischen Goldschatz gestohlen. Die Ermittler prüfen offenbar, ob der Diebstahl gezielt in Auftrag gegeben wurde.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-villena-schatz-diebstahl-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 27 Aug 2026 18:46:03 +0200"
-    },
-    {
-      "title": "Geberländer fordern massive Kürzungen beim EU-Budget",
-      "summary": "Nach Beratungen über das EU-Budget fordert Deutschland gemeinsam mit fünf anderen EU-Ländern Kürzungen in Milliardenhöhe. Die bisherigen Pläne der EU-Kommission seien \"schlicht unbezahlbar\", erklärte Kanzler Merz.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-budget-erklaerung-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 27 Aug 2026 15:52:44 +0200"
-    },
-    {
-      "title": "Verhandlungen zum EU-Budget: Die Bündnisse formieren sich",
-      "summary": "In den Verhandlungen um den EU-Haushalt bringen sich zwei Blöcke in Stellung: Heute treffen sich in Berlin Vertreter der Geberstaaten. Ratspräsident Costa muss den Konsens herstellen - und tourt dafür derzeit durch die Hauptstädte. Von T. Spickhofen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-budget-treffen-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 27 Aug 2026 09:05:13 +0200"
-    },
-    {
-      "title": "Borussia Dortmund besiegt den HSV nach Blitzstart",
-      "summary": "Zum Bundesliga-Auftakt beflügeln Karetsas und Konstantelias Borussia Dortmund gegen den Hamburger SV - zumindest eine Halbzeit lang. Dann verletzt sich Konstantelias eventuell schwer.",
+      "title": "Die Lage bei den Bundesliga-Torhütern: Neue Gesichter im Kasten",
+      "summary": "Noah Atubolu, Mio Backhaus, Maarten Vandevoordt oder Karl Hein haben als neue Nummer eins ihrer Klubs debütiert. Und Jürgen Klopp freut sich über die große Auswahl deutscher Keeper.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/dortmunds-griechischer-zauber-zu-viel-fuer-hsv,spielbericht-borussia-dortmund-hamburger-sv-102.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/das-torhueterkarussell-die-spannendsten-gesichter-im-kasten,neue-torhueter-in-der-bundesliga-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -661,13 +661,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 10:17:02 +0200"
+      "published": "Mon, 31 Aug 2026 10:42:51 +0200"
     },
     {
-      "title": "SV Elversberg feiert Traumdebüt gegen Bayer Leverkusen",
-      "summary": "Mit einem Paukenschlag meldet sich Aufsteiger SV Elversberg in der Bundesliga an und muss nach fantastischem Start gegen Bayer Leverkusen erst ganz zum Schluss zittern.",
+      "title": "Augsburgs Kade zaubert sich gegen Schalke auf Klopps Zettel",
+      "summary": "Unter den Augen von Jürgen Klopp hat Schalke 04 einen Fehlstart beim FC Augsburg hingelegt. Erfreulich für den Bundestrainer: Mit Anton Kade überragte ein potenzieller neuer Nationalspieler.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/elversberg-mit-traum-einstand-gegen-leverkusen,spielbericht-sv-elversberg-bayer-leverkusen-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/kade-zaubert-sich-gegen-schalke-auf-zettel-des-bundestrainers,spielbericht-fc-augsburg-schalke-04-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -677,29 +677,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 18:52:15 +0200"
+      "published": "Mon, 31 Aug 2026 00:00:33 +0200"
     },
     {
-      "title": "El Mala und Dallinga schießen Köln gegen Hoffenheim zum Sieg",
-      "summary": "Said El Mala trifft in der Fußball-Bundesliga auch mit der Nummer 10 für den 1. FC Köln, wird gegen die TSG 1899 Hoffenheim aber noch überboten vom neuen Mittelstürmer Thijs Dallinga.",
+      "title": "Freiburgs Suzuki und Matanovic wirbeln Werder Bremen durch",
+      "summary": "Die Saison hat erst begonnen, der SC Freiburg erlebt aber schon seinen ersten Gewinnerrausch. Gegen Werder Bremen gab es dank Yuito Suzuki und Igor Matanovic den perfekten Liga-Auftakt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-el-mala-und-doppel-torschuetze-dallinga,spielbericht-koeln-tsg-hoffenheim-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 17:27:10 +0200"
-    },
-    {
-      "title": "Emotionaler Start - Mio Backhaus direkt gegen die alte Liebe",
-      "summary": "Erst ein dicker Patzer, dann das Duell mit Ex-Club Werder Bremen. Für 12-Millionen-Einkauf Mio Backhaus geht es beim SC Freiburg gleich zur Sache.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-emotionaler-start-mio-backhaus-vom-sc-freiburg-direkt-gegen-die-alte-liebe-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/freiburgs-suzuki-und-matanovic-wirbeln-werder-durch,spielbericht-sc-freiburg-werder-bremen-106.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -709,13 +693,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 10:35:48 +0200"
+      "published": "Mon, 31 Aug 2026 00:00:09 +0200"
     },
     {
-      "title": "Muslics Optimismus soll Schalke 04 durch die Saison tragen",
-      "summary": "Beim FC Schalke 04 herrscht vor Saisonbeginn nicht zuletzt durch Trainer Miron Muslic Euphorie. Gegen den FC Augsburg sollen die ersten Punkte her.",
+      "title": "Dortmunds Konstantelias erleidet Kreuzbandriss",
+      "summary": "Bittere Nachricht für Borussia Dortmund: Neuzugang Giannis Konstantelias wird dem Verein mit einer Knieverletzung lange fehlen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-muslics-optimismus-soll-schalke-04-durch-die-saison-tragen-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-borussia-dortmund-giannis-konstantelias-erleidet-kreuzbandriss-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -725,29 +709,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 10:34:30 +0200"
+      "published": "Sun, 30 Aug 2026 18:17:00 +0200"
     },
     {
-      "title": "Spanien-Rundfahrt: Tadej Pogacar stürzt und muss Vuelta beenden",
-      "summary": "Radsport-Superstar Tadej Pogacar verletzt sich bei einem Sturz auf der 8. Etappe so schwer, dass er die Spanien-Rundfahrt aufgeben muss.",
+      "title": "\"Freiburg gewinnt die Conference League\"",
+      "summary": "Der SC Freiburg überzeugt auf vielen Ebenen. Das Team des Bundesliga-Update-Podcasts glaubt: Die Breisgauer sind reif für einen Titel.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/vuelta-a-espana/leknessund-triumphiert-van-aert-erobert-gruen,vuelta-8-etappe-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 22:56:35 +0200"
-    },
-    {
-      "title": "Extrem effiziente Nürnberger schlagen auch Bielefeld",
-      "summary": "Im Stile einer echten Spitzenmannschaft ist der 1. FC Nürnberg auch über ein kämpferisches Arminia Bielefeld hinweggefegt. Der FCN nutzte seine Chancen im ersten Durchgang eiskalt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/brutal-effiziente-nuernberger-schlagen-auch-bielefeld,spielbericht-nuernberg-arminia-bielefeld-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/freiburg-gewinnt-die-conference-league,bundesliga-update-rueckblick-spieltag-eins-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -757,13 +725,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 23:07:06 +0200"
+      "published": "Mon, 31 Aug 2026 00:32:32 +0200"
     },
     {
-      "title": "Torspektakel: Reese führt Wolfsburg in Karlsruhe zum Sieg",
-      "summary": "Die bisherigen Defensivspezialisten aus Karlsruhe und Wolfsburg rennen in der 2. Liga mit offenem Visier aufeinander los. Wolfsburg trifft dreimal mehr - auch weil KSC-Keeper Bernat patzt.",
+      "title": "US Open 2026: Sensationelles Erstrunden-Aus für geschwächten Djokovic",
+      "summary": "Novak Djokovic ist zum ersten Mal in seiner Karriere in New York in der ersten Runde ausgeschieden. Der Serbe hatte dabei große körperliche Probleme.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/wolfsburg-gewinnt-offensivspektakel-in-karlsruhe,spielbericht-karlsruher-sc-vfl-wolfsburg-100.html",
+      "url": "https://www.sportschau.de/tennis/us-open/sensationelles-erst-runden-aus-fuer-djokovic,djokovic-erste-runde-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 10:37:12 +0200"
+    },
+    {
+      "title": "US Open aktuell: 52 Minuten Spielzeit - Svitolina stürmt in Runde zwei",
+      "summary": "Die wichtigsten Matches, die neusten Ergebnisse, aktuelle Spielberichte und alle News von den US Open 2026.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/svitolina-stuermt-in-runde-zwei,tennis-us-open-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -773,7 +757,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 29 Aug 2026 15:59:57 +0200"
+      "published": "Mon, 31 Aug 2026 07:01:13 +0200"
+    },
+    {
+      "title": "US Open - Flushing Meadows: Wer heute Abend spielt",
+      "summary": "Carlos Alcaraz, Aryna Sabalenka und Lokalmatador Ben Shelton schlagen unter anderem am zweiten Tag der US Open auf.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/flushing-meadows-wer-heute-abend-spielt,tennis-us-open-vorschau-104.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 31 Aug 2026 07:48:15 +0200"
     }
   ],
   "crises": [
@@ -787,7 +787,7 @@
       },
       "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1004,7 +1004,7 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1222,8 +1222,8 @@
       "label": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-30",
-      "intensity": 5,
+      "last_seen": "2026-08-31",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1365,6 +1365,26 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
+        },
+        {
+          "lat": 34.014725501310366,
+          "lon": 53.587224353697906
+        },
+        {
+          "lat": 31.855449622586825,
+          "lon": 52.18681148699178
+        },
+        {
+          "lat": 30.93758572811915,
+          "lon": 51.728242291763486
+        },
+        {
+          "lat": 33.597548523016286,
+          "lon": 53.25045432155264
+        },
+        {
+          "lat": 33.89578415370227,
+          "lon": 55.43893438680073
         }
       ]
     },
@@ -1396,7 +1416,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1518,26 +1538,6 @@
         {
           "lat": 57.34168017133155,
           "lon": 15.943715786858512
-        },
-        {
-          "lat": 59.34228818760283,
-          "lon": 20.30925606043119
-        },
-        {
-          "lat": 61.84859140637973,
-          "lon": 19.129647195446804
-        },
-        {
-          "lat": 62.0127885798532,
-          "lon": 19.991653221036344
-        },
-        {
-          "lat": 58.08435778559729,
-          "lon": 17.816616366419268
-        },
-        {
-          "lat": 58.58552694758506,
-          "lon": 16.91748272447148
         }
       ]
     },
@@ -1553,7 +1553,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-unter-kontrolle-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-24",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1569,7 +1569,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-26",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1584,8 +1584,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-30",
-      "intensity": 4,
+      "last_seen": "2026-08-31",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1707,63 +1707,26 @@
         {
           "lat": 51.02976275901595,
           "lon": 34.29853376887426
-        }
-      ]
-    },
-    {
-      "id": "conflict-den-haag",
-      "type": "conflict",
-      "location": {
-        "name": "Den Haag",
-        "lat": 52.0705,
-        "lon": 4.3007
-      },
-      "label": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
-      "url": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-24",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 51.02295769572269,
-          "lon": 3.886546796768216
         },
         {
-          "lat": 53.87746803955524,
-          "lon": 2.148660600361219
+          "lat": 51.097480288865036,
+          "lon": 38.75514880719668
         },
         {
-          "lat": 54.46624706773175,
-          "lon": 6.96603251098947
+          "lat": 49.544996813202154,
+          "lon": 33.81471405541122
         },
         {
-          "lat": 54.92731906432305,
-          "lon": 1.5276505071982163
+          "lat": 51.479269615156056,
+          "lon": 37.53309588164583
         },
         {
-          "lat": 53.03178255034827,
-          "lon": 4.841055878775091
+          "lat": 49.839660020876245,
+          "lon": 33.86503508492211
         },
         {
-          "lat": 54.90586464158338,
-          "lon": 4.6283395879983065
-        },
-        {
-          "lat": 53.61044727426673,
-          "lon": 1.4197651050114692
-        },
-        {
-          "lat": 52.37636481590427,
-          "lon": 3.271460696095126
-        },
-        {
-          "lat": 52.729214804253246,
-          "lon": 6.764220101146661
-        },
-        {
-          "lat": 51.096337083818824,
-          "lon": 3.7756891381885365
+          "lat": 52.89256690174226,
+          "lon": 38.072245423644844
         }
       ]
     },
@@ -1779,7 +1742,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-28",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1881,26 +1844,6 @@
         {
           "lat": 56.964894706204745,
           "lon": -105.90152977053252
-        },
-        {
-          "lat": 55.350089087062074,
-          "lon": -106.51104521644699
-        },
-        {
-          "lat": 56.65186248927374,
-          "lon": -108.77102165847947
-        },
-        {
-          "lat": 55.147998914917935,
-          "lon": -105.16087087198787
-        },
-        {
-          "lat": 56.231014234595705,
-          "lon": -106.42029482576211
-        },
-        {
-          "lat": 54.85163346843785,
-          "lon": -105.94050926362316
         }
       ]
     },
@@ -1937,11 +1880,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
+      "label": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
+      "last_seen": "2026-08-31",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1983,6 +1926,26 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
         }
       ]
     },
@@ -2013,8 +1976,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
-      "intensity": 4,
+      "last_seen": "2026-08-31",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2136,6 +2099,26 @@
         {
           "lat": 47.10076079483569,
           "lon": 19.771258656248627
+        },
+        {
+          "lat": 47.16067860056604,
+          "lon": 17.620805761589274
+        },
+        {
+          "lat": 45.48848696866212,
+          "lon": 17.921853304257464
+        },
+        {
+          "lat": 46.3110645873818,
+          "lon": 17.712140492462936
+        },
+        {
+          "lat": 47.021908437474494,
+          "lon": 18.179091817176108
+        },
+        {
+          "lat": 45.334890094765555,
+          "lon": 16.576877555844927
         }
       ]
     },
@@ -2151,7 +2134,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-30",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2233,26 +2216,6 @@
         {
           "lat": 56.15920128480536,
           "lon": 36.17733803889268
-        },
-        {
-          "lat": 54.19331496715414,
-          "lon": 38.63616046957664
-        },
-        {
-          "lat": 56.23100763833896,
-          "lon": 37.65908422527429
-        },
-        {
-          "lat": 58.058991392520255,
-          "lon": 36.19814772005231
-        },
-        {
-          "lat": 52.78169037735618,
-          "lon": 38.954577559176386
-        },
-        {
-          "lat": 57.415598696790774,
-          "lon": 36.275319422008195
         }
       ]
     },
@@ -2267,8 +2230,8 @@
       "label": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
       "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
-      "intensity": 1,
+      "last_seen": "2026-08-31",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -2283,8 +2246,8 @@
       "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
-      "intensity": 1,
+      "last_seen": "2026-08-31",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2346,8 +2309,44 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
+    },
+    {
+      "id": "storm-deutschland",
+      "type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Bilanz des DWD: Einer der wärmsten Sommer seit Aufzeichnung",
+      "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
