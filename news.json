@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:17:17.603874+00:00",
+  "generated_at": "2026-09-02T08:37:38.633480+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,26 @@
   },
   "articles": [
     {
-      "title": "Pflegebeauftragte: \"Die Pflegekassen werden nicht pleitegehen\"",
-      "summary": "Die Pflegekassen sind unterfinanziert, selbst mit einem Notdarlehen kommen sie nicht aus dem Milliardendefizit. Die Pflegebeauftragte der Bundesregierung, Staffler, verweist auf die Pflegereform und versichert: Man werde die Kassen nicht pleitegehen lassen.",
+      "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+      "summary": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das war kein Kinderstreich.\"",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+      "category": "politik",
+      "event_type": "outage",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 21:09:43 +0200"
+    },
+    {
+      "title": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
+      "summary": "Die Spuren des Anschlagsversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,13 +74,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 08:45:08 +0200"
+      "published": "Tue, 01 Sep 2026 19:54:06 +0200"
     },
     {
-      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-      "summary": "In Sachsen-Anhalt grenzt sich CDU-Spitzenkandidat Schulze im Wahlkampf von Kanzler Merz und der Bundespolitik ab. Nun gab es doch einen gemeinsamen Auftritt. Den nutzte Merz erneut für eine klare Warnung vor der AfD.",
+      "title": "Karin Angerer für Bettina Limperg: Stabwechsel am Bundesgerichtshof",
+      "summary": "An der Spitze von Deutschlands oberstem Straf- und Zivilgericht gibt es einen Personalwechsel: Karin Angerer übernimmt heute das Amt der Gerichtspräsidentin von Bettina Limperg. Von Antonetta Stephany.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
+      "url": "https://www.tagesschau.de/inland/bundesgerichtshof-praesidentin-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 17:48:16 +0200"
+    },
+    {
+      "title": "Merz setzt Leitplanken für Kooperation mit der Linken",
+      "summary": "Das Verhältnis der CDU zur Linken könnte nach der Wahl in Sachsen-Anhalt erneut zu einer zentralen Frage werden. Kanzler Merz schließt eine Zusammenarbeit aus, lässt aber eine Minderheitsregierung mit punktueller Unterstützung der Linken offen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-linke-sachsen-anhalt-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 16:53:23 +0200"
+    },
+    {
+      "title": "Landtagswahl in Sachsen-Anhalt: Wie viel Macht hätte eine AfD-Regierung?",
+      "summary": "Was könnte eine AfD-Landesregierung in Sachsen-Anhalt tatsächlich durchsetzen? Janos Richter vom Verfassungsblog erklärt, wo sie weitreichende Möglichkeiten hätte, welche Schutzmechanismen greifen - und wo ihre Macht endet.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 16:51:35 +0200"
+    },
+    {
+      "title": "Bundesregierung ist uneins bei der Einkommensteuerreform",
+      "summary": "Die Einkommensteuerreform gilt als eines der großen Projekte der schwarz-roten Koalition. Morgen will sie das Kabinett auf den Weg bringen. Doch innerhalb der Koalition gibt es immer noch Streit darüber. Von Nicole Kohnert.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-klingbeil-reiche-100.html",
       "category": "politik",
       "event_type": "tension",
       "location": {
@@ -74,13 +138,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 22:28:25 +0200"
+      "published": "Tue, 01 Sep 2026 16:03:01 +0200"
     },
     {
-      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
-      "summary": "Wer steckt hinter den Sprengstoff-Drohnen am Flughafen Leipzig? Vieles deutet auf Russland als Drahtzieher hin. Doch noch steht eine offizielle Schuldzuweisung der Bundesregierung aus. Welche Konsequenzen sind denkbar? Von Markus Sambale.",
+      "title": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
+      "summary": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Laut Ministerpräsident Woidke war es ein \"Anschlagsversuch\" auf die Stromversorgung. Die Hintergründe sind noch unklar.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
+      "url": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 17:44:44 +0200"
+    },
+    {
+      "title": "Drohnenvorfall: Bundesregierung macht offenbar Russland verantwortlich",
+      "summary": "Wer steckt hinter dem Anschlagsversuch am Flughafen Leipzig/Halle? Die Bundesregierung will heute bekanntgeben, wen sie dafür verantwortlich macht. Mehrere Medien berichten, dass es Hinweise auf eine russische Urheberschaft gebe.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-vorfall-forderungen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -90,14 +170,30 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 20:30:16 +0200"
+      "published": "Tue, 01 Sep 2026 12:29:02 +0200"
     },
     {
-      "title": "Landtagswahl in Sachsen-Anhalt: CDU vor der Zerreißprobe?",
-      "summary": "Bei der Landtagswahl in Sachsen-Anhalt droht der CDU ein Dilemma: Die AfD liegt deutlich vorn. Koalitionen erscheinen schwierig. Parteichef Merz hat klare Worte, aber wenig Spielraum. Von Sabine Henkel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-cdu-100.html",
-      "category": "politik",
+      "title": "Was hilft gegen die gestiegene Inflation?",
+      "summary": "Die Euro-Inflation liegt inzwischen bei 3,3 Prozent. Grund ist vor allem das teure Rohöl als Folge des Iran-Kriegs - ein Dilemma für Europas Notenbanker. Steigen die Preise bald womöglich noch schneller? Von Angela Göpfert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-ezb-renditen-anleihen-preise-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 09:03:04 +0200"
+    },
+    {
+      "title": "Ist der Hype um Shein & Co. vorbei?",
+      "summary": "Der chinesische Billig-Onlinehändler Shein verpatzt sein Börsendebut. Die Zeiten des hohen Wachstums scheinen für das Unternehmen vorbei zu sein. Im Fokus von Investoren sind andere Branchen. Von Noel Schmidt.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -106,14 +202,78 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 16:10:36 +0200"
+      "published": "Tue, 01 Sep 2026 19:18:25 +0200"
     },
     {
-      "title": "Statistik: Mehr Männer in jüngeren Altersgruppen",
-      "summary": "Unter jungen Erwachsenen gibt es in Deutschland deutlich mehr Männer als Frauen. Das hat das Statistische Bundesamt untersucht. Ab 50 Jahren dreht sich das Geschlechterverhältnis.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
-      "category": "politik",
+      "title": "Marktbericht: DAX vor weiteren Verlusten",
+      "summary": "Das sind keine guten Vorgaben: Angesichts weiterer Angriffe im Persischen Golf und weiter steigenden Ölpreisen sind die asiatischen Märkte eingeknickt. Dem DAX droht der dritte Verlusttag.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 07:38:17 +0200"
+    },
+    {
+      "title": "Wirtschaft vor acht vom 01.09.2026",
+      "summary": "Wirtschaft vor acht vom 01.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/video/video-1641172.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 20:24:46 +0200"
+    },
+    {
+      "title": "Update Wirtschaft vom 02.09.2026",
+      "summary": "Update Wirtschaft vom 02.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641326.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 09:49:45 +0200"
+    },
+    {
+      "title": "Europäische Gaspreise steigen auf Drei-Jahres-Hoch",
+      "summary": "Die Gaspreise in Europa ziehen an, auf den höchsten Stand seit drei Jahren. Allein seit August sind die Preise um mehr als 20 Prozent gestiegen. Gleichzeitig sind die Gasspeicher ungewöhnlich leer.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/gas-speicher-preise-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 14:45:58 +0200"
+    },
+    {
+      "title": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
+      "summary": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": "Deutschland",
@@ -122,209 +282,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 11:04:25 +0200"
+      "published": "Tue, 01 Sep 2026 11:47:42 +0200"
     },
     {
-      "title": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-      "summary": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Nur 2003 war es wärmer.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
-      "category": "politik",
-      "event_type": "storm",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 15:56:38 +0200"
-    },
-    {
-      "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
-      "summary": "Der Kanzler und seine Regierung stecken im Umfragetief. Dennoch zeigt sich Merz im ARD-Sommerinterview optimistisch. Die Wirtschaft erhole sich bereits - und wichtig sei vor allem, dass Deutschland langfristig gut aufgestellt sei.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 19:55:49 +0200"
-    },
-    {
-      "title": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
-      "summary": "Nach dem Weggang von Felix Klein bleibt das Amt des Antisemitismusbeauftragten unbesetzt. Angesichts steigender antisemitischer Vorfälle sorgt die Verzögerung bei der Nachfolge für Kritik. Von Dietrich Karl Mäurer.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 08:00:46 +0200"
-    },
-    {
-      "title": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
-      "summary": "Die Abnehmspritze Wegovy bekommt Konkurrenz aus dem eigenen Haus: Der Wirkstoff Semaglutid ist jetzt auch als Tablette erhältlich. Experten warnen vor einem Hype um das vermeintliche Wundermittel. Von Philipp Wundersee.",
+      "title": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
+      "summary": "Bahnunternehmen und der Verband BSN klagen beim Verwaltungsgericht Köln gegen die Neugestaltung der Schienenmaut im Regionalverkehr. Sie könnte Mehrkosten im Millionenbereich verursachen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-abnehmpille-wegovy-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 10:40:38 +0200"
-    },
-    {
-      "title": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
-      "summary": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 10:40:33 +0200"
-    },
-    {
-      "title": "John Ternus übernimmt bei Apple",
-      "summary": "Tim Cook hat als CEO und \"Gesicht\" von Apple in den vergangenen Jahren den Konzern geprägt. Jetzt übergibt er den Stab an John Ternus. Wer ist der Neue? Von Antje Sieb.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-ceo-ternus-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 10:39:52 +0200"
-    },
-    {
-      "title": "Shein startet mit deutlichem Minus an Hongkonger Börse",
-      "summary": "Der chinesische Billigmodehändler Shein hat bei seinem Börsengang in Hongkong enttäuscht. Die Aktien fielen um bis zu acht Prozent unter den Ausgabepreis. Schon zuvor war der Hype spürbar zurückgegangen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Hongkong",
-        "lat": 22.3193,
-        "lon": 114.1694
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 08:27:14 +0200"
-    },
-    {
-      "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
-      "summary": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Venezuela",
-            "lat": 6.4238,
-            "lon": -66.5897
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 01:43:53 +0200"
-    },
-    {
-      "title": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
-      "summary": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Venezuela",
-            "lat": 6.4238,
-            "lon": -66.5897
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 02:49:12 +0200"
-    },
-    {
-      "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
-      "summary": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 19:00:05 +0200"
-    },
-    {
-      "title": "Bundesweites Alkoholverbot in Bahnhöfen: Die wichtigen Kernpunkte",
-      "summary": "Mehr Ordnung und Sicherheit in allen Bahnhöfen und Zügen: Das will die Bahn mit dem geplanten bundesweiten Alkoholverbot erreichen. Welche Regeln wo gelten sollen und wie weit das Verbot überhaupt umsetzbar ist.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-faq-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 09:13:47 +0200"
+      "published": "Tue, 01 Sep 2026 15:25:23 +0200"
     },
     {
       "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
@@ -354,35 +328,6 @@
       ],
       "chokepoint_lane": null,
       "published": "Mon, 31 Aug 2026 23:09:55 +0200"
-    },
-    {
-      "title": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
-      "summary": "Bundesfinanzminister Klingbeil fliegt zum Treffen der G20-Finanzminister in die USA. Überschattet wird diese Reise vom Iran-Krieg - aber auch der Handelskonflikt zwischen Kanada und den USA steht auf der Agenda. Von P. Eckstein.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 12:31:14 +0200"
     },
     {
       "title": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
@@ -559,6 +504,67 @@
       "published": "Mon, 24 Aug 2026 18:48:03 +0200"
     },
     {
+      "title": "Tote bei Angriffen in Charkiw und Krasnodar",
+      "summary": "Die Ukraine feiert heute den 35. Jahrestag ihrer Unabhängigkeit - unter dem Eindruck des russischen Angriffskriegs. In der Nacht griff Russland die Großstadt Charkiw an. Die Ukraine wiederum nahm einen Onlinehändler ins Visier.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Charkiw",
+        "lat": 49.9935,
+        "lon": 36.2304
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Charkiw",
+            "lat": 49.9935,
+            "lon": 36.2304
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Mon, 24 Aug 2026 10:28:34 +0200"
+    },
+    {
+      "title": "Russische Desinformation? Fake-Streit zwischen Tschechien und Polen",
+      "summary": "Polnische Gebietsansprüche im Grenzgebiet zu Tschechien galten bislang als bedeutungslose Fußnote der Geschichte. Bis es kürzlich hieß, Polen bestehe auf die Rückgabe. Mittlerweile ist klar: Alles frei erfunden. Von Danko Handrick.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-tschechien-gebiet-100.html",
+      "category": "welt",
+      "event_type": "tension",
+      "location": {
+        "name": "Tschechien",
+        "lat": 49.8175,
+        "lon": 15.473
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 08:50:20 +0200"
+    },
+    {
+      "title": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
+      "summary": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Finnland",
+        "lat": 61.9241,
+        "lon": 25.7482
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 17:07:36 +0200"
+    },
+    {
       "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
       "summary": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die Schulkommunikation digitalisiert wurde? Von Julia Borutta.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -655,42 +661,26 @@
       "published": "Mon, 31 Aug 2026 10:01:35 +0200"
     },
     {
-      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
-      "summary": "Nach den tödlichen Schüssen bei einem Rave in Aarau ermitteln die Schweizer Behörden auch in Richtung eines Terroraktes. Möglich seien ebenfalls ein Amoklauf oder ein anderes kriminelles Motiv. Unter den Verletzten ist eine deutsche Frau.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 02:28:59 +0200"
-    },
-    {
-      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "summary": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 30 Aug 2026 19:42:47 +0200"
-    },
-    {
-      "title": "Liveblog zum Deadline Day: Bremen verstärkt Mittelfeld, Leipzig verleiht Harder",
-      "summary": "Heute um 20 Uhr endet das Sommer-Transferfenster. Hier gibt es alle aktuellen Meldungen zur Bundesliga im Liveblog.",
+      "title": "US Open 2026: Zverev entgeht gegen Sonego hauchzart dem Erstrunden-K.o.",
+      "summary": "Alexander Zverev steht in New York in der zweiten Runde. Gegen Lorenzo Sonego haderte der Hamburger, meckerte, war genervt, stand mit dem Rücken zur Wand - und gewann trotzdem.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/bremen-stellt-spieler-frei-dortmund-sucht-mit-hochdruck,liveblog-transferende-100.html",
+      "url": "https://www.sportschau.de/tennis/us-open/zverev-entgeht-erstrunden-aus,zverev-erste-runde-106.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 08:02:32 +0200"
+    },
+    {
+      "title": "US Open 2026: Perfekter Start für Lys - Regen stoppt Maria und Altmaier",
+      "summary": "Die wichtigsten Matches, die neusten Ergebnisse, aktuelle Spielberichte und alle News von den US Open 2026.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/perfekter-start-fuer-lys-regen-stoppt-altmaier-und-lys,tennis-us-open-liveblog-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -700,7 +690,87 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 10:45:16 +0200"
+      "published": "Wed, 02 Sep 2026 08:20:48 +0200"
+    },
+    {
+      "title": "US Open 2026: Struff erreicht im Eiltempo die zweite Runde",
+      "summary": "Perfekter Start ins letzte Grand-Slam-Turnier des Jahres für Jan-Lennard Struff. Der 36-Jährige hatte in seinem Erstrunden-Match nie wirklich Probleme mit seinem Gegner.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/struff-im-eiltempo-in-runde-zwei,struff-erste-runde-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 00:40:51 +0200"
+    },
+    {
+      "title": "US Open - Flushing Meadows: Wer heute Abend spielt",
+      "summary": "Zwei Deutsche müssen nachsitzen, in der Night Session spielen die ganz großen Namen: Am Mittwoch ist bei den US Open eine Menge los, die Anlage ist voll. Besonders in der Nacht wird es spannend.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/flushing-meadows-wer-heute-abend-spielt,tennis-us-open-vorschau-106.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 02 Sep 2026 07:28:25 +0200"
+    },
+    {
+      "title": "Pflichtsieg nach Stotterstart: BVB gegen HEBC Hamburg weiter",
+      "summary": "Borussia Dortmund steht in der 2. Runde des DFB-Pokals. Der Hamburg Eimsbütteler Ballspiel Club erwies sich als hartnäckiger Gegner.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/pflichtsieg-nach-stotterstart-bvb-gegen-couragierte-eimsbuetteler-weiter,spielbericht-dfb-pokal-eimsbuettel-borussia-dortmund-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 23:23:36 +0200"
+    },
+    {
+      "title": "DFB-Pokal - alle Infos zur Auslosung der 2. Runde",
+      "summary": "Die 2. Runde im DFB-Pokal wird am Samstag in der Sportschau ausgelost. Die Sendung beginnt daher bereits um 17.45 Uhr, als Losfee ist Bastian Schweinsteiger im Einsatz.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.tagesschau.de/sport/dfb-pokal-2-runde-wird-samstags-ausgelost,auslosung-zweite-runde-108.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 23:17:33 +0200"
+    },
+    {
+      "title": "Liveblog zum Deadline Day: Chema Andres zu Brighton, Sosa nach Köln",
+      "summary": "Seit Dienstagabend 20 Uhr ist das Sommer-Transferfenster geschlossen. Hier gibt es alle aktuellen Meldungen zur Bundesliga im Liveblog.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-und-schalke-verpflichten-wm-fahrer-sosa-nach-koeln,liveblog-transferende-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 01 Sep 2026 23:44:42 +0200"
     },
     {
       "title": "\"Deadline Day\" - Ablauf, Machtverhältnisse, Profiteure",
@@ -717,102 +787,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Mon, 31 Aug 2026 15:12:32 +0200"
-    },
-    {
-      "title": "Die Lage bei den Bundesliga-Torhütern: Neue Gesichter im Kasten",
-      "summary": "Noah Atubolu, Mio Backhaus, Maarten Vandevoordt oder Karl Hein haben als neue Nummer eins ihrer Klubs debütiert. Und Jürgen Klopp freut sich über die große Auswahl deutscher Keeper.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/das-torhueterkarussell-die-spannendsten-gesichter-im-kasten,neue-torhueter-in-der-bundesliga-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 31 Aug 2026 10:42:51 +0200"
-    },
-    {
-      "title": "Favorit BVB - zwischen DFB-Pokal und Transfermarkt",
-      "summary": "Borussia Dortmund steht im DFB-Pokal vor einer Pflichtaufgabe und sucht gleichzeitig noch nach möglichen Neuzugängen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-favorit-bvb-zwischen-dfb-pokal-und-transfermarkt-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 09:21:00 +0200"
-    },
-    {
-      "title": "DFB-Pokal - alle Infos zur Auslosung der 2. Runde",
-      "summary": "Die 2. Runde im DFB-Pokal wird erneut mit zwei Lostöpfen ausgelost - die Ziehung findet wegen wegen der Landtagswahl in Sachsen-Anhalt samstags am 5. September statt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/dfb-pokal-2-runde-wird-samstags-ausgelost,auslosung-zweite-runde-108.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 24 Aug 2026 23:18:07 +0200"
-    },
-    {
-      "title": "Wenn der Sportplatz den Nachbarn zu laut ist",
-      "summary": "Die Sportminister der Länder waren sich einig: Die Sportstättenlärmschutzverordnung muss modifiziert werden. Zugunsten des Jugendsports sollte der Sportbetrieb wie Kinderlärm behandelt werden. Doch das Bundesumweltministerium spielt nicht mit.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/breitensport/wenn-der-sportplatz-nachbarn-zu-laut-ist,laermschutz-sport-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 09:13:14 +0200"
-    },
-    {
-      "title": "US Open 2026: Osaka mit neuem Outfit weiter, Shelton nach Fehlstart auch",
-      "summary": "Die wichtigsten Matches, die neusten Ergebnisse, aktuelle Spielberichte und alle News von den US Open 2026.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/osaka-neues-outfit-shelton-nach-fehlstart-weiter,tennis-us-open-liveblog-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 07:00:37 +0200"
-    },
-    {
-      "title": "US Open - Flushing Meadows: Wer heute Abend spielt",
-      "summary": "Der Tag der Deutschen: Neben dem topgesetzten Alexander Zverev greifen fünf weitere deutsche Profis bei den US Open ein. Viele Augen sind auch auf eine Wildcard-Inhaberin gerichtet.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/flushing-meadows-wer-heute-abend-spielt,tennis-us-open-vorschau-106.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 01 Sep 2026 06:58:16 +0200"
     }
   ],
   "crises": [
@@ -826,7 +800,7 @@
       },
       "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1043,7 +1017,7 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1262,7 +1236,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-31",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1384,44 +1358,8 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
-        },
-        {
-          "lat": 30.42818316234245,
-          "lon": 54.62271356712625
-        },
-        {
-          "lat": 32.03191824177336,
-          "lon": 51.766116605775
-        },
-        {
-          "lat": 35.262294281225834,
-          "lon": 50.93838971152399
-        },
-        {
-          "lat": 30.246050697000825,
-          "lon": 55.09211794381312
-        },
-        {
-          "lat": 33.7522461168195,
-          "lon": 52.63693288471479
         }
       ]
-    },
-    {
-      "id": "wildfire-deutschland",
-      "type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-schweden",
@@ -1435,7 +1373,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1517,44 +1455,8 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
-        },
-        {
-          "lat": 60.59262660816582,
-          "lon": 17.40628773969104
-        },
-        {
-          "lat": 60.653755149075934,
-          "lon": 16.706898640384757
-        },
-        {
-          "lat": 60.209001540306026,
-          "lon": 20.508900766223995
-        },
-        {
-          "lat": 58.57864901069497,
-          "lon": 17.37653369892133
-        },
-        {
-          "lat": 62.20022520292998,
-          "lon": 19.417083908978288
         }
       ]
-    },
-    {
-      "id": "wildfire-griechenland",
-      "type": "wildfire",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-      "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-charkiw",
@@ -1567,8 +1469,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-31",
-      "intensity": 4,
+      "last_seen": "2026-09-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1690,6 +1592,26 @@
         {
           "lat": 51.02976275901595,
           "lon": 34.29853376887426
+        },
+        {
+          "lat": 51.097480288865036,
+          "lon": 38.75514880719668
+        },
+        {
+          "lat": 49.544996813202154,
+          "lon": 33.81471405541122
+        },
+        {
+          "lat": 51.479269615156056,
+          "lon": 37.53309588164583
+        },
+        {
+          "lat": 49.839660020876245,
+          "lon": 33.86503508492211
+        },
+        {
+          "lat": 52.89256690174226,
+          "lon": 38.072245423644844
         }
       ]
     },
@@ -1705,7 +1627,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-28",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1767,26 +1689,6 @@
         {
           "lat": 54.51822002390079,
           "lon": -105.39388049913101
-        },
-        {
-          "lat": 54.26537199097997,
-          "lon": -107.79988484892665
-        },
-        {
-          "lat": 54.67824158327334,
-          "lon": -105.28256220747451
-        },
-        {
-          "lat": 55.64549066077767,
-          "lon": -104.31278753262451
-        },
-        {
-          "lat": 54.36790301665569,
-          "lon": -109.30117395105938
-        },
-        {
-          "lat": 58.038687406644854,
-          "lon": -106.84661358682267
         }
       ]
     },
@@ -1827,7 +1729,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-09-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1889,44 +1791,8 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
-        },
-        {
-          "lat": 34.116119926358834,
-          "lon": -93.2073491890479
-        },
-        {
-          "lat": 39.004944855583354,
-          "lon": -94.7579894185447
-        },
-        {
-          "lat": 39.89036589951706,
-          "lon": -94.34687975210892
-        },
-        {
-          "lat": 38.00759246619805,
-          "lon": -98.6588583219015
-        },
-        {
-          "lat": 34.517970304127545,
-          "lon": -93.35953343984788
         }
       ]
-    },
-    {
-      "id": "disaster-italien",
-      "type": "disaster",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
-      "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-ungarn",
@@ -1939,8 +1805,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-09-01",
-      "intensity": 6,
+      "last_seen": "2026-09-02",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2102,6 +1968,26 @@
         {
           "lat": 44.25510562995743,
           "lon": 17.215339404248827
+        },
+        {
+          "lat": 49.480663392440924,
+          "lon": 19.676113753870506
+        },
+        {
+          "lat": 45.26914577249127,
+          "lon": 18.132478114614724
+        },
+        {
+          "lat": 46.31359476543756,
+          "lon": 17.998424252861163
+        },
+        {
+          "lat": 47.07488452282557,
+          "lon": 18.284382964451304
+        },
+        {
+          "lat": 44.57234764518446,
+          "lon": 16.539116602882885
         }
       ]
     },
@@ -2117,7 +2003,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-30",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2159,26 +2045,6 @@
         {
           "lat": 58.38256820429665,
           "lon": 38.410024057518115
-        },
-        {
-          "lat": 57.51671356919169,
-          "lon": 39.856031501912405
-        },
-        {
-          "lat": 54.1458828807126,
-          "lon": 35.38094586287263
-        },
-        {
-          "lat": 57.510961849957695,
-          "lon": 38.95534149281654
-        },
-        {
-          "lat": 55.2444018672233,
-          "lon": 37.617962361039005
-        },
-        {
-          "lat": 57.98679453449971,
-          "lon": 37.716966003859525
         }
       ]
     },
@@ -2194,7 +2060,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-08-31",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -2209,8 +2075,8 @@
       "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01",
-      "intensity": 3,
+      "last_seen": "2026-09-02",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2312,6 +2178,26 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
+        },
+        {
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
+        },
+        {
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
+        },
+        {
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
+        },
+        {
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
+        },
+        {
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
         }
       ]
     },
@@ -2327,7 +2213,7 @@
       "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
       "first_seen": "2026-08-31",
       "last_seen": "2026-09-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -2342,8 +2228,8 @@
       "label": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
       "url": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "intensity": 1,
+      "last_seen": "2026-09-02",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }

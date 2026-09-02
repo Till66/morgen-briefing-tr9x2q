@@ -10,7 +10,7 @@
       },
       "label": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-31",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,44 +568,8 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
-        },
-        {
-          "lat": 30.42818316234245,
-          "lon": 54.62271356712625
-        },
-        {
-          "lat": 32.03191824177336,
-          "lon": 51.766116605775
-        },
-        {
-          "lat": 35.262294281225834,
-          "lon": 50.93838971152399
-        },
-        {
-          "lat": 30.246050697000825,
-          "lon": 55.09211794381312
-        },
-        {
-          "lat": 33.7522461168195,
-          "lon": 52.63693288471479
         }
       ]
-    },
-    {
-      "id": "wildfire-deutschland",
-      "type": "wildfire",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-schweden",
@@ -619,7 +583,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-27",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -701,44 +665,8 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
-        },
-        {
-          "lat": 60.59262660816582,
-          "lon": 17.40628773969104
-        },
-        {
-          "lat": 60.653755149075934,
-          "lon": 16.706898640384757
-        },
-        {
-          "lat": 60.209001540306026,
-          "lon": 20.508900766223995
-        },
-        {
-          "lat": 58.57864901069497,
-          "lon": 17.37653369892133
-        },
-        {
-          "lat": 62.20022520292998,
-          "lon": 19.417083908978288
         }
       ]
-    },
-    {
-      "id": "wildfire-griechenland",
-      "type": "wildfire",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-      "url": "https://www.tagesschau.de/ausland/europa/griechenland-waldbraende-festnahmen-100.html",
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-charkiw",
@@ -751,8 +679,8 @@
       "label": "Tote bei Angriffen in Charkiw und Krasnodar",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-31",
-      "intensity": 4,
+      "last_seen": "2026-09-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -874,6 +802,26 @@
         {
           "lat": 51.02976275901595,
           "lon": 34.29853376887426
+        },
+        {
+          "lat": 51.097480288865036,
+          "lon": 38.75514880719668
+        },
+        {
+          "lat": 49.544996813202154,
+          "lon": 33.81471405541122
+        },
+        {
+          "lat": 51.479269615156056,
+          "lon": 37.53309588164583
+        },
+        {
+          "lat": 49.839660020876245,
+          "lon": 33.86503508492211
+        },
+        {
+          "lat": 52.89256690174226,
+          "lon": 38.072245423644844
         }
       ]
     },
@@ -889,7 +837,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-28",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -951,26 +899,6 @@
         {
           "lat": 54.51822002390079,
           "lon": -105.39388049913101
-        },
-        {
-          "lat": 54.26537199097997,
-          "lon": -107.79988484892665
-        },
-        {
-          "lat": 54.67824158327334,
-          "lon": -105.28256220747451
-        },
-        {
-          "lat": 55.64549066077767,
-          "lon": -104.31278753262451
-        },
-        {
-          "lat": 54.36790301665569,
-          "lon": -109.30117395105938
-        },
-        {
-          "lat": 58.038687406644854,
-          "lon": -106.84661358682267
         }
       ]
     },
@@ -1011,7 +939,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
       "first_seen": "2026-08-25",
       "last_seen": "2026-09-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1073,44 +1001,8 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
-        },
-        {
-          "lat": 34.116119926358834,
-          "lon": -93.2073491890479
-        },
-        {
-          "lat": 39.004944855583354,
-          "lon": -94.7579894185447
-        },
-        {
-          "lat": 39.89036589951706,
-          "lon": -94.34687975210892
-        },
-        {
-          "lat": 38.00759246619805,
-          "lon": -98.6588583219015
-        },
-        {
-          "lat": 34.517970304127545,
-          "lon": -93.35953343984788
         }
       ]
-    },
-    {
-      "id": "disaster-italien",
-      "type": "disaster",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
-      "url": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-ungarn",
@@ -1123,8 +1015,8 @@
       "label": "Ungarn stuft Russland als Bedrohung ein - wegen des Ukraine-Kriegs",
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-09-01",
-      "intensity": 6,
+      "last_seen": "2026-09-02",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1286,6 +1178,26 @@
         {
           "lat": 44.25510562995743,
           "lon": 17.215339404248827
+        },
+        {
+          "lat": 49.480663392440924,
+          "lon": 19.676113753870506
+        },
+        {
+          "lat": 45.26914577249127,
+          "lon": 18.132478114614724
+        },
+        {
+          "lat": 46.31359476543756,
+          "lon": 17.998424252861163
+        },
+        {
+          "lat": 47.07488452282557,
+          "lon": 18.284382964451304
+        },
+        {
+          "lat": 44.57234764518446,
+          "lon": 16.539116602882885
         }
       ]
     },
@@ -1301,7 +1213,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/ratcliffe-cia-moskau-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-30",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1343,26 +1255,6 @@
         {
           "lat": 58.38256820429665,
           "lon": 38.410024057518115
-        },
-        {
-          "lat": 57.51671356919169,
-          "lon": 39.856031501912405
-        },
-        {
-          "lat": 54.1458828807126,
-          "lon": 35.38094586287263
-        },
-        {
-          "lat": 57.510961849957695,
-          "lon": 38.95534149281654
-        },
-        {
-          "lat": 55.2444018672233,
-          "lon": 37.617962361039005
-        },
-        {
-          "lat": 57.98679453449971,
-          "lon": 37.716966003859525
         }
       ]
     },
@@ -1378,7 +1270,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-08-31",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1393,8 +1285,8 @@
       "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01",
-      "intensity": 3,
+      "last_seen": "2026-09-02",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1496,6 +1388,26 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
+        },
+        {
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
+        },
+        {
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
+        },
+        {
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
+        },
+        {
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
+        },
+        {
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
         }
       ]
     },
@@ -1511,7 +1423,7 @@
       "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
       "first_seen": "2026-08-31",
       "last_seen": "2026-09-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1526,11 +1438,11 @@
       "label": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
       "url": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "intensity": 1,
+      "last_seen": "2026-09-02",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-09-01"
+  "updated_at": "2026-09-02"
 }
