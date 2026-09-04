@@ -10,7 +10,7 @@
       },
       "label": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Russlands Raketen zerstören die ukrainische Wirtschaft",
+      "label": "Offenbar russischer Offizier bei Explosion in St. Petersburg getötet",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/russland-autobombe-explosion-ukraine-friedensverhandlungen-100.html"
     },
     {
       "id": "conflict-iran",
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-31",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -528,103 +528,6 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
-        },
-        {
-          "lat": 34.53650658602524,
-          "lon": 51.50872357386834
-        },
-        {
-          "lat": 29.788215092923195,
-          "lon": 52.06036586617594
-        },
-        {
-          "lat": 31.535998509280965,
-          "lon": 53.88033092181206
-        },
-        {
-          "lat": 32.291035899152405,
-          "lon": 52.377806241935545
-        },
-        {
-          "lat": 32.81624579833512,
-          "lon": 55.56409883790745
-        }
-      ]
-    },
-    {
-      "id": "conflict-schweden",
-      "type": "conflict",
-      "location": {
-        "name": "Schweden",
-        "lat": 60.1282,
-        "lon": 18.6435
-      },
-      "label": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-27",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.65692408263588,
-          "lon": 18.842782254837285
-        },
-        {
-          "lat": 62.31696646719611,
-          "lon": 21.33714050582369
-        },
-        {
-          "lat": 58.256170893198615,
-          "lon": 16.092293663747792
-        },
-        {
-          "lat": 62.008070864767554,
-          "lon": 17.302641223798304
-        },
-        {
-          "lat": 58.01647941820218,
-          "lon": 19.415762529882663
-        },
-        {
-          "lat": 62.88870476212066,
-          "lon": 17.22176427220792
-        },
-        {
-          "lat": 61.61019639387475,
-          "lon": 20.354250006304763
-        },
-        {
-          "lat": 61.21853139750602,
-          "lon": 16.86916776518376
-        },
-        {
-          "lat": 62.446558178091784,
-          "lon": 17.66965707554532
-        },
-        {
-          "lat": 58.361046101101685,
-          "lon": 17.47356624780364
-        },
-        {
-          "lat": 57.77746778260834,
-          "lon": 16.995446274599047
-        },
-        {
-          "lat": 61.60685057002721,
-          "lon": 20.816809426096572
-        },
-        {
-          "lat": 61.63176408406598,
-          "lon": 16.31936377930731
-        },
-        {
-          "lat": 62.54735414282567,
-          "lon": 16.64437327626554
-        },
-        {
-          "lat": 60.83234311711307,
-          "lon": 17.295866686065764
         }
       ]
     },
@@ -640,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
       "last_seen": "2026-09-02",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -742,83 +645,6 @@
         {
           "lat": 47.080406958391634,
           "lon": 34.08572637938283
-        },
-        {
-          "lat": 47.30394449990393,
-          "lon": 34.99304462428229
-        },
-        {
-          "lat": 49.023453105382146,
-          "lon": 37.117011976168726
-        },
-        {
-          "lat": 48.21262886649815,
-          "lon": 38.735845488147774
-        },
-        {
-          "lat": 50.580749826078126,
-          "lon": 35.272508493866894
-        },
-        {
-          "lat": 51.02976275901595,
-          "lon": 34.29853376887426
-        }
-      ]
-    },
-    {
-      "id": "conflict-kanada",
-      "type": "conflict",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "label": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
-      "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-28",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 54.21389618666887,
-          "lon": -104.81377440777602
-        },
-        {
-          "lat": 53.9336663242899,
-          "lon": -104.60844355437776
-        },
-        {
-          "lat": 58.32044478426418,
-          "lon": -105.16156179226645
-        },
-        {
-          "lat": 55.079686858073735,
-          "lon": -107.41290626961712
-        },
-        {
-          "lat": 58.26587251074004,
-          "lon": -104.57148718588927
-        },
-        {
-          "lat": 58.74612842896351,
-          "lon": -107.50582306096605
-        },
-        {
-          "lat": 58.74126320774883,
-          "lon": -107.55659428109941
-        },
-        {
-          "lat": 53.5513090011243,
-          "lon": -105.22992201990819
-        },
-        {
-          "lat": 57.8263806835968,
-          "lon": -104.3637453437014
-        },
-        {
-          "lat": 57.77878640453489,
-          "lon": -108.06609966069742
         }
       ]
     },
@@ -891,7 +717,7 @@
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
       "last_seen": "2026-09-03",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1073,26 +899,6 @@
         {
           "lat": 44.57234764518446,
           "lon": 16.539116602882885
-        },
-        {
-          "lat": 49.81484735739705,
-          "lon": 20.23276626593579
-        },
-        {
-          "lat": 46.76055128923572,
-          "lon": 21.577342745184627
-        },
-        {
-          "lat": 48.43264886920111,
-          "lon": 16.7893292145717
-        },
-        {
-          "lat": 46.35001764255286,
-          "lon": 22.33635355809467
-        },
-        {
-          "lat": 47.32010908349362,
-          "lon": 18.417269446419265
         }
       ]
     },
@@ -1180,8 +986,8 @@
       "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-03",
-      "intensity": 5,
+      "last_seen": "2026-09-04",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1323,6 +1129,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -1354,7 +1180,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1370,7 +1196,7 @@
       "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-03",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1385,8 +1211,8 @@
       "label": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "intensity": 1,
+      "last_seen": "2026-09-04",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1448,6 +1274,26 @@
         {
           "lat": 47.76184917882337,
           "lon": 10.448911370491006
+        },
+        {
+          "lat": 46.100550875037335,
+          "lon": 5.726467261169796
+        },
+        {
+          "lat": 44.20566566148183,
+          "lon": 8.989085961971801
+        },
+        {
+          "lat": 45.27748271381633,
+          "lon": 9.306299156024771
+        },
+        {
+          "lat": 46.10938897167295,
+          "lon": 10.563858827849934
+        },
+        {
+          "lat": 44.80608860602953,
+          "lon": 7.728708598842194
         }
       ]
     },
@@ -1462,8 +1308,8 @@
       "label": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
       "url": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "intensity": 1,
+      "last_seen": "2026-09-04",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1525,6 +1371,26 @@
         {
           "lat": 48.300813445812864,
           "lon": 12.809210862811705
+        },
+        {
+          "lat": 52.70930010182127,
+          "lon": 12.528775003986382
+        },
+        {
+          "lat": 51.558827338558935,
+          "lon": 16.573514360726932
+        },
+        {
+          "lat": 47.71423426488804,
+          "lon": 17.052170680739724
+        },
+        {
+          "lat": 52.32422818476026,
+          "lon": 15.260209229727092
+        },
+        {
+          "lat": 47.75418885411152,
+          "lon": 14.517944125238095
         }
       ]
     },
@@ -1539,11 +1405,88 @@
       "label": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
       "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "intensity": 1,
+      "last_seen": "2026-09-04",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-argentinien",
+      "type": "conflict",
+      "location": {
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
+      },
+      "label": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
+      "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": -35.68000193734875,
+          "lon": -61.15986668923553
+        },
+        {
+          "lat": -37.61588887033644,
+          "lon": -61.072435216489
+        },
+        {
+          "lat": -39.216491823938206,
+          "lon": -65.74394968072195
+        },
+        {
+          "lat": -37.38344491129577,
+          "lon": -63.15935238264172
+        },
+        {
+          "lat": -38.7931035243074,
+          "lon": -66.03427867332026
+        },
+        {
+          "lat": -38.65674435419641,
+          "lon": -66.60548427035846
+        },
+        {
+          "lat": -39.541646119670744,
+          "lon": -64.20899575274333
+        },
+        {
+          "lat": -36.38072457789216,
+          "lon": -65.42805617820811
+        },
+        {
+          "lat": -39.37829240314378,
+          "lon": -61.836189957489886
+        },
+        {
+          "lat": -35.865892786606075,
+          "lon": -61.3644157974494
+        },
+        {
+          "lat": -39.326965585764604,
+          "lon": -61.055410196511524
+        },
+        {
+          "lat": -40.44699856939178,
+          "lon": -63.45159415068992
+        },
+        {
+          "lat": -41.27637628645773,
+          "lon": -63.258747981415425
+        },
+        {
+          "lat": -36.34756851680508,
+          "lon": -63.49600224344118
+        },
+        {
+          "lat": -39.09603731928988,
+          "lon": -64.45135168388435
+        }
+      ]
     }
   ],
-  "updated_at": "2026-09-03"
+  "updated_at": "2026-09-04"
 }
