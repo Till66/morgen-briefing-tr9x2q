@@ -10,7 +10,7 @@
       },
       "label": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -228,7 +228,7 @@
       "label": "Offenbar russischer Offizier bei Explosion in St. Petersburg getötet",
       "first_seen": "2026-07-11",
       "last_seen": "2026-09-05",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,26 +410,6 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/russland-autobombe-explosion-ukraine-friedensverhandlungen-100.html"
@@ -446,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html",
       "first_seen": "2026-07-15",
       "last_seen": "2026-08-31",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,26 +468,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -523,7 +483,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
       "first_seen": "2026-08-19",
       "last_seen": "2026-09-02",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -585,26 +545,6 @@
         {
           "lat": 47.20030192769663,
           "lon": 34.115884880508276
-        },
-        {
-          "lat": 51.71896706924342,
-          "lon": 37.300018854222266
-        },
-        {
-          "lat": 50.599100709469425,
-          "lon": 36.864563973767815
-        },
-        {
-          "lat": 47.883602825800445,
-          "lon": 38.76490188774954
-        },
-        {
-          "lat": 47.37667432822268,
-          "lon": 35.726001703528226
-        },
-        {
-          "lat": 52.28730402418174,
-          "lon": 33.57261695744019
         }
       ]
     },
@@ -677,7 +617,7 @@
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
       "last_seen": "2026-09-03",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -819,26 +759,6 @@
         {
           "lat": 45.334890094765555,
           "lon": 16.576877555844927
-        },
-        {
-          "lat": 47.661809000442574,
-          "lon": 19.169620781378615
-        },
-        {
-          "lat": 46.54585778712839,
-          "lon": 18.055909475225352
-        },
-        {
-          "lat": 45.10705570749579,
-          "lon": 20.174231116601202
-        },
-        {
-          "lat": 45.80470974166929,
-          "lon": 21.895518503028207
-        },
-        {
-          "lat": 44.25510562995743,
-          "lon": 17.215339404248827
         }
       ]
     },
@@ -853,8 +773,8 @@
       "label": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-05",
-      "intensity": 1,
+      "last_seen": "2026-09-06",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -916,6 +836,46 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
+        },
+        {
+          "lat": 53.28120844551414,
+          "lon": 40.340743125310226
+        },
+        {
+          "lat": 54.872274709966334,
+          "lon": 37.963088907573045
+        },
+        {
+          "lat": 57.07682138323733,
+          "lon": 36.492827846597955
+        },
+        {
+          "lat": 52.762151489109534,
+          "lon": 39.930104468747416
+        },
+        {
+          "lat": 56.15920128480536,
+          "lon": 36.17733803889268
+        },
+        {
+          "lat": 54.19331496715414,
+          "lon": 38.63616046957664
+        },
+        {
+          "lat": 56.23100763833896,
+          "lon": 37.65908422527429
+        },
+        {
+          "lat": 58.058991392520255,
+          "lon": 36.19814772005231
+        },
+        {
+          "lat": 52.78169037735618,
+          "lon": 38.954577559176386
+        },
+        {
+          "lat": 57.415598696790774,
+          "lon": 36.275319422008195
         }
       ]
     },
@@ -943,11 +903,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
-      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+      "label": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-05",
-      "intensity": 7,
+      "last_seen": "2026-09-06",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1129,6 +1089,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -1191,8 +1171,8 @@
       "label": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-05",
-      "intensity": 3,
+      "last_seen": "2026-09-06",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1294,6 +1274,26 @@
         {
           "lat": 45.64814955634464,
           "lon": 7.470222886671014
+        },
+        {
+          "lat": 46.230460862163326,
+          "lon": 11.040851278615499
+        },
+        {
+          "lat": 45.4305782912298,
+          "lon": 9.155156095458114
+        },
+        {
+          "lat": 49.07712147823677,
+          "lon": 9.945471617988769
+        },
+        {
+          "lat": 49.23887727572766,
+          "lon": 9.59209987432803
+        },
+        {
+          "lat": 45.35618645863728,
+          "lon": 10.365356395248755
         }
       ]
     },
@@ -1309,7 +1309,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-04",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1351,26 +1351,6 @@
         {
           "lat": 52.327360518739994,
           "lon": 15.48559425026658
-        },
-        {
-          "lat": 51.813460820232514,
-          "lon": 16.528048150488885
-        },
-        {
-          "lat": 48.25166877450286,
-          "lon": 17.786039495915418
-        },
-        {
-          "lat": 48.259426537417326,
-          "lon": 17.90954323076749
-        },
-        {
-          "lat": 50.32834736071314,
-          "lon": 14.67494389256694
-        },
-        {
-          "lat": 48.300813445812864,
-          "lon": 12.809210862811705
         }
       ]
     },
@@ -1385,8 +1365,8 @@
       "label": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
       "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-05",
-      "intensity": 3,
+      "last_seen": "2026-09-06",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1401,8 +1381,8 @@
       "label": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
-      "intensity": 2,
+      "last_seen": "2026-09-06",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1484,9 +1464,29 @@
         {
           "lat": -38.89314016405089,
           "lon": -64.43849004601711
+        },
+        {
+          "lat": -38.88786070079947,
+          "lon": -63.77846163897891
+        },
+        {
+          "lat": -40.20421259213558,
+          "lon": -62.61290938068168
+        },
+        {
+          "lat": -38.42236759533916,
+          "lon": -64.42304808815233
+        },
+        {
+          "lat": -38.71764124724249,
+          "lon": -64.58474497623072
+        },
+        {
+          "lat": -38.58025632496685,
+          "lon": -60.73117616250126
         }
       ]
     }
   ],
-  "updated_at": "2026-09-05"
+  "updated_at": "2026-09-06"
 }
