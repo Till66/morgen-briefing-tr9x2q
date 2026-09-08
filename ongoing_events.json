@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
+      "label": "Trump will Geld von Europa für Ukraine-Hilfen zurück",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-schulbeginn-100.html"
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -492,63 +492,6 @@
       ]
     },
     {
-      "id": "conflict-usa",
-      "type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "label": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-09-01",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 34.64032570008406,
-          "lon": -95.3466789293923
-        },
-        {
-          "lat": 38.93207474633611,
-          "lon": -92.9036841708024
-        },
-        {
-          "lat": 39.78729989328336,
-          "lon": -93.65078216331459
-        },
-        {
-          "lat": 35.25552380952624,
-          "lon": -97.49849583071284
-        },
-        {
-          "lat": 34.57719311318039,
-          "lon": -96.08695574586571
-        },
-        {
-          "lat": 39.513931597937585,
-          "lon": -97.6341478867083
-        },
-        {
-          "lat": 36.31327558828571,
-          "lon": -92.93220417889248
-        },
-        {
-          "lat": 35.286569142550135,
-          "lon": -93.01018556990095
-        },
-        {
-          "lat": 35.87396990784514,
-          "lon": -95.79719153568212
-        },
-        {
-          "lat": 39.92862994129249,
-          "lon": -95.11059597547076
-        }
-      ]
-    },
-    {
       "id": "conflict-ungarn",
       "type": "conflict",
       "location": {
@@ -560,7 +503,7 @@
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
       "last_seen": "2026-09-03",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -662,26 +605,6 @@
         {
           "lat": 48.84051444155118,
           "lon": 17.943980665299456
-        },
-        {
-          "lat": 49.32060745329552,
-          "lon": 19.554416741041447
-        },
-        {
-          "lat": 45.15500139924523,
-          "lon": 17.841131979463302
-        },
-        {
-          "lat": 48.502504482851364,
-          "lon": 21.202247854968473
-        },
-        {
-          "lat": 50.06066292745484,
-          "lon": 20.786655324595085
-        },
-        {
-          "lat": 47.10076079483569,
-          "lon": 19.771258656248627
         }
       ]
     },
@@ -693,11 +616,11 @@
         "lat": 55.7558,
         "lon": 37.6173
       },
-      "label": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
+      "label": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-07",
-      "intensity": 5,
+      "last_seen": "2026-09-08",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -839,6 +762,26 @@
         {
           "lat": 53.6663741183531,
           "lon": 36.772422188887354
+        },
+        {
+          "lat": 53.87721510916907,
+          "lon": 34.721780002565424
+        },
+        {
+          "lat": 55.265775696566976,
+          "lon": 40.54492094315319
+        },
+        {
+          "lat": 57.17296169389365,
+          "lon": 39.46986580516057
+        },
+        {
+          "lat": 56.95516365918242,
+          "lon": 36.15754436593527
+        },
+        {
+          "lat": 57.44079487095629,
+          "lon": 36.31301319541328
         }
       ]
     },
@@ -853,7 +796,7 @@
       "label": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1060,22 +1003,6 @@
       ]
     },
     {
-      "id": "storm-deutschland",
-      "type": "storm",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-      "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "storm-italien",
       "type": "storm",
       "location": {
@@ -1119,7 +1046,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-07",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1241,26 +1168,6 @@
         {
           "lat": 45.35618645863728,
           "lon": 10.365356395248755
-        },
-        {
-          "lat": 49.22163158957628,
-          "lon": 7.307916896864868
-        },
-        {
-          "lat": 46.30555806124456,
-          "lon": 10.074636157762058
-        },
-        {
-          "lat": 46.30084319041805,
-          "lon": 5.840743818425862
-        },
-        {
-          "lat": 47.089282236727485,
-          "lon": 7.115746708523538
-        },
-        {
-          "lat": 45.10179068214977,
-          "lon": 8.691736108461448
         }
       ]
     },
@@ -1333,7 +1240,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-06",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1348,8 +1255,8 @@
       "label": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
-      "intensity": 4,
+      "last_seen": "2026-09-08",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1471,9 +1378,183 @@
         {
           "lat": -35.48761578368422,
           "lon": -66.27541422450494
+        },
+        {
+          "lat": -37.77851709123422,
+          "lon": -62.88586385867381
+        },
+        {
+          "lat": -39.751886973204414,
+          "lon": -61.33572988215886
+        },
+        {
+          "lat": -35.94006829065959,
+          "lon": -66.18574855546753
+        },
+        {
+          "lat": -40.3308713144577,
+          "lon": -62.56127978660813
+        },
+        {
+          "lat": -40.24093126940784,
+          "lon": -66.00030844025939
+        }
+      ]
+    },
+    {
+      "id": "conflict-frankreich",
+      "type": "conflict",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 45.915260152718346,
+          "lon": -0.6345767860051894
+        },
+        {
+          "lat": 44.0141308962731,
+          "lon": 1.6519135338238935
+        },
+        {
+          "lat": 43.33155325583032,
+          "lon": 4.482713496411269
+        },
+        {
+          "lat": 45.6768928815189,
+          "lon": 3.1206365281394994
+        },
+        {
+          "lat": 47.93219036359205,
+          "lon": 1.7503498517190685
+        },
+        {
+          "lat": 47.859729563631525,
+          "lon": 0.32126278902002636
+        },
+        {
+          "lat": 45.55691212203794,
+          "lon": 3.3862586764916216
+        },
+        {
+          "lat": 45.97331231583732,
+          "lon": 5.10998907476931
+        },
+        {
+          "lat": 47.625256594495674,
+          "lon": 0.7184404653170937
+        },
+        {
+          "lat": 48.55797277574893,
+          "lon": 1.0608894506009268
+        },
+        {
+          "lat": 45.30961612487483,
+          "lon": 0.1883644550409782
+        },
+        {
+          "lat": 46.6189281185998,
+          "lon": 1.5031718019034415
+        },
+        {
+          "lat": 46.09819467538973,
+          "lon": 2.1692676660862675
+        },
+        {
+          "lat": 48.67583414446978,
+          "lon": 3.231686186784223
+        },
+        {
+          "lat": 43.360189050133854,
+          "lon": 3.098220124151492
+        }
+      ]
+    },
+    {
+      "id": "conflict-odessa",
+      "type": "conflict",
+      "location": {
+        "name": "Odessa",
+        "lat": 46.4825,
+        "lon": 30.7233
+      },
+      "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 46.039610408450734,
+          "lon": 28.7101513985972
+        },
+        {
+          "lat": 44.03294887972773,
+          "lon": 31.955986232363962
+        },
+        {
+          "lat": 46.280951690654845,
+          "lon": 29.176513189135587
+        },
+        {
+          "lat": 46.83688834208865,
+          "lon": 29.108510522307363
+        },
+        {
+          "lat": 48.882061653705215,
+          "lon": 30.340868911197028
+        },
+        {
+          "lat": 47.97583338031856,
+          "lon": 33.1996179583187
+        },
+        {
+          "lat": 43.7157787574812,
+          "lon": 29.927747673215634
+        },
+        {
+          "lat": 45.80915016928843,
+          "lon": 28.515150466931203
+        },
+        {
+          "lat": 44.6523360240948,
+          "lon": 31.923201840230426
+        },
+        {
+          "lat": 48.5006436960162,
+          "lon": 29.76639298331921
+        },
+        {
+          "lat": 46.45345339535059,
+          "lon": 28.73879308118771
+        },
+        {
+          "lat": 45.56873176954832,
+          "lon": 29.177650941687435
+        },
+        {
+          "lat": 47.38852296355787,
+          "lon": 30.486131348637777
+        },
+        {
+          "lat": 46.02989102175166,
+          "lon": 29.599870756518413
+        },
+        {
+          "lat": 43.790195752547056,
+          "lon": 33.216098094519594
         }
       ]
     }
   ],
-  "updated_at": "2026-09-07"
+  "updated_at": "2026-09-08"
 }
