@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Trump will Geld von Europa für Ukraine-Hilfen zurück",
+      "label": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
       "first_seen": "2026-07-11",
       "last_seen": "2026-09-08",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,86 +410,9 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html"
-    },
-    {
-      "id": "conflict-charkiw",
-      "type": "conflict",
-      "location": {
-        "name": "Charkiw",
-        "lat": 49.9935,
-        "lon": 36.2304
-      },
-      "label": "Tote bei Angriffen in Charkiw und Krasnodar",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-charkiw-krasnodar-ozon-100.html",
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-09-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 50.615988750988265,
-          "lon": 33.39141470034593
-        },
-        {
-          "lat": 47.65019504149274,
-          "lon": 38.51049928559887
-        },
-        {
-          "lat": 50.668792079727,
-          "lon": 36.670592038063006
-        },
-        {
-          "lat": 51.293833072035646,
-          "lon": 34.502464718714
-        },
-        {
-          "lat": 47.052612269910775,
-          "lon": 34.42414322639633
-        },
-        {
-          "lat": 47.66553297714517,
-          "lon": 36.482779749261866
-        },
-        {
-          "lat": 51.860492602792334,
-          "lon": 37.96048848184955
-        },
-        {
-          "lat": 47.1399296048848,
-          "lon": 35.0443189192592
-        },
-        {
-          "lat": 50.75753619762604,
-          "lon": 33.95454315601908
-        },
-        {
-          "lat": 51.57711552576153,
-          "lon": 35.965563715839195
-        }
-      ]
     },
     {
       "id": "conflict-ungarn",
@@ -503,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/ungarn-russland-bedrohung-100.html",
       "first_seen": "2026-08-27",
       "last_seen": "2026-09-03",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -585,26 +508,6 @@
         {
           "lat": 48.884570103213676,
           "lon": 18.610032211566235
-        },
-        {
-          "lat": 45.53555255778438,
-          "lon": 20.8703158964505
-        },
-        {
-          "lat": 45.12372201973601,
-          "lon": 19.068907184210236
-        },
-        {
-          "lat": 44.218320164283696,
-          "lon": 18.99659594115105
-        },
-        {
-          "lat": 44.91456105009468,
-          "lon": 19.562526415366683
-        },
-        {
-          "lat": 48.84051444155118,
-          "lon": 17.943980665299456
         }
       ]
     },
@@ -620,7 +523,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -762,26 +665,6 @@
         {
           "lat": 53.6663741183531,
           "lon": 36.772422188887354
-        },
-        {
-          "lat": 53.87721510916907,
-          "lon": 34.721780002565424
-        },
-        {
-          "lat": 55.265775696566976,
-          "lon": 40.54492094315319
-        },
-        {
-          "lat": 57.17296169389365,
-          "lon": 39.46986580516057
-        },
-        {
-          "lat": 56.95516365918242,
-          "lon": 36.15754436593527
-        },
-        {
-          "lat": 57.44079487095629,
-          "lon": 36.31301319541328
         }
       ]
     },
@@ -797,7 +680,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -979,44 +862,8 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
-    },
-    {
-      "id": "storm-italien",
-      "type": "storm",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "protest-hamburg",
@@ -1046,7 +893,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-07",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1148,26 +995,6 @@
         {
           "lat": 45.64814955634464,
           "lon": 7.470222886671014
-        },
-        {
-          "lat": 46.230460862163326,
-          "lon": 11.040851278615499
-        },
-        {
-          "lat": 45.4305782912298,
-          "lon": 9.155156095458114
-        },
-        {
-          "lat": 49.07712147823677,
-          "lon": 9.945471617988769
-        },
-        {
-          "lat": 49.23887727572766,
-          "lon": 9.59209987432803
-        },
-        {
-          "lat": 45.35618645863728,
-          "lon": 10.365356395248755
         }
       ]
     },
@@ -1240,7 +1067,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-06",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1255,8 +1082,8 @@
       "label": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
-      "intensity": 5,
+      "last_seen": "2026-09-09",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1398,6 +1225,26 @@
         {
           "lat": -40.24093126940784,
           "lon": -66.00030844025939
+        },
+        {
+          "lat": -40.53894995269097,
+          "lon": -65.76162810357943
+        },
+        {
+          "lat": -36.65707357439831,
+          "lon": -66.42760925024145
+        },
+        {
+          "lat": -38.63518040373099,
+          "lon": -60.819834803148716
+        },
+        {
+          "lat": -36.687125047002134,
+          "lon": -65.02597917473234
+        },
+        {
+          "lat": -38.4574002416122,
+          "lon": -64.42287463444504
         }
       ]
     },
@@ -1412,8 +1259,8 @@
       "label": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
-      "intensity": 1,
+      "last_seen": "2026-09-09",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1475,6 +1322,26 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
+        },
+        {
+          "lat": 44.075225155199234,
+          "lon": 0.6815046506521767
+        },
+        {
+          "lat": 45.18800764170709,
+          "lon": 1.9553432832231845
+        },
+        {
+          "lat": 47.09365933724578,
+          "lon": 1.4702755462871342
+        },
+        {
+          "lat": 48.53023305020115,
+          "lon": -0.7168540728221076
+        },
+        {
+          "lat": 43.83830980564941,
+          "lon": 4.199873355715855
         }
       ]
     },
@@ -1489,8 +1356,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
-      "intensity": 1,
+      "last_seen": "2026-09-09",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1552,9 +1419,199 @@
         {
           "lat": 43.790195752547056,
           "lon": 33.216098094519594
+        },
+        {
+          "lat": 44.61447392810415,
+          "lon": 33.06458123180505
+        },
+        {
+          "lat": 47.50106292458683,
+          "lon": 28.769412135761907
+        },
+        {
+          "lat": 46.602094030342904,
+          "lon": 30.60248630076553
+        },
+        {
+          "lat": 46.07770951253251,
+          "lon": 27.829296783381793
+        },
+        {
+          "lat": 48.10877043449932,
+          "lon": 32.718501411423084
+        }
+      ]
+    },
+    {
+      "id": "protest-deutschland",
+      "type": "protest",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-belgrad",
+      "type": "conflict",
+      "location": {
+        "name": "Belgrad",
+        "lat": 44.7866,
+        "lon": 20.4489
+      },
+      "label": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 44.378262710204645,
+          "lon": 22.02344913122918
+        },
+        {
+          "lat": 44.72051886561502,
+          "lon": 19.363922300070854
+        },
+        {
+          "lat": 46.33873670864518,
+          "lon": 20.203083417827397
+        },
+        {
+          "lat": 43.63455464292354,
+          "lon": 19.921714946545475
+        },
+        {
+          "lat": 45.532141735027345,
+          "lon": 18.303384348756836
+        },
+        {
+          "lat": 42.338051707387216,
+          "lon": 18.152823613928238
+        },
+        {
+          "lat": 46.47227663819661,
+          "lon": 22.85716262519887
+        },
+        {
+          "lat": 46.79865538329949,
+          "lon": 18.290309758860573
+        },
+        {
+          "lat": 46.38743180260864,
+          "lon": 22.319864265631267
+        },
+        {
+          "lat": 45.1446170970778,
+          "lon": 18.66486612576767
+        },
+        {
+          "lat": 43.763534178726964,
+          "lon": 22.943739439982277
+        },
+        {
+          "lat": 42.19727659305657,
+          "lon": 18.537236696636008
+        },
+        {
+          "lat": 46.22610233804982,
+          "lon": 21.113617192683535
+        },
+        {
+          "lat": 47.01231487567055,
+          "lon": 22.287359242330503
+        },
+        {
+          "lat": 44.17450076607557,
+          "lon": 17.917538836515284
+        }
+      ]
+    },
+    {
+      "id": "conflict-usa",
+      "type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "label": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+      "url": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.64032570008406,
+          "lon": -95.3466789293923
+        },
+        {
+          "lat": 38.93207474633611,
+          "lon": -92.9036841708024
+        },
+        {
+          "lat": 39.78729989328336,
+          "lon": -93.65078216331459
+        },
+        {
+          "lat": 35.25552380952624,
+          "lon": -97.49849583071284
+        },
+        {
+          "lat": 34.57719311318039,
+          "lon": -96.08695574586571
+        },
+        {
+          "lat": 39.513931597937585,
+          "lon": -97.6341478867083
+        },
+        {
+          "lat": 36.31327558828571,
+          "lon": -92.93220417889248
+        },
+        {
+          "lat": 35.286569142550135,
+          "lon": -93.01018556990095
+        },
+        {
+          "lat": 35.87396990784514,
+          "lon": -95.79719153568212
+        },
+        {
+          "lat": 39.92862994129249,
+          "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
         }
       ]
     }
   ],
-  "updated_at": "2026-09-08"
+  "updated_at": "2026-09-09"
 }
