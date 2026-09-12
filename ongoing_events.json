@@ -10,7 +10,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,8 +227,8 @@
       },
       "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-10",
-      "intensity": 7,
+      "last_seen": "2026-09-12",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,6 +410,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html"
@@ -426,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -508,26 +528,6 @@
         {
           "lat": 56.15920128480536,
           "lon": 36.17733803889268
-        },
-        {
-          "lat": 54.19331496715414,
-          "lon": 38.63616046957664
-        },
-        {
-          "lat": 56.23100763833896,
-          "lon": 37.65908422527429
-        },
-        {
-          "lat": 58.058991392520255,
-          "lon": 36.19814772005231
-        },
-        {
-          "lat": 52.78169037735618,
-          "lon": 38.954577559176386
-        },
-        {
-          "lat": 57.415598696790774,
-          "lon": 36.275319422008195
         }
       ]
     },
@@ -543,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -665,26 +665,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -700,7 +680,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-07",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -742,26 +722,6 @@
         {
           "lat": 44.4042445579947,
           "lon": 8.46405493260281
-        },
-        {
-          "lat": 44.39745023757369,
-          "lon": 8.690759134782304
-        },
-        {
-          "lat": 48.65713087944922,
-          "lon": 7.81734492127547
-        },
-        {
-          "lat": 43.935721963109614,
-          "lon": 8.94611363614877
-        },
-        {
-          "lat": 47.821579204776924,
-          "lon": 6.504279991871858
-        },
-        {
-          "lat": 47.76184917882337,
-          "lon": 10.448911370491006
         }
       ]
     },
@@ -793,7 +753,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -895,26 +855,6 @@
         {
           "lat": -38.58025632496685,
           "lon": -60.73117616250126
-        },
-        {
-          "lat": -40.64091009811741,
-          "lon": -61.135179856783175
-        },
-        {
-          "lat": -36.68203342918575,
-          "lon": -61.78438907503404
-        },
-        {
-          "lat": -40.66615607196364,
-          "lon": -64.55049477084005
-        },
-        {
-          "lat": -36.82075902709511,
-          "lon": -63.79509491813872
-        },
-        {
-          "lat": -35.48761578368422,
-          "lon": -66.27541422450494
         }
       ]
     },
@@ -930,7 +870,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-10",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -992,26 +932,6 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
-        },
-        {
-          "lat": 44.075225155199234,
-          "lon": 0.6815046506521767
-        },
-        {
-          "lat": 45.18800764170709,
-          "lon": 1.9553432832231845
-        },
-        {
-          "lat": 47.09365933724578,
-          "lon": 1.4702755462871342
-        },
-        {
-          "lat": 48.53023305020115,
-          "lon": -0.7168540728221076
-        },
-        {
-          "lat": 43.83830980564941,
-          "lon": 4.199873355715855
         }
       ]
     },
@@ -1026,8 +946,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
-      "intensity": 4,
+      "last_seen": "2026-09-12",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1149,6 +1069,26 @@
         {
           "lat": 47.16269752010708,
           "lon": 33.21378695515154
+        },
+        {
+          "lat": 44.21626024857484,
+          "lon": 29.344966346588556
+        },
+        {
+          "lat": 44.284831487835,
+          "lon": 28.04790044192257
+        },
+        {
+          "lat": 48.80536192414418,
+          "lon": 28.855841443019298
+        },
+        {
+          "lat": 46.39469957613205,
+          "lon": 33.245657744984875
+        },
+        {
+          "lat": 48.25828939934629,
+          "lon": 31.636810150255986
         }
       ]
     },
@@ -1179,8 +1119,8 @@
       "label": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
-      "intensity": 3,
+      "last_seen": "2026-09-12",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1282,6 +1222,26 @@
         {
           "lat": 45.658611174418034,
           "lon": 20.725768531312063
+        },
+        {
+          "lat": 43.71920451963465,
+          "lon": 23.436354263490497
+        },
+        {
+          "lat": 45.52736786538138,
+          "lon": 17.979203604092984
+        },
+        {
+          "lat": 46.87354902925914,
+          "lon": 23.015899198302392
+        },
+        {
+          "lat": 46.08152213723597,
+          "lon": 22.501082270924602
+        },
+        {
+          "lat": 41.81631338853932,
+          "lon": 18.880082312181028
         }
       ]
     },
@@ -1293,11 +1253,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "url": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
+      "label": "Wie der 11. September die US-Außenpolitik verändert hat",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
-      "intensity": 3,
+      "last_seen": "2026-09-12",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1399,6 +1359,26 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
+        },
+        {
+          "lat": 37.912293099314276,
+          "lon": -92.94674763864657
+        },
+        {
+          "lat": 34.091124287829764,
+          "lon": -93.97216174578706
+        },
+        {
+          "lat": 38.516843244090175,
+          "lon": -93.15389588562758
+        },
+        {
+          "lat": 37.95085245789026,
+          "lon": -95.99543142612114
+        },
+        {
+          "lat": 39.36966268424379,
+          "lon": -98.28475842366234
         }
       ]
     },
@@ -1413,8 +1393,8 @@
       "label": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "intensity": 1,
+      "last_seen": "2026-09-12",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1476,9 +1456,29 @@
         {
           "lat": 53.62726225463004,
           "lon": 1.2474146851816712
+        },
+        {
+          "lat": 51.608853695363,
+          "lon": 1.107106283601631
+        },
+        {
+          "lat": 52.258682759544506,
+          "lon": 2.528576782133099
+        },
+        {
+          "lat": 53.940973673939,
+          "lon": 0.14978987451358478
+        },
+        {
+          "lat": 53.985778497534284,
+          "lon": -1.1713990482998542
+        },
+        {
+          "lat": 49.438812496946845,
+          "lon": -0.33571473280380365
         }
       ]
     }
   ],
-  "updated_at": "2026-09-11"
+  "updated_at": "2026-09-12"
 }
