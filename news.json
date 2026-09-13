@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:31:17.779933+00:00",
+  "generated_at": "2026-09-13T09:19:06.600910+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,86 @@
   },
   "articles": [
     {
+      "title": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
+      "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 09:52:19 +0200"
+    },
+    {
+      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
+      "summary": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 19:38:32 +0200"
+    },
+    {
+      "title": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
+      "summary": "Trotz schlechter Umfragewerte sieht CDU-Generalsekretärin Hoppermann ihre Partei unter Bundeskanzler Merz \"auf dem richtigen Weg\". Als Beispiel nennt sie die Rentenreform - und wirbt für die Wahl am kommenden Wochenende.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 13:46:56 +0200"
+    },
+    {
+      "title": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
+      "summary": "Steigende Mieten machen vielen Menschen Sorgen. Die Mietpreisbremse soll in besonders angespannten Wohnungsmärkten helfen. Doch noch gibt es zu viele Schlupflöcher, sagt Justizministerin Hubig - und will dagegen vorgehen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 12:43:25 +0200"
+    },
+    {
+      "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+      "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 13:05:29 +0200"
+    },
+    {
       "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
       "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -62,7 +142,7 @@
     },
     {
       "title": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-      "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
+      "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die Erste, die zahlen muss.",
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
       "category": "politik",
@@ -93,11 +173,11 @@
       "published": "Fri, 11 Sep 2026 18:58:32 +0200"
     },
     {
-      "title": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-      "summary": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar Pepping.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
-      "category": "politik",
+      "title": "Wie eine explodierende Erbpacht Familien überfordern kann",
+      "summary": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -106,62 +186,30 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 15:41:00 +0200"
+      "published": "Sun, 13 Sep 2026 08:15:32 +0200"
     },
     {
-      "title": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
-      "summary": "Mutmaßliche Mitglieder der Hamas sollen von Deutschland aus Waffen besorgt haben. Jetzt wurden sie angeklagt. Der Vorwurf: Zum zweiten Jahrestag des Überfalls auf Israel wollten sie Anschläge auf Juden verüben.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html",
-      "category": "politik",
+      "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+      "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 15:14:35 +0200"
+      "published": "Sun, 13 Sep 2026 06:47:55 +0200"
     },
     {
-      "title": "Was eine AfD-Regierung für den Verfassungsschutz bedeuten könnte",
-      "summary": "Der Landesverfassungsschutz hat die AfD in Sachsen-Anhalt als gesichert rechtsextremistisch eingestuft. Nun könnte die Partei dort regieren. Was hieße das für die Behörde und den Informationsaustausch? Von A. Stephany und A. Tadey.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-verfassungsschutz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 14:22:02 +0200"
-    },
-    {
-      "title": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
-      "summary": "Die deutsche Politik reagiert vor 25 Jahren bestürzt auf die Nachricht von den Anschlägen in New York. Aber sie fasst sich schnell, schnürt zwei Sicherheitspakete und beschließt die Beteiligung am Afghanistan-Einsatz. Von J. Mayr.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 11:21:08 +0200"
-    },
-    {
-      "title": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
-      "summary": "Arbeitsministerin Bas hat in der Haushaltsdebatte die geplante Rentenreform der Bundesregierung verteidigt - auch die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren. Betroffenen verspricht sie jedoch Übergangslösungen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
-      "category": "politik",
+      "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+      "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -170,11 +218,43 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 13:44:51 +0200"
+      "published": "Sun, 13 Sep 2026 01:53:35 +0200"
+    },
+    {
+      "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
+      "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 15:22:03 +0200"
+    },
+    {
+      "title": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
+      "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 15:20:55 +0200"
     },
     {
       "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-      "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
+      "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz eins. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
       "category": "wirtschaft",
@@ -221,84 +301,20 @@
       "published": "Fri, 11 Sep 2026 13:14:28 +0200"
     },
     {
-      "title": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
-      "summary": "Wird die Krankenkasse teurer, muss sie ihren Mitgliedern das nicht mehr aktiv mitteilen. Die Info-Pflicht wurde gestrichen. \"Ein Unding\", kritisieren Verbraucherschützer. Die Bundesregierung müsse diesen Fehler korrigieren.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
+      "summary": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 10:43:10 +0200"
-    },
-    {
-      "title": "Emirate investieren 40 Milliarden Euro in Deutschland",
-      "summary": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 10 Sep 2026 20:24:58 +0200"
-    },
-    {
-      "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
-      "summary": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 13:13:36 +0200"
-    },
-    {
-      "title": "Marktbericht: Der DAX stabilisiert sich",
-      "summary": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 18:32:18 +0200"
-    },
-    {
-      "title": "Wirtschaft vor acht vom 10.09.2026",
-      "summary": "Wirtschaft vor acht vom 10.09.2026",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/video/video-1646946.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 10 Sep 2026 20:27:31 +0200"
+      "published": "Sat, 12 Sep 2026 18:59:53 +0200"
     },
     {
       "title": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
@@ -315,22 +331,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Thu, 10 Sep 2026 15:00:40 +0200"
-    },
-    {
-      "title": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
-      "summary": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Belgrad",
-        "lat": 44.7866,
-        "lon": 20.4489
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 08 Sep 2026 14:32:44 +0200"
     },
     {
       "title": "Wie der 11. September die US-Außenpolitik verändert hat",
@@ -468,6 +468,70 @@
       "published": "Sun, 06 Sep 2026 12:40:04 +0200"
     },
     {
+      "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "summary": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 06:57:05 +0200"
+    },
+    {
+      "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+      "summary": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+      "category": "welt",
+      "event_type": "transport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 04:44:07 +0200"
+    },
+    {
+      "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
+      "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfclub. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 19:55:57 +0200"
+    },
+    {
+      "title": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
+      "summary": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Die Staatsanwaltschaft prüft nun, ob es sich um Sabotage handelt. Denn Ermittler fanden ein Schienenteil auf der Strecke.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 16:57:44 +0200"
+    },
+    {
       "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
       "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die Unfallursache ist noch unklar.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -532,90 +596,10 @@
       "published": "Thu, 10 Sep 2026 07:15:06 +0200"
     },
     {
-      "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
-      "summary": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Ungarn",
-        "lat": 47.1625,
-        "lon": 19.5033
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 09 Sep 2026 13:33:13 +0200"
-    },
-    {
-      "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-      "summary": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 08 Sep 2026 18:53:32 +0200"
-    },
-    {
-      "title": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
-      "summary": "Es werden Erinnerungen an den Einbruch in den Louvre wach: In Südfrankreich sind wertvolle Gemälde des impressionistischen Künstlers Renoir aus einem Museum gestohlen worden. Einen Teil der Beute ließen die Täter bei ihrer Flucht zurück.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 08 Sep 2026 15:00:58 +0200"
-    },
-    {
-      "title": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
-      "summary": "Eine rechtsextreme Partei in Belgien präsentierte Ideen zum Thema Einwanderung im Stile einer IKEA-Aufbauanleitung - zum Ärger des schwedischen Möbelkonzerns. Der Europäische Gerichtshof hat nun im Sinne von IKEA geurteilt. Von Kolja Schwartz.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Belgien",
-        "lat": 50.5039,
-        "lon": 4.4699
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 08 Sep 2026 14:45:29 +0200"
-    },
-    {
-      "title": "Deutsche Mitfavoriten bei der Ironman 70.3-WM in Nizza",
-      "summary": "Bei der Ironman 70.3-WM in Nizza zählen sowohl bei den Frauen als auch bei den Männern deutsche Profis zu den Mitfavoriten. Alles Wichtige zur Weltmeisterschaft auf der Mitteldistanz.",
+      "title": "Polanski nicht mehr Trainer in Gladbach",
+      "summary": "Borussia Mönchengladbach hat gestern 0:5 gegen Freiburg verloren – einen Tag nach dieser Niederlage wird jetzt klar, was viele schon vermutet haben. Mönchengladbach trennt sich von ihrem Trainer Polanski.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/triathlon/alles-wichtige-zur-ironman-wm-in-nizza,faq-ironman-wm-102.html",
-      "category": "sport",
-      "event_type": "celebration",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 12:25:15 +0200"
-    },
-    {
-      "title": "Zverev will im US-Open-Finale amerikanischen Traum verhindern",
-      "summary": "Alexander Zverev hat mit einem überzeugenden Sieg gegen Karen Khachanov das Finale der US Open erreicht - und trifft dort auf einen US-Amerikaner.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/zverev-zieht-souveraen-ins-finale-der-us-open-ein,tennis-us-open-halbfinale-zverev-khachanov-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-polanski-nicht-mehr-trainer-in-gladbach-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -625,10 +609,106 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 00:43:42 +0200"
+      "published": "Sun, 13 Sep 2026 11:13:00 +0200"
     },
     {
-      "title": "Liveblog US Open: Shelton siegt und heizt Publikum an",
+      "title": "Nmechas Traumtore: Borussia Dortmund schlägt Paderborn",
+      "summary": "Felix Nmecha hat nach seiner Einwechslung gegen den SC Paderborn für die Glanzlichter bei Borussia Dortmunds drittem Saisonsieg in der Fußball-Bundesliga gesorgt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-starter-silva-leitet-sieg-des-bvb-ein-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 18:41:18 +0200"
+    },
+    {
+      "title": "Frankfurt marschiert in die richtige Richtung",
+      "summary": "Nach dem ersten Saisonsieg in Mainz atmen Spieler wie Verantwortlichen von Eintracht Frankfurt erleichtert auf. Wichtig vor allem: Das Team hält sich an den Trainer-Plan, der ein guter ist. Die wichtigsten Aspekte in der Analyse.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/hr/hr-analyse-des-sieges-in-mainz-die-eintracht-marschiert-in-die-richtige-richtung-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 09:18:45 +0200"
+    },
+    {
+      "title": "\"Stehen zu Recht da\" - Freiburg feiert Tabellenführung",
+      "summary": "Der SC Freiburg ist nach einem nahezu perfekten Saisonstart Tabellenführer der Fußball-Bundesliga. Doch die Breisgauer denken schon weiter.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/swr/swr-wir-stehen-zurecht-da-sc-freiburg-feiert-die-tabellenfuehrung-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 09:43:24 +0200"
+    },
+    {
+      "title": "Passive Kölner verspielen Führung gegen Bremen",
+      "summary": "Der 1. FC Köln hat es im Bundesliga-Heimspiel gegen Werder Bremen nicht geschafft, eine Führung über die Zeit zu bringen. Die Hanseaten nutzten die zu lange Passivität der Rheinländer aus.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga/passive-koelner-verspielen-fuehrung-gegen-bremen,spielbericht-koeln-werder-bremen-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 12 Sep 2026 21:18:43 +0200"
+    },
+    {
+      "title": "US Open: Rybakina feiert Grand-Slam-Triumph gegen Sabalenka",
+      "summary": "Elena Rybakina hat die \"Queen of Queens\" Aryna Sabalenka vom Thron gestoßen. Sie verlässt New York als US-Open-Siegerin und neue Weltranglisten-Erste.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/sabalenka-entthront-rybakina-gewinnt-erstmals-die-us-open,finale-rybakina-sabalenka-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 05:10:00 +0200"
+    },
+    {
+      "title": "Aryna Sabalenka verliert US Open und kämpft gegen sich selbst",
+      "summary": "Aryna Sabalenka hat drei Probleme: Die ersten beiden haben mit Elena Rybakina zu tun und das dritte mit ihr selbst. Machtdemonstration verkehrt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/us-open-drei-nuesse-fuer-sabalenka,finale-sabalenka-story-100.html",
+      "category": "sport",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 10:53:44 +0200"
+    },
+    {
+      "title": "Liveblog US Open: Krawietz/Pütz verpassen Titel",
       "summary": "Die wichtigsten Matches, die neusten Ergebnisse, aktuelle Spielberichte und alle News von den US Open 2026.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/tennis/us-open/krawietz-puetz-im-doppel-finale-gauff-macht-traum-habfinale-perfekt,tennis-us-open-liveblog-100.html",
@@ -641,87 +721,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 08:20:25 +0200"
-    },
-    {
-      "title": "Großer Kampf: Schalke holt bei Union Berlin ersten Sieg",
-      "summary": "Der FC Schalke 04 ist in der Bundesliga angekommen. Der Aufsteiger setzte sich nach einem denkwürdigen Abend im Stadion \"An der alten Försterei\" verdient gegen Union Berlin durch.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/schalke-04-erkaempft-sich-ersten-saisonsieg-bei-union-berlin,spielbericht-union-berlin-schalke-04-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 22:33:19 +0200"
-    },
-    {
-      "title": "Schlotterbeck vor Comeback - Karetsas verlässt Krankenhaus",
-      "summary": "Nico Schlotterbeck soll gegen Paderborn wieder im BVB-Kader stehen. Konstantinos Karetsas hat das Krankenhaus verlassen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-schlotterbeck-vor-comeback-karetsas-verlaesst-krankenhaus-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 16:13:56 +0200"
-    },
-    {
-      "title": "Keine Sperre für Elversberg-Coach Wagner",
-      "summary": "Der Trainer von Bundesligist SV Elversberg, Vincent Wagner, darf im Topspiel gegen den FC Bayern München nun doch an der Seitenlinie stehen. Das Sportgericht des DFB hob am Freitag das vorangegangene Urteil auf.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/sr/sr-keine-sperre-fuer-elversberg-coach-wagner-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 14:41:00 +0200"
-    },
-    {
-      "title": "Gegen den Angstgegner und die Angst vorm Abstiegskampf",
-      "summary": "Für Borussia Mönchengladbach läuft es bisher in der Bundesliga nicht - und jetzt kommt es zum Duell, in dem der Klub für gewöhnlich nichts holt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-gegen-den-angstgegner-und-die-angst-vorm-abstiegskampf-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 18:45:21 +0200"
-    },
-    {
-      "title": "Basketball-WM der Frauen: Noch eine Rechnung offen",
-      "summary": "Bei Olympia warfen die Französinnen das deutsche Team noch aus dem Turnier. Nun könnte die Revanche gelingen. Einer, den Leonie Fiebich unlängst als fehlendes Puzzlestück bezeichnete, war damals noch nicht dabei: Olaf Lange.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/basketball/nationalmannschaft/dbb-coach-olaf-lange-fehlende-puzzlestueck,frauen-weltmeisterschaft-olaf-lange-noch-eine-rechnung-mit-frankreich-offen-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 00:03:26 +0200"
+      "published": "Sun, 13 Sep 2026 01:12:25 +0200"
     }
   ],
   "crises": [
@@ -735,7 +735,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -952,7 +952,7 @@
       },
       "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1171,7 +1171,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1233,26 +1233,6 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
-        },
-        {
-          "lat": 53.28120844551414,
-          "lon": 40.340743125310226
-        },
-        {
-          "lat": 54.872274709966334,
-          "lon": 37.963088907573045
-        },
-        {
-          "lat": 57.07682138323733,
-          "lon": 36.492827846597955
-        },
-        {
-          "lat": 52.762151489109534,
-          "lon": 39.930104468747416
-        },
-        {
-          "lat": 56.15920128480536,
-          "lon": 36.17733803889268
         }
       ]
     },
@@ -1268,7 +1248,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1370,26 +1350,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -1451,22 +1411,6 @@
       ]
     },
     {
-      "id": "storm-spanien",
-      "type": "storm",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-      "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-06",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-argentinien",
       "type": "conflict",
       "location": {
@@ -1478,7 +1422,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1560,26 +1504,6 @@
         {
           "lat": -38.89314016405089,
           "lon": -64.43849004601711
-        },
-        {
-          "lat": -38.88786070079947,
-          "lon": -63.77846163897891
-        },
-        {
-          "lat": -40.20421259213558,
-          "lon": -62.61290938068168
-        },
-        {
-          "lat": -38.42236759533916,
-          "lon": -64.42304808815233
-        },
-        {
-          "lat": -38.71764124724249,
-          "lon": -64.58474497623072
-        },
-        {
-          "lat": -38.58025632496685,
-          "lon": -60.73117616250126
         }
       ]
     },
@@ -1595,7 +1519,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-10",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1637,26 +1561,6 @@
         {
           "lat": 48.55797277574893,
           "lon": 1.0608894506009268
-        },
-        {
-          "lat": 45.30961612487483,
-          "lon": 0.1883644550409782
-        },
-        {
-          "lat": 46.6189281185998,
-          "lon": 1.5031718019034415
-        },
-        {
-          "lat": 46.09819467538973,
-          "lon": 2.1692676660862675
-        },
-        {
-          "lat": 48.67583414446978,
-          "lon": 3.231686186784223
-        },
-        {
-          "lat": 43.360189050133854,
-          "lon": 3.098220124151492
         }
       ]
     },
@@ -1671,8 +1575,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-12",
-      "intensity": 5,
+      "last_seen": "2026-09-13",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1814,6 +1718,26 @@
         {
           "lat": 48.25828939934629,
           "lon": 31.636810150255986
+        },
+        {
+          "lat": 48.80517311479027,
+          "lon": 31.72893396467027
+        },
+        {
+          "lat": 44.93395120132981,
+          "lon": 28.1025764317196
+        },
+        {
+          "lat": 46.32478152847902,
+          "lon": 32.1524787488454
+        },
+        {
+          "lat": 47.274292020618866,
+          "lon": 28.803322298516708
+        },
+        {
+          "lat": 45.86559231549108,
+          "lon": 27.80753129424551
         }
       ]
     },
@@ -1825,11 +1749,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
+      "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
-      "intensity": 0,
+      "last_seen": "2026-09-13",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1845,7 +1769,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1947,26 +1871,6 @@
         {
           "lat": 45.658611174418034,
           "lon": 20.725768531312063
-        },
-        {
-          "lat": 43.71920451963465,
-          "lon": 23.436354263490497
-        },
-        {
-          "lat": 45.52736786538138,
-          "lon": 17.979203604092984
-        },
-        {
-          "lat": 46.87354902925914,
-          "lon": 23.015899198302392
-        },
-        {
-          "lat": 46.08152213723597,
-          "lon": 22.501082270924602
-        },
-        {
-          "lat": 41.81631338853932,
-          "lon": 18.880082312181028
         }
       ]
     },
@@ -1981,8 +1885,8 @@
       "label": "Wie der 11. September die US-Außenpolitik verändert hat",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-12",
-      "intensity": 4,
+      "last_seen": "2026-09-13",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2104,6 +2008,26 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -2118,8 +2042,8 @@
       "label": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-12",
-      "intensity": 2,
+      "last_seen": "2026-09-13",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2201,6 +2125,26 @@
         {
           "lat": 49.438812496946845,
           "lon": -0.33571473280380365
+        },
+        {
+          "lat": 53.76036046347217,
+          "lon": 2.6299424732075867
+        },
+        {
+          "lat": 48.6414351972438,
+          "lon": -2.2258895067656157
+        },
+        {
+          "lat": 50.50918643002705,
+          "lon": 0.9471865392069301
+        },
+        {
+          "lat": 52.76910457731995,
+          "lon": 2.1120927567291288
+        },
+        {
+          "lat": 49.26270563651032,
+          "lon": -0.8141860837713315
         }
       ]
     }

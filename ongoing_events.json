@@ -10,7 +10,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -508,26 +508,6 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
-        },
-        {
-          "lat": 53.28120844551414,
-          "lon": 40.340743125310226
-        },
-        {
-          "lat": 54.872274709966334,
-          "lon": 37.963088907573045
-        },
-        {
-          "lat": 57.07682138323733,
-          "lon": 36.492827846597955
-        },
-        {
-          "lat": 52.762151489109534,
-          "lon": 39.930104468747416
-        },
-        {
-          "lat": 56.15920128480536,
-          "lon": 36.17733803889268
         }
       ]
     },
@@ -543,7 +523,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -645,26 +625,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -726,22 +686,6 @@
       ]
     },
     {
-      "id": "storm-spanien",
-      "type": "storm",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-      "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-06",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-argentinien",
       "type": "conflict",
       "location": {
@@ -753,7 +697,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -835,26 +779,6 @@
         {
           "lat": -38.89314016405089,
           "lon": -64.43849004601711
-        },
-        {
-          "lat": -38.88786070079947,
-          "lon": -63.77846163897891
-        },
-        {
-          "lat": -40.20421259213558,
-          "lon": -62.61290938068168
-        },
-        {
-          "lat": -38.42236759533916,
-          "lon": -64.42304808815233
-        },
-        {
-          "lat": -38.71764124724249,
-          "lon": -64.58474497623072
-        },
-        {
-          "lat": -38.58025632496685,
-          "lon": -60.73117616250126
         }
       ]
     },
@@ -870,7 +794,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-10",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -912,26 +836,6 @@
         {
           "lat": 48.55797277574893,
           "lon": 1.0608894506009268
-        },
-        {
-          "lat": 45.30961612487483,
-          "lon": 0.1883644550409782
-        },
-        {
-          "lat": 46.6189281185998,
-          "lon": 1.5031718019034415
-        },
-        {
-          "lat": 46.09819467538973,
-          "lon": 2.1692676660862675
-        },
-        {
-          "lat": 48.67583414446978,
-          "lon": 3.231686186784223
-        },
-        {
-          "lat": 43.360189050133854,
-          "lon": 3.098220124151492
         }
       ]
     },
@@ -946,8 +850,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-12",
-      "intensity": 5,
+      "last_seen": "2026-09-13",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1089,6 +993,26 @@
         {
           "lat": 48.25828939934629,
           "lon": 31.636810150255986
+        },
+        {
+          "lat": 48.80517311479027,
+          "lon": 31.72893396467027
+        },
+        {
+          "lat": 44.93395120132981,
+          "lon": 28.1025764317196
+        },
+        {
+          "lat": 46.32478152847902,
+          "lon": 32.1524787488454
+        },
+        {
+          "lat": 47.274292020618866,
+          "lon": 28.803322298516708
+        },
+        {
+          "lat": 45.86559231549108,
+          "lon": 27.80753129424551
         }
       ]
     },
@@ -1100,11 +1024,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
+      "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
-      "intensity": 0,
+      "last_seen": "2026-09-13",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1120,7 +1044,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1222,26 +1146,6 @@
         {
           "lat": 45.658611174418034,
           "lon": 20.725768531312063
-        },
-        {
-          "lat": 43.71920451963465,
-          "lon": 23.436354263490497
-        },
-        {
-          "lat": 45.52736786538138,
-          "lon": 17.979203604092984
-        },
-        {
-          "lat": 46.87354902925914,
-          "lon": 23.015899198302392
-        },
-        {
-          "lat": 46.08152213723597,
-          "lon": 22.501082270924602
-        },
-        {
-          "lat": 41.81631338853932,
-          "lon": 18.880082312181028
         }
       ]
     },
@@ -1256,8 +1160,8 @@
       "label": "Wie der 11. September die US-Außenpolitik verändert hat",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-12",
-      "intensity": 4,
+      "last_seen": "2026-09-13",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1379,6 +1283,26 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -1393,8 +1317,8 @@
       "label": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-12",
-      "intensity": 2,
+      "last_seen": "2026-09-13",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1476,9 +1400,29 @@
         {
           "lat": 49.438812496946845,
           "lon": -0.33571473280380365
+        },
+        {
+          "lat": 53.76036046347217,
+          "lon": 2.6299424732075867
+        },
+        {
+          "lat": 48.6414351972438,
+          "lon": -2.2258895067656157
+        },
+        {
+          "lat": 50.50918643002705,
+          "lon": 0.9471865392069301
+        },
+        {
+          "lat": 52.76910457731995,
+          "lon": 2.1120927567291288
+        },
+        {
+          "lat": 49.26270563651032,
+          "lon": -0.8141860837713315
         }
       ]
     }
   ],
-  "updated_at": "2026-09-12"
+  "updated_at": "2026-09-13"
 }
