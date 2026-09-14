@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T09:19:06.600910+00:00",
+  "generated_at": "2026-09-14T09:42:26.248720+00:00",
   "categories": [
     {
       "id": "politik",
@@ -44,6 +44,86 @@
     "standard": null
   },
   "articles": [
+    {
+      "title": "Linke legt Fünf-Punkte-Plan für Berlin vor",
+      "summary": "Die Linken-Politikerin Eralp könnte Regierende Bürgermeisterin in Berlin werden. Nun legt sie für diesen Fall einen Fünf-Punkte-Plan vor: Er sieht etwa eine \"Taskforce Mietwucher\" und einen kostenlosen Sperrmülltag vor. Von A. Budweg.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 06:00:51 +0200"
+    },
+    {
+      "title": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
+      "summary": "Nach der Wahl in Sachsen-Anhalt wird über die Brandmauer zur AfD diskutiert. Der strikte Abgrenzungskurs sollte die AfD von der Macht fernhalten. Dieses Ziel könnte sie nun verfehlen. Ist die Brandmauer jetzt Geschichte? Von Jürgen P. Lang.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 04:06:44 +0200"
+    },
+    {
+      "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
+      "summary": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-merz-nathusius-union-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 20:44:54 +0200"
+    },
+    {
+      "title": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
+      "summary": "Noch am Wahlabend bekräftigte AfD-Spitzenkandidat Siegmund in der tagesschau seine Absicht, den Medienstaatsvertrag zu kündigen. Was sind die juristischen Knackpunkte? Von Alena Lagmöller und Frank Bräutigam.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 16:28:14 +0200"
+    },
+    {
+      "title": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
+      "summary": "Was wird aus Kanzler Merz? In der CDU rumort es, Gerüchte über einen Kanzlersturz machen die Runde. Von der CSU werde Merz nicht gestürzt, versicherte Parteichef Söder nun. Für die CDU sei er nicht zuständig.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-merz-kanzlerwechsel-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 12:11:59 +0200"
+    },
     {
       "title": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
       "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
@@ -93,90 +173,10 @@
       "published": "Sat, 12 Sep 2026 13:46:56 +0200"
     },
     {
-      "title": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
-      "summary": "Steigende Mieten machen vielen Menschen Sorgen. Die Mietpreisbremse soll in besonders angespannten Wohnungsmärkten helfen. Doch noch gibt es zu viele Schlupflöcher, sagt Justizministerin Hubig - und will dagegen vorgehen.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 12:43:25 +0200"
-    },
-    {
-      "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
-      "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 13:05:29 +0200"
-    },
-    {
-      "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-      "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 05:12:30 +0200"
-    },
-    {
-      "title": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-      "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die Erste, die zahlen muss.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 19:41:26 +0200"
-    },
-    {
-      "title": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
-      "summary": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 18:58:32 +0200"
-    },
-    {
-      "title": "Wie eine explodierende Erbpacht Familien überfordern kann",
-      "summary": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
+      "title": "Sind die Spritpreise noch zu bremsen?",
+      "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen deutlich.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+      "url": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,7 +186,116 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 08:15:32 +0200"
+      "published": "Mon, 14 Sep 2026 11:18:10 +0200"
+    },
+    {
+      "title": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+      "summary": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": "Saudi-Arabien",
+        "lat": 23.8859,
+        "lon": 45.0792
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Saudi-Arabien",
+            "lat": 23.8859,
+            "lon": 45.0792
+          },
+          "to": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 17:56:14 +0200"
+    },
+    {
+      "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
+      "summary": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung verkünden.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Japan",
+        "lat": 36.2048,
+        "lon": 138.2529
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 10:50:05 +0200"
+    },
+    {
+      "title": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
+      "summary": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 10:43:06 +0200"
+    },
+    {
+      "title": "Wirtschaft vor acht vom 10.09.2026",
+      "summary": "Wirtschaft vor acht vom 10.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/video/video-1646946.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 10 Sep 2026 20:27:31 +0200"
+    },
+    {
+      "title": "Update Wirtschaft vom 14.09.2026",
+      "summary": "Update Wirtschaft vom 14.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1648554.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 10:23:31 +0200"
+    },
+    {
+      "title": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+      "summary": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 15:03:38 +0200"
     },
     {
       "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
@@ -205,100 +314,33 @@
       "published": "Sun, 13 Sep 2026 06:47:55 +0200"
     },
     {
-      "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-      "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Nach Angriff auf Zug in der Ukraine: Polen wirft Russland Eskalation vor",
+      "summary": "Nach einem russischen Drohnenangriff auf einen Zug in der Ukraine nach Warschau hat Polens Krisenstab getagt. Seit Wochen gibt es Warnungen vor einer möglichen Zuspitzung, die auch Polen erreichen könnte. Von Palina Milling.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-krisenstab-ukraine-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Polen",
+            "lat": 51.9194,
+            "lon": 19.1451
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 01:53:35 +0200"
-    },
-    {
-      "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-      "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Hamburg",
-        "lat": 53.5511,
-        "lon": 9.9937
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 15:22:03 +0200"
-    },
-    {
-      "title": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-      "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 15:20:55 +0200"
-    },
-    {
-      "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-      "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz eins. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 07:04:13 +0200"
-    },
-    {
-      "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-      "summary": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische Waffen gegangen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 15:37:07 +0200"
-    },
-    {
-      "title": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
-      "summary": "Geschäfte, Restaurants und Dienstleister sollen nach Plänen von Finanzminister Klingbeil künftig neben Bargeld auch mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Was das für Konsumenten und Unternehmen bedeutet.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 13:14:28 +0200"
+      "published": "Mon, 14 Sep 2026 09:08:39 +0200"
     },
     {
       "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
@@ -315,22 +357,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sat, 12 Sep 2026 18:59:53 +0200"
-    },
-    {
-      "title": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
-      "summary": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "London",
-        "lat": 51.5072,
-        "lon": -0.1276
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 10 Sep 2026 15:00:40 +0200"
     },
     {
       "title": "Wie der 11. September die US-Außenpolitik verändert hat",
@@ -439,33 +465,68 @@
       "published": "Tue, 08 Sep 2026 04:20:08 +0200"
     },
     {
-      "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
-      "summary": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff in Kiew eingetroffen, um mit Präsident Selenskyj zu reden. Während der Gespräche gilt in beiden Städten eine Waffenruhe - andernorts gehen die Angriffe weiter.",
+      "title": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
+      "summary": "Ein Bericht der Zeitung Haaretz erhebt einen brisanten Vorwurf gegen Israels Premier Netanjahu: Er soll eine ausdrückliche Warnung vor einem Großangriff der Hamas eineinhalb Wochen vor dem Überfall ignoriert haben. Netanjahu dementiert - und will klagen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
+      "url": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 06 Sep 2026 12:40:04 +0200"
+      "published": "Wed, 09 Sep 2026 18:22:13 +0200"
+    },
+    {
+      "title": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
+      "summary": "Schweden hat gewählt - aber noch lange keine Regierung. Sowohl die Sozialdemokraten als stärkste Kraft als auch die Konservativen brauchen Partner. Die rechtspopulistischen Schwedendemokraten büßten überraschend Stimmen ein. Von Arne Bartram.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 07:49:34 +0200"
+    },
+    {
+      "title": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
+      "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson stärkste Kraft geworden. Ob das Mitte-Links-Lager eine Regierung bilden kann, ist aber offen - noch läuft die Auszählung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 04:01:04 +0200"
+    },
+    {
+      "title": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+      "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 03:22:42 +0200"
     },
     {
       "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
@@ -548,138 +609,10 @@
       "published": "Sat, 12 Sep 2026 05:41:39 +0200"
     },
     {
-      "title": "Seenotretter in England als Ziel rechter Anfeindung",
-      "summary": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 20:45:23 +0200"
-    },
-    {
-      "title": "Fünf Tote nach Busunglück in der Schweiz",
-      "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben fünf Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit 45 Menschen an Bord unterwegs.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Schweiz",
-        "lat": 46.8182,
-        "lon": 8.2275
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 11 Sep 2026 13:22:39 +0200"
-    },
-    {
-      "title": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
-      "summary": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Marokko",
-        "lat": 31.7917,
-        "lon": -7.0926
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 10 Sep 2026 07:15:06 +0200"
-    },
-    {
-      "title": "Polanski nicht mehr Trainer in Gladbach",
-      "summary": "Borussia Mönchengladbach hat gestern 0:5 gegen Freiburg verloren – einen Tag nach dieser Niederlage wird jetzt klar, was viele schon vermutet haben. Mönchengladbach trennt sich von ihrem Trainer Polanski.",
+      "title": "US Open: Alexander Zverev gewinnt Einzel-Finale gegen Ben Shelton",
+      "summary": "Alexander Zverev hat erstmals die US Open gewonnen. Der deutsche Tennisprofi setzte sich im Finale von New York gegen den US-Amerikaner Ben Shelton in vier Sätzen durch.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-polanski-nicht-mehr-trainer-in-gladbach-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 11:13:00 +0200"
-    },
-    {
-      "title": "Nmechas Traumtore: Borussia Dortmund schlägt Paderborn",
-      "summary": "Felix Nmecha hat nach seiner Einwechslung gegen den SC Paderborn für die Glanzlichter bei Borussia Dortmunds drittem Saisonsieg in der Fußball-Bundesliga gesorgt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-starter-silva-leitet-sieg-des-bvb-ein-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 18:41:18 +0200"
-    },
-    {
-      "title": "Frankfurt marschiert in die richtige Richtung",
-      "summary": "Nach dem ersten Saisonsieg in Mainz atmen Spieler wie Verantwortlichen von Eintracht Frankfurt erleichtert auf. Wichtig vor allem: Das Team hält sich an den Trainer-Plan, der ein guter ist. Die wichtigsten Aspekte in der Analyse.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/hr/hr-analyse-des-sieges-in-mainz-die-eintracht-marschiert-in-die-richtige-richtung-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 09:18:45 +0200"
-    },
-    {
-      "title": "\"Stehen zu Recht da\" - Freiburg feiert Tabellenführung",
-      "summary": "Der SC Freiburg ist nach einem nahezu perfekten Saisonstart Tabellenführer der Fußball-Bundesliga. Doch die Breisgauer denken schon weiter.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-wir-stehen-zurecht-da-sc-freiburg-feiert-die-tabellenfuehrung-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 09:43:24 +0200"
-    },
-    {
-      "title": "Passive Kölner verspielen Führung gegen Bremen",
-      "summary": "Der 1. FC Köln hat es im Bundesliga-Heimspiel gegen Werder Bremen nicht geschafft, eine Führung über die Zeit zu bringen. Die Hanseaten nutzten die zu lange Passivität der Rheinländer aus.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/passive-koelner-verspielen-fuehrung-gegen-bremen,spielbericht-koeln-werder-bremen-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 12 Sep 2026 21:18:43 +0200"
-    },
-    {
-      "title": "US Open: Rybakina feiert Grand-Slam-Triumph gegen Sabalenka",
-      "summary": "Elena Rybakina hat die \"Queen of Queens\" Aryna Sabalenka vom Thron gestoßen. Sie verlässt New York als US-Open-Siegerin und neue Weltranglisten-Erste.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/sabalenka-entthront-rybakina-gewinnt-erstmals-die-us-open,finale-rybakina-sabalenka-100.html",
+      "url": "https://www.sportschau.de/tennis/us-open/zverev-triumphiert-bei-us-open,bericht-finale-zverev-shelton-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -689,29 +622,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 05:10:00 +0200"
+      "published": "Mon, 14 Sep 2026 08:21:23 +0200"
     },
     {
-      "title": "Aryna Sabalenka verliert US Open und kämpft gegen sich selbst",
-      "summary": "Aryna Sabalenka hat drei Probleme: Die ersten beiden haben mit Elena Rybakina zu tun und das dritte mit ihr selbst. Machtdemonstration verkehrt.",
+      "title": "Analyse: Alexander Zverev ist verdienter US-Open-Champion",
+      "summary": "So wie das Turnier angefangen hat, so hat es auch aufgehört. Mit den ausgebreiteten Armen von Alexander Zverev. Flieg, Albatros, flieg!",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/us-open-drei-nuesse-fuer-sabalenka,finale-sabalenka-story-100.html",
-      "category": "sport",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 10:53:44 +0200"
-    },
-    {
-      "title": "Liveblog US Open: Krawietz/Pütz verpassen Titel",
-      "summary": "Die wichtigsten Matches, die neusten Ergebnisse, aktuelle Spielberichte und alle News von den US Open 2026.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/us-open/krawietz-puetz-im-doppel-finale-gauff-macht-traum-habfinale-perfekt,tennis-us-open-liveblog-100.html",
+      "url": "https://www.sportschau.de/tennis/us-open/alexander-zverev-last-man-standing,finale-zverev-story-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -721,7 +638,103 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 13 Sep 2026 01:12:25 +0200"
+      "published": "Mon, 14 Sep 2026 07:56:46 +0200"
+    },
+    {
+      "title": "Pressestimmen zu Zverevs Sieg - \"Ein neuer König in New York\"",
+      "summary": "Die internationale Presse würdigte Alexander Zverevs Triumph bei den US Open.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/us-open/ein-neuer-koenig-in-new-york,tennis-us-open-zverev-pressestimmen-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "New York",
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 07:45:19 +0200"
+    },
+    {
+      "title": "Stotternder Motor zum Saisonstart - Gründe für den wackeligen FCB",
+      "summary": "Der FC Bayern ist bei der SV Elversberg nur knapp einer kleinen Blamage entgangen. Trotz vieler Siege tut sich der amtierende Meister zum Saisonbeginn schwer. Das liegt auch an der WM - Kompany versucht mit Rotation für Titel am Saisonende zu sorgen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/br/br-stotternder-motor-zum-saisonstart-gruende-fuer-den-wackeligen-fcb-104.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 14 Sep 2026 06:16:57 +0200"
+    },
+    {
+      "title": "Dortmund setzt auf Guirassy und Silva gemeinsam im Sturm",
+      "summary": "Der Doppelsturm ist zurück bei Borussia Dortmund. Das Team des Podcasts \"Bundesliga Update\" erörtert, warum Serhou Guirassy deshalb aufblühen könnte.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga/doppelspitze-beim-bvb-silva-streif-am-horizont,bundesliga-update-rueckblick-spieltag-drei-102.html",
+      "category": "sport",
+      "event_type": "storm",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 23:46:02 +0200"
+    },
+    {
+      "title": "Kommentar zur Basketball-WM: Der Boom braucht bessere Bedingungen",
+      "summary": "Die Aussichten sind blendend für das Frauen-Basketball in Deutschland. Aber der Deutsche Basketball-Bund ist gefordert und muss bessere Rahmenbedingungen für den Nachwuchs und die heimische Bundesliga bieten.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-beenden-wm-auf-platz-vier,kommentar-basketball-wm-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 22:27:16 +0200"
+    },
+    {
+      "title": "Basketball-WM der Frauen: Der Stolz überwiegt",
+      "summary": "Der Traum von der Medaille ist geplatzt, doch mit Platz vier haben die DBB-Frauen trotzdem Geschichte geschrieben. Nun gilt es, das Momentum am Leben zu erhalten - und die Lücke zu den Top-Teams zu schließen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/basketball/nationalmannschaft/nach-platz-vier-der-stolz-ueberwiegt,frauen-weltmeisterschaft-nach-platz-vier-die-arbeit-geht-weiter-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 22:31:09 +0200"
+    },
+    {
+      "title": "Basketball-WM: Deutsche Basketballerinnen verlieren gegen Spanien im Spiel um Bronze",
+      "summary": "Die DBB-Frauen haben ihr Spiel um Platz drei gegen das Top-Team aus Spanien verloren. Trotz Niederlage zum Abschluss: Dieses Heim-Turnier war eines der erfolgreichsten in der Geschichte des deutschen Frauenbasketball.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballerinnen-beenden-wm-auf-platz-vier,bericht-spiel-um-platz-drei-spanien-deutschland-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 13 Sep 2026 18:57:32 +0200"
     }
   ],
   "crises": [
@@ -735,7 +748,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -950,9 +963,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+      "label": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1157,7 +1170,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html"
     },
     {
       "id": "conflict-moskau",
@@ -1171,7 +1184,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1213,26 +1226,6 @@
         {
           "lat": 58.38256820429665,
           "lon": 38.410024057518115
-        },
-        {
-          "lat": 57.51671356919169,
-          "lon": 39.856031501912405
-        },
-        {
-          "lat": 54.1458828807126,
-          "lon": 35.38094586287263
-        },
-        {
-          "lat": 57.510961849957695,
-          "lon": 38.95534149281654
-        },
-        {
-          "lat": 55.2444018672233,
-          "lon": 37.617962361039005
-        },
-        {
-          "lat": 57.98679453449971,
-          "lon": 37.716966003859525
         }
       ]
     },
@@ -1248,7 +1241,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1330,83 +1323,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
-        }
-      ]
-    },
-    {
-      "id": "conflict-schweiz",
-      "type": "conflict",
-      "location": {
-        "name": "Schweiz",
-        "lat": 46.8182,
-        "lon": 8.2275
-      },
-      "label": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-07",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 48.914727605572836,
-          "lon": 5.259496774028985
-        },
-        {
-          "lat": 46.44655627250102,
-          "lon": 6.043143454626119
-        },
-        {
-          "lat": 46.64835912138628,
-          "lon": 8.496550361418409
-        },
-        {
-          "lat": 49.03554715607421,
-          "lon": 7.155870395658623
-        },
-        {
-          "lat": 49.32258204116756,
-          "lon": 8.481700700962497
-        },
-        {
-          "lat": 45.59653208250308,
-          "lon": 11.157014462577532
-        },
-        {
-          "lat": 45.0266226490018,
-          "lon": 10.918739967870348
-        },
-        {
-          "lat": 44.92035989106851,
-          "lon": 10.940042854182547
-        },
-        {
-          "lat": 43.950094147054266,
-          "lon": 8.366888105631663
-        },
-        {
-          "lat": 44.4042445579947,
-          "lon": 8.46405493260281
         }
       ]
     },
@@ -1422,7 +1338,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1484,26 +1400,6 @@
         {
           "lat": -39.09603731928988,
           "lon": -64.45135168388435
-        },
-        {
-          "lat": -35.68716734418102,
-          "lon": -61.852325883852046
-        },
-        {
-          "lat": -36.56302695977793,
-          "lon": -62.63989751494173
-        },
-        {
-          "lat": -36.386610878360486,
-          "lon": -61.02647198733244
-        },
-        {
-          "lat": -39.94704448161566,
-          "lon": -60.957063789894704
-        },
-        {
-          "lat": -38.89314016405089,
-          "lon": -64.43849004601711
         }
       ]
     },
@@ -1575,8 +1471,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-13",
-      "intensity": 6,
+      "last_seen": "2026-09-14",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1738,6 +1634,26 @@
         {
           "lat": 45.86559231549108,
           "lon": 27.80753129424551
+        },
+        {
+          "lat": 45.22360113683648,
+          "lon": 28.3318131798425
+        },
+        {
+          "lat": 44.486746443278214,
+          "lon": 30.454195368552508
+        },
+        {
+          "lat": 47.18470796058472,
+          "lon": 29.013312605788652
+        },
+        {
+          "lat": 44.39916605065499,
+          "lon": 29.385631559151022
+        },
+        {
+          "lat": 45.37543506599333,
+          "lon": 28.82659293997569
         }
       ]
     },
@@ -1752,8 +1668,8 @@
       "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
       "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
-      "intensity": 1,
+      "last_seen": "2026-09-14",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1769,7 +1685,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1851,26 +1767,6 @@
         {
           "lat": 43.52292979992226,
           "lon": 21.432512967185584
-        },
-        {
-          "lat": 45.88067951359034,
-          "lon": 18.87121935761457
-        },
-        {
-          "lat": 47.56708696922615,
-          "lon": 20.504801880156226
-        },
-        {
-          "lat": 42.04219858797481,
-          "lon": 22.667479427157197
-        },
-        {
-          "lat": 46.19167960654914,
-          "lon": 21.48326954692806
-        },
-        {
-          "lat": 45.658611174418034,
-          "lon": 20.725768531312063
         }
       ]
     },
@@ -1885,8 +1781,8 @@
       "label": "Wie der 11. September die US-Außenpolitik verändert hat",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
-      "intensity": 5,
+      "last_seen": "2026-09-14",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2028,6 +1924,26 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
+        },
+        {
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
+        },
+        {
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
+        },
+        {
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
+        },
+        {
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
+        },
+        {
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
         }
       ]
     },
@@ -2043,7 +1959,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-13",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2125,26 +2041,6 @@
         {
           "lat": 49.438812496946845,
           "lon": -0.33571473280380365
-        },
-        {
-          "lat": 53.76036046347217,
-          "lon": 2.6299424732075867
-        },
-        {
-          "lat": 48.6414351972438,
-          "lon": -2.2258895067656157
-        },
-        {
-          "lat": 50.50918643002705,
-          "lon": 0.9471865392069301
-        },
-        {
-          "lat": 52.76910457731995,
-          "lon": 2.1120927567291288
-        },
-        {
-          "lat": 49.26270563651032,
-          "lon": -0.8141860837713315
         }
       ]
     }

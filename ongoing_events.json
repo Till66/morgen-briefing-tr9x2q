@@ -10,7 +10,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+      "label": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html"
     },
     {
       "id": "conflict-moskau",
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-08",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,26 +488,6 @@
         {
           "lat": 58.38256820429665,
           "lon": 38.410024057518115
-        },
-        {
-          "lat": 57.51671356919169,
-          "lon": 39.856031501912405
-        },
-        {
-          "lat": 54.1458828807126,
-          "lon": 35.38094586287263
-        },
-        {
-          "lat": 57.510961849957695,
-          "lon": 38.95534149281654
-        },
-        {
-          "lat": 55.2444018672233,
-          "lon": 37.617962361039005
-        },
-        {
-          "lat": 57.98679453449971,
-          "lon": 37.716966003859525
         }
       ]
     },
@@ -523,7 +503,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-08",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -605,83 +585,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
-        }
-      ]
-    },
-    {
-      "id": "conflict-schweiz",
-      "type": "conflict",
-      "location": {
-        "name": "Schweiz",
-        "lat": 46.8182,
-        "lon": 8.2275
-      },
-      "label": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-07",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 48.914727605572836,
-          "lon": 5.259496774028985
-        },
-        {
-          "lat": 46.44655627250102,
-          "lon": 6.043143454626119
-        },
-        {
-          "lat": 46.64835912138628,
-          "lon": 8.496550361418409
-        },
-        {
-          "lat": 49.03554715607421,
-          "lon": 7.155870395658623
-        },
-        {
-          "lat": 49.32258204116756,
-          "lon": 8.481700700962497
-        },
-        {
-          "lat": 45.59653208250308,
-          "lon": 11.157014462577532
-        },
-        {
-          "lat": 45.0266226490018,
-          "lon": 10.918739967870348
-        },
-        {
-          "lat": 44.92035989106851,
-          "lon": 10.940042854182547
-        },
-        {
-          "lat": 43.950094147054266,
-          "lon": 8.366888105631663
-        },
-        {
-          "lat": 44.4042445579947,
-          "lon": 8.46405493260281
         }
       ]
     },
@@ -697,7 +600,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -759,26 +662,6 @@
         {
           "lat": -39.09603731928988,
           "lon": -64.45135168388435
-        },
-        {
-          "lat": -35.68716734418102,
-          "lon": -61.852325883852046
-        },
-        {
-          "lat": -36.56302695977793,
-          "lon": -62.63989751494173
-        },
-        {
-          "lat": -36.386610878360486,
-          "lon": -61.02647198733244
-        },
-        {
-          "lat": -39.94704448161566,
-          "lon": -60.957063789894704
-        },
-        {
-          "lat": -38.89314016405089,
-          "lon": -64.43849004601711
         }
       ]
     },
@@ -850,8 +733,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-13",
-      "intensity": 6,
+      "last_seen": "2026-09-14",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1013,6 +896,26 @@
         {
           "lat": 45.86559231549108,
           "lon": 27.80753129424551
+        },
+        {
+          "lat": 45.22360113683648,
+          "lon": 28.3318131798425
+        },
+        {
+          "lat": 44.486746443278214,
+          "lon": 30.454195368552508
+        },
+        {
+          "lat": 47.18470796058472,
+          "lon": 29.013312605788652
+        },
+        {
+          "lat": 44.39916605065499,
+          "lon": 29.385631559151022
+        },
+        {
+          "lat": 45.37543506599333,
+          "lon": 28.82659293997569
         }
       ]
     },
@@ -1027,8 +930,8 @@
       "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
       "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
-      "intensity": 1,
+      "last_seen": "2026-09-14",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1044,7 +947,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1126,26 +1029,6 @@
         {
           "lat": 43.52292979992226,
           "lon": 21.432512967185584
-        },
-        {
-          "lat": 45.88067951359034,
-          "lon": 18.87121935761457
-        },
-        {
-          "lat": 47.56708696922615,
-          "lon": 20.504801880156226
-        },
-        {
-          "lat": 42.04219858797481,
-          "lon": 22.667479427157197
-        },
-        {
-          "lat": 46.19167960654914,
-          "lon": 21.48326954692806
-        },
-        {
-          "lat": 45.658611174418034,
-          "lon": 20.725768531312063
         }
       ]
     },
@@ -1160,8 +1043,8 @@
       "label": "Wie der 11. September die US-Außenpolitik verändert hat",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
-      "intensity": 5,
+      "last_seen": "2026-09-14",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1303,6 +1186,26 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
+        },
+        {
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
+        },
+        {
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
+        },
+        {
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
+        },
+        {
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
+        },
+        {
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
         }
       ]
     },
@@ -1318,7 +1221,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-13",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1400,29 +1303,9 @@
         {
           "lat": 49.438812496946845,
           "lon": -0.33571473280380365
-        },
-        {
-          "lat": 53.76036046347217,
-          "lon": 2.6299424732075867
-        },
-        {
-          "lat": 48.6414351972438,
-          "lon": -2.2258895067656157
-        },
-        {
-          "lat": 50.50918643002705,
-          "lon": 0.9471865392069301
-        },
-        {
-          "lat": 52.76910457731995,
-          "lon": 2.1120927567291288
-        },
-        {
-          "lat": 49.26270563651032,
-          "lon": -0.8141860837713315
         }
       ]
     }
   ],
-  "updated_at": "2026-09-13"
+  "updated_at": "2026-09-14"
 }
