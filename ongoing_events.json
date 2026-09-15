@@ -10,7 +10,7 @@
       },
       "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -228,7 +228,7 @@
       "label": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
       "first_seen": "2026-07-11",
       "last_seen": "2026-09-14",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,86 +410,9 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html"
-    },
-    {
-      "id": "conflict-moskau",
-      "type": "conflict",
-      "location": {
-        "name": "Moskau",
-        "lat": 55.7558,
-        "lon": 37.6173
-      },
-      "label": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-09-08",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 53.85079470076873,
-          "lon": 39.21049073394714
-        },
-        {
-          "lat": 54.43292296817385,
-          "lon": 37.34577609425161
-        },
-        {
-          "lat": 56.315625424933764,
-          "lon": 35.332420415835436
-        },
-        {
-          "lat": 57.070031118260474,
-          "lon": 38.02364534168205
-        },
-        {
-          "lat": 54.1333272409845,
-          "lon": 39.598913219012886
-        },
-        {
-          "lat": 54.52378718370683,
-          "lon": 40.23348585596238
-        },
-        {
-          "lat": 56.705154924715444,
-          "lon": 38.005178698619986
-        },
-        {
-          "lat": 57.61803819033761,
-          "lon": 38.827676879249324
-        },
-        {
-          "lat": 58.440967664588705,
-          "lon": 39.74073244886106
-        },
-        {
-          "lat": 58.38256820429665,
-          "lon": 38.410024057518115
-        }
-      ]
     },
     {
       "id": "conflict-kiew",
@@ -499,11 +422,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+      "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-08",
-      "intensity": 2,
+      "last_seen": "2026-09-15",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -585,6 +508,26 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
+        },
+        {
+          "lat": 50.948850684666155,
+          "lon": 28.325279312098463
+        },
+        {
+          "lat": 51.351796749008656,
+          "lon": 27.682541009710526
+        },
+        {
+          "lat": 50.25431719113463,
+          "lon": 31.461124293660774
+        },
+        {
+          "lat": 49.57292332967101,
+          "lon": 30.14628348204989
+        },
+        {
+          "lat": 50.74693274107446,
+          "lon": 28.645578690769284
         }
       ]
     },
@@ -600,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-09",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -642,26 +585,6 @@
         {
           "lat": -35.865892786606075,
           "lon": -61.3644157974494
-        },
-        {
-          "lat": -39.326965585764604,
-          "lon": -61.055410196511524
-        },
-        {
-          "lat": -40.44699856939178,
-          "lon": -63.45159415068992
-        },
-        {
-          "lat": -41.27637628645773,
-          "lon": -63.258747981415425
-        },
-        {
-          "lat": -36.34756851680508,
-          "lon": -63.49600224344118
-        },
-        {
-          "lat": -39.09603731928988,
-          "lon": -64.45135168388435
         }
       ]
     },
@@ -733,8 +656,8 @@
       "label": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-14",
-      "intensity": 7,
+      "last_seen": "2026-09-15",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -916,6 +839,26 @@
         {
           "lat": 45.37543506599333,
           "lon": 28.82659293997569
+        },
+        {
+          "lat": 44.84310848817243,
+          "lon": 30.497965984039816
+        },
+        {
+          "lat": 48.07951652093721,
+          "lon": 30.30865781050691
+        },
+        {
+          "lat": 45.41990474198419,
+          "lon": 32.013024667158376
+        },
+        {
+          "lat": 47.08250518001616,
+          "lon": 27.930922923936606
+        },
+        {
+          "lat": 46.50856603340853,
+          "lon": 28.950803158903565
         }
       ]
     },
@@ -931,7 +874,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-14",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -947,7 +890,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1009,26 +952,6 @@
         {
           "lat": 44.17450076607557,
           "lon": 17.917538836515284
-        },
-        {
-          "lat": 46.48024843719956,
-          "lon": 22.62761704725053
-        },
-        {
-          "lat": 42.95177953462088,
-          "lon": 17.62588541939654
-        },
-        {
-          "lat": 42.750787873751904,
-          "lon": 18.057169267857134
-        },
-        {
-          "lat": 45.63505313146907,
-          "lon": 22.15509669945589
-        },
-        {
-          "lat": 43.52292979992226,
-          "lon": 21.432512967185584
         }
       ]
     },
@@ -1044,7 +967,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-14",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1186,26 +1109,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -1221,7 +1124,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-13",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1283,29 +1186,86 @@
         {
           "lat": 53.62726225463004,
           "lon": 1.2474146851816712
+        }
+      ]
+    },
+    {
+      "id": "conflict-d-nemark",
+      "type": "conflict",
+      "location": {
+        "name": "Dänemark",
+        "lat": 56.2639,
+        "lon": 9.5018
+      },
+      "label": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 58.47345415982976,
+          "lon": 10.294876442506414
         },
         {
-          "lat": 51.608853695363,
-          "lon": 1.107106283601631
+          "lat": 56.178150724230484,
+          "lon": 11.628730696220819
         },
         {
-          "lat": 52.258682759544506,
-          "lon": 2.528576782133099
+          "lat": 57.16885548767619,
+          "lon": 7.913228207394534
         },
         {
-          "lat": 53.940973673939,
-          "lon": 0.14978987451358478
+          "lat": 54.54599891432945,
+          "lon": 10.465742515189746
         },
         {
-          "lat": 53.985778497534284,
-          "lon": -1.1713990482998542
+          "lat": 57.21232866015351,
+          "lon": 9.426960042225653
         },
         {
-          "lat": 49.438812496946845,
-          "lon": -0.33571473280380365
+          "lat": 56.98324367476947,
+          "lon": 12.280545782510085
+        },
+        {
+          "lat": 54.833197074705666,
+          "lon": 6.636977564838709
+        },
+        {
+          "lat": 56.26968995817476,
+          "lon": 8.591539408830585
+        },
+        {
+          "lat": 54.89373130096221,
+          "lon": 11.68032699458099
+        },
+        {
+          "lat": 55.880558931275985,
+          "lon": 7.927353202029678
+        },
+        {
+          "lat": 53.37203660782485,
+          "lon": 7.939622049352764
+        },
+        {
+          "lat": 56.93653629885219,
+          "lon": 8.96865121964357
+        },
+        {
+          "lat": 54.1211841712407,
+          "lon": 8.554904287957097
+        },
+        {
+          "lat": 55.84957608394326,
+          "lon": 9.840333175955184
+        },
+        {
+          "lat": 58.74128806472099,
+          "lon": 11.930517503191139
         }
       ]
     }
   ],
-  "updated_at": "2026-09-14"
+  "updated_at": "2026-09-15"
 }
