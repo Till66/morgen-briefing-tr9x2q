@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
+      "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-14",
-      "intensity": 7,
+      "last_seen": "2026-09-16",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,9 +410,29 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html"
     },
     {
       "id": "conflict-kiew",
@@ -425,8 +445,8 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-15",
-      "intensity": 3,
+      "last_seen": "2026-09-16",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -528,63 +548,26 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        }
-      ]
-    },
-    {
-      "id": "conflict-argentinien",
-      "type": "conflict",
-      "location": {
-        "name": "Argentinien",
-        "lat": -38.4161,
-        "lon": -63.6167
-      },
-      "label": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
-      "url": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-09",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": -35.68000193734875,
-          "lon": -61.15986668923553
         },
         {
-          "lat": -37.61588887033644,
-          "lon": -61.072435216489
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
         },
         {
-          "lat": -39.216491823938206,
-          "lon": -65.74394968072195
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
         },
         {
-          "lat": -37.38344491129577,
-          "lon": -63.15935238264172
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
         },
         {
-          "lat": -38.7931035243074,
-          "lon": -66.03427867332026
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
         },
         {
-          "lat": -38.65674435419641,
-          "lon": -66.60548427035846
-        },
-        {
-          "lat": -39.541646119670744,
-          "lon": -64.20899575274333
-        },
-        {
-          "lat": -36.38072457789216,
-          "lon": -65.42805617820811
-        },
-        {
-          "lat": -39.37829240314378,
-          "lon": -61.836189957489886
-        },
-        {
-          "lat": -35.865892786606075,
-          "lon": -61.3644157974494
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
         }
       ]
     },
@@ -657,7 +640,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -839,26 +822,6 @@
         {
           "lat": 45.37543506599333,
           "lon": 28.82659293997569
-        },
-        {
-          "lat": 44.84310848817243,
-          "lon": 30.497965984039816
-        },
-        {
-          "lat": 48.07951652093721,
-          "lon": 30.30865781050691
-        },
-        {
-          "lat": 45.41990474198419,
-          "lon": 32.013024667158376
-        },
-        {
-          "lat": 47.08250518001616,
-          "lon": 27.930922923936606
-        },
-        {
-          "lat": 46.50856603340853,
-          "lon": 28.950803158903565
         }
       ]
     },
@@ -874,7 +837,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-14",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -890,7 +853,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-12",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -932,26 +895,6 @@
         {
           "lat": 45.1446170970778,
           "lon": 18.66486612576767
-        },
-        {
-          "lat": 43.763534178726964,
-          "lon": 22.943739439982277
-        },
-        {
-          "lat": 42.19727659305657,
-          "lon": 18.537236696636008
-        },
-        {
-          "lat": 46.22610233804982,
-          "lon": 21.113617192683535
-        },
-        {
-          "lat": 47.01231487567055,
-          "lon": 22.287359242330503
-        },
-        {
-          "lat": 44.17450076607557,
-          "lon": 17.917538836515284
         }
       ]
     },
@@ -967,7 +910,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-14",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1089,26 +1032,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -1124,7 +1047,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-13",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1166,26 +1089,6 @@
         {
           "lat": 52.60660330733065,
           "lon": 0.8214986200862329
-        },
-        {
-          "lat": 48.91936077944547,
-          "lon": 1.518364013562995
-        },
-        {
-          "lat": 53.00449106773093,
-          "lon": -0.27206384812343504
-        },
-        {
-          "lat": 52.51108497719631,
-          "lon": 2.767526602588018
-        },
-        {
-          "lat": 51.8256239411071,
-          "lon": 2.199209477835616
-        },
-        {
-          "lat": 53.62726225463004,
-          "lon": 1.2474146851816712
         }
       ]
     },
@@ -1200,8 +1103,8 @@
       "label": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "intensity": 1,
+      "last_seen": "2026-09-16",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1263,9 +1166,260 @@
         {
           "lat": 58.74128806472099,
           "lon": 11.930517503191139
+        },
+        {
+          "lat": 55.698485290130826,
+          "lon": 7.044653257745237
+        },
+        {
+          "lat": 55.50270912741618,
+          "lon": 10.279341455295295
+        },
+        {
+          "lat": 58.85686840466395,
+          "lon": 10.662578073631407
+        },
+        {
+          "lat": 54.78137488545195,
+          "lon": 11.048281351961027
+        },
+        {
+          "lat": 55.037204315231115,
+          "lon": 6.945824285404948
+        }
+      ]
+    },
+    {
+      "id": "conflict-italien",
+      "type": "conflict",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
+      "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.96354556816491,
+          "lon": 14.954405376952469
+        },
+        {
+          "lat": 40.77941933863096,
+          "lon": 12.666001159895444
+        },
+        {
+          "lat": 41.115819795901494,
+          "lon": 15.561402355726901
+        },
+        {
+          "lat": 41.2207650932789,
+          "lon": 14.576932100756077
+        },
+        {
+          "lat": 42.02290548489741,
+          "lon": 14.583231353845035
+        },
+        {
+          "lat": 42.12479287819827,
+          "lon": 13.078262670259285
+        },
+        {
+          "lat": 43.87671267017424,
+          "lon": 9.737887733131853
+        },
+        {
+          "lat": 44.72522332035837,
+          "lon": 12.892993543081914
+        },
+        {
+          "lat": 42.98494797840142,
+          "lon": 13.99736330057037
+        },
+        {
+          "lat": 40.05018851546586,
+          "lon": 10.067263518518363
+        },
+        {
+          "lat": 41.034690375799585,
+          "lon": 14.115707447356243
+        },
+        {
+          "lat": 39.312250141013116,
+          "lon": 11.216163544775723
+        },
+        {
+          "lat": 40.380055754187175,
+          "lon": 14.273855916796451
+        },
+        {
+          "lat": 44.70445178663706,
+          "lon": 12.173927512568637
+        },
+        {
+          "lat": 44.02802147728822,
+          "lon": 12.934389760977911
+        }
+      ]
+    },
+    {
+      "id": "conflict-den-haag",
+      "type": "conflict",
+      "location": {
+        "name": "Den Haag",
+        "lat": 52.0705,
+        "lon": 4.3007
+      },
+      "label": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
+      "url": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.02295769572269,
+          "lon": 3.886546796768216
+        },
+        {
+          "lat": 53.87746803955524,
+          "lon": 2.148660600361219
+        },
+        {
+          "lat": 54.46624706773175,
+          "lon": 6.96603251098947
+        },
+        {
+          "lat": 54.92731906432305,
+          "lon": 1.5276505071982163
+        },
+        {
+          "lat": 53.03178255034827,
+          "lon": 4.841055878775091
+        },
+        {
+          "lat": 54.90586464158338,
+          "lon": 4.6283395879983065
+        },
+        {
+          "lat": 53.61044727426673,
+          "lon": 1.4197651050114692
+        },
+        {
+          "lat": 52.37636481590427,
+          "lon": 3.271460696095126
+        },
+        {
+          "lat": 52.729214804253246,
+          "lon": 6.764220101146661
+        },
+        {
+          "lat": 51.096337083818824,
+          "lon": 3.7756891381885365
+        },
+        {
+          "lat": 49.303537238529195,
+          "lon": 3.1783835603354693
+        },
+        {
+          "lat": 54.490199026602255,
+          "lon": 2.0917669336074654
+        },
+        {
+          "lat": 49.079433932522534,
+          "lon": 6.933291650270063
+        },
+        {
+          "lat": 50.35825192827167,
+          "lon": 5.055614324673572
+        },
+        {
+          "lat": 50.20031550421795,
+          "lon": 4.01353173158598
+        }
+      ]
+    },
+    {
+      "id": "conflict-iran",
+      "type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "label": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.314317452452336,
+          "lon": 54.308931541458925
+        },
+        {
+          "lat": 31.76886970091131,
+          "lon": 54.692949896597526
+        },
+        {
+          "lat": 29.538438052420723,
+          "lon": 51.63503596293624
+        },
+        {
+          "lat": 33.59221060018118,
+          "lon": 51.948650845072386
+        },
+        {
+          "lat": 32.01312081668145,
+          "lon": 51.39715410730736
+        },
+        {
+          "lat": 30.094153977610326,
+          "lon": 56.561110202577225
+        },
+        {
+          "lat": 30.595025316608496,
+          "lon": 54.547099416960755
+        },
+        {
+          "lat": 35.42161254304278,
+          "lon": 54.89078023607163
+        },
+        {
+          "lat": 34.08406327260066,
+          "lon": 55.9460103234523
+        },
+        {
+          "lat": 35.17946601838571,
+          "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
         }
       ]
     }
   ],
-  "updated_at": "2026-09-15"
+  "updated_at": "2026-09-16"
 }
