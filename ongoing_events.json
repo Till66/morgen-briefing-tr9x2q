@@ -11,7 +11,7 @@
       "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
       "first_seen": "2026-07-11",
       "last_seen": "2026-09-16",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,26 +193,6 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
-        },
-        {
-          "lat": 47.2410417403942,
-          "lon": 29.61412063093533
-        },
-        {
-          "lat": 45.75347750458784,
-          "lon": 32.04224714080203
-        },
-        {
-          "lat": 47.48508185572179,
-          "lon": 29.96273554535926
-        },
-        {
-          "lat": 50.457943303319844,
-          "lon": 28.654934935902
-        },
-        {
-          "lat": 45.48967851656784,
-          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
@@ -227,7 +207,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,8 +425,8 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-16",
-      "intensity": 4,
+      "last_seen": "2026-09-17",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,63 +548,26 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        }
-      ]
-    },
-    {
-      "id": "conflict-frankreich",
-      "type": "conflict",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 45.915260152718346,
-          "lon": -0.6345767860051894
         },
         {
-          "lat": 44.0141308962731,
-          "lon": 1.6519135338238935
+          "lat": 49.18340525302638,
+          "lon": 28.079588566739712
         },
         {
-          "lat": 43.33155325583032,
-          "lon": 4.482713496411269
+          "lat": 52.8190998028262,
+          "lon": 29.558760026647185
         },
         {
-          "lat": 45.6768928815189,
-          "lon": 3.1206365281394994
+          "lat": 48.27402314887231,
+          "lon": 29.32772795449261
         },
         {
-          "lat": 47.93219036359205,
-          "lon": 1.7503498517190685
+          "lat": 50.96710365345855,
+          "lon": 32.00000546109001
         },
         {
-          "lat": 47.859729563631525,
-          "lon": 0.32126278902002636
-        },
-        {
-          "lat": 45.55691212203794,
-          "lon": 3.3862586764916216
-        },
-        {
-          "lat": 45.97331231583732,
-          "lon": 5.10998907476931
-        },
-        {
-          "lat": 47.625256594495674,
-          "lon": 0.7184404653170937
-        },
-        {
-          "lat": 48.55797277574893,
-          "lon": 1.0608894506009268
+          "lat": 49.23793422982968,
+          "lon": 28.97863135863599
         }
       ]
     },
@@ -640,7 +583,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -802,26 +745,6 @@
         {
           "lat": 45.86559231549108,
           "lon": 27.80753129424551
-        },
-        {
-          "lat": 45.22360113683648,
-          "lon": 28.3318131798425
-        },
-        {
-          "lat": 44.486746443278214,
-          "lon": 30.454195368552508
-        },
-        {
-          "lat": 47.18470796058472,
-          "lon": 29.013312605788652
-        },
-        {
-          "lat": 44.39916605065499,
-          "lon": 29.385631559151022
-        },
-        {
-          "lat": 45.37543506599333,
-          "lon": 28.82659293997569
         }
       ]
     },
@@ -910,7 +833,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-14",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1012,26 +935,6 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
-        },
-        {
-          "lat": 37.912293099314276,
-          "lon": -92.94674763864657
-        },
-        {
-          "lat": 34.091124287829764,
-          "lon": -93.97216174578706
-        },
-        {
-          "lat": 38.516843244090175,
-          "lon": -93.15389588562758
-        },
-        {
-          "lat": 37.95085245789026,
-          "lon": -95.99543142612114
-        },
-        {
-          "lat": 39.36966268424379,
-          "lon": -98.28475842366234
         }
       ]
     },
@@ -1104,7 +1007,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-16",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1166,26 +1069,6 @@
         {
           "lat": 58.74128806472099,
           "lon": 11.930517503191139
-        },
-        {
-          "lat": 55.698485290130826,
-          "lon": 7.044653257745237
-        },
-        {
-          "lat": 55.50270912741618,
-          "lon": 10.279341455295295
-        },
-        {
-          "lat": 58.85686840466395,
-          "lon": 10.662578073631407
-        },
-        {
-          "lat": 54.78137488545195,
-          "lon": 11.048281351961027
-        },
-        {
-          "lat": 55.037204315231115,
-          "lon": 6.945824285404948
         }
       ]
     },
@@ -1200,8 +1083,8 @@
       "label": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
       "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "intensity": 1,
+      "last_seen": "2026-09-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1263,6 +1146,26 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
+        },
+        {
+          "lat": 44.79071973806741,
+          "lon": 11.074754779519921
+        },
+        {
+          "lat": 43.15981340633479,
+          "lon": 15.513897103652566
+        },
+        {
+          "lat": 43.68310051648728,
+          "lon": 11.30539079836765
+        },
+        {
+          "lat": 39.73122930951456,
+          "lon": 15.493655383045937
+        },
+        {
+          "lat": 41.90542024989051,
+          "lon": 13.262696645559206
         }
       ]
     },
@@ -1277,8 +1180,8 @@
       "label": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
       "url": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "intensity": 1,
+      "last_seen": "2026-09-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1340,6 +1243,26 @@
         {
           "lat": 50.20031550421795,
           "lon": 4.01353173158598
+        },
+        {
+          "lat": 49.865813272810385,
+          "lon": 5.390907927881322
+        },
+        {
+          "lat": 49.63209054407887,
+          "lon": 6.408652449728724
+        },
+        {
+          "lat": 49.3161003660908,
+          "lon": 5.08503040151939
+        },
+        {
+          "lat": 49.119764908314046,
+          "lon": 3.326345754306029
+        },
+        {
+          "lat": 54.93813510291177,
+          "lon": 5.24112727862029
         }
       ]
     },
@@ -1354,8 +1277,8 @@
       "label": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "intensity": 1,
+      "last_seen": "2026-09-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1417,9 +1340,45 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
         }
       ]
+    },
+    {
+      "id": "protest-den-haag",
+      "type": "protest",
+      "location": {
+        "name": "Den Haag",
+        "lat": 52.0705,
+        "lon": 4.3007
+      },
+      "label": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
+      "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-09-16"
+  "updated_at": "2026-09-17"
 }
