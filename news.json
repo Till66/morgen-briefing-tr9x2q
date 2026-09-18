@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:19:20.643710+00:00",
+  "generated_at": "2026-09-18T08:54:26.973196+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,8 +45,88 @@
   },
   "articles": [
     {
+      "title": "Juristentag plädiert für Schutzkonzept bei Sterbehilfe",
+      "summary": "Das Bundesverfassungsgericht hat das Recht auf selbstbestimmtes Sterben gestärkt. Doch wie lässt sich sicherstellen, dass die Entscheidung frei getroffen wird? Der Juristentag fordert Regeln für Beratung und Aufklärung. Von Frank Bräutigam.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/juristentag-sterbehilfe-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 10:01:05 +0200"
+    },
+    {
+      "title": "Spritpreise: Hoppermann schlägt bis zu 25 Cent Entlastung pro Liter vor",
+      "summary": "Wie können Autofahrer und Spediteure angesichts der hohen Spritpreise entlastet werden? Viele Vorschläge liegen auf dem Tisch, nun hat CDU-Generalsekretärin Hoppermann erstmals konkrete Eckdaten ins Spiel gebracht.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 08:31:11 +0200"
+    },
+    {
+      "title": "Nach Schließung des Konsulats: Deutschlands schwieriger Kurs gegenüber Russland",
+      "summary": "Flagge eingeholt, Personal ausgeflogen: Das russische Generalkonsulat in Bonn ist seit heute als Reaktion auf den Leipziger Drohnen-Vorfall geschlossen. Außenminister Wadephul nennt das eine harte Reaktion, er setzt aber weiter auf Dialog. Von M. Sambale.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/generalkonsulat-russland-schliessung-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 04:52:54 +0200"
+    },
+    {
+      "title": "Bundesanwaltschaft: Islamist soll Anschlag auf Kirche vorbereitet haben",
+      "summary": "Ein 24-jähriger Iraker soll eine Kirche in Bremen als Anschlagsziel ausgewählt und sich schon eine Schusswaffe beschafft haben. Nach Angaben der Bundesanwaltschaft wurde er nun in Brandenburg festgenommen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/mutmasslicher-islamist-festgenommen-brandenburg-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 16:29:47 +0200"
+    },
+    {
+      "title": "Warum die SPD jetzt auf Manuela Schwesig hofft",
+      "summary": "Die SPD hofft bei der Wahl in Mecklenburg-Vorpommern auf die Zugkraft von Ministerpräsidentin Schwesig. Ein Erfolg könnte die Partei etwas stabilisieren, doch die Stimmung bleibt angespannt. Von Anne-Katrin Mellmann und Moritz Rödle.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 16:33:03 +0200"
+    },
+    {
       "title": "SPD-Spitzenkandidat Krach: Lieber nach vorne schauen",
-      "summary": "Der Spitzenkandidat der Berliner SPD hat ein erklärtes Ziel: Er will das Rote Rathaus für die SPD zurückerobern. Aber die Umfragen sind für nicht gerade ermutigend. Zudem gibt es Ermittlungen gegen ihn. Von Martin Polansky.",
+      "summary": "Der Spitzenkandidat der Berliner SPD hat ein erklärtes Ziel: Er will das Rote Rathaus für die SPD zurückerobern. Aber die Umfragen sind nicht gerade ermutigend. Zudem gibt es Ermittlungen gegen ihn. Von Martin Polansky.",
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-krach-spd-100.html",
       "category": "politik",
@@ -93,90 +173,26 @@
       "published": "Thu, 17 Sep 2026 06:00:50 +0200"
     },
     {
-      "title": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-      "summary": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für eine befristete Senkung der Mehrwertsteuer aus.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 19:15:59 +0200"
-    },
-    {
-      "title": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
-      "summary": "Die Berliner Grünen haben gute Chancen, im nächsten Senat mitzuregieren. Spitzenkandidat Werner Graf setzt auf einen moderaten Wahlkampf, der ihm viele Optionen offenhalten soll. Von T. Schmutzler und M. Kell.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 17:39:25 +0200"
-    },
-    {
-      "title": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
-      "summary": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. Bartels und T. Aßmann.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 14:01:27 +0200"
-    },
-    {
-      "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-      "summary": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach von einer \"ernsten Gefahr\".",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 12:52:32 +0200"
-    },
-    {
-      "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-      "summary": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten zu Wort - und stellen sich hinter Merz. Der reagiert erleichtert.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 13:19:59 +0200"
-    },
-    {
-      "title": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
-      "summary": "Die Auftragsbücher deutscher Industrieunternehmen sind so voll wie noch nie. Besonders Aufträge für Flugzeuge, Schiffe, Züge und auch Militärfahrzeuge sorgen für viel Extrageschäft im Verarbeitenden Gewerbe.",
+      "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
+      "summary": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till Bücker.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrie-aufrtagsbestand-rekord-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 09:20:19 +0200"
+    },
+    {
+      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+      "summary": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,7 +202,71 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 11:00:03 +0200"
+      "published": "Fri, 18 Sep 2026 10:03:21 +0200"
+    },
+    {
+      "title": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
+      "summary": "Zumindest der Start dürfte für den DAX heute holprig verlaufen. Dabei sollten sinkende Ölpreise eigentlich stützen. Auch die Vorgaben aus den USA und Asien fallen stark aus - aber die Verunsicherung bleibt hoch.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 07:46:21 +0200"
+    },
+    {
+      "title": "Wirtschaft vor acht vom 17.09.2026",
+      "summary": "Wirtschaft vor acht vom 17.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/video/video-1650958.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 09:22:53 +0200"
+    },
+    {
+      "title": "Update Wirtschaft vom 18.09.2026",
+      "summary": "Update Wirtschaft vom 18.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1651038.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 10:29:40 +0200"
+    },
+    {
+      "title": "Zinserhöhung der US-Notenbank - ein Signal an Donald Trump?",
+      "summary": "US-Präsident Trump möchte niedrigere Zinsen. Doch die Notenbank Federal Reserve hat den Leitzins erhöht. Was sagt die Entscheidung über die Unabhängigkeit von Fed-Chef Warsh? Von Michelle Goddemeier.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/fed-entscheidung-warsh-trump-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 14:31:22 +0200"
     },
     {
       "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
@@ -221,86 +301,6 @@
       "published": "Wed, 16 Sep 2026 13:36:53 +0200"
     },
     {
-      "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
-      "summary": "Künstliche Intelligenz entwickelt sich rasant - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt informierte der Entwickler über sechs neue Zwischenfälle.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 09:05:33 +0200"
-    },
-    {
-      "title": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
-      "summary": "Das Girokonto ist praktisch unverzichtbar. Doch vor allem bei vielen Filialbanken fällt mittlerweile eine Kontoführungsgebühr an - Kosten, die sich oft vermeiden lassen. Von L.-M. Hiltscher und L. Sallamon.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 06:28:03 +0200"
-    },
-    {
-      "title": "Marktbericht: Anleger nehmen US-Zinserhöhung gelassen auf",
-      "summary": "Der DAX dürfte heute trotz der Zinserhöhung in den USA zum Handelsstart zulegen. Die Anleger sehen die Unabhängigkeit der US-Notenbank bestätigt. Auch das Mehr an Klarheit über den künftigen Zinskurs kommt an.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 07:36:45 +0200"
-    },
-    {
-      "title": "Wirtschaft vor acht vom 15.09.2026",
-      "summary": "Wirtschaft vor acht vom 15.09.2026",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/video/video-1649614.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 15 Sep 2026 20:42:18 +0200"
-    },
-    {
-      "title": "Update Wirtschaft vom 17.09.2026",
-      "summary": "Update Wirtschaft vom 17.09.2026",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1650412.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 09:47:51 +0200"
-    },
-    {
       "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
       "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -317,65 +317,33 @@
       "published": "Wed, 16 Sep 2026 13:48:26 +0200"
     },
     {
-      "title": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
-      "summary": "Das Kabinett Meloni regiert Italien inzwischen länger als jeder seiner Vorgänger in der Nachkriegszeit. Und doch sitzt Meloni längst nicht mehr so fest im Sattel. Ein Streit über eine Wahlrechtsreform belastet ihre Koalition schwer. Von A. Giordano.",
+      "title": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
+      "summary": "Nach Angaben von UN-Berichterstattern könnten zwei US-Angriffe in Iran als Kriegsverbrechen gewertet werden. Darunter ist eine Attacke auf eine Mädchenschule zu Beginn des Jahres. Aber auch die iranische Regierung wird scharf kritisiert.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 06:29:45 +0200"
-    },
-    {
-      "title": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
-      "summary": "Hashim Thaci hat den Kosovo mit der Kosovarischen Befreiungsarmee in die Unabhängigkeit geführt. Hat der Ex-Präsident dabei Kriegsverbrechen begangen? Ein Sondertribunal in Den Haag fällt heute sein Urteil. Von Andreas Herz.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Den Haag",
-        "lat": 52.0705,
-        "lon": 4.3007
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 05:06:56 +0200"
-    },
-    {
-      "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen -Beschuss",
-      "summary": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtraketen beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [
         {
           "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
           },
           "to": {
-            "name": "Dänemark",
-            "lat": 56.2639,
-            "lon": 9.5018
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
           }
         }
       ],
       "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 01:13:56 +0200"
+      "published": "Thu, 17 Sep 2026 14:31:47 +0200"
     },
     {
       "title": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
@@ -394,33 +362,20 @@
       "published": "Wed, 16 Sep 2026 18:40:52 +0200"
     },
     {
-      "title": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
-      "summary": "Präsident Trump behauptet immer wieder, dass die USA über \"praktisch unbegrenzt\" Munition verfügen - trotz des Iran-Kriegs. Ein Bericht an den Kongress widerspricht und listet genau Kosten und Schäden des Krieges auf.",
+      "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "summary": "An der Ostflanke der NATO wachsen die Sorgen vor russischen Angriffen. Angesichts jüngster Vorfälle im polnisch-ukrainischen Grenzgebiet warnt Regierungschef Tusk nun vor einem russischen Plan, Ukraine-Verbündete gezielt anzugreifen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 15 Sep 2026 14:04:35 +0200"
+      "published": "Thu, 17 Sep 2026 20:21:41 +0200"
     },
     {
       "title": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
@@ -479,6 +434,115 @@
       ],
       "chokepoint_lane": null,
       "published": "Mon, 14 Sep 2026 14:11:29 +0200"
+    },
+    {
+      "title": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 11 Sep 2026 09:52:12 +0200"
+    },
+    {
+      "title": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "summary": "Verteidigungsminister Pistorius sagt der Ukraine weitere Abfangraketen zu. Während Kiews Unterstützer ihre Hilfe ausbauen, spricht Moskau nach einem Telefonat zwischen Putin und Trump von einer möglichen Wiederannäherung an die USA.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Moskau",
+            "lat": 55.7558,
+            "lon": 37.6173
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 08 Sep 2026 18:47:44 +0200"
+    },
+    {
+      "title": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
+      "summary": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 07:06:59 +0200"
+    },
+    {
+      "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
+      "summary": "Kanadas Premier Carney hat sich im Europaparlament in Straßburg für eine stärkere Zusammenarbeit seines Landes mit der EU ausgesprochen. Eine Partnerschaft müsse auf Werten begründet sein, nicht auf Eigensinn. Von Andreas Meyer-Feist.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Straßburg",
+        "lat": 48.5734,
+        "lon": 7.7521
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 19:19:34 +0200"
+    },
+    {
+      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
+      "summary": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweden",
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 17:13:34 +0200"
+    },
+    {
+      "title": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
+      "summary": "Unter 13, bis 15 und bis 18 - in diesen Schritten soll die Nutzung Sozialer Medien durch Minderjährige geregelt werden: Das schlägt die EU-Kommission mit dem EU Kids Act vor. Süchtig machende Funktionen sollen ganz verboten werden. Von K. Schmid.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/soziale-medien-gesetz-eu-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 14:45:28 +0200"
     },
     {
       "title": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
@@ -545,43 +609,11 @@
       "published": "Wed, 16 Sep 2026 14:40:13 +0200"
     },
     {
-      "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-      "summary": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: mit einem neuen Sicherheitsmechanismus und mehr Zusammenarbeit.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 12:02:53 +0200"
-    },
-    {
-      "title": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
-      "summary": "Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen, die der Regierung zufolge Sprengstoff geladen hatte. In Polen wurde ebenfalls eine mutmaßlich russische Drohne gefunden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 14:40:15 +0200"
-    },
-    {
-      "title": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
-      "summary": "Unbekannte haben auf mehreren Bahnstrecken in den Niederlanden Rohre abgelegt. In Teilen des Landes fuhren keine Züge mehr. Der Netzbetreiber geht von Sabotage aus.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
-      "category": "welt",
+      "title": "DFB: Kann ter Stegen endlich als Nummer 1 ein Turnier spielen?",
+      "summary": "Jürgen Klopp hat Marc-André ter Stegen \"für den Moment\" zur Nummer 1 erklärt. Mit dem Routinier, so der Plan, könne er \"außen rum auch ein bisschen spinnen\".",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/ter-stegen-spielt-fuer-sein-happy-end,ter-stegen-dfb-nominierung-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -590,23 +622,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 15 Sep 2026 13:05:37 +0200"
-    },
-    {
-      "title": "US-Repräsentantenhaus beschließt Sanktionen gegen Russland",
-      "summary": "Lange wurde gerungen, jetzt hat auch das US-Repräsentantenhaus neue Sanktionen gegen Russland beschlossen. Damit können auch die Handelspartner Moskaus ins Visier genommen werden. Aber ist Trump bereit, das auch umzusetzen? Von Ralf Borchard.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-140.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 09:25:46 +0200"
+      "published": "Thu, 17 Sep 2026 20:30:49 +0200"
     },
     {
       "title": "44 Spieler: Jürgen Klopp überrascht mit erstem DFB-Kader",
@@ -622,7 +638,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 11:03:18 +0200"
+      "published": "Thu, 17 Sep 2026 22:06:27 +0200"
+    },
+    {
+      "title": "Klopp nominiert Mika Baur ins DFB-Team - unverhofft kommt oft",
+      "summary": "Er war Paderborner Aufstiegsheld und wechselte im Sommer zu Celtic Glasgow. Jetzt wird Mika Baur plötzlich Nationalspieler.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-ex-paderborner-mika-baur-und-dfb-elf-unverhofft-kommt-oft-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 12:06:00 +0200"
+    },
+    {
+      "title": "Kimmich ist zurück auf seiner Lieblingsposition",
+      "summary": "Unter Jürgen Klopp soll Joshua Kimmich wieder die Fäden im DFB-Mittelfeld ziehen. Der neue Bundestrainer korrigiert damit die Rechtsverteidiger-Rolle, die der FC-Bayern-Spieler unter Julian Nagelsmann häufig einnehmen musste.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/br/br-dfb-neustart-unter-klopp-kimmich-wieder-auf-lieblingsposition-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 17 Sep 2026 12:49:55 +0200"
     },
     {
       "title": "Darum dauert die Länderspielpause fast drei Wochen",
@@ -641,10 +689,10 @@
       "published": "Wed, 16 Sep 2026 21:07:50 +0200"
     },
     {
-      "title": "Alles Wichtige zur Nations League",
-      "summary": "Am 24. September startet die neue Saison der Nations League. Alles zum Modus, den deutschen Spielen und den TV-Übertragungen gibt es hier.",
+      "title": "Bundestrainer Klopp nimmt 44 Spieler mit in die Länderspielpause",
+      "summary": "Viele Details waren schon bekannt, bevor Jürgen Klopp seinen ersten Kader als Bundestrainer vorgestellt hat. Dass es zwei Kader sein werden, hat viele aber doch überrascht.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/alles-wichtige-zur-nations-league,uefa-nations-league-faq-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/klopps-xxl-kader-belohnung-oder-wertminderung,bundesliga-update-vorschau-spieltag-vier-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -654,71 +702,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 13:34:53 +0200"
+      "published": "Thu, 17 Sep 2026 14:40:00 +0200"
     },
     {
-      "title": "Krummes Eigentor leitet Leverkusens Sieg gegen Celje ein",
-      "summary": "Leverkusen hat gegen Celje einen gelungenen Start in die Europa League gefeiert, ließ gegen die Slowenen aber viele Chancen aus.",
+      "title": "Eisbären schlagen Straubing durch Effizienz und Leidensfähigkeit",
+      "summary": "Die Eisbären Berlin haben einen erfolgreichen DEL-Auftakt gefeiert. Der letztjährige Meister gewann vor heimischem Publikum gegen die Straubing Tigers.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-krummes-eigentor-leitet-leverkusens-sieg-gegen-celje-ein-100.html",
+      "url": "https://www.sportschau.de/regional/rbb/rbb-eisbaeren-schlagen-straubing-durch-effizienz-und-leidensfaehigkeit-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 23:05:00 +0200"
-    },
-    {
-      "title": "Von Hoffenheim nach Kreta - Pannen, Verspätung und teure Hotelpreise",
-      "summary": "Fußball-Bundesligist TSG Hoffenheim startet am Donnerstag in die Europa League. Auf Kreta soll der Grundstein für eine erfolgreiche Europacup-Saison gelegt werden.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-europa-reise-der-tsg-1899-hoffenheim-pannen-verspaetung-und-teure-hotelpreise-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 22:57:50 +0200"
-    },
-    {
-      "title": "OFI Kreta im Gegnercheck - das erwartet die TSG Hoffenheim",
-      "summary": "Pokalsieger, Supercup-Gewinner und aktuell in starker Form: OFI Kreta fordert die TSG Hoffenheim. Was steckt hinter dem selbstbewussten Außenseiter aus Heraklion?",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-ofi-kreta-im-gegnercheck-das-erwartet-die-tsg-hoffenheim-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 15 Sep 2026 10:57:12 +0200"
-    },
-    {
-      "title": "Reitverband: Noch ein Sponsor zahlt nicht",
-      "summary": "Der deutsche Reitsport hat ein weiteres Geldproblem. Nach der Kündigung des Hauptsponsors fehlt nun auch die sechsstellige Summe, die ein Unternehmen aus den Vereinigten Arabischen Emiraten zugesagt hatte.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/pferdesport/reiter-warten-auf-geld-aus-emiraten,reiten-sponsor-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 08:38:06 +0200"
+      "published": "Fri, 18 Sep 2026 08:53:30 +0200"
     },
     {
       "title": "FAQ zum DEL-Start: Spielplan, Favoriten, TV-Übertragung der Eishockey-Saison",
@@ -746,10 +746,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "label": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-16",
-      "intensity": 7,
+      "last_seen": "2026-09-18",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -931,9 +931,29 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
+        },
+        {
+          "lat": 47.2410417403942,
+          "lon": 29.61412063093533
+        },
+        {
+          "lat": 45.75347750458784,
+          "lon": 32.04224714080203
+        },
+        {
+          "lat": 47.48508185572179,
+          "lon": 29.96273554535926
+        },
+        {
+          "lat": 50.457943303319844,
+          "lon": 28.654934935902
+        },
+        {
+          "lat": 45.48967851656784,
+          "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -945,7 +965,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1163,8 +1183,8 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-17",
-      "intensity": 5,
+      "last_seen": "2026-09-18",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1306,6 +1326,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -1321,7 +1361,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1463,26 +1503,6 @@
         {
           "lat": 48.25828939934629,
           "lon": 31.636810150255986
-        },
-        {
-          "lat": 48.80517311479027,
-          "lon": 31.72893396467027
-        },
-        {
-          "lat": 44.93395120132981,
-          "lon": 28.1025764317196
-        },
-        {
-          "lat": 46.32478152847902,
-          "lon": 32.1524787488454
-        },
-        {
-          "lat": 47.274292020618866,
-          "lon": 28.803322298516708
-        },
-        {
-          "lat": 45.86559231549108,
-          "lon": 27.80753129424551
         }
       ]
     },
@@ -1567,11 +1587,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Wie der 11. September die US-Außenpolitik verändert hat",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
+      "label": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
+      "url": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-14",
-      "intensity": 3,
+      "last_seen": "2026-09-18",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1673,6 +1693,26 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
+        },
+        {
+          "lat": 37.912293099314276,
+          "lon": -92.94674763864657
+        },
+        {
+          "lat": 34.091124287829764,
+          "lon": -93.97216174578706
+        },
+        {
+          "lat": 38.516843244090175,
+          "lon": -93.15389588562758
+        },
+        {
+          "lat": 37.95085245789026,
+          "lon": -95.99543142612114
+        },
+        {
+          "lat": 39.36966268424379,
+          "lon": -98.28475842366234
         }
       ]
     },
@@ -1745,7 +1785,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1787,26 +1827,6 @@
         {
           "lat": 55.880558931275985,
           "lon": 7.927353202029678
-        },
-        {
-          "lat": 53.37203660782485,
-          "lon": 7.939622049352764
-        },
-        {
-          "lat": 56.93653629885219,
-          "lon": 8.96865121964357
-        },
-        {
-          "lat": 54.1211841712407,
-          "lon": 8.554904287957097
-        },
-        {
-          "lat": 55.84957608394326,
-          "lon": 9.840333175955184
-        },
-        {
-          "lat": 58.74128806472099,
-          "lon": 11.930517503191139
         }
       ]
     },
@@ -1822,7 +1842,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1884,26 +1904,6 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
-        },
-        {
-          "lat": 44.79071973806741,
-          "lon": 11.074754779519921
-        },
-        {
-          "lat": 43.15981340633479,
-          "lon": 15.513897103652566
-        },
-        {
-          "lat": 43.68310051648728,
-          "lon": 11.30539079836765
-        },
-        {
-          "lat": 39.73122930951456,
-          "lon": 15.493655383045937
-        },
-        {
-          "lat": 41.90542024989051,
-          "lon": 13.262696645559206
         }
       ]
     },
@@ -1919,7 +1919,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1981,26 +1981,6 @@
         {
           "lat": 50.20031550421795,
           "lon": 4.01353173158598
-        },
-        {
-          "lat": 49.865813272810385,
-          "lon": 5.390907927881322
-        },
-        {
-          "lat": 49.63209054407887,
-          "lon": 6.408652449728724
-        },
-        {
-          "lat": 49.3161003660908,
-          "lon": 5.08503040151939
-        },
-        {
-          "lat": 49.119764908314046,
-          "lon": 3.326345754306029
-        },
-        {
-          "lat": 54.93813510291177,
-          "lon": 5.24112727862029
         }
       ]
     },
@@ -2016,7 +1996,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2078,26 +2058,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -2112,8 +2072,8 @@
       "label": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
-      "intensity": 1,
+      "last_seen": "2026-09-18",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     }
