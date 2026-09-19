@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,8 +445,8 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-18",
-      "intensity": 6,
+      "last_seen": "2026-09-19",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -608,6 +608,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -623,7 +643,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,26 +765,6 @@
         {
           "lat": 47.16269752010708,
           "lon": 33.21378695515154
-        },
-        {
-          "lat": 44.21626024857484,
-          "lon": 29.344966346588556
-        },
-        {
-          "lat": 44.284831487835,
-          "lon": 28.04790044192257
-        },
-        {
-          "lat": 48.80536192414418,
-          "lon": 28.855841443019298
-        },
-        {
-          "lat": 46.39469957613205,
-          "lon": 33.245657744984875
-        },
-        {
-          "lat": 48.25828939934629,
-          "lon": 31.636810150255986
         }
       ]
     },
@@ -785,63 +785,6 @@
       "subpoints": []
     },
     {
-      "id": "conflict-belgrad",
-      "type": "conflict",
-      "location": {
-        "name": "Belgrad",
-        "lat": 44.7866,
-        "lon": 20.4489
-      },
-      "label": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 44.378262710204645,
-          "lon": 22.02344913122918
-        },
-        {
-          "lat": 44.72051886561502,
-          "lon": 19.363922300070854
-        },
-        {
-          "lat": 46.33873670864518,
-          "lon": 20.203083417827397
-        },
-        {
-          "lat": 43.63455464292354,
-          "lon": 19.921714946545475
-        },
-        {
-          "lat": 45.532141735027345,
-          "lon": 18.303384348756836
-        },
-        {
-          "lat": 42.338051707387216,
-          "lon": 18.152823613928238
-        },
-        {
-          "lat": 46.47227663819661,
-          "lon": 22.85716262519887
-        },
-        {
-          "lat": 46.79865538329949,
-          "lon": 18.290309758860573
-        },
-        {
-          "lat": 46.38743180260864,
-          "lon": 22.319864265631267
-        },
-        {
-          "lat": 45.1446170970778,
-          "lon": 18.66486612576767
-        }
-      ]
-    },
-    {
       "id": "conflict-usa",
       "type": "conflict",
       "location": {
@@ -852,8 +795,8 @@
       "label": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
       "url": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-18",
-      "intensity": 4,
+      "last_seen": "2026-09-19",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -975,6 +918,26 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -1104,7 +1067,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1146,26 +1109,6 @@
         {
           "lat": 40.05018851546586,
           "lon": 10.067263518518363
-        },
-        {
-          "lat": 41.034690375799585,
-          "lon": 14.115707447356243
-        },
-        {
-          "lat": 39.312250141013116,
-          "lon": 11.216163544775723
-        },
-        {
-          "lat": 40.380055754187175,
-          "lon": 14.273855916796451
-        },
-        {
-          "lat": 44.70445178663706,
-          "lon": 12.173927512568637
-        },
-        {
-          "lat": 44.02802147728822,
-          "lon": 12.934389760977911
         }
       ]
     },
@@ -1181,7 +1124,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1223,26 +1166,6 @@
         {
           "lat": 51.096337083818824,
           "lon": 3.7756891381885365
-        },
-        {
-          "lat": 49.303537238529195,
-          "lon": 3.1783835603354693
-        },
-        {
-          "lat": 54.490199026602255,
-          "lon": 2.0917669336074654
-        },
-        {
-          "lat": 49.079433932522534,
-          "lon": 6.933291650270063
-        },
-        {
-          "lat": 50.35825192827167,
-          "lon": 5.055614324673572
-        },
-        {
-          "lat": 50.20031550421795,
-          "lon": 4.01353173158598
         }
       ]
     },
@@ -1258,7 +1181,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-17",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1300,26 +1223,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -1334,11 +1237,27 @@
       "label": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "intensity": 2,
+      "last_seen": "2026-09-19",
+      "intensity": 3,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-syrien",
+      "type": "protest",
+      "location": {
+        "name": "Syrien",
+        "lat": 34.8021,
+        "lon": 38.9968
+      },
+      "label": "Syrien: Größte Proteste seit Sturz von Assad",
+      "url": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-09-18"
+  "updated_at": "2026-09-19"
 }
