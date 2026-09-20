@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "label": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,8 +445,8 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-19",
-      "intensity": 7,
+      "last_seen": "2026-09-20",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -628,6 +628,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -643,7 +663,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,26 +765,6 @@
         {
           "lat": 47.833315655745295,
           "lon": 28.090696202955254
-        },
-        {
-          "lat": 45.242131605297246,
-          "lon": 30.690006828439305
-        },
-        {
-          "lat": 44.86923495161039,
-          "lon": 32.99830989038381
-        },
-        {
-          "lat": 43.66182213474515,
-          "lon": 33.29905805801334
-        },
-        {
-          "lat": 47.02173054960073,
-          "lon": 33.338591738793085
-        },
-        {
-          "lat": 47.16269752010708,
-          "lon": 33.21378695515154
         }
       ]
     },
@@ -792,11 +792,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
-      "url": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
+      "label": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+      "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-19",
-      "intensity": 5,
+      "last_seen": "2026-09-20",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -938,63 +938,26 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        }
-      ]
-    },
-    {
-      "id": "conflict-london",
-      "type": "conflict",
-      "location": {
-        "name": "London",
-        "lat": 51.5072,
-        "lon": -0.1276
-      },
-      "label": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
-      "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 50.7997624526787,
-          "lon": -0.11330074909033733
         },
         {
-          "lat": 52.79137127353236,
-          "lon": 2.629876655709901
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
         },
         {
-          "lat": 53.974861436057566,
-          "lon": -0.7910374185612976
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
         },
         {
-          "lat": 49.42509650007102,
-          "lon": 2.5266732169978026
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
         },
         {
-          "lat": 53.32228663222545,
-          "lon": 0.17245577004050267
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
         },
         {
-          "lat": 54.05727138604998,
-          "lon": -0.34421524549513477
-        },
-        {
-          "lat": 52.02414557525146,
-          "lon": -1.9681373396446318
-        },
-        {
-          "lat": 50.07365046443828,
-          "lon": 0.5073774919531724
-        },
-        {
-          "lat": 53.90449013559345,
-          "lon": -0.04452192641015201
-        },
-        {
-          "lat": 52.60660330733065,
-          "lon": 0.8214986200862329
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
         }
       ]
     },
@@ -1237,8 +1200,8 @@
       "label": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
-      "intensity": 3,
+      "last_seen": "2026-09-20",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1254,10 +1217,87 @@
       "url": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
       "first_seen": "2026-09-19",
       "last_seen": "2026-09-19",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-moskau",
+      "type": "conflict",
+      "location": {
+        "name": "Moskau",
+        "lat": 55.7558,
+        "lon": 37.6173
+      },
+      "label": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 53.85079470076873,
+          "lon": 39.21049073394714
+        },
+        {
+          "lat": 54.43292296817385,
+          "lon": 37.34577609425161
+        },
+        {
+          "lat": 56.315625424933764,
+          "lon": 35.332420415835436
+        },
+        {
+          "lat": 57.070031118260474,
+          "lon": 38.02364534168205
+        },
+        {
+          "lat": 54.1333272409845,
+          "lon": 39.598913219012886
+        },
+        {
+          "lat": 54.52378718370683,
+          "lon": 40.23348585596238
+        },
+        {
+          "lat": 56.705154924715444,
+          "lon": 38.005178698619986
+        },
+        {
+          "lat": 57.61803819033761,
+          "lon": 38.827676879249324
+        },
+        {
+          "lat": 58.440967664588705,
+          "lon": 39.74073244886106
+        },
+        {
+          "lat": 58.38256820429665,
+          "lon": 38.410024057518115
+        },
+        {
+          "lat": 57.51671356919169,
+          "lon": 39.856031501912405
+        },
+        {
+          "lat": 54.1458828807126,
+          "lon": 35.38094586287263
+        },
+        {
+          "lat": 57.510961849957695,
+          "lon": 38.95534149281654
+        },
+        {
+          "lat": 55.2444018672233,
+          "lon": 37.617962361039005
+        },
+        {
+          "lat": 57.98679453449971,
+          "lon": 37.716966003859525
+        }
+      ]
     }
   ],
-  "updated_at": "2026-09-19"
+  "updated_at": "2026-09-20"
 }
