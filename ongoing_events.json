@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,7 +445,7 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -663,7 +663,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,44 +745,8 @@
         {
           "lat": 48.10877043449932,
           "lon": 32.718501411423084
-        },
-        {
-          "lat": 45.281535330256226,
-          "lon": 32.16346277194958
-        },
-        {
-          "lat": 45.93619832181691,
-          "lon": 32.982727443439934
-        },
-        {
-          "lat": 46.70654183103331,
-          "lon": 32.362475380263284
-        },
-        {
-          "lat": 44.94844760647648,
-          "lon": 27.97693332644422
-        },
-        {
-          "lat": 47.833315655745295,
-          "lon": 28.090696202955254
         }
       ]
-    },
-    {
-      "id": "protest-deutschland",
-      "type": "protest",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-14",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-usa",
@@ -795,8 +759,8 @@
       "label": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
       "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-20",
-      "intensity": 6,
+      "last_seen": "2026-09-21",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -958,6 +922,26 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
         }
       ]
     },
@@ -1201,7 +1185,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-20",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1232,8 +1216,8 @@
       "label": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "intensity": 1,
+      "last_seen": "2026-09-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1295,9 +1279,61 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
+        },
+        {
+          "lat": 53.28120844551414,
+          "lon": 40.340743125310226
+        },
+        {
+          "lat": 54.872274709966334,
+          "lon": 37.963088907573045
+        },
+        {
+          "lat": 57.07682138323733,
+          "lon": 36.492827846597955
+        },
+        {
+          "lat": 52.762151489109534,
+          "lon": 39.930104468747416
+        },
+        {
+          "lat": 56.15920128480536,
+          "lon": 36.17733803889268
         }
       ]
+    },
+    {
+      "id": "protest-stuttgart",
+      "type": "protest",
+      "location": {
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
+      },
+      "label": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
+      "url": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-griechenland",
+      "type": "protest",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-09-20"
+  "updated_at": "2026-09-21"
 }

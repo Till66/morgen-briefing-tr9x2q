@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:10:36.731225+00:00",
+  "generated_at": "2026-09-21T09:46:46.654781+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,26 +45,10 @@
   },
   "articles": [
     {
-      "title": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-      "summary": "Die Bundesregierung will erneut die Energiesteuer auf Kraftstoffe senken und einen Spritpreisdeckel einführen, um Verbraucher zu entlasten. Die Ökonomin Grimm kritisiert das als opportunistisch - und warnt vor weitreichenden Konsequenzen.",
+      "title": "CDU sortiert sich nach Wahlniederlagen neu",
+      "summary": "Die Wahlen in Mecklenburg-Vorpommern und Berlin sind für die CDU eine Zäsur. Erstmals hat sie es nicht in ein Landesparlament geschafft, in Berlin wird sie abgehängt. Wie kann es nun weitergehen? Die Partei sucht nach Antworten.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 20 Sep 2026 07:57:07 +0200"
-    },
-    {
-      "title": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
-      "summary": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles ändern könnte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,93 +58,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 20 Sep 2026 05:38:24 +0200"
+      "published": "Mon, 21 Sep 2026 11:21:42 +0200"
     },
     {
-      "title": "Was zur Wahl in Mecklenburg-Vorpommern wichtig ist",
-      "summary": "Es ist ein Zweikampf zwischen der in Umfragen führenden AfD und der regierenden SPD: In Mecklenburg-Vorpommern kämpft Manuela Schwesig um den Wahlsieg. Warum es für ein Zweierbündnis nicht reichen dürfte - und was noch wichtig ist.",
+      "title": "CDU nach den Wahlen: Merz hat keine Chance - die könnte er nutzen",
+      "summary": "Die CDU verliert in Berlin und scheitert in Mecklenburg-Vorpommern an der Fünf-Prozent-Hürde. Der Druck auf Kanzler Merz nimmt dadurch zu. Er will dennoch weitermachen. Die Frage ist nur: wie? Von Benjamin Großkopff.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-wahl-mecklenburg-vorpommern-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 20 Sep 2026 05:38:16 +0200"
-    },
-    {
-      "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-      "summary": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von Generalsekretär Rutte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 19:58:34 +0200"
-    },
-    {
-      "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
-      "summary": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung der Pflicht scharf kritisiert.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 17:46:45 +0200"
-    },
-    {
-      "title": "Wie sich Lokaljournalismus weiterentwickelt",
-      "summary": "Klicks, neue Kanäle, Künstliche Intelligenz: Der Lokaljournalismus befindet sich im Wandel. Wie Zeitungen mit den Herausforderungen umgehen, zeigt eine Redaktion des Böblinger Boten. Wie kann sie sich behaupten? Von Laura Bisch.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 14:20:39 +0200"
-    },
-    {
-      "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-      "summary": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch Zustimmung.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 14:39:46 +0200"
-    },
-    {
-      "title": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
-      "summary": "Die Zukunft von Friedrich Merz hängt an den Wahlen in Berlin und Mecklenburg-Vorpommern. Verpasst die CDU ihre Ziele deutlich, dürfte es ungemütlich werden für den Kanzler. Seine Herausforderer zögern noch. Von Tina Handel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,45 +74,109 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 05:14:59 +0200"
+      "published": "Mon, 21 Sep 2026 10:17:37 +0200"
     },
     {
-      "title": "Warum wir noch immer so viel Essen wegwerfen",
-      "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
-      "category": "wirtschaft",
+      "title": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
+      "summary": "Was haben die Wahlen in Mecklenburg-Vorpommern und Berlin gebracht? Die Ränder sind stärker, auf die SPD könnte eine Personaldebatte zukommen, die AfD entdeckt einen neuen Feelgood-Sound. Tina Handel mit fünf Erkenntnissen aus der Doppelwahl.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+      "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": "Deutschland",
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 21 Sep 2026 05:26:35 +0200"
+    },
+    {
+      "title": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
+      "summary": "Das Aus der Pkw-Maut vor sieben Jahren kostete deutsche Steuerzahler Hunderte Millionen Euro. Nun muss sich Ex-Verkehrsminister Scheuer vor Gericht verantworten: Er soll vor dem Untersuchungsausschuss falsch ausgesagt haben. Von B. Sönnichsen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 20 Sep 2026 05:38:41 +0200"
+      "published": "Mon, 21 Sep 2026 04:36:45 +0200"
     },
     {
-      "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
-      "summary": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monate noch einstellen? Von Till Bücker.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
-      "category": "wirtschaft",
+      "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+      "summary": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Von H. Schwesinger.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+      "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 18 Sep 2026 09:20:19 +0200"
+      "published": "Mon, 21 Sep 2026 00:29:07 +0200"
     },
     {
-      "title": "Auch Googles KI hackte Unternehmen",
-      "summary": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
+      "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+      "summary": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Mecklenburg-Vorpommern.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 22:23:11 +0200"
+    },
+    {
+      "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+      "summary": "Warum gelang Ministerpräsidentin Schwesig mit dem Slogan \"Frau gegen Blau\" eine Aufholjagd? Warum lag die AfD trotzdem vorne? Umfragen von infratest dimap liefern dazu ebenso Erklärungen wie ein Detail, das die CDU alarmieren muss. Von H. Schwesinger.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 23:21:39 +0200"
+    },
+    {
+      "title": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+      "summary": "Wer liegt in welchen Wahlkreisen, Bezirken und Wahlbezirken vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Abgeordnetenhauswahl 2026 in Berlin.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 23:25:25 +0200"
+    },
+    {
+      "title": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+      "summary": "Berentzen soll in die Vereinigten Staaten verkauft werden. Der US-Konzern Sazerac hat ein Übernahmeangebot angekündigt - das von dem Schnapsproduzenten aus dem Emsland unterstützt wird.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/berentzen-uebernahme-us-konzern-sazerac-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,103 +186,119 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 15:09:00 +0200"
+      "published": "Mon, 21 Sep 2026 10:31:09 +0200"
     },
     {
-      "title": "Berufsleben: Job weg, Abfindung - und dann?",
-      "summary": "Ob Volkswagen, Bayer oder Lufthansa - besonders das mittlere Management steht auf dem Arbeitsmarkt unter Druck. Wie kann es man sich nach einem Aufhebungsvertrag beruflich neu orientieren? Von Anke Heinhaus.",
+      "title": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
+      "summary": "Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz. Diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Vertreter beider Staaten haben nun vorab über die Risiken beraten.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/abfindung-berufsleben-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-china-ki-gespraeche-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 14:26:53 +0200"
+      "published": "Mon, 21 Sep 2026 08:54:14 +0200"
     },
     {
-      "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-      "summary": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
+      "title": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
+      "summary": "Ob Wolfsburg, Zwickau oder Stuttgart - die IG Metall ruft für heute zu Protesten in der Autoindustrie auf. Die Gewerkschaft wendet sich gegen die zunehmenden Einschnitte für Beschäftigte. Es sollen Aktionen an mehr als 200 Orten geben.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html",
       "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 05:09:49 +0200"
-    },
-    {
-      "title": "Dieselpreis auf neuem Allzeithoch",
-      "summary": "Am zweiten Tag in Folge hat der Preis für Diesel ein neues Rekordhoch erreicht. Im Schnitt kostete der Liter zuletzt 2,471 Euro, so eine Auswertung des ADAC. Beim Benzinpreis ging es dagegen leicht nach unten.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/diesel-preis-rekordhoch-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 18 Sep 2026 11:45:26 +0200"
-    },
-    {
-      "title": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
-      "summary": "Auch nach Ausbruch des Ukraine-Krieges produzierte Nestlé weiter in Russland. Nun stellt Präsident Putin das Russland-Geschäft des Schweizer Lebensmittelkonzerns per Dekret unter Zwangsverwaltung. Es ist nicht der erste Konzern, dem das passiert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 18 Sep 2026 11:49:03 +0200"
-    },
-    {
-      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
-      "summary": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 18 Sep 2026 10:03:21 +0200"
-    },
-    {
-      "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
-      "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
-      "category": "konflikte",
       "event_type": "protest",
       "location": {
-        "name": "Den Haag",
-        "lat": 52.0705,
-        "lon": 4.3007
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 13:48:26 +0200"
+      "published": "Mon, 21 Sep 2026 08:09:26 +0200"
+    },
+    {
+      "title": "Immer mehr Produktrückrufe bei Lebensmitteln",
+      "summary": "Immer mehr Lebensmittel werden vorsorglich aus dem Handel genommen, doch die Rückrufe erreichen nicht alle Verbraucher. Hinzu kommt: Es gibt nicht genug Kontrollen. Von Martin Küstermann.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 21 Sep 2026 06:45:15 +0200"
+    },
+    {
+      "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
+      "summary": "Viele Menschen haben fürs Alter Vermögen aufgebaut. Doch wie viel davon können sie im Ruhestand ausgeben? Eine bekannte Faustregel ist nicht für jeden Rentner die beste Lösung. Von Angela Göpfert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 13:59:35 +0200"
+    },
+    {
+      "title": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
+      "summary": "Die Hoffnung auf eine Entspannung im Nahen Osten drückt die Ölpreise und schiebt damit den DAX an. Die Wahlergebnisse vom Sonntag sind zwar ebenfalls Thema - aber noch bewegen sie nicht die Kurse.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 21 Sep 2026 10:38:27 +0200"
+    },
+    {
+      "title": "Wirtschaft vor acht vom 18.09.2026",
+      "summary": "Wirtschaft vor acht vom 18.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/video/video-1651430.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 20:06:58 +0200"
+    },
+    {
+      "title": "Update Wirtschaft vom 18.09.2026",
+      "summary": "Update Wirtschaft vom 18.09.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1651038.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 18 Sep 2026 10:29:40 +0200"
     },
     {
       "title": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
@@ -375,7 +359,7 @@
         }
       ],
       "chokepoint_lane": null,
-      "published": "Sun, 20 Sep 2026 09:40:10 +0200"
+      "published": "Sun, 20 Sep 2026 11:33:43 +0200"
     },
     {
       "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
@@ -466,6 +450,54 @@
       ],
       "chokepoint_lane": null,
       "published": "Mon, 14 Sep 2026 14:11:29 +0200"
+    },
+    {
+      "title": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 11 Sep 2026 09:52:12 +0200"
+    },
+    {
+      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "summary": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 21 Sep 2026 04:22:58 +0200"
+    },
+    {
+      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+      "summary": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 15:02:26 +0200"
     },
     {
       "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
@@ -564,42 +596,10 @@
       "published": "Thu, 17 Sep 2026 14:45:28 +0200"
     },
     {
-      "title": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
-      "summary": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 17 Sep 2026 06:30:03 +0200"
-    },
-    {
-      "title": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
-      "summary": "Wo steht die EU? Und was sind die Pläne für die kommenden Monate? EU-Kommissionschefin von der Leyen hat in ihrer Grundsatzrede in Straßburg die Prioritäten skizziert - eine ihrer vielen Initiativen ist eine engere Partnerschaft mit Kanada. Von Christian Feld.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/grundsatzrede-kommission-bruessel-eu-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 16 Sep 2026 17:32:58 +0200"
-    },
-    {
-      "title": "Der wilde Werder-Wahnsinn ist zurück in Bremen",
-      "summary": "Was für eine Aufholjagd, was für ein Spektakel: Werder dreht gegen Augsburg ein 0:2 zum 3:2 – im Fokus dabei wieder Zwei, die das Weser-Stadion Kopf stehen lassen.",
+      "title": "Bundesliga Update: Ist Borussia Dortmund reif für die Meisterschaft?",
+      "summary": "Ist Spitzenreiter Borussia Dortmund titelreif? Im Bundesliga Update besprechen die Hosts Alex Schlüter und Tobi Schäfer, ob der BVB das Zeug dazu hat, die großen Bayern anzugreifen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rb/rb-der-wilde-werder-wahnsinn-ist-zurueck-in-bremen-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/mich-begeistert-der-fussball-nicht-der-bvb-und-die-titelfrage,bundesliga-update-rueckblick-spieltag-vier-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -609,29 +609,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 19:58:00 +0200"
+      "published": "Mon, 21 Sep 2026 07:57:27 +0200"
     },
     {
-      "title": "Beier schießt den BVB gegen Stuttgart an die Spitze",
-      "summary": "Borussia Dortmund ist Tabellenführer in der Bundesliga - was einst gar nicht so außergewöhnlich klang, ist nach dem Sieg beim VfB Stuttgart erstmals seit über drei Jahren Fakt.",
+      "title": "Startbilanz: Eintracht Frankfurts DNA kehrt langsam zurück",
+      "summary": "Die Eintracht ist in der frühen Saisonphase eine Suchende. Mal gut, mal schlecht, mal irgendwas dazwischen. Gerade an Halt fehlt es dem Team. Gefunden hat es dagegen die eigenen Prinzipien. Eine Einordnung des Starts.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/beier-schiesst-bvb-nach-40-monaten-zurueck-an-die-spitze,spielbericht-vfb-stuttgart-borussia-dortmund-112.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Stuttgart",
-        "lat": 48.7758,
-        "lon": 9.1829
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 22:51:25 +0200"
-    },
-    {
-      "title": "FC Bayern trauert um früheren Heynckes-Assistenten Peter Hermann",
-      "summary": "Der FC Bayern nimmt Abschied von Peter Hermann. Der langjährige Co-Trainer und Weggefährte von Jupp Heynckes ist im Alter von 74 Jahren gestorben.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-fc-bayern-trauert-um-frueheren-heynckes-assistenten-peter-hermann-102.html",
+      "url": "https://www.sportschau.de/regional/hr/hr-startbilanz-von-eintracht-frankfurt-die-dna-kehrt-langsam-zurueck-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -641,45 +625,93 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 21:39:28 +0200"
+      "published": "Mon, 21 Sep 2026 07:35:55 +0200"
     },
     {
-      "title": "Polzin-Effekt bei HSV-Sieg gegen den 1. FC Köln",
-      "summary": "Statt ihn zu feuern, hatte sich der Hamburger SV trotz des Fehlstarts entschlossen, mit Merlin Polzin zu verlängern. Gegen den 1. FC Köln hat sich das schon mal ausgezahlt.",
+      "title": "Paderborn schießt sich gegen Hoffenheim aus der Abstiegszone",
+      "summary": "Der bislang torlose SC Paderborn hat sich den Frust vom Leib geschossen und gegen schwache Hoffenheimer verdient den ersten Saisonsieg eingefahren.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/polzin-effekt-beim-hsv-koeln-baut-schlusslicht-auf,spielbericht-hamburger-sv-koeln-102.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 17:52:34 +0200"
+      "published": "Mon, 21 Sep 2026 00:00:38 +0200"
     },
     {
-      "title": "Frankfurt gegen Freiburg: Kein Sieger im Duell der Neu-Nationalspieler",
-      "summary": "Gleich sechs neue Nationalspieler standen sich im Duell Eintracht Frankfurt gegen den SC Freiburg gegenüber. Einen Sieger in dieser Partie gab es nicht.",
+      "title": "Straßenrad-WM in Kanada: Franziska Koch holt Bronze im Einzelzeitfahren",
+      "summary": "Franziska Koch hat der deutschen Mannschaft im Einzelzeitfahren der Straßenrad-Weltmeisterschaften mit Bronze einen überraschend starken Auftakt beschert.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html",
+      "url": "https://www.sportschau.de/radsport/franziska-koch-holt-bronze-im-einzelzeitfahren,strassen-rad-wm-frauen-einzelzeitfahren-100.html",
+      "category": "sport",
+      "event_type": "celebration",
+      "location": {
+        "name": "Kanada",
+        "lat": 56.1304,
+        "lon": -106.3468
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 20:13:41 +0200"
+    },
+    {
+      "title": "Straßenrad-WM: Remco Evenepoel bleibt König des Zeitfahrens",
+      "summary": "Im Zeitfahren macht ihm einfach keiner etwas vor: Remco Evenepoel hat bei der Straßenrad-WM in Montreal eindrucksvoll seinen Titel im Kampf gegen die Uhr verteidigt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/radsport/evenepoel-bleibt-der-koenig-des-zeitfahrens,strassen-rad-wm-maenner-einzelzeitfahren-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 18:03:15 +0200"
+      "published": "Sun, 20 Sep 2026 21:40:05 +0200"
     },
     {
-      "title": "Volleyball-EM: Deutschland gewinnt Achtelfinale gegen Bulgarien",
-      "summary": "Lange sah es nach einem schnellen Aus im Achtelfinale der Volleyball-EM aus. Doch dann steigerte sich Deutschland gegen Mitfavorit Bulgarien enorm.",
+      "title": "Luxemburg-Rundfahrt: Mathieu van der Poel mit unglaublichem Soloritt",
+      "summary": "Sowas hat es in diesem Jahrtausend noch nicht gegeben: Mathieu van der Poel hat die letzte Etappe der Luxemburg-Rundfahrt fast komplett alleine an der Spitze verbracht.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/volleyball/deutschlands-volleyballer-trumpfen-im-em-achtelfinale-gross-auf,volleyball-em-maenner-deutschland-bulgarien-100.html",
+      "url": "https://www.sportschau.de/radsport/175-kilometer-unglaublicher-soloritt-von-van-der-poel,luxemburg-rundfahrt-van-der-poel-solo-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 18:19:28 +0200"
+    },
+    {
+      "title": "Zverev bestimmt über Wohl und Wehe des Davis-Cup-Teams",
+      "summary": "Ohne Alexander Zverev hätte es das deutsche Davis-Cup-Team enorm schwer. Das zeigte nicht zuletzt die Partie gegen Kroatien. Ob der 29-Jährige an der Endrunde in Bologna teilnehmen wird, ließ er offen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/davis-cup/zverev-bestimmt-ueber-wohl-und-wehe-des-davis-cup-teams,davis-cup-zverev-resuemmee-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 20 Sep 2026 19:13:58 +0200"
+    },
+    {
+      "title": "Alexander Zverev führt Deutschland in Davis-Cup-Endrunde",
+      "summary": "Alexander Zverev hat das deutsche Davis-Cup-Team zur Endrunde nach Italien geführt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/davis-cup/alexander-zverev-macht-in-halle-auftakt,davis-cup-deutschland-kroatien-sonntag-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -689,39 +721,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 20:58:20 +0200"
-    },
-    {
-      "title": "Herthas unheimliche Siegesserie hält auch in Dresden",
-      "summary": "Sechstes Spiel, sechster Sieg: Hertha BSC bleibt in der 2. Fußball-Bundesliga makellos. Bei Dynamo Dresden sorgte Thorsteinsson für zwei Tore und Nilsson für eine Slapstick-Szene.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/herthas-unheimliche-siegesserie-haelt-auch-in-dresden,spielbericht-dynamo-dresden-hertha-bsc-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 22:25:19 +0200"
-    },
-    {
-      "title": "Nürnberg hat auch beim KSC alles unter Kontrolle",
-      "summary": "Der 1. FC Nürnberg zeigt sich auch beim Karlsruher SC dominant und bleibt in der 2. Liga neben Hertha BSC das Maß aller Dinge.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/nuernberg-hat-auch-beim-ksc-alles-unter-kontrolle,spielbericht-karlsruher-sc-nuernberg-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 19 Sep 2026 15:33:47 +0200"
+      "published": "Sun, 20 Sep 2026 16:02:45 +0200"
     }
   ],
   "crises": [
@@ -733,9 +733,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "label": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -940,7 +940,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html"
     },
     {
       "id": "conflict-russland",
@@ -952,7 +952,7 @@
       },
       "label": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1170,7 +1170,7 @@
       "label": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1388,7 +1388,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-15",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1470,44 +1470,8 @@
         {
           "lat": 48.10877043449932,
           "lon": 32.718501411423084
-        },
-        {
-          "lat": 45.281535330256226,
-          "lon": 32.16346277194958
-        },
-        {
-          "lat": 45.93619832181691,
-          "lon": 32.982727443439934
-        },
-        {
-          "lat": 46.70654183103331,
-          "lon": 32.362475380263284
-        },
-        {
-          "lat": 44.94844760647648,
-          "lon": 27.97693332644422
-        },
-        {
-          "lat": 47.833315655745295,
-          "lon": 28.090696202955254
         }
       ]
-    },
-    {
-      "id": "protest-deutschland",
-      "type": "protest",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-14",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-usa",
@@ -1520,8 +1484,8 @@
       "label": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
       "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-20",
-      "intensity": 6,
+      "last_seen": "2026-09-21",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1683,6 +1647,26 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
         }
       ]
     },
@@ -1926,7 +1910,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-20",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1957,8 +1941,8 @@
       "label": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "intensity": 1,
+      "last_seen": "2026-09-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2020,8 +2004,60 @@
         {
           "lat": 57.98679453449971,
           "lon": 37.716966003859525
+        },
+        {
+          "lat": 53.28120844551414,
+          "lon": 40.340743125310226
+        },
+        {
+          "lat": 54.872274709966334,
+          "lon": 37.963088907573045
+        },
+        {
+          "lat": 57.07682138323733,
+          "lon": 36.492827846597955
+        },
+        {
+          "lat": 52.762151489109534,
+          "lon": 39.930104468747416
+        },
+        {
+          "lat": 56.15920128480536,
+          "lon": 36.17733803889268
         }
       ]
+    },
+    {
+      "id": "protest-stuttgart",
+      "type": "protest",
+      "location": {
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
+      },
+      "label": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
+      "url": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-griechenland",
+      "type": "protest",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "label": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
