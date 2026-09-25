@@ -10,7 +10,7 @@
       },
       "label": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
+      "label": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html"
+      "url": "https://www.tagesschau.de/ausland/slowakei-fico-110.html"
     },
     {
       "id": "conflict-kiew",
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-24",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -628,26 +628,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -663,7 +643,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-24",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -845,26 +825,6 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        },
-        {
-          "lat": 35.49649690825155,
-          "lon": -96.95681869228424
-        },
-        {
-          "lat": 35.07679443040067,
-          "lon": -94.91941997164976
-        },
-        {
-          "lat": 36.02632213477868,
-          "lon": -95.97438396154435
-        },
-        {
-          "lat": 35.882513766151746,
-          "lon": -98.05890867269235
-        },
-        {
-          "lat": 37.420333201398456,
-          "lon": -94.39844462392013
         }
       ]
     },
@@ -880,7 +840,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-24",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -942,26 +902,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -1008,8 +948,8 @@
       "label": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-24",
-      "intensity": 6,
+      "last_seen": "2026-09-25",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1171,6 +1111,46 @@
         {
           "lat": 57.44079487095629,
           "lon": 36.31301319541328
+        },
+        {
+          "lat": 54.33446412950183,
+          "lon": 40.45124243238353
+        },
+        {
+          "lat": 55.30062410441731,
+          "lon": 39.047720449569454
+        },
+        {
+          "lat": 56.0972870298797,
+          "lon": 38.07683486940347
+        },
+        {
+          "lat": 52.946913391004294,
+          "lon": 39.465199174980796
+        },
+        {
+          "lat": 54.72181008203952,
+          "lon": 40.057315495624394
+        },
+        {
+          "lat": 53.99996649696514,
+          "lon": 40.27580998546428
+        },
+        {
+          "lat": 56.87568719369282,
+          "lon": 36.97301606698346
+        },
+        {
+          "lat": 54.97134242684868,
+          "lon": 35.978271818529294
+        },
+        {
+          "lat": 55.44650110718969,
+          "lon": 36.748981971748286
+        },
+        {
+          "lat": 58.14626989134291,
+          "lon": 36.85375575722597
         }
       ]
     },
@@ -1201,11 +1181,104 @@
       "label": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
       "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-24",
-      "intensity": 4,
+      "last_seen": "2026-09-25",
+      "intensity": 5,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-saudi-arabien",
+      "type": "conflict",
+      "location": {
+        "name": "Saudi-Arabien",
+        "lat": 23.8859,
+        "lon": 45.0792
+      },
+      "label": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+      "url": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 22.53591696060645,
+          "lon": 45.35596179755404
+        },
+        {
+          "lat": 24.84730221738289,
+          "lon": 45.6103837213885
+        },
+        {
+          "lat": 26.453416697004325,
+          "lon": 46.174075956441946
+        },
+        {
+          "lat": 24.59561954560599,
+          "lon": 45.6424866242815
+        },
+        {
+          "lat": 26.036380772170816,
+          "lon": 47.61788317500192
+        },
+        {
+          "lat": 22.497251619849763,
+          "lon": 46.13796639207331
+        },
+        {
+          "lat": 26.36242344765992,
+          "lon": 43.93599314887542
+        },
+        {
+          "lat": 21.72335428007968,
+          "lon": 43.3492558978296
+        },
+        {
+          "lat": 24.161635355279344,
+          "lon": 45.04791969498897
+        },
+        {
+          "lat": 21.073903162897192,
+          "lon": 42.22320940298662
+        },
+        {
+          "lat": 22.927560212921364,
+          "lon": 46.01559843583489
+        },
+        {
+          "lat": 26.043136507897554,
+          "lon": 44.55241849606773
+        },
+        {
+          "lat": 21.384822423575752,
+          "lon": 45.360314524062986
+        },
+        {
+          "lat": 20.984938384412192,
+          "lon": 47.44678513594223
+        },
+        {
+          "lat": 22.954236638172233,
+          "lon": 43.36358116267426
+        }
+      ]
+    },
+    {
+      "id": "protest-niederlande",
+      "type": "protest",
+      "location": {
+        "name": "Niederlande",
+        "lat": 52.1326,
+        "lon": 5.2913
+      },
+      "label": "Ball ins Aus spielen - die falsche Erwartung ans Fairplay",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/ball-ins-aus-spielen-die-falsche-erwartung-ans-fairplay,fairplay-118.html",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-09-24"
+  "updated_at": "2026-09-25"
 }
