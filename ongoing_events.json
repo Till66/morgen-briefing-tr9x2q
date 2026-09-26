@@ -10,7 +10,7 @@
       },
       "label": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-24",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -608,26 +608,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -643,7 +623,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-24",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -805,26 +785,6 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
     },
@@ -840,7 +800,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -882,26 +842,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -922,22 +862,6 @@
       "subpoints": []
     },
     {
-      "id": "protest-syrien",
-      "type": "protest",
-      "location": {
-        "name": "Syrien",
-        "lat": 34.8021,
-        "lon": 38.9968
-      },
-      "label": "Syrien: Größte Proteste seit Sturz von Assad",
-      "url": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-moskau",
       "type": "conflict",
       "location": {
@@ -948,7 +872,7 @@
       "label": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1182,7 +1106,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
       "first_seen": "2026-09-21",
       "last_seen": "2026-09-25",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1197,8 +1121,8 @@
       "label": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
       "url": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
-      "intensity": 1,
+      "last_seen": "2026-09-26",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1260,6 +1184,26 @@
         {
           "lat": 22.954236638172233,
           "lon": 43.36358116267426
+        },
+        {
+          "lat": 24.925943134251618,
+          "lon": 46.17092062950482
+        },
+        {
+          "lat": 23.8319086768833,
+          "lon": 47.80947054027894
+        },
+        {
+          "lat": 20.915618041892564,
+          "lon": 43.806921357654716
+        },
+        {
+          "lat": 25.197497281208168,
+          "lon": 42.50028592354252
+        },
+        {
+          "lat": 25.305510303458668,
+          "lon": 43.66717694639954
         }
       ]
     },
@@ -1275,10 +1219,10 @@
       "url": "https://www.sportschau.de/fussball/nationalmannschaft/ball-ins-aus-spielen-die-falsche-erwartung-ans-fairplay,fairplay-118.html",
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-09-25"
+  "updated_at": "2026-09-26"
 }
