@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:54:32.593152+00:00",
+  "generated_at": "2026-09-28T10:43:24.383203+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,118 @@
   },
   "articles": [
     {
+      "title": "Neues Bestattungsgesetz in Rheinland-Pfalz: Wie ist die Bilanz nach einem Jahr?",
+      "summary": "Die Urne beigesetzt im Fluss, ein Erinnerungsstück gefertigt aus der Asche des Verstorbenen: Seit einem Jahr sind in Rheinland-Pfalz neue Bestattungsformen möglich. So fällt die erste Bilanz aus. Von Axel John.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bestattungen-gesetz-bilanz-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 10:32:55 +0200"
+    },
+    {
+      "title": "Nach Wortgefecht in Talkshow: Berliner Linke zeigt Innenminister Dobrindt an",
+      "summary": "Bundesinnenminister Dobrindt wurde angezeigt - von der Berliner Linken. In einer Polit-Talkshow hatte er einen Versprecher der Moderatorin über Elif Eralp kommentiert. Die Partei wirft dem CSU-Politiker nun üble Nachrede und Beleidigung vor.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/berliner-linke-dobrindt-anzeige-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 10:00:31 +0200"
+    },
+    {
+      "title": "Ex-Vizekanzler Habeck dementiert Pläne für Parteigründung",
+      "summary": "Will Robert Habeck eine neue Partei gründen? Darüber wird offenbar im politischen Berlin spekuliert. Bei Caren Miosga stellt der Ex-Vizekanzler klar, was er von diesem Gerücht hält.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/habeck-dementiert-plaene-parteigruendung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 07:34:47 +0200"
+    },
+    {
+      "title": "75 Jahre Hüter der Verfassung: Diese Aufgaben hat das Bundesverfassungsgericht",
+      "summary": "Das Bundesverfassungsgericht wacht über die Verfassung. Was sind seine Aufgaben? Und warum sitzt es in Karlsruhe? Und warum diese roten Roben? Ein Überblick von Michael-Matthias Nordhardt und Frank Bräutigam.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 07:34:24 +0200"
+    },
+    {
+      "title": "75 Jahre Bundesverfassungsgericht: Wie Karlsruhe das Land geprägt hat",
+      "summary": "Vor 75 Jahren hat das Bundesverfassungsgericht seine Arbeit aufgenommen. Mit seinen Urteilen hat es das Land und die Gesellschaft geprägt. Ein Festakt in Karlsruhe würdigt die Bedeutung des Gerichts. Von Kolja Schwartz.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 07:34:18 +0200"
+    },
+    {
+      "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
+      "summary": "Die SPD droht, die geplante Pflegereform zu blockieren - und fordert Änderungen. Doch die bieten aus Sicht von Gesundheitsminister Linnemann keine Lösungen. Eine Einigung hält er trotz des Streits in der Koalition für möglich.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 18:14:05 +0200"
+    },
+    {
+      "title": "Banaszak und Brantner treten wieder für Vorsitz von Bündnis 90/Die Grünen an",
+      "summary": "Der nächste Parteitag von Bündnis 90/Die Grünen ist erst Anfang Dezember. Aber schon jetzt haben die beiden Vorsitzenden Brantner und Banaszak ihre erneute Kandidatur für eine Doppelspitze angekündigt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-banaszak-brantner-bundesvorsitz-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 16:31:58 +0200"
+    },
+    {
       "title": "Rente nach 45 Beitragsjahren - sinnvoll oder ungerecht?",
       "summary": "Die Debatte über die Rentenreform wird hoch emotional geführt. Der Blick auf die Zahlen macht aber klar: Irgendetwas muss passieren. Denn das deutsche Rentensystem steht unter Druck. Von Jan-Peter Bartels.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -61,122 +173,10 @@
       "published": "Sun, 27 Sep 2026 09:21:42 +0200"
     },
     {
-      "title": "Berliner SPD will mit Linken und Grünen sondieren",
-      "summary": "Der Vorstand der Berliner SPD hat sich nach Informationen des rbb zu Sondierungsgesprächen mit Linkspartei und Grünen bereit erklärt. Damit haben nun alle drei Parteien Sondierungen zugestimmt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 22:07:54 +0200"
-    },
-    {
-      "title": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
-      "summary": "Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die Befugnisse von Frontex gestärkt werden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 17:27:14 +0200"
-    },
-    {
-      "title": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
-      "summary": "Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"einrichtungseinheitliche\" Eigenanteil soll dabei sinken. Von M. Rödle.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 14:30:06 +0200"
-    },
-    {
-      "title": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
-      "summary": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht von einem Skandal.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 13:27:04 +0200"
-    },
-    {
-      "title": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
-      "summary": "Zehntausende Menschen haben gegen die Sozialpolitik der Bundesregierung protestiert. Dazu aufgerufen hatte der Deutsche Gewerkschaftsbund. Die Regierungspläne gingen zu Lasten der Arbeitnehmer, so DGB-Chefin Fahimi.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
-      "category": "politik",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 15:54:08 +0200"
-    },
-    {
-      "title": "Kann die Linke in der Hauptstadt regieren?",
-      "summary": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine Diffamierungskampagne. Von C. Buckenmaier.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 11:16:05 +0200"
-    },
-    {
-      "title": "Wie eine Brücke ein Dorf belebt",
-      "summary": "Leere Häuser, wenige Kinder, klamme Kasse: Mörsdorf in Rheinland-Pfalz kämpfte mit Zukunftssorgen. Jetzt kommen Touristen in den Ort - und bringen Trubel, aber auch Geld. Wie das gelungen ist? Mit einer außergewöhnlichen Brücke. Von Michael Eiden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/mittendrin/haengeseilbruecke-geierlay-dorf-moersdorf-tourismus-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 10:07:43 +0200"
-    },
-    {
-      "title": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
-      "summary": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die Entwicklung.",
+      "title": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
+      "summary": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. Von Angela Göpfert.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-102.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,13 +186,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 11:12:24 +0200"
+      "published": "Mon, 28 Sep 2026 06:00:07 +0200"
     },
     {
-      "title": "Halten Fertighäuser, was sie versprechen?",
-      "summary": "Der Bau des eigenen Hauses ist teuer. Deshalb boomen Fertighäuser, denn sie versprechen Planbarkeit und Tempo - am besten noch mit Festpreis. Doch wie günstig und kalkulierbar ist das wirklich? Von A. Jancevski und L.-M. Hiltscher.",
+      "title": "Einwanderer in vielen Berufen unverzichtbar",
+      "summary": "In vielen Branchen mit Fachkräftemangel sind Beschäftigte mit Einwanderungsgeschichte überdurchschnittlich stark vertreten. Die Integration hängt dabei von der Herkunftsregion und der Aufenthaltsdauer ab.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fertighaus-bau-immobilien-wohnraum-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/engpassberufe-einwanderer-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,7 +202,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 11:10:56 +0200"
+      "published": "Mon, 28 Sep 2026 11:20:23 +0200"
+    },
+    {
+      "title": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
+      "summary": "Die deutsche Gründerbranche bringt immer mehr Milliarden-Start-ups hervor. Dazu gehören etwa Trade Republic und N26, aber auch die Softwarefirma Osapiens und die Rüstungsfirma Stark Defense.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-boom-gruendungen-ruestung-ki-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 10:01:42 +0200"
+    },
+    {
+      "title": "Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
+      "summary": "In diesem Jahr ist hierzulande bereits Ende September mehr Solarstrom erzeugt worden als im gesamten Jahr 2025. Zu dem Rekord trugen ungewöhnlich viele Sonnenstunden und der Ausbau der Photovoltaik bei.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/solarstrom-produktion-rekord-2026-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 08:18:50 +0200"
     },
     {
       "title": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
@@ -221,26 +253,10 @@
       "published": "Sat, 26 Sep 2026 13:13:17 +0200"
     },
     {
-      "title": "Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe",
-      "summary": "In Shanghai laufen die Wettkämpfe der \"WorldSkills\". Die chinesische Metropole ist erstmals Austragungsort der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von Christoph Kober.",
+      "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+      "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Shanghai",
-        "lat": 31.2304,
-        "lon": 121.4737
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 08:00:40 +0200"
-    },
-    {
-      "title": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
-      "summary": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle betroffen sind - und was zu tun ist.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -250,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 18:44:11 +0200"
+      "published": "Sun, 27 Sep 2026 22:02:02 +0200"
     },
     {
-      "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-      "summary": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse.",
+      "title": "Marktbericht: DAX trotzt steigenden Ölpreisen",
+      "summary": "Obwohl die Ölpreise wieder steigen, hält sich der DAX zu Wochenbeginn stabil im Plus. Allerdings bleibt die Lage angespannt, ohne frische Impulse sind der Kursfantasie enge Grenzen gesetzt.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -266,29 +282,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 18:31:47 +0200"
+      "published": "Mon, 28 Sep 2026 10:35:47 +0200"
     },
     {
-      "title": "BASF wirft ein Auge auf Konkurrent Evonik",
-      "summary": "Der Chemieindustrie könnte ein milliardenschwerer Deal bevorstehen: Der Konzern BASF zeigt Interesse am Konkurrenten Evonik. Die Spekulationen haben an der Börse bereits für Bewegung gesorgt.",
+      "title": "Wirtschaft vor acht vom 25.09.2026",
+      "summary": "Wirtschaft vor acht vom 25.09.2026",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 17:37:05 +0200"
-    },
-    {
-      "title": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-      "summary": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
+      "url": "https://www.tagesschau.de/video/video-1655568.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -298,11 +298,11 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 16:36:26 +0200"
+      "published": "Fri, 25 Sep 2026 19:56:59 +0200"
     },
     {
-      "title": "Sprengstoffverdacht: Festnahmen bei britischem Luftwaffenstützpunkt",
-      "summary": "Großeinsatz der britischen Polizei nach Sprengstoffverdacht: Am Luftwaffenstützpunkt Fairford hat die Polizei mehrere Männer festgenommen. Fairford wird derzeit auch von den USA genutzt - für Angriffe auf Iran. Das sorgt für politische Brisanz.",
+      "title": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
+      "summary": "Großeinsatz nach Sprengstoffverdacht: An dem auch von den USA genutzten britischen Militärstützpunkt Fairford sind fünf Männer festgenommen worden. Laut US-Präsident Trump wollten sie \"großen Schaden\" anrichten.",
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
       "category": "konflikte",
@@ -312,22 +312,9 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "connections": [
-        {
-          "from": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 11:31:08 +0200"
+      "published": "Sun, 27 Sep 2026 18:57:19 +0200"
     },
     {
       "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
@@ -346,35 +333,6 @@
       "published": "Sun, 27 Sep 2026 09:05:01 +0200"
     },
     {
-      "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-      "summary": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Saudi-Arabien",
-        "lat": 23.8859,
-        "lon": 45.0792
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Saudi-Arabien",
-            "lat": 23.8859,
-            "lon": 45.0792
-          },
-          "to": {
-            "name": "Frankreich",
-            "lat": 46.2276,
-            "lon": 2.2137
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 05:44:09 +0200"
-    },
-    {
       "title": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
       "summary": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen mit Lawrow kam - und wie er es bewertet.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -389,6 +347,35 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sun, 27 Sep 2026 00:29:36 +0200"
+    },
+    {
+      "title": "Polen: Wenn der Krieg näher kommt",
+      "summary": "Drohnen und Raketen, die nah an der polnischen Grenze einschlagen - der Krieg gegen die Ukraine rückt spürbar an den Alltag der Menschen heran. Schutzräume und Warn-SMS gewinnen an Bedeutung. Wie ist die Stimmung vor Ort? Von P. Milling.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Polen",
+            "lat": 51.9194,
+            "lon": 19.1451
+          },
+          "to": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 14:01:01 +0200"
     },
     {
       "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
@@ -481,6 +468,86 @@
       "published": "Wed, 23 Sep 2026 16:19:14 +0200"
     },
     {
+      "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "summary": "Der Fall bewegt Spanien: Eine 87‑Jährige muss nach Jahrzehnten ihre Wohnung verlassen. Zehntausende demonstrierten in Madrid gegen die Wohnungskrise. Entsteht eine neue Protestbewegung? Von H.-G. Kellner.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 03:22:23 +0200"
+    },
+    {
+      "title": "Serbiens Präsident Vucic tritt zurück",
+      "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 01:13:56 +0200"
+    },
+    {
+      "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
+      "summary": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 20:34:10 +0200"
+    },
+    {
+      "title": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
+      "summary": "In einer Volksabstimmung hat sich in der Schweiz eine Mehrheit dagegen ausgesprochen, das Neutralitätsgebot für das eigene Land zu verschärfen. Ein Ergebnis, das in Russland für Unmut sorgen dürfte.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 16:30:59 +0200"
+    },
+    {
+      "title": "Labour-Parteitag: Premier Burnham und sein Plan für den Norden",
+      "summary": "Andy Burnham ist keine 100 Tage im Amt, da steht sein erster Labour-Parteitag als Premierminister an. Er will die Briten für sich gewinnen - auch mit Geld und Einfluss für den Norden. Von Christoph Prössl.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/burnham-vor-labour-parteitag-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 27 Sep 2026 12:26:11 +0200"
+    },
+    {
       "title": "EU geht gegen \"Greenwashing\" in der Werbung vor",
       "summary": "\"Grün\", \"nachhaltig\", \"klimaneutral\" - eine ab heute geltende EU-Richtlinie soll für mehr Klarheit bei Umwelt-Aussagen sorgen. Kritik gibt es an der deutschen Umsetzung. Was passiert nun mit Produkten in alten Verpackungen? Von Sarah López.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -529,106 +596,26 @@
       "published": "Sat, 26 Sep 2026 17:29:01 +0200"
     },
     {
-      "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
-      "summary": "Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende Gläubige erwartet.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 15:34:08 +0200"
-    },
-    {
-      "title": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
-      "summary": "Griechenland und die Türkei beschuldigen sich gegenseitig, für zunehmende Spannungen zwischen beiden Ländern verantwortlich zu sein. Es geht um Hoheitsgewässer, Besitzansprüche und Einfluss im Mittelmeerraum. Von Jasper Riemann.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 25 Sep 2026 04:48:00 +0200"
-    },
-    {
-      "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-      "summary": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Brüssel",
-        "lat": 50.8503,
-        "lon": 4.3517
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 23 Sep 2026 18:50:49 +0200"
-    },
-    {
-      "title": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-      "summary": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Niederlande",
-        "lat": 52.1326,
-        "lon": 5.2913
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 23 Sep 2026 17:44:34 +0200"
-    },
-    {
-      "title": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt",
-      "summary": "Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? Von Mats Nickelsen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
-      "category": "welt",
-      "event_type": "tension",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 23 Sep 2026 07:57:36 +0200"
-    },
-    {
-      "title": "Äthiopierin Assefa verpasst neuen Weltrekord knapp",
-      "summary": "Die Äthiopierin Tigst Assefa hat am Sonntag beim 52. Berlin-Marathon einen neuen Weltrekord verpasst - dabei lag sie lange auf Rekordkurs. Bei den Männern gewann Assefas Landsmann Guye Adola.",
+      "title": "Deutschland im Mittelmaß: Viel Arbeit, wenig Zeit für Klopp",
+      "summary": "Die deutsche Fußball-Nationalmannschaft schleppt ihre bekannten Probleme auch unter Jürgen Klopp mit. Der neue Bundestrainer hat viel Arbeit und wenig Zeit. Mit einem zweiten Kader fängt er jetzt fast wieder bei Null an.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rbb/rbb-berlin-marathon-aethiopierin-assefa-verpasst-neuen-weltrekord-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/viel-arbeit-wenig-zeit-die-probleme-des-juergen-klopp,nations-league-deutschland-griechenland-analyse-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 11:51:08 +0200"
+      "published": "Mon, 28 Sep 2026 08:11:22 +0200"
     },
     {
-      "title": "Wie Griechenland plötzlich so viele Talente entwickelt",
-      "summary": "Der Fußball Griechenlands hat sich verändert. Die Klubs entwickeln Talente, die sich in ganz Europa tummeln. Davon profitiert auch das Nationalteam.",
+      "title": "Zu viel Geschiebe in der Zentrale",
+      "summary": "Nur ganz selten hat die DFB-Elf gegen Griechenland Tempo ins Spiel bekommen. Das lag auch daran, dass Kapitän Joshua Kimmich den Ball meist nur sicher zum Kollegen neben ihm schob.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/wie-griechenland-ploetzlich-so-viele-talente-entwickelt,griechenland-spieler-entwicklung-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/zu-viel-geschiebe-in-der-zentrale,nations-league-deutschland-griechenland-kimmich-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -638,13 +625,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 12:12:23 +0200"
+      "published": "Mon, 28 Sep 2026 12:09:10 +0200"
     },
     {
-      "title": "DFB-Team: Jürgen Klopp setzt gegen Griechenland auf Alexander Nübel",
-      "summary": "Bundestrainer Jürgen Klopp wird bei seinem ersten Heimspiel mit der Nationalmannschaft einen Wechsel im Tor vornehmen. Nico Schlotterbeck bekommt eine Pause.",
+      "title": "Nations League: Griechenland bestraft Deutschlands Patzer",
+      "summary": "Dass auch Jürgen Klopp kein Wunderheiler ist, hat Deutschland beim Heimdebüt des Bundestrainers schmerzhaft erfahren. Gegen Griechenland gab es im elften Duell die erste Niederlage.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-kuendigt-torwart-wechsel-gegen-griechenland-an,dfb-elf-vor-griechenland-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-patzer,spielbericht-nations-league-deutschland-griechenland-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -654,45 +641,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 10:27:34 +0200"
+      "published": "Sun, 27 Sep 2026 23:58:58 +0200"
     },
     {
-      "title": "Nations League: Spaniens Joker drehen spektakuläres Spiel in England",
-      "summary": "In einem großartigen Fußballspiel hat Spanien einen verdienten Nations-League-Triumph gefeiert: Der Weltmeister wies England in Wembley mit zwei Jokertoren in die Schranken.",
+      "title": "Nur Rückkehrer Bisseck überzeugt",
+      "summary": "Von den fünf neuen Akteuren, die Bundestrainer Jürgen Klopp gegen Griechenland in seine Startelf beorderte, konnte nur Yann Aurel Bisseck überzeugen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/spaniens-joker-drehen-spektakulaeres-spiel-in-england,bericht-nations-league-england-spanien-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/nur-rueckkehrer-bisseck-ueberzeugt,einzelkritik-deutschland-griechenland-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 10:41:40 +0200"
+      "published": "Sun, 27 Sep 2026 22:40:21 +0200"
     },
     {
-      "title": "Knieverletzung: Mbappé fehlt Frankreich für drei Spiele",
-      "summary": "Kylian Mbappé hat sich in der Nations League beim Spiel seiner Franzosen gegen die Türkei verletzt. Nun hat sein Verein Real Madrid die genaue Diagnose bekannt gegeben.",
+      "title": "Sechs bleiben, viele Neulinge - Klopp tauscht DFB-Kader",
+      "summary": "Wie angekündigt tauscht Bundestrainer Jürgen Klopp seinen Kader für die beiden verbleibenden Spiele in der Nations League nahezu komplett aus.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/mbappe-fehlt-frankreich-fuer-drei-spiele,verletzung-kylian-mbappe-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 23:26:25 +0200"
-    },
-    {
-      "title": "Formel 1: Norris fordert Sperre für Colapinto - Konkurrenz widerspricht",
-      "summary": "Unfall mit Folgen in der Formel 1 - mit denen nicht jeder glücklich ist. \"Opfer\" Lando Norris will \"Täter\" Franco Colapinto nicht mehr auf der Strecke sehen, die anderen Fahrer sehen das anders.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/motorsport/formel1/norris-fordert-sperre-fuer-colapinto-konkurrenz-widerspricht,streit-norris-colapinto-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/sechs-bleiben-viele-neulinge-klopp-tauscht-dfb-kader,deutschland-kader-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -702,13 +673,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 11:18:44 +0200"
+      "published": "Mon, 28 Sep 2026 08:30:45 +0200"
     },
     {
-      "title": "Russell hauchdünn Sieger vor Verstappen in Baku",
-      "summary": "Mercedes-Fahrer George Russell setzt sich beim großen Preis von Aserbaidschan äußerst knapp vor Max Verstappen (Red Bull) durch. Der WM-Führende Kimi Antonelli (Mercedes) arbeitete sich fleißig nach vorne.",
+      "title": "Rad-WM in Montreal: US-Amerikaner McNulty zum ersten Mal Weltmeister",
+      "summary": "US-Radprofi Brandon McNulty hat überraschend das Straßenrennen der WM in Montréal gewonnen und den verletzten Superstar Tadej Pogacar im Regenbogentrikot abgelöst.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/motorsport/formel1/russell-hauchduenn-sieger-vor-verstappen-in-baku,bericht-formel-1-baku-rennen-100.html",
+      "url": "https://www.sportschau.de/radsport/mcnulty-sensationell-zum-ersten-mal-weltmeister,bericht-rad-wm-strassenrennen-maenner-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -718,23 +689,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 15:11:06 +0200"
+      "published": "Mon, 28 Sep 2026 10:51:38 +0200"
     },
     {
-      "title": "München ist Olympiabewerber: Schwieriger Prozess mit ulkigem Ende",
-      "summary": "Das klare Votum für Münchens Olympia-Konzept hilft dem DOSB, Streitthemen zu überdecken. Doch ob es alle Wunden heilt, bleibt abzuwarten.",
+      "title": "Riskanter Umgang mit der Gesundheit der Profis",
+      "summary": "Im Radsport ist das Körperwicht einer der Hebel zum Erfolg. Das birgt gesundheitliche Risiken. Doch viele Teams stehen unter Erfolgsdruck und der Weltverband handelt nur langsam.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/olympia/ein-schwieriger-prozess-mit-ulkigem-ende,olympia-muenchen-wahlsieger-analyse-100.html",
+      "url": "https://www.sportschau.de/radsport/riskanter-umgang-mit-der-gesundheit-der-profis,gewicht-im-radsport-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 26 Sep 2026 22:46:47 +0200"
+      "published": "Sun, 27 Sep 2026 15:29:18 +0200"
+    },
+    {
+      "title": "Schuldspruch wegen Finanzvergehen: Mögliche Folgen für Manchester City",
+      "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 28 Sep 2026 10:40:26 +0200"
     }
   ],
   "crises": [
@@ -748,7 +735,7 @@
       },
       "label": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -966,7 +953,7 @@
       "label": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-09-26",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1128,26 +1115,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/slowakei-fico-110.html"
@@ -1164,7 +1131,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-09-24",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1286,26 +1253,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -1317,11 +1264,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Sprengstoffverdacht: Festnahmen bei britischem Luftwaffenstützpunkt",
+      "label": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
       "url": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-27",
-      "intensity": 7,
+      "last_seen": "2026-09-28",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1503,6 +1450,26 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
+        },
+        {
+          "lat": 35.49649690825155,
+          "lon": -96.95681869228424
+        },
+        {
+          "lat": 35.07679443040067,
+          "lon": -94.91941997164976
+        },
+        {
+          "lat": 36.02632213477868,
+          "lon": -95.97438396154435
+        },
+        {
+          "lat": 35.882513766151746,
+          "lon": -98.05890867269235
+        },
+        {
+          "lat": 37.420333201398456,
+          "lon": -94.39844462392013
         }
       ]
     },
@@ -1575,7 +1542,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
       "last_seen": "2026-09-26",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1737,26 +1704,6 @@
         {
           "lat": 57.44079487095629,
           "lon": 36.31301319541328
-        },
-        {
-          "lat": 54.33446412950183,
-          "lon": 40.45124243238353
-        },
-        {
-          "lat": 55.30062410441731,
-          "lon": 39.047720449569454
-        },
-        {
-          "lat": 56.0972870298797,
-          "lon": 38.07683486940347
-        },
-        {
-          "lat": 52.946913391004294,
-          "lon": 39.465199174980796
-        },
-        {
-          "lat": 54.72181008203952,
-          "lon": 40.057315495624394
         }
       ]
     },
@@ -1788,7 +1735,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
       "first_seen": "2026-09-21",
       "last_seen": "2026-09-25",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1804,7 +1751,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1886,26 +1833,6 @@
         {
           "lat": 25.305510303458668,
           "lon": 43.66717694639954
-        },
-        {
-          "lat": 26.83447107567335,
-          "lon": 42.98423278488876
-        },
-        {
-          "lat": 22.990203130438623,
-          "lon": 44.65374995544966
-        },
-        {
-          "lat": 21.965278720624227,
-          "lon": 45.0233393406466
-        },
-        {
-          "lat": 23.379299000841517,
-          "lon": 43.53065653641118
-        },
-        {
-          "lat": 24.130001249436873,
-          "lon": 43.220293008485875
         }
       ]
     },
@@ -1922,6 +1849,99 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
       "intensity": 0,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Polen: Wenn der Krieg näher kommt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "protest-madrid",
+      "type": "protest",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "label": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "url": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
