@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:48:48.112557+00:00",
+  "generated_at": "2026-10-02T10:23:04.981289+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,58 @@
   },
   "articles": [
     {
-      "title": "Reformpläne: Hohe Erwartungen an die Pflegekommission",
-      "summary": "Der erste Schritt zur Stabilisierung der Pflegeversicherung ist getan - viele schwierige Fragen sollen von einer Kommission geklärt werden. Ein zentraler SPD-Vorschlag soll dort laut Gesundheitsminister Linnemann aber kein Thema sein.",
+      "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+      "summary": "Mehr als 700 Veranstaltungen und prominente Gäste: Bremen verwandelt sich zum 3. Oktober in eine Festivalmeile. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". 400.000 Menschen werden erwartet.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-208.html",
+      "url": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 02 Oct 2026 11:31:59 +0200"
+    },
+    {
+      "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
+      "summary": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt. Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 02 Oct 2026 09:19:51 +0200"
+    },
+    {
+      "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
+      "summary": "Die Verleihung des Westfälischen Friedenspreises an die NATO in Münster hat Kanzler Merz für eine Grundsatzrede genutzt. Er unterstrich die Bedeutung der Allianz - auch, um \"Moskau Einhalt zu gebieten\".",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Moskau",
+        "lat": 55.7558,
+        "lon": 37.6173
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 21:41:16 +0200"
+    },
+    {
+      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,29 +106,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 10:50:11 +0200"
+      "published": "Thu, 01 Oct 2026 19:49:18 +0200"
     },
     {
-      "title": "Unter einem Dach: Wie Kita-Kinder und Senioren voneinander lernen",
-      "summary": "Sie singen und spielen gemeinsam - und schenken sich Lebensfreude: Im Harz leben Kita-Kinder und Pflegeheimbewohner unter einem Dach. Fachleute sehen in dem Modell auch einen Hoffnungsschimmer im Kampf gegen Demenz. Von R. Nordin Mencke.",
+      "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
+      "summary": "Die Bundeswehr wird ein eigenes Drohnenregiment mit bis zu 600 Soldaten aufstellen - eine Konsequenz aus dem Ukraine-Krieg. Das kündigte Verteidigungsminister Pistorius an. Wo es stationiert wird, ist noch nicht bekannt.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/pflegeheim-kita-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 19:01:51 +0200"
+      "published": "Thu, 01 Oct 2026 19:25:59 +0200"
     },
     {
-      "title": "Übung der Heimatschutzdivision: Spannungsfall an der Autobahnbrücke",
-      "summary": "Vergangenes Jahr wurde die Heimatschutzdivision der Bundeswehr gegründet. Zu ihren Aufgaben gehört der Schutz kritischer Infrastruktur und Drohnenabwehr. Jetzt lief die erste große Übung im öffentlichen Raum. Von Philipp Jahn.",
+      "title": "ARD-DeutschlandTrend: Drei Viertel der Deutschen spüren vor allem Belastungen",
+      "summary": "Inmitten weltweiter Krisen und innenpolitischer Herausforderungen erreicht die Bewertung der Bundesregierung Tiefstwerte, zeigt der ARD-DeutschlandTrend. Versprochene Entlastungen werden vermisst. Von C. Müller.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html",
+      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-oktober-110.html",
       "category": "politik",
       "event_type": "tension",
       "location": {
@@ -90,13 +138,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 17:57:43 +0200"
+      "published": "Thu, 01 Oct 2026 18:00:14 +0200"
     },
     {
-      "title": "Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll",
-      "summary": "Nach langem Ringen hat sich sie Bundesregierung auf ein \"Pflegeneuordnungsgesetz\" geeinigt. Das setzt zunächst darauf, das System am Laufen zu halten. Für Kinderlose wird es teurer. Was sich sonst noch ändern soll - ein Überblick.",
+      "title": "Durchschnittsalter auf dem Land steigt stärker als in Städten",
+      "summary": "In ländlichen Gemeinden steigt das Durchschnittsalter der Menschen deutlich stärker als in Großstädten. Insgesamt lag der Altersschnitt in Deutschland vergangenes Jahr bei 45 Jahren - mit Unterschieden zwischen den Bundesländern.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/alter-stadt-land-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 16:23:02 +0200"
+    },
+    {
+      "title": "Erst Hausarzt, dann Facharzt - Baden-Württemberg als Vorreiter",
+      "summary": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen. In Baden-Württemberg gibt es das System seit fast 20 Jahren. Wie läuft es dort? Von Fabian Siegel.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/versorgung-hausarzt-facharzt-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -106,77 +170,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 17:24:32 +0200"
+      "published": "Thu, 01 Oct 2026 15:40:53 +0200"
     },
     {
-      "title": "Pflegegesetz im Kabinett: Die große Reform ist erstmal vertagt",
-      "summary": "Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen. Wie stehen Union und SPD nach der Einigung da? Und werden die geplanten Einsparungen ausreichen? Von Tina Handel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 17:19:50 +0200"
-    },
-    {
-      "title": "Ostbeauftragte Kaiser will mehr Ostdeutsche in Führungspositionen",
-      "summary": "Noch immer gibt es weniger Ostdeutsche in Führungspositionen als Westdeutsche. Auch Vermögen und Erbschaften sind in Ost und West weiterhin ungleich verteilt. Das müsse sich ändern, sagt die Ostbeauftragte der Bundesregierung, Kaiser.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-beauftragte-bundesregierung-ostdeutschland-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 15:27:25 +0200"
-    },
-    {
-      "title": "Pläne der Bundesregierung - Härtere Strafen für Angriffe gegen Einsatzkräfte",
-      "summary": "In den vergangenen Jahren haben die Angriffe auf Einsatz- und Rettungskräfte zugenommen. Ebenso auf Zugbegleiter und andere für das Gemeinwohl Tätige. Die Strafen dafür sollen jetzt erhöht werden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 13:36:38 +0200"
-    },
-    {
-      "title": "Wohnen wird für Studierende auch 2026 teurer",
-      "summary": "Studentisches Wohnen wird in vielen deutschen Städten immer teurer. Das zeigt der aktuelle Studentenwohnreport. Die BAföG-Wohnkostenpauschale deckt vielerorts oft nicht einmal die Kosten für ein WG-Zimmer - außer in Chemnitz.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 12:25:59 +0200"
-    },
-    {
-      "title": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
-      "summary": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier.",
+      "title": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
+      "summary": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 02 Oct 2026 11:22:31 +0200"
+    },
+    {
+      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 19:49:18 +0200"
+    },
+    {
+      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
+      "summary": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 13:01:33 +0200"
+    },
+    {
+      "title": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
+      "summary": "Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,13 +234,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 06:51:25 +0200"
+      "published": "Fri, 02 Oct 2026 09:16:35 +0200"
     },
     {
-      "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
-      "summary": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
+      "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+      "summary": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+      "category": "wirtschaft",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 23:02:22 +0200"
+    },
+    {
+      "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
+      "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 10:34:33 +0200"
+      "published": "Thu, 01 Oct 2026 18:17:17 +0200"
     },
     {
-      "title": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
-      "summary": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf.",
+      "title": "BGH kippt Preiserhöhung bei Amazon Prime",
+      "summary": "Eine Preiserhöhung von Amazon Prime vor vier Jahren ist laut BGH-Urteil unwirksam. Bestimmte Kundinnen und Kunden können jetzt Geld zurückverlangen. Verbraucherschützer raten zur Sammelklage. Von Klaus Hempel.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,13 +282,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 09:56:39 +0200"
+      "published": "Thu, 01 Oct 2026 17:47:54 +0200"
     },
     {
-      "title": "Verträge gekündigt: Volkswagen steht vor neuem Tarifkampf",
-      "summary": "Die VW-Geschäftsführung hat eine Reihe von Tarifverträgen gekündigt. Nun drohen dem Konzern harte Wochen. Die Arbeitnehmerseite hat bereits massiven Widerstand angekündigt. Von Torben Hildebrandt.",
+      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "summary": "Der DAX hat vor der Veröffentlichung der US-Arbeitsmarktdaten zugelegt. Anleger erhoffen sich von den Zahlen neue Hinweise auf die Geldpolitik der US-Notenbank Federal Reserve.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -234,71 +298,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 19:02:10 +0200"
-    },
-    {
-      "title": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
-      "summary": "Der kriselnde Autobauer VW hat zum Jahresende eine Reihe von Tarifverträgen gekündigt und begründet das mit dem aktuellen Kostendruck. Die IG Metall spricht von einem \"üblen Foul an der Belegschaft\".",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 16:00:31 +0200"
-    },
-    {
-      "title": "Inflationsrate steigt im September auf 3,3 Prozent",
-      "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 14:52:15 +0200"
-    },
-    {
-      "title": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
-      "summary": "Das Deutschlandticket wird erneut teurer. Es kostet ab Januar 66,80 Euro und damit 3,80 Euro mehr als bisher. An der neuen Preissteigerung gab es vorab schon deutliche Kritik von Fahrgast- und Umweltverbänden.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 16:06:15 +0200"
-    },
-    {
-      "title": "Tanken in Deutschland war noch nie so teuer wie im September",
-      "summary": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 10:23:56 +0200"
+      "published": "Fri, 02 Oct 2026 10:15:46 +0200"
     },
     {
       "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
@@ -330,36 +330,33 @@
       "published": "Wed, 30 Sep 2026 20:07:15 +0200"
     },
     {
-      "title": "Kolumbiens Präsident macht karibisches Touristenmekka zur Kampfzone",
-      "summary": "Für viele Reisende gilt die kolumbianische Karibikküste als Traumziel. Doch Kolumbiens neuer Präsident will die dort herrschenden Paramilitärs mit allen Mitteln zerschlagen. Und so wird die Region gerade zur Kampfzone. Von Jenny Barke.",
+      "title": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+      "summary": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          },
+          "to": {
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Tue, 29 Sep 2026 13:57:43 +0200"
-    },
-    {
-      "title": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
-      "summary": "Großeinsatz nach Sprengstoffverdacht: An dem auch von den USA genutzten britischen Militärstützpunkt Fairford sind fünf Männer festgenommen worden. Laut US-Präsident Trump wollten sie \"großen Schaden\" anrichten.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 27 Sep 2026 18:57:19 +0200"
+      "published": "Fri, 02 Oct 2026 08:52:44 +0200"
     },
     {
       "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
@@ -481,8 +478,72 @@
       "published": "Sun, 27 Sep 2026 00:29:36 +0200"
     },
     {
+      "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
+      "summary": "Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 24 Sep 2026 19:50:55 +0200"
+    },
+    {
+      "title": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+      "summary": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 02 Oct 2026 03:49:37 +0200"
+    },
+    {
+      "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+      "summary": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 23:02:22 +0200"
+    },
+    {
+      "title": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
+      "summary": "Zwei Monate nach der Krise in Ceuta verschärfen die EU-Länder ihre Asylregeln weiter. Künftig dürfen sie umstrittene Abschiebezentren in Drittstaaten betreiben. Innenminister Dobrindt hofft noch in diesem Jahr auf eine erste Vereinbarung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html",
+      "category": "welt",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 15:48:13 +0200"
+    },
+    {
       "title": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
-      "summary": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und Chinas. Von Georg Schwarte.",
+      "summary": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und China. Von Georg Schwarte.",
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html",
       "category": "welt",
@@ -561,11 +622,11 @@
       "published": "Wed, 30 Sep 2026 06:54:58 +0200"
     },
     {
-      "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
-      "summary": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch anpacken kann. Von Lisa-Maria Röhling.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
-      "category": "welt",
+      "title": "Ein Bischof sorgt für Krawall",
+      "summary": "Die Benchmark sei nun \"Krawall\", wie Bundestrainer Jürgen Klopp nach dem Sieg gegen Serbien sagte. Eine prägende Rolle spielte dabei Tom Bischof, junger Edel-Reservist des FC Bayern.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/ein-bischof-sorgt-fuer-krawall,nachdreher-nations-league-deutschland-serbien-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -574,45 +635,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 29 Sep 2026 22:19:59 +0200"
+      "published": "Fri, 02 Oct 2026 12:03:28 +0200"
     },
     {
-      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-      "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen. Von Julia Borutta.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 29 Sep 2026 20:25:01 +0200"
-    },
-    {
-      "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
-      "summary": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu sortieren. Von Lisa-Maria Röhling.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 29 Sep 2026 17:55:24 +0200"
-    },
-    {
-      "title": "Klopp unter Druck: Deutschland braucht ein Erfolgserlebnis",
-      "summary": "Deutschland braucht ein Erfolgserlebnis - für die Stimmung und den Verbleib in der Liga A der Nations League. Gegen Serbien tritt Bundestrainer Jürgen Klopp mit vielen unerfahrenen Spielern an.",
+      "title": "Deutschland: Bischof top, Woltemade im Pech, Debüt für Baur",
+      "summary": "Der erste Sieg unter Jürgen Klopp hatte viele Sieger - für die genialen Momente sorgten Florian Wirtz und Tom Bischof - die Einzelkritik.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/erfolgserlebnis-gegen-serbien-noetig-klopp-unter-druck,dfb-610.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/wirtz-und-bischof-top-woltemade-im-pech-die-einzelkritik,einzelkritik-deutschland-serbien-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -622,13 +651,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 07:59:50 +0200"
+      "published": "Thu, 01 Oct 2026 23:50:04 +0200"
     },
     {
-      "title": "Sportschau Fußball Podcast: Warum El Mala und Karl die DFB-Gamechanger sein können",
-      "summary": "Neuer Kader, neue Chancen: Das Team des Bundesliga Update Podcasts diskutiert, wer sich gegen Serbien ins Rampenlicht spielen wird.",
+      "title": "Länderspiel-Debüt von Mika Baur: Er kam rein und überzeugte",
+      "summary": "Fünf Debütanten hat Bundestrainer Jürgen Klopp beim 2:0 der DFB-Auswahl gegen Serbien eingesetzt. Mika Baur wird dabei zum 1000. Nationalspieler.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/warum-el-mala-und-karl-die-gamechanger-sein-koennen,bundesliga-update-spezial-nationalmannschaft-100.html",
+      "url": "https://www.sportschau.de/regional/swr/swr-laenderspiel-debuet-von-mika-baur-er-kam-rein-und-ueberzeugte-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -638,13 +667,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 16:58:21 +0200"
+      "published": "Fri, 02 Oct 2026 11:03:22 +0200"
     },
     {
-      "title": "Deutschlands Gegner: Fußball in Serbien ist immer auch Politik",
-      "summary": "Der serbische Fußball hat international an Bedeutung verloren. Er schreibt häufig negative Schlagzeilen, was meistens mit der Politik in einem gespaltenen Land zu tun hat.",
+      "title": "Franz Reindl zum IIHF-Präsident gewählt",
+      "summary": "Das höchste Amt im internationalen Eishockey wird zukünftig von einem Oberbayern ausgeübt: Franz Reindl ist auf dem Kongress des Weltverbandes IIHF zum neuen Präsidenten gewählt worden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/fussball-in-serbien-ist-immer-auch-politik,nations-league-serbien-100.html",
+      "url": "https://www.sportschau.de/regional/br/br-hoechstes-amt-im-eishockey-reindl-zum-iihf-praesident-gewaehlt-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -654,29 +683,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 08:55:48 +0200"
+      "published": "Fri, 02 Oct 2026 11:52:56 +0200"
     },
     {
-      "title": "CR7 vor Rücktritt? Ronaldo verlässt Portugal-Camp",
-      "summary": "Cristiano Ronaldo hat das Teamcamp der portugiesischen Nationalmannschaft verlassen und seinen Rücktritt angedeutet.",
+      "title": "Adler Mannheim machen es deutlich",
+      "summary": "Die Adler Mannheim fahren einen ungefährdeten Heimsieg ein. Dabei ist das Spiel gegen die Iserlohn Roosters deutlich umkämpfter, als es das Ergebnis ausdrückt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/ronaldo-verlaesst-teamcamp-und-deutet-ruecktritt-an,ronaldo-abreise-portugal-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Portugal",
-        "lat": 39.3999,
-        "lon": -8.2245
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 12:03:09 +0200"
-    },
-    {
-      "title": "Unterstützung für Infantino - Lettland Abweichler in Europa",
-      "summary": "Der europäische Block bekommt einen ersten Riss: Lettlands Verbandschef hat FIFA-Präsident Gianni Infantino seine Unterstützung ausgesprochen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/unterstuetzung-fuer-infantino-lettland-abweichler-in-europa,lettland-infantino-100.html",
+      "url": "https://www.sportschau.de/regional/swr/swr-die-adler-machen-es-deutlich-mannheim-schlaegt-iserlohn-klar-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -686,29 +699,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 21:44:13 +0200"
+      "published": "Thu, 01 Oct 2026 22:08:22 +0200"
     },
     {
-      "title": "Zverev nimmt die erste Hürde in Peking",
-      "summary": "Der \"Lefty-Experte\" schlägt wieder zu: Alexander Zverev bezwingt Linkshänder Cameron Norrie in Peking in zwei Sätzen.",
+      "title": "Das große Schweigen der Familie",
+      "summary": "Im Fußball ist Diskriminierung ein öffentliches Thema. Im Eishockey beklagen Betroffene, das Thema werde totgeschwiegen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/zverev-nimmt-die-erste-huerde-in-peking,alexander-zverev-peking-norrie-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Peking",
-        "lat": 39.9042,
-        "lon": 116.4074
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 01 Oct 2026 12:46:11 +0200"
-    },
-    {
-      "title": "Alexander Zverev bald die Nummer eins der Tennis-Weltrangliste?",
-      "summary": "Alexander Zverev greift in seinem \"phänomenalen Jahr\" nach Platz eins der Tennis-Weltrangliste. Schon Mitte Oktober könnte es soweit sein.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
+      "url": "https://www.sportschau.de/eishockey/das-grosse-schweigen-der-familie,rassismus-eishockey-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -718,23 +715,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 08:53:49 +0200"
+      "published": "Thu, 01 Oct 2026 10:36:57 +0200"
     },
     {
-      "title": "Bühl bricht bei zähem Bayern-Sieg den Bann",
-      "summary": "Die Fußballerinnen des FC Bayern München haben in Lissabon ihren ersten Sieg in der Champions League gefeiert. Allerdings hatten die Münchnerinnen lange Probleme.",
+      "title": "Trainer Montella in der Türkei unter Druck",
+      "summary": "Rund um die türkische Fußball-Nationalmannschaft hängt der Haussegen schief. Trainer Vincenzo Montella steht unter Druck und muss sich rechtfertigen. Aber ist der Trainer wirklich das Problem?",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-buehl-bricht-den-bann-bayern-feiern-zaehen-sieg-in-lissabon-102.html",
+      "url": "https://www.sportschau.de/fussball/nationsleague/trainer-montella-in-der-tuerkei-unter-druck,tuerkei-krise-anspruch-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
+        "name": "Türkei",
+        "lat": 38.9637,
+        "lon": 35.2433
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 30 Sep 2026 23:18:12 +0200"
+      "published": "Fri, 02 Oct 2026 10:52:54 +0200"
+    },
+    {
+      "title": "Griechenland verspielt 2:0: Nur Remis gegen Niederlande",
+      "summary": "Griechenland und die Niederlande bleiben in der Nations League unbesiegt. In Thessaloniki schenkten die Gastgeber eine 2:0-Führung her.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationsleague/niederlaendische-aufholjagd-ohne-kroenung,spielbericht-nations-league-griechenland-niederlande-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 01 Oct 2026 23:06:28 +0200"
     }
   ],
   "crises": [
@@ -746,9 +759,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+      "label": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -953,7 +966,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html"
     },
     {
       "id": "conflict-russland",
@@ -965,8 +978,8 @@
       },
       "label": "Ukrainische Wirtschaft durch Krieg unter Druck",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-01",
-      "intensity": 7,
+      "last_seen": "2026-10-02",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1148,6 +1161,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html"
@@ -1163,7 +1196,7 @@
       "label": "Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen",
       "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1381,7 +1414,7 @@
       "url": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-01",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1563,26 +1596,6 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        },
-        {
-          "lat": 35.49649690825155,
-          "lon": -96.95681869228424
-        },
-        {
-          "lat": 35.07679443040067,
-          "lon": -94.91941997164976
-        },
-        {
-          "lat": 36.02632213477868,
-          "lon": -95.97438396154435
-        },
-        {
-          "lat": 35.882513766151746,
-          "lon": -98.05890867269235
-        },
-        {
-          "lat": 37.420333201398456,
-          "lon": -94.39844462392013
         }
       ]
     },
@@ -1598,7 +1611,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
       "last_seen": "2026-09-26",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1680,44 +1693,8 @@
         {
           "lat": 56.15920128480536,
           "lon": 36.17733803889268
-        },
-        {
-          "lat": 54.19331496715414,
-          "lon": 38.63616046957664
-        },
-        {
-          "lat": 56.23100763833896,
-          "lon": 37.65908422527429
-        },
-        {
-          "lat": 58.058991392520255,
-          "lon": 36.19814772005231
-        },
-        {
-          "lat": 52.78169037735618,
-          "lon": 38.954577559176386
-        },
-        {
-          "lat": 57.415598696790774,
-          "lon": 36.275319422008195
         }
       ]
-    },
-    {
-      "id": "protest-griechenland",
-      "type": "protest",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-saudi-arabien",
@@ -1777,22 +1754,6 @@
       ]
     },
     {
-      "id": "protest-niederlande",
-      "type": "protest",
-      "location": {
-        "name": "Niederlande",
-        "lat": 52.1326,
-        "lon": 5.2913
-      },
-      "label": "Ball ins Aus spielen - die falsche Erwartung ans Fairplay",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/ball-ins-aus-spielen-die-falsche-erwartung-ans-fairplay,fairplay-118.html",
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-polen",
       "type": "conflict",
       "location": {
@@ -1803,8 +1764,8 @@
       "label": "Polen: Wenn der Krieg näher kommt",
       "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-01",
-      "intensity": 4,
+      "last_seen": "2026-10-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1926,6 +1887,26 @@
         {
           "lat": 52.69267970875737,
           "lon": 18.16814452704802
+        },
+        {
+          "lat": 54.11211080223674,
+          "lon": 21.08038454167193
+        },
+        {
+          "lat": 54.017156353462525,
+          "lon": 17.71474674954527
+        },
+        {
+          "lat": 49.57935948683936,
+          "lon": 21.016383401006664
+        },
+        {
+          "lat": 50.369993869539584,
+          "lon": 21.148539774504734
+        },
+        {
+          "lat": 53.128736890422125,
+          "lon": 20.66714624063383
         }
       ]
     },
@@ -1937,11 +1918,11 @@
         "lat": 40.4168,
         "lon": -3.7038
       },
-      "label": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+      "label": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30",
-      "intensity": 4,
+      "last_seen": "2026-10-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1956,8 +1937,8 @@
       "label": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
       "url": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
-      "intensity": 3,
+      "last_seen": "2026-10-02",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2059,6 +2040,26 @@
         {
           "lat": 54.74940330977294,
           "lon": -0.9913710224468657
+        },
+        {
+          "lat": 53.61637942955268,
+          "lon": -4.530297723866603
+        },
+        {
+          "lat": 55.998709218166354,
+          "lon": -1.14604095317564
+        },
+        {
+          "lat": 55.33451717057592,
+          "lon": -6.244544315818824
+        },
+        {
+          "lat": 54.64773700732906,
+          "lon": -4.781417676573949
+        },
+        {
+          "lat": 53.60980206771039,
+          "lon": -1.9653539183981144
         }
       ]
     },
@@ -2074,7 +2075,7 @@
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }

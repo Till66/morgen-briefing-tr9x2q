@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+      "label": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,8 +227,8 @@
       },
       "label": "Ukrainische Wirtschaft durch Krieg unter Druck",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-01",
-      "intensity": 7,
+      "last_seen": "2026-10-02",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,6 +410,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html"
@@ -425,7 +445,7 @@
       "label": "Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen",
       "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -643,7 +663,7 @@
       "url": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-01",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -825,26 +845,6 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        },
-        {
-          "lat": 35.49649690825155,
-          "lon": -96.95681869228424
-        },
-        {
-          "lat": 35.07679443040067,
-          "lon": -94.91941997164976
-        },
-        {
-          "lat": 36.02632213477868,
-          "lon": -95.97438396154435
-        },
-        {
-          "lat": 35.882513766151746,
-          "lon": -98.05890867269235
-        },
-        {
-          "lat": 37.420333201398456,
-          "lon": -94.39844462392013
         }
       ]
     },
@@ -860,7 +860,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
       "first_seen": "2026-09-20",
       "last_seen": "2026-09-26",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -942,44 +942,8 @@
         {
           "lat": 56.15920128480536,
           "lon": 36.17733803889268
-        },
-        {
-          "lat": 54.19331496715414,
-          "lon": 38.63616046957664
-        },
-        {
-          "lat": 56.23100763833896,
-          "lon": 37.65908422527429
-        },
-        {
-          "lat": 58.058991392520255,
-          "lon": 36.19814772005231
-        },
-        {
-          "lat": 52.78169037735618,
-          "lon": 38.954577559176386
-        },
-        {
-          "lat": 57.415598696790774,
-          "lon": 36.275319422008195
         }
       ]
-    },
-    {
-      "id": "protest-griechenland",
-      "type": "protest",
-      "location": {
-        "name": "Griechenland",
-        "lat": 39.0742,
-        "lon": 21.8243
-      },
-      "label": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "url": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-saudi-arabien",
@@ -1039,22 +1003,6 @@
       ]
     },
     {
-      "id": "protest-niederlande",
-      "type": "protest",
-      "location": {
-        "name": "Niederlande",
-        "lat": 52.1326,
-        "lon": 5.2913
-      },
-      "label": "Ball ins Aus spielen - die falsche Erwartung ans Fairplay",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/ball-ins-aus-spielen-die-falsche-erwartung-ans-fairplay,fairplay-118.html",
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-polen",
       "type": "conflict",
       "location": {
@@ -1065,8 +1013,8 @@
       "label": "Polen: Wenn der Krieg näher kommt",
       "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-01",
-      "intensity": 4,
+      "last_seen": "2026-10-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1188,6 +1136,26 @@
         {
           "lat": 52.69267970875737,
           "lon": 18.16814452704802
+        },
+        {
+          "lat": 54.11211080223674,
+          "lon": 21.08038454167193
+        },
+        {
+          "lat": 54.017156353462525,
+          "lon": 17.71474674954527
+        },
+        {
+          "lat": 49.57935948683936,
+          "lon": 21.016383401006664
+        },
+        {
+          "lat": 50.369993869539584,
+          "lon": 21.148539774504734
+        },
+        {
+          "lat": 53.128736890422125,
+          "lon": 20.66714624063383
         }
       ]
     },
@@ -1199,11 +1167,11 @@
         "lat": 40.4168,
         "lon": -3.7038
       },
-      "label": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+      "label": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30",
-      "intensity": 4,
+      "last_seen": "2026-10-02",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1218,8 +1186,8 @@
       "label": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
       "url": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
-      "intensity": 3,
+      "last_seen": "2026-10-02",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1321,6 +1289,26 @@
         {
           "lat": 54.74940330977294,
           "lon": -0.9913710224468657
+        },
+        {
+          "lat": 53.61637942955268,
+          "lon": -4.530297723866603
+        },
+        {
+          "lat": 55.998709218166354,
+          "lon": -1.14604095317564
+        },
+        {
+          "lat": 55.33451717057592,
+          "lon": -6.244544315818824
+        },
+        {
+          "lat": 54.64773700732906,
+          "lon": -4.781417676573949
+        },
+        {
+          "lat": 53.60980206771039,
+          "lon": -1.9653539183981144
         }
       ]
     },
@@ -1336,10 +1324,10 @@
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-10-01"
+  "updated_at": "2026-10-02"
 }
