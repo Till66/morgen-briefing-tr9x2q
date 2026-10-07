@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
+      "label": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
       "first_seen": "2026-07-11",
       "last_seen": "2026-10-05",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +390,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
@@ -425,7 +405,7 @@
       "label": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
       "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -643,7 +623,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-06",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -805,26 +785,6 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
     },
@@ -840,7 +800,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
       "first_seen": "2026-09-28",
       "last_seen": "2026-10-03",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -922,26 +882,6 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
-        },
-        {
-          "lat": 50.628622392577036,
-          "lon": 19.54377604277066
-        },
-        {
-          "lat": 49.92625879751269,
-          "lon": 18.983356129258837
-        },
-        {
-          "lat": 54.375906749022874,
-          "lon": 17.898568780255285
-        },
-        {
-          "lat": 50.1121355987003,
-          "lon": 17.831168062597435
-        },
-        {
-          "lat": 54.24119048641627,
-          "lon": 17.910073879737073
         }
       ]
     },
@@ -957,7 +897,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
       "first_seen": "2026-09-28",
       "last_seen": "2026-10-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1029,8 +969,8 @@
       "label": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-06",
-      "intensity": 5,
+      "last_seen": "2026-10-07",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1058,11 +998,11 @@
         "lat": 52.52,
         "lon": 13.405
       },
-      "label": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
+      "label": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "intensity": 0,
+      "last_seen": "2026-10-07",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1093,8 +1033,8 @@
       "label": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "intensity": 1,
+      "last_seen": "2026-10-07",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1156,9 +1096,29 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
         }
       ]
     }
   ],
-  "updated_at": "2026-10-06"
+  "updated_at": "2026-10-07"
 }
