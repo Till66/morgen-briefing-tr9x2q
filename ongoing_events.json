@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
+      "label": "Ukraine: Viele Tote bei russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
       "first_seen": "2026-07-11",
       "last_seen": "2026-10-05",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,26 +350,6 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
@@ -386,7 +366,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-08",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,26 +548,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -599,11 +559,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-      "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+      "label": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-06",
-      "intensity": 5,
+      "last_seen": "2026-10-09",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,6 +705,46 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
+        },
+        {
+          "lat": 35.45554713706127,
+          "lon": -97.73926851673629
+        },
+        {
+          "lat": 34.2282419028313,
+          "lon": -93.11416115372434
+        },
+        {
+          "lat": 37.212055023578245,
+          "lon": -95.10445200132904
+        },
+        {
+          "lat": 39.680696771407895,
+          "lon": -93.01773723299225
+        },
+        {
+          "lat": 35.60809005368899,
+          "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
         }
       ]
     },
@@ -760,7 +760,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
       "first_seen": "2026-09-28",
       "last_seen": "2026-10-03",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -802,99 +802,6 @@
         {
           "lat": 54.68723291757289,
           "lon": 18.97683596971476
-        },
-        {
-          "lat": 51.86856870606811,
-          "lon": 21.599171076925394
-        },
-        {
-          "lat": 49.301530560554134,
-          "lon": 16.365495189761276
-        },
-        {
-          "lat": 51.09892038212203,
-          "lon": 21.525218514732487
-        },
-        {
-          "lat": 53.701662015338584,
-          "lon": 18.48578713717644
-        },
-        {
-          "lat": 51.1023088195653,
-          "lon": 19.76106626686304
-        }
-      ]
-    },
-    {
-      "id": "protest-madrid",
-      "type": "protest",
-      "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "label": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-10-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "conflict-gro-britannien",
-      "type": "conflict",
-      "location": {
-        "name": "Großbritannien",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "label": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-      "url": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 53.65903687521316,
-          "lon": -1.5086364266762131
-        },
-        {
-          "lat": 55.47126346028195,
-          "lon": -4.931690400827604
-        },
-        {
-          "lat": 57.77929181931978,
-          "lon": -4.561105853221637
-        },
-        {
-          "lat": 57.018381904637884,
-          "lon": -5.890569316807801
-        },
-        {
-          "lat": 55.948029529812636,
-          "lon": -5.66629593220686
-        },
-        {
-          "lat": 52.887441356928775,
-          "lon": -1.9368770338028851
-        },
-        {
-          "lat": 55.130459543636526,
-          "lon": -3.4259692723969857
-        },
-        {
-          "lat": 53.56235473179302,
-          "lon": -1.7909553596775407
-        },
-        {
-          "lat": 56.40592195900284,
-          "lon": -2.989466246126561
-        },
-        {
-          "lat": 56.303697043224986,
-          "lon": -2.4428100965597688
         }
       ]
     },
@@ -906,10 +813,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
+      "label": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -970,11 +877,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+      "label": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
+      "url": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
-      "intensity": 3,
+      "last_seen": "2026-10-09",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1076,6 +983,26 @@
         {
           "lat": 32.81624579833512,
           "lon": 55.56409883790745
+        },
+        {
+          "lat": 35.112305196384625,
+          "lon": 53.30711127497887
+        },
+        {
+          "lat": 32.89522257946099,
+          "lon": 54.07495529927196
+        },
+        {
+          "lat": 33.953080421426236,
+          "lon": 54.54675200523501
+        },
+        {
+          "lat": 32.91046266198181,
+          "lon": 56.06458339398368
+        },
+        {
+          "lat": 34.28541969294099,
+          "lon": 54.37494936523376
         }
       ]
     },
@@ -1090,8 +1017,8 @@
       "label": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
       "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "intensity": 1,
+      "last_seen": "2026-10-09",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1107,10 +1034,10 @@
       "url": "https://www.sportschau.de/regional/wdr/wdr-koeln-vor-gladbach-derby-mit-koelner-sturm-problem-100.html",
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-10-08"
+  "updated_at": "2026-10-09"
 }
