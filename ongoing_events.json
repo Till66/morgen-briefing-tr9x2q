@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Viele Tote bei russischen Angriffen",
+      "label": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
       "first_seen": "2026-07-11",
       "last_seen": "2026-10-05",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -330,26 +330,6 @@
         {
           "lat": 62.15599283174053,
           "lon": 106.21990910076208
-        },
-        {
-          "lat": 63.42260115779997,
-          "lon": 103.77809201633187
-        },
-        {
-          "lat": 62.30523703640449,
-          "lon": 106.93983084954922
-        },
-        {
-          "lat": 60.45305853733631,
-          "lon": 103.62578970921966
-        },
-        {
-          "lat": 59.3231286075672,
-          "lon": 107.25013836121562
-        },
-        {
-          "lat": 61.581154175605896,
-          "lon": 102.3256459054471
         }
       ],
       "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
@@ -366,7 +346,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-08",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -528,26 +508,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -562,8 +522,8 @@
       "label": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-09",
-      "intensity": 7,
+      "last_seen": "2026-10-10",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,63 +705,26 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        }
-      ]
-    },
-    {
-      "id": "conflict-polen",
-      "type": "conflict",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "label": "Polen: Wenn der Krieg näher kommt",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-10-03",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 51.009310247384086,
-          "lon": 19.52671016241219
         },
         {
-          "lat": 51.268867333021916,
-          "lon": 20.220932986290528
+          "lat": 35.49649690825155,
+          "lon": -96.95681869228424
         },
         {
-          "lat": 52.50150158152089,
-          "lon": 21.541303291927512
+          "lat": 35.07679443040067,
+          "lon": -94.91941997164976
         },
         {
-          "lat": 52.426743978040705,
-          "lon": 20.054672188255743
+          "lat": 36.02632213477868,
+          "lon": -95.97438396154435
         },
         {
-          "lat": 49.023836888849466,
-          "lon": 19.830324861298973
+          "lat": 35.882513766151746,
+          "lon": -98.05890867269235
         },
         {
-          "lat": 51.99265653104886,
-          "lon": 21.201858155826656
-        },
-        {
-          "lat": 50.72566490754222,
-          "lon": 19.67325012064021
-        },
-        {
-          "lat": 51.43218876664881,
-          "lon": 19.400413936447563
-        },
-        {
-          "lat": 52.83624476749898,
-          "lon": 19.739278216437384
-        },
-        {
-          "lat": 54.68723291757289,
-          "lon": 18.97683596971476
+          "lat": 37.420333201398456,
+          "lon": -94.39844462392013
         }
       ]
     },
@@ -816,24 +739,8 @@
       "label": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
       "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "intensity": 8,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-israel",
-      "type": "protest",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "label": "Nations League: Irland gegen Israel - geht es diesmal um Fußball?",
-      "url": "https://www.sportschau.de/fussball/nationsleague/irland-gegen-israel-geht-es-diesmal-um-fussball,vorbericht-irland-israel-nations-league-100.html",
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -881,7 +788,7 @@
       "url": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-09",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -983,26 +890,6 @@
         {
           "lat": 32.81624579833512,
           "lon": 55.56409883790745
-        },
-        {
-          "lat": 35.112305196384625,
-          "lon": 53.30711127497887
-        },
-        {
-          "lat": 32.89522257946099,
-          "lon": 54.07495529927196
-        },
-        {
-          "lat": 33.953080421426236,
-          "lon": 54.54675200523501
-        },
-        {
-          "lat": 32.91046266198181,
-          "lon": 56.06458339398368
-        },
-        {
-          "lat": 34.28541969294099,
-          "lon": 54.37494936523376
         }
       ]
     },
@@ -1017,8 +904,8 @@
       "label": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
       "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
-      "intensity": 3,
+      "last_seen": "2026-10-10",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1039,5 +926,5 @@
       "subpoints": []
     }
   ],
-  "updated_at": "2026-10-09"
+  "updated_at": "2026-10-10"
 }
