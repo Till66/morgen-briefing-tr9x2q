@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
+      "label": "Ukraine: Viele Tote bei russischen Angriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
       "first_seen": "2026-07-11",
       "last_seen": "2026-10-05",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -310,26 +310,6 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
-        },
-        {
-          "lat": 60.550484926703035,
-          "lon": 103.69942325757476
-        },
-        {
-          "lat": 61.63667356367611,
-          "lon": 104.9261489167279
-        },
-        {
-          "lat": 58.643891106644624,
-          "lon": 103.74914459683819
-        },
-        {
-          "lat": 64.20791109157445,
-          "lon": 106.40524031828419
-        },
-        {
-          "lat": 62.15599283174053,
-          "lon": 106.21990910076208
         }
       ],
       "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
@@ -346,7 +326,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-08",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,26 +468,6 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
-        },
-        {
-          "lat": 53.43557468008135,
-          "lon": 33.214243411649306
-        },
-        {
-          "lat": 49.21286349084516,
-          "lon": 29.8246017682896
-        },
-        {
-          "lat": 51.043292299267556,
-          "lon": 28.402064929624334
-        },
-        {
-          "lat": 53.29054301459576,
-          "lon": 33.39491082369301
-        },
-        {
-          "lat": 48.159000078364855,
-          "lon": 30.26382984627663
         }
       ]
     },
@@ -522,7 +482,7 @@
       "label": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -736,10 +696,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+      "label": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -788,7 +748,7 @@
       "url": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -870,26 +830,6 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
-        },
-        {
-          "lat": 34.53650658602524,
-          "lon": 51.50872357386834
-        },
-        {
-          "lat": 29.788215092923195,
-          "lon": 52.06036586617594
-        },
-        {
-          "lat": 31.535998509280965,
-          "lon": 53.88033092181206
-        },
-        {
-          "lat": 32.291035899152405,
-          "lon": 52.377806241935545
-        },
-        {
-          "lat": 32.81624579833512,
-          "lon": 55.56409883790745
         }
       ]
     },
@@ -901,11 +841,11 @@
         "lat": 40.4637,
         "lon": -3.7492
       },
-      "label": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-      "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+      "label": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
-      "intensity": 5,
+      "last_seen": "2026-10-11",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -924,7 +864,84 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Serie von Messerattacken an Schulen in Polen",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
     }
   ],
-  "updated_at": "2026-10-10"
+  "updated_at": "2026-10-11"
 }
