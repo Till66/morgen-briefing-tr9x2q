@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Viele Tote bei russischen Angriffen",
+      "label": "Mehrere Tote durch russische Angriffe auf Saporischschja",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html"
     },
     {
       "id": "conflict-russland",
@@ -225,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
+      "label": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-05",
-      "intensity": 2,
+      "last_seen": "2026-10-12",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -310,9 +310,89 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
+        },
+        {
+          "lat": 60.550484926703035,
+          "lon": 103.69942325757476
+        },
+        {
+          "lat": 61.63667356367611,
+          "lon": 104.9261489167279
+        },
+        {
+          "lat": 58.643891106644624,
+          "lon": 103.74914459683819
+        },
+        {
+          "lat": 64.20791109157445,
+          "lon": 106.40524031828419
+        },
+        {
+          "lat": 62.15599283174053,
+          "lon": 106.21990910076208
+        },
+        {
+          "lat": 63.42260115779997,
+          "lon": 103.77809201633187
+        },
+        {
+          "lat": 62.30523703640449,
+          "lon": 106.93983084954922
+        },
+        {
+          "lat": 60.45305853733631,
+          "lon": 103.62578970921966
+        },
+        {
+          "lat": 59.3231286075672,
+          "lon": 107.25013836121562
+        },
+        {
+          "lat": 61.581154175605896,
+          "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
+        },
+        {
+          "lat": 63.01591423191035,
+          "lon": 106.50348857002088
+        },
+        {
+          "lat": 63.406282377426116,
+          "lon": 106.11403138929978
+        },
+        {
+          "lat": 63.56320607199874,
+          "lon": 107.52500839744951
+        },
+        {
+          "lat": 61.86481182566956,
+          "lon": 106.43257439045202
+        },
+        {
+          "lat": 62.867105840110945,
+          "lon": 106.93341763191377
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html"
     },
     {
       "id": "conflict-kiew",
@@ -326,7 +406,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-08",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -448,26 +528,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -482,7 +542,7 @@
       "label": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -699,7 +759,7 @@
       "label": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -721,22 +781,6 @@
       "subpoints": []
     },
     {
-      "id": "storm-spanien",
-      "type": "storm",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
-      "url": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-iran",
       "type": "conflict",
       "location": {
@@ -748,7 +792,7 @@
       "url": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -810,26 +854,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -844,8 +868,8 @@
       "label": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
-      "intensity": 6,
+      "last_seen": "2026-10-12",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -876,8 +900,8 @@
       "label": "Serie von Messerattacken an Schulen in Polen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
       "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "intensity": 1,
+      "last_seen": "2026-10-12",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -939,9 +963,29 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
+        },
+        {
+          "lat": 50.76163129503481,
+          "lon": 19.024353967869853
+        },
+        {
+          "lat": 50.25640800764771,
+          "lon": 20.485090922329015
+        },
+        {
+          "lat": 50.27951507766324,
+          "lon": 19.93900006647303
+        },
+        {
+          "lat": 52.72821126406808,
+          "lon": 16.34274847312999
+        },
+        {
+          "lat": 53.57140967915636,
+          "lon": 20.1064498528398
         }
       ]
     }
   ],
-  "updated_at": "2026-10-11"
+  "updated_at": "2026-10-12"
 }
