@@ -10,7 +10,7 @@
       },
       "label": "Nord Stream: Ein legitimes militärisches Ziel für die Ukraine?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -445,8 +445,8 @@
       "label": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
       "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-15",
-      "intensity": 5,
+      "last_seen": "2026-10-16",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -588,6 +588,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -603,7 +623,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-12",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -725,26 +745,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -760,66 +760,9 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-14",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-iran",
-      "type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "label": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
-      "url": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 34.314317452452336,
-          "lon": 54.308931541458925
-        },
-        {
-          "lat": 31.76886970091131,
-          "lon": 54.692949896597526
-        },
-        {
-          "lat": 29.538438052420723,
-          "lon": 51.63503596293624
-        },
-        {
-          "lat": 33.59221060018118,
-          "lon": 51.948650845072386
-        },
-        {
-          "lat": 32.01312081668145,
-          "lon": 51.39715410730736
-        },
-        {
-          "lat": 30.094153977610326,
-          "lon": 56.561110202577225
-        },
-        {
-          "lat": 30.595025316608496,
-          "lon": 54.547099416960755
-        },
-        {
-          "lat": 35.42161254304278,
-          "lon": 54.89078023607163
-        },
-        {
-          "lat": 34.08406327260066,
-          "lon": 55.9460103234523
-        },
-        {
-          "lat": 35.17946601838571,
-          "lon": 51.50571259168576
-        }
-      ]
     },
     {
       "id": "protest-spanien",
@@ -833,7 +776,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -849,7 +792,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
       "first_seen": "2026-10-11",
       "last_seen": "2026-10-13",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -891,26 +834,6 @@
         {
           "lat": 54.68723291757289,
           "lon": 18.97683596971476
-        },
-        {
-          "lat": 51.86856870606811,
-          "lon": 21.599171076925394
-        },
-        {
-          "lat": 49.301530560554134,
-          "lon": 16.365495189761276
-        },
-        {
-          "lat": 51.09892038212203,
-          "lon": 21.525218514732487
-        },
-        {
-          "lat": 53.701662015338584,
-          "lon": 18.48578713717644
-        },
-        {
-          "lat": 51.1023088195653,
-          "lon": 19.76106626686304
         }
       ]
     },
@@ -931,5 +854,5 @@
       "subpoints": []
     }
   ],
-  "updated_at": "2026-10-15"
+  "updated_at": "2026-10-16"
 }
