@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Nord Stream: Ein legitimes militärisches Ziel für die Ukraine?",
+      "label": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-nord-stream-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-16",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -588,26 +588,6 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
-        },
-        {
-          "lat": 53.43557468008135,
-          "lon": 33.214243411649306
-        },
-        {
-          "lat": 49.21286349084516,
-          "lon": 29.8246017682896
-        },
-        {
-          "lat": 51.043292299267556,
-          "lon": 28.402064929624334
-        },
-        {
-          "lat": 53.29054301459576,
-          "lon": 33.39491082369301
-        },
-        {
-          "lat": 48.159000078364855,
-          "lon": 30.26382984627663
         }
       ]
     },
@@ -623,7 +603,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -725,26 +705,6 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
-        },
-        {
-          "lat": 37.912293099314276,
-          "lon": -92.94674763864657
-        },
-        {
-          "lat": 34.091124287829764,
-          "lon": -93.97216174578706
-        },
-        {
-          "lat": 38.516843244090175,
-          "lon": -93.15389588562758
-        },
-        {
-          "lat": 37.95085245789026,
-          "lon": -95.99543142612114
-        },
-        {
-          "lat": 39.36966268424379,
-          "lon": -98.28475842366234
         }
       ]
     },
@@ -760,7 +720,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-14",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -776,7 +736,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -852,7 +812,161 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-italien",
+      "type": "conflict",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
+      "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.96354556816491,
+          "lon": 14.954405376952469
+        },
+        {
+          "lat": 40.77941933863096,
+          "lon": 12.666001159895444
+        },
+        {
+          "lat": 41.115819795901494,
+          "lon": 15.561402355726901
+        },
+        {
+          "lat": 41.2207650932789,
+          "lon": 14.576932100756077
+        },
+        {
+          "lat": 42.02290548489741,
+          "lon": 14.583231353845035
+        },
+        {
+          "lat": 42.12479287819827,
+          "lon": 13.078262670259285
+        },
+        {
+          "lat": 43.87671267017424,
+          "lon": 9.737887733131853
+        },
+        {
+          "lat": 44.72522332035837,
+          "lon": 12.892993543081914
+        },
+        {
+          "lat": 42.98494797840142,
+          "lon": 13.99736330057037
+        },
+        {
+          "lat": 40.05018851546586,
+          "lon": 10.067263518518363
+        },
+        {
+          "lat": 41.034690375799585,
+          "lon": 14.115707447356243
+        },
+        {
+          "lat": 39.312250141013116,
+          "lon": 11.216163544775723
+        },
+        {
+          "lat": 40.380055754187175,
+          "lon": 14.273855916796451
+        },
+        {
+          "lat": 44.70445178663706,
+          "lon": 12.173927512568637
+        },
+        {
+          "lat": 44.02802147728822,
+          "lon": 12.934389760977911
+        }
+      ]
+    },
+    {
+      "id": "conflict-br-ssel",
+      "type": "conflict",
+      "location": {
+        "name": "Brüssel",
+        "lat": 50.8503,
+        "lon": 4.3517
+      },
+      "label": "EU-Spitzen stärken Selenskyj den Rücken",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 48.92077288005018,
+          "lon": 5.65231821599971
+        },
+        {
+          "lat": 52.20772503086976,
+          "lon": 4.675350799534202
+        },
+        {
+          "lat": 49.994663134667356,
+          "lon": 5.2564839995251935
+        },
+        {
+          "lat": 49.620679635917575,
+          "lon": 6.273040367039978
+        },
+        {
+          "lat": 51.992839588767694,
+          "lon": 5.8703347990573
+        },
+        {
+          "lat": 49.817139859720044,
+          "lon": 4.687049022256059
+        },
+        {
+          "lat": 50.96464771053361,
+          "lon": 3.8257635832944104
+        },
+        {
+          "lat": 52.6423708131958,
+          "lon": 5.143269844305415
+        },
+        {
+          "lat": 48.060419451445085,
+          "lon": 6.767019526897585
+        },
+        {
+          "lat": 52.693592969940994,
+          "lon": 2.5564855470340664
+        },
+        {
+          "lat": 48.030830978408765,
+          "lon": 3.629076384538919
+        },
+        {
+          "lat": 47.86458190386255,
+          "lon": 5.030229926500872
+        },
+        {
+          "lat": 47.913399844395904,
+          "lon": 1.859414854205892
+        },
+        {
+          "lat": 51.18075602062029,
+          "lon": 2.869184527434568
+        },
+        {
+          "lat": 50.176232217372096,
+          "lon": 6.9059233897266505
+        }
+      ]
     }
   ],
-  "updated_at": "2026-10-16"
+  "updated_at": "2026-10-17"
 }
