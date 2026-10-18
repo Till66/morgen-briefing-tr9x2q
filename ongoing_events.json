@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+      "label": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-16",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,26 +568,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -603,7 +583,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -685,26 +665,6 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
-        },
-        {
-          "lat": 39.21289723441515,
-          "lon": -95.3185407491224
-        },
-        {
-          "lat": 34.85938201632081,
-          "lon": -98.08926331314602
-        },
-        {
-          "lat": 36.48879791435269,
-          "lon": -96.03788115844209
-        },
-        {
-          "lat": 37.97230655513269,
-          "lon": -93.49135820988958
-        },
-        {
-          "lat": 35.67827396692878,
-          "lon": -95.01808241792573
         }
       ]
     },
@@ -716,11 +676,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+      "label": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14",
-      "intensity": 5,
+      "last_seen": "2026-10-18",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -736,7 +696,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -824,8 +784,8 @@
       "label": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
       "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "intensity": 1,
+      "last_seen": "2026-10-18",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -887,6 +847,26 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
+        },
+        {
+          "lat": 44.79071973806741,
+          "lon": 11.074754779519921
+        },
+        {
+          "lat": 43.15981340633479,
+          "lon": 15.513897103652566
+        },
+        {
+          "lat": 43.68310051648728,
+          "lon": 11.30539079836765
+        },
+        {
+          "lat": 39.73122930951456,
+          "lon": 15.493655383045937
+        },
+        {
+          "lat": 41.90542024989051,
+          "lon": 13.262696645559206
         }
       ]
     },
@@ -901,8 +881,8 @@
       "label": "EU-Spitzen stärken Selenskyj den Rücken",
       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "intensity": 1,
+      "last_seen": "2026-10-18",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -964,9 +944,45 @@
         {
           "lat": 50.176232217372096,
           "lon": 6.9059233897266505
+        },
+        {
+          "lat": 50.66845536013295,
+          "lon": 2.0539908108081417
+        },
+        {
+          "lat": 53.36792011030633,
+          "lon": 4.111433652872903
+        },
+        {
+          "lat": 52.17565544883584,
+          "lon": 4.732703967807862
+        },
+        {
+          "lat": 52.793260965201014,
+          "lon": 2.9371952059652413
+        },
+        {
+          "lat": 49.37536925853087,
+          "lon": 2.0070449641576373
         }
       ]
+    },
+    {
+      "id": "protest-br-ssel",
+      "type": "protest",
+      "location": {
+        "name": "Brüssel",
+        "lat": 50.8503,
+        "lon": 4.3517
+      },
+      "label": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+      "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-10-17"
+  "updated_at": "2026-10-18"
 }
