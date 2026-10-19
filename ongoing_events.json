@@ -10,7 +10,7 @@
       },
       "label": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
+      "label": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
     },
     {
       "id": "conflict-kiew",
@@ -442,11 +442,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
-      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+      "label": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
+      "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-16",
-      "intensity": 4,
+      "last_seen": "2026-10-19",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -568,6 +568,26 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
+        },
+        {
+          "lat": 49.18340525302638,
+          "lon": 28.079588566739712
+        },
+        {
+          "lat": 52.8190998028262,
+          "lon": 29.558760026647185
+        },
+        {
+          "lat": 48.27402314887231,
+          "lon": 29.32772795449261
+        },
+        {
+          "lat": 50.96710365345855,
+          "lon": 32.00000546109001
+        },
+        {
+          "lat": 49.23793422982968,
+          "lon": 28.97863135863599
         }
       ]
     },
@@ -579,11 +599,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
+      "label": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-12",
-      "intensity": 2,
+      "last_seen": "2026-10-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -665,6 +685,26 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
+        },
+        {
+          "lat": 39.21289723441515,
+          "lon": -95.3185407491224
+        },
+        {
+          "lat": 34.85938201632081,
+          "lon": -98.08926331314602
+        },
+        {
+          "lat": 36.48879791435269,
+          "lon": -96.03788115844209
+        },
+        {
+          "lat": 37.97230655513269,
+          "lon": -93.49135820988958
+        },
+        {
+          "lat": 35.67827396692878,
+          "lon": -95.01808241792573
         }
       ]
     },
@@ -676,27 +716,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+      "label": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-18",
-      "intensity": 7,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-spanien",
-      "type": "protest",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
-      "intensity": 1,
+      "last_seen": "2026-10-19",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -785,7 +809,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-18",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -847,26 +871,6 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
-        },
-        {
-          "lat": 44.79071973806741,
-          "lon": 11.074754779519921
-        },
-        {
-          "lat": 43.15981340633479,
-          "lon": 15.513897103652566
-        },
-        {
-          "lat": 43.68310051648728,
-          "lon": 11.30539079836765
-        },
-        {
-          "lat": 39.73122930951456,
-          "lon": 15.493655383045937
-        },
-        {
-          "lat": 41.90542024989051,
-          "lon": 13.262696645559206
         }
       ]
     },
@@ -881,8 +885,8 @@
       "label": "EU-Spitzen stärken Selenskyj den Rücken",
       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-18",
-      "intensity": 2,
+      "last_seen": "2026-10-19",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -964,6 +968,26 @@
         {
           "lat": 49.37536925853087,
           "lon": 2.0070449641576373
+        },
+        {
+          "lat": 51.4937460612115,
+          "lon": 2.879392602837387
+        },
+        {
+          "lat": 52.6678696229603,
+          "lon": 2.0725420552129026
+        },
+        {
+          "lat": 52.11980650947855,
+          "lon": 4.498366863734524
+        },
+        {
+          "lat": 53.44793477919568,
+          "lon": 1.658126574547409
+        },
+        {
+          "lat": 50.244210386691314,
+          "lon": 2.8134257298579732
         }
       ]
     },
@@ -978,11 +1002,27 @@
       "label": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
       "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-italien",
+      "type": "protest",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Gewalt bei Protesten beschäftigt auch Italien",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
       "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-10-18"
+  "updated_at": "2026-10-19"
 }
