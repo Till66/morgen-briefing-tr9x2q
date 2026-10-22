@@ -10,7 +10,7 @@
       },
       "label": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+      "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-20",
-      "intensity": 7,
+      "last_seen": "2026-10-22",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,9 +410,29 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
     },
     {
       "id": "conflict-kiew",
@@ -426,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -588,26 +608,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -623,7 +623,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-21",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -745,26 +745,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -776,10 +756,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html",
+      "label": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -853,7 +833,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-20",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -935,26 +915,6 @@
         {
           "lat": 49.37536925853087,
           "lon": 2.0070449641576373
-        },
-        {
-          "lat": 51.4937460612115,
-          "lon": 2.879392602837387
-        },
-        {
-          "lat": 52.6678696229603,
-          "lon": 2.0725420552129026
-        },
-        {
-          "lat": 52.11980650947855,
-          "lon": 4.498366863734524
-        },
-        {
-          "lat": 53.44793477919568,
-          "lon": 1.658126574547409
-        },
-        {
-          "lat": 50.244210386691314,
-          "lon": 2.8134257298579732
         }
       ]
     },
@@ -982,11 +942,11 @@
         "lat": 41.8719,
         "lon": 12.5674
       },
-      "label": "Gewalt bei Protesten beschäftigt auch Italien",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+      "label": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "intensity": 0,
+      "last_seen": "2026-10-22",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1001,8 +961,8 @@
       "label": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
       "url": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "intensity": 1,
+      "last_seen": "2026-10-22",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1064,6 +1024,26 @@
         {
           "lat": 33.23906464817435,
           "lon": 36.00755101522187
+        },
+        {
+          "lat": 33.63403254745843,
+          "lon": 33.76483443453601
+        },
+        {
+          "lat": 30.501726895757304,
+          "lon": 34.609262920457695
+        },
+        {
+          "lat": 31.49867832283447,
+          "lon": 33.31910561508059
+        },
+        {
+          "lat": 32.3832819537918,
+          "lon": 37.060095255841055
+        },
+        {
+          "lat": 30.252966243436667,
+          "lon": 32.82542904472151
         }
       ]
     },
@@ -1078,8 +1058,8 @@
       "label": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
       "url": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "intensity": 1,
+      "last_seen": "2026-10-22",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1141,9 +1121,61 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
         }
       ]
+    },
+    {
+      "id": "protest-deutschland",
+      "type": "protest",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
+      "url": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "protest-polen",
+      "type": "protest",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Polens Parlament für Lockerung des Abtreibungsrechts",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-10-21"
+  "updated_at": "2026-10-22"
 }
