@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:12:55.942879+00:00",
+  "generated_at": "2026-10-24T08:45:46.652022+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,26 +45,26 @@
   },
   "articles": [
     {
-      "title": "Erste schwerere Herbststürme in Deutschland erwartet",
-      "summary": "Gleich zwei Sturmtiefs ziehen auf Deutschland zu und bringen am Wochenende in weiten Teilen des Landes Sturmböen und viel Regen mit sich. Der Deutsche Wetterdienst hat für viele Regionen Warnungen herausgegeben.",
+      "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
+      "summary": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+      "url": "https://www.tagesschau.de/inland/herbststurm-104.html",
       "category": "politik",
       "event_type": "storm",
       "location": {
-        "name": "Deutschland",
+        "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 10:33:26 +0200"
+      "published": "Sat, 24 Oct 2026 09:31:39 +0200"
     },
     {
-      "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-      "summary": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
+      "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,45 +74,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 20:12:49 +0200"
+      "published": "Sat, 24 Oct 2026 10:11:10 +0200"
     },
     {
-      "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-      "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
+      "title": "Wie sieht die Zukunft der Raffinerien aus?",
+      "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-      "category": "politik",
-      "event_type": "tension",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 17:54:20 +0200"
-    },
-    {
-      "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
-      "summary": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 15:27:40 +0200"
-    },
-    {
-      "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
-      "summary": "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen. Er soll im Dienste Russlands Rüstungsfirmen ausgespäht haben. Der Mann selbst soll ein Ukrainer aus russisch besetztem Gebiet sein. Von. M. Götschenberg und H. Schmidt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -122,13 +90,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 13:32:31 +0200"
+      "published": "Sat, 24 Oct 2026 03:06:57 +0200"
     },
     {
-      "title": "SPD will Pflegereform nachbessern",
-      "summary": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
+      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+      "summary": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -138,13 +106,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 12:31:09 +0200"
+      "published": "Fri, 23 Oct 2026 21:45:20 +0200"
     },
     {
-      "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
-      "summary": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
+      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+      "summary": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -154,13 +122,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 11:25:10 +0200"
+      "published": "Fri, 23 Oct 2026 20:10:26 +0200"
     },
     {
-      "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-      "summary": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
+      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
+      "summary": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen. Gebracht aber hat die neue Grundsicherung bisher wenig. Von Isabell Karras.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,13 +138,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 11:24:26 +0200"
+      "published": "Fri, 23 Oct 2026 19:50:13 +0200"
     },
     {
-      "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
-      "summary": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt. Heute spricht die Konzernspitze mit der Gewerkschaft IG Metall. Worum es bei dem Krisentreffen geht.",
+      "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
+      "summary": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 13:28:38 +0200"
+    },
+    {
+      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+      "summary": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 12:48:25 +0200"
+    },
+    {
+      "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+      "summary": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 10:27:08 +0200"
+    },
+    {
+      "title": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
+      "summary": "Nach Aufdeckung der Sicherheitslücke in der Programmiersprache PHP sind viele Webseiten nach einem Update wieder verfügbar. Doch IT-Experten raten zu weiteren Maßnahmen: Betreiber von Webseiten müssten ihre Systeme genau prüfen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/it-sicherheit-php-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,39 +202,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 10:16:35 +0200"
-    },
-    {
-      "title": "Weihnachtsbäume könnten teurer werden",
-      "summary": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 10:04:17 +0200"
-    },
-    {
-      "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-      "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 17:54:20 +0200"
+      "published": "Fri, 23 Oct 2026 12:47:03 +0200"
     },
     {
       "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
@@ -237,10 +221,10 @@
       "published": "Thu, 22 Oct 2026 18:27:55 +0200"
     },
     {
-      "title": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
-      "summary": "Im Rahmen der \"Operation Chargeback\" ermitteln Behörden gegen internationale Geldwäsche-Netzwerke. Ex-Wirecard-Manager sind inzwischen angeklagt. Nach BR-Recherchen führen Spuren auch zu einer Tochterfirma des Glücksspielkonzerns Merkur.",
+      "title": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
+      "summary": "Es ist ein Lichtblick in angespannten Zeiten: Die deutsche Baubranche meldet das größte Auftragsplus seit Beginn der Aufzeichnung. Grund sind aber vor allem Großaufträge. Trotzdem bleibt der Mietmarkt angespannt.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -250,13 +234,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 07:04:03 +0200"
+      "published": "Fri, 23 Oct 2026 13:53:21 +0200"
     },
     {
-      "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
-      "summary": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren.",
+      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "summary": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -266,15 +250,15 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 10:45:11 +0200"
+      "published": "Fri, 23 Oct 2026 11:13:15 +0200"
     },
     {
-      "title": "Wirtschaft vor acht vom 22.10.2026",
-      "summary": "Wirtschaft vor acht vom 22.10.2026",
+      "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+      "summary": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/video/video-1670896.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
       "category": "wirtschaft",
-      "event_type": "standard",
+      "event_type": "protest",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -282,13 +266,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 19:47:07 +0200"
+      "published": "Fri, 23 Oct 2026 11:12:00 +0200"
     },
     {
-      "title": "Update Wirtschaft vom 22.10.2026",
-      "summary": "Update Wirtschaft vom 22.10.2026",
+      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+      "summary": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1670512.html",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Finnland",
+        "lat": 61.9241,
+        "lon": 25.7482
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 12:04:33 +0200"
+    },
+    {
+      "title": "Weihnachtsbäume könnten teurer werden",
+      "summary": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -298,7 +298,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 10:07:28 +0200"
+      "published": "Fri, 23 Oct 2026 10:04:17 +0200"
+    },
+    {
+      "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
+      "summary": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 15:01:59 +0200"
     },
     {
       "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
@@ -317,36 +333,68 @@
       "published": "Thu, 22 Oct 2026 18:35:29 +0200"
     },
     {
-      "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "summary": "Die neue Arktis-Strategie der Europäischen Kommission macht deutlich: Die EU will ihre Präsenz dort verstärken, wo die \"tektonischen Platten der Geopolitik aufeinanderprallen\", wie Kommissionschefin von der Leyen sagt. Von Thomas Spickhofen.",
+      "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Israel",
+        "lat": 31.0461,
+        "lon": 34.8516
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 20 Oct 2026 17:38:35 +0200"
+      "published": "Sat, 24 Oct 2026 03:01:43 +0200"
     },
     {
-      "title": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
-      "summary": "Das ukrainische Militär beklagt eine Drosselung von Elon Musks Satelliten-Internetdienst. Laut einem Medienbericht soll Trump nun die Aufhebung befohlen haben. Der US-Präsident bezieht selbst Stellung dazu - doch viele Fragen bleiben offen.",
+      "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+      "summary": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Von C. Buttkereit.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+      "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Istanbul",
+        "lat": 41.0082,
+        "lon": 28.9784
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 04:28:21 +0200"
+      "published": "Fri, 23 Oct 2026 19:43:10 +0200"
+    },
+    {
+      "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+      "summary": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Israel",
+        "lat": 31.0461,
+        "lon": 34.8516
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 18:31:33 +0200"
+    },
+    {
+      "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+      "summary": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 19:26:28 +0200"
     },
     {
       "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
@@ -407,78 +455,84 @@
       "published": "Wed, 21 Oct 2026 13:55:51 +0200"
     },
     {
-      "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-      "summary": "Seit Wochen greift Russland gezielt Brücken in der ukrainischen Hauptstadt Kiew an. Die Einwohner versuchen, sich mit dem Verkehrschaos so gut wie möglich zu arrangieren. Der Ausnahmezustand gehört bereits zum Alltag. Von Niels Bula.",
+      "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
+      "summary": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
-      "category": "konflikte",
-      "event_type": "transport",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
+      "category": "welt",
+      "event_type": "standard",
       "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 20 Oct 2026 18:23:41 +0200"
-    },
-    {
-      "title": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
-      "summary": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 20 Oct 2026 06:47:36 +0200"
-    },
-    {
-      "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-      "summary": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 09:56:08 +0200"
+      "published": "Fri, 23 Oct 2026 19:05:12 +0200"
+    },
+    {
+      "title": "Griechenland verbietet Social Media für unter 15-Jährige",
+      "summary": "Auch Griechenland will Kinder und Jugendliche vor Gefahren Sozialer Medien schützen. Das Parlament hat ein Verbot für unter 15-Jährige beschlossen. Künftig sollen Plattformen das Alter ihrer Nutzer überprüfen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Griechenland",
+        "lat": 39.0742,
+        "lon": 21.8243
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 17:44:49 +0200"
+    },
+    {
+      "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+      "summary": "Nach den schweren Ausschreitungen in Mailand reagiert Italiens Regierung mit einem neuen Sicherheitsdekret. Die sozialen Ursachen bleiben. Ebenso die Frage: Wer waren die meist sehr jungen Randalierer? Von V. Schälter.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 14:55:47 +0200"
+    },
+    {
+      "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
+      "summary": "Aus einem Auto heraus hat ein Mann in mehreren Vororten von Paris Schüsse abgefeuert. Ein Mensch wurde getötet, es gibt mehrere Schwerverletzte. Frankreichs Innenminister Nuñez spricht von einer \"terroristischen Tat\".",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 17:15:56 +0200"
+    },
+    {
+      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+      "summary": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Finnland",
+        "lat": 61.9241,
+        "lon": 25.7482
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 12:04:33 +0200"
     },
     {
       "title": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
@@ -529,75 +583,11 @@
       "published": "Wed, 21 Oct 2026 19:48:20 +0200"
     },
     {
-      "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
-      "summary": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 21 Oct 2026 15:08:58 +0200"
-    },
-    {
-      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-      "summary": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 21 Oct 2026 11:31:54 +0200"
-    },
-    {
-      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-      "summary": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 21 Oct 2026 10:52:52 +0200"
-    },
-    {
-      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 20 Oct 2026 21:56:31 +0200"
-    },
-    {
-      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-      "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-      "category": "welt",
+      "title": "Ski nordisch: Wie der neue FIS-Präsident Ospelt den Nordischen Skisport retten will",
+      "summary": "Hat der Nordische Skisport nach dem Olympia-Aus der Kombination eine Zukunft? Der neue FIS-Präsident Alexander Ospelt will den Sport unter anderem mit jährlichen WM-Titeln retten. Das sorgt für Kritik.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/wintersport/wie-der-fis-praesident-nordischen-skisport-retten-will,fis-praesident-ospelt-100.html",
+      "category": "sport",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -606,13 +596,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 20 Oct 2026 19:49:19 +0200"
+      "published": "Fri, 23 Oct 2026 16:44:43 +0200"
     },
     {
-      "title": "Vorbilder machen Mut - Gelingt Gladbach die Wende in Stuttgart?",
-      "summary": "Die Historie zeigt: Ein Fehlstart wie ihn Borussia Mönchengladbach hingelegt hat, muss längst nicht den Abstieg bedeuten.",
+      "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
+      "summary": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-vorbilder-machen-mut-jetzt-muss-gladbach-eins-werden-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -622,13 +612,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 17:21:00 +0200"
+      "published": "Fri, 23 Oct 2026 22:25:49 +0200"
     },
     {
-      "title": "Mönchengladbachs Minusserie: So erging es den Bundesliga-Fehlstartern",
-      "summary": "Borussia Mönchengladbach hat vergangenes Wochenende den Bundesliga-Negativrekord von sechs Niederlagen zum Saisonstart eingestellt. Zwei Klubs schafften mit diesem Fehlstart trotzdem noch den Klassenerhalt.",
+      "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
+      "summary": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/null-punkte-nach-sechs-spielen-so-erging-es-bundesliga-fehlstartern,borussia-moenchengladbach-fehlstart-historie-100.html",
+      "url": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -638,13 +628,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 00:04:39 +0200"
+      "published": "Sat, 24 Oct 2026 09:43:46 +0200"
     },
     {
-      "title": "Bayern \"vorerst\" ohne Díaz - 2026 kein Einsatz mehr?",
-      "summary": "Der FC Bayern München muss \"vorerst\" auf Luis Díaz verzichten. Der Kolumbianer zog sich beim Champions-League-Duell gegen den FC Arsenal eine Muskelverletzung zu und könnte sogar für den Rest des Jahres ausfallen.",
+      "title": "Bochum malocht sich zum Remis gegen Wolfsburg",
+      "summary": "Im besten Malocherstil erkämpfte sich der VfL Bochum ein Remis gegen den Favoriten VfL Wolfsburg und bremste damit seine Krise in der 2. Liga.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-diagnose-da-fcb-vorerst-ohne-daz-2026-kein-einsatz-mehr-102.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/vfl-bochum-malocht-sich-zum-remis-gegen-wolfsburg,spielbericht-vfl-bochum-vfl-wolfsburg-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 22:04:42 +0200"
+    },
+    {
+      "title": "Krampf und Kampf beim Remis zwischen Darmstadt und St. Pauli",
+      "summary": "In einem spielerisch dürftigen, aber durchaus umkämpften Zweitligaspiel haben der SV Darmstadt 98 und der FC St. Pauli die Punkte geteilt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/krampf-und-kampf-zwischen-darmstadt-und-st-pauli,spielbericht-sv-darmstadt-st-pauli-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 23 Oct 2026 20:54:41 +0200"
+    },
+    {
+      "title": "Frauen-Bundesliga: Bayern Schlägt Leipzig mit Feldspielerin im Tor",
+      "summary": "Bayern München hat in der Frauen-Bundesliga seine Erfolgsserie fortgesetzt. Gegen RB Leipzig feierte der Meister seinen 50. Liga-Sieg in Folge (5:1) und überstand dabei eine fatale rote Karte.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/br/br-bei-rot-fuer-mahmutovic-fcb-frauen-feiern-50-liga-sieg-in-folge-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -654,13 +676,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 21:22:35 +0200"
+      "published": "Fri, 23 Oct 2026 22:10:21 +0200"
     },
     {
-      "title": "Reicht Bayerns Form für Freiburg?",
-      "summary": "Der SC Freiburg steht vor dem nächsten Spitzenspiel in der Fußball-Bundesliga. Nach Leverkusen ist jetzt der FC Bayern zu Gast im Breisgau. Können die Freiburger den Tabellenführer ärgern?",
+      "title": "Blakely Mehrkampf-Weltmeisterin - Nemour vergibt Afrika-Coup",
+      "summary": "US-Turnerin Skye Blakely ist die neue Weltmeisterin. Favoritin Kaylia Nemour patzte und verpasste damit historisches: Die 19-Jährige vergab die erste WM-Medaille im Vierkampf für Afrika.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/reicht-bayerns-form-fuer-freiburg,bundesliga-update-vorschau-spieltag-sieben-106.html",
+      "url": "https://www.sportschau.de/regional/swr/swr-blakely-mehrkampf-weltmeisterin-nemour-vergibt-afrika-coup-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -670,71 +692,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 14:24:52 +0200"
+      "published": "Fri, 23 Oct 2026 22:49:56 +0200"
     },
     {
-      "title": "Gouweleeuw, Müller und der \"treue Charly\"",
-      "summary": "Jeffrey Gouweleeuw steht kurz davor, alleiniger Rekordspieler des FC Augsburg in der Fußball-Bundesliga zu werden. Er wäre dann in prominenter Gesellschaft mit Thomas Müller und Karl-Heinz-Körbel, dem \"treuen Charly\".",
+      "title": "Ausfall ein \"Segen\" - Real Madrids Superstar Vinicius Jr. vor \"El Clasico\" in der Krise",
+      "summary": "\"El Clasico\" steht vor der Tür und bei Real Madrid reden sie vor allem über einen, der gar nicht dabei ist: Superstar Vinicius Junior steckt tief in der Formkrise.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/gouweleeuw-mueller-und-der-treue-charly,rekordspieler-100.html",
+      "url": "https://www.sportschau.de/fussball/la-liga-primera-division/ausfall-ein-segen-superstar-vinicius-jr-in-der-krise,vinicius-jr-real-madrid-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Madrid",
+        "lat": 40.4168,
+        "lon": -3.7038
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 00:04:00 +0200"
-    },
-    {
-      "title": "Asien sagt Infantino \"uneingeschränkte Unterstützung\" zu",
-      "summary": "Eine Abwahl des umstrittenen FIFA-Präsidenten Gianni Infantino wird unwahrscheinlicher. Der Präsident des asiatischen Kontinentalverbands AFC hat sich für eine vierte Amtszeit des Schweizers ausgesprochen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/asien-sagt-infantino-uneingeschraenkte-unterstuetzung-zu,infantino-asien-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 08:45:29 +0200"
-    },
-    {
-      "title": "USA richten erste Klub-WM der Frauen aus",
-      "summary": "Die erste Klub-WM im Fußball der Frauen wird 2028 in den USA ausgetragen. Der Qualifikationszeitraum hat bereits begonnen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/mehr-frauenfussball/usa-richten-erste-klub-wm-der-frauen-aus,usa-klub-wm-frauen-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 19:09:21 +0200"
-    },
-    {
-      "title": "Geisterspiel - Serbien ohne Fans gegen DFB-Elf",
-      "summary": "Die Nationalmannschaft Serbiens muss das Nations-League-Duell gegen Deutschland ohne Zuschauer bestreiten. Grund ist rassistisches und diskriminierendes Verhalten serbischer Anhänger.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/geisterspiel-serbien-ohne-fans-gegen-dfb-elf,serbien-fussball-stadion-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 13:52:39 +0200"
+      "published": "Fri, 23 Oct 2026 17:27:20 +0200"
     }
   ],
   "crises": [
@@ -746,9 +720,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
+      "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -953,7 +927,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
     },
     {
       "id": "conflict-russland",
@@ -965,7 +939,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1184,7 +1158,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1306,26 +1280,6 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
     },
@@ -1341,7 +1295,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-21",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1423,26 +1377,6 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
-        },
-        {
-          "lat": 39.21289723441515,
-          "lon": -95.3185407491224
-        },
-        {
-          "lat": 34.85938201632081,
-          "lon": -98.08926331314602
-        },
-        {
-          "lat": 36.48879791435269,
-          "lon": -96.03788115844209
-        },
-        {
-          "lat": 37.97230655513269,
-          "lon": -93.49135820988958
-        },
-        {
-          "lat": 35.67827396692878,
-          "lon": -95.01808241792573
         }
       ]
     },
@@ -1454,10 +1388,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+      "label": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1531,7 +1465,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-20",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1573,26 +1507,6 @@
         {
           "lat": 52.693592969940994,
           "lon": 2.5564855470340664
-        },
-        {
-          "lat": 48.030830978408765,
-          "lon": 3.629076384538919
-        },
-        {
-          "lat": 47.86458190386255,
-          "lon": 5.030229926500872
-        },
-        {
-          "lat": 47.913399844395904,
-          "lon": 1.859414854205892
-        },
-        {
-          "lat": 51.18075602062029,
-          "lon": 2.869184527434568
-        },
-        {
-          "lat": 50.176232217372096,
-          "lon": 6.9059233897266505
         }
       ]
     },
@@ -1620,11 +1534,11 @@
         "lat": 41.8719,
         "lon": 12.5674
       },
-      "label": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
+      "label": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-23",
-      "intensity": 2,
+      "last_seen": "2026-10-24",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1636,11 +1550,11 @@
         "lat": 31.0461,
         "lon": 34.8516
       },
-      "label": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
-      "url": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html",
+      "label": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-22",
-      "intensity": 1,
+      "last_seen": "2026-10-24",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1702,6 +1616,46 @@
         {
           "lat": 33.23906464817435,
           "lon": 36.00755101522187
+        },
+        {
+          "lat": 33.63403254745843,
+          "lon": 33.76483443453601
+        },
+        {
+          "lat": 30.501726895757304,
+          "lon": 34.609262920457695
+        },
+        {
+          "lat": 31.49867832283447,
+          "lon": 33.31910561508059
+        },
+        {
+          "lat": 32.3832819537918,
+          "lon": 37.060095255841055
+        },
+        {
+          "lat": 30.252966243436667,
+          "lon": 32.82542904472151
+        },
+        {
+          "lat": 31.285475273985643,
+          "lon": 36.331246478425626
+        },
+        {
+          "lat": 28.88897232971817,
+          "lon": 33.41756507541043
+        },
+        {
+          "lat": 28.511118126756188,
+          "lon": 32.22067220640431
+        },
+        {
+          "lat": 32.40886875537885,
+          "lon": 34.43456164231909
+        },
+        {
+          "lat": 30.55955133793388,
+          "lon": 34.87682500721394
         }
       ]
     },
@@ -1717,7 +1671,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1759,26 +1713,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -1806,11 +1740,11 @@
         "lat": 51.9194,
         "lon": 19.1451
       },
-      "label": "Polens Parlament für Lockerung des Abtreibungsrechts",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
+      "label": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
-      "intensity": 3,
+      "last_seen": "2026-10-24",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1826,7 +1760,7 @@
       "url": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1841,8 +1775,8 @@
       "label": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "intensity": 1,
+      "last_seen": "2026-10-24",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1904,6 +1838,26 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
+        },
+        {
+          "lat": 57.657802307018265,
+          "lon": 18.030372000616712
+        },
+        {
+          "lat": 58.428104095311625,
+          "lon": 18.79612000708669
+        },
+        {
+          "lat": 62.264254485835146,
+          "lon": 20.564426601374738
+        },
+        {
+          "lat": 62.999660360444956,
+          "lon": 17.934568298809943
+        },
+        {
+          "lat": 60.504621070046824,
+          "lon": 17.792342373431858
         }
       ]
     },
@@ -1918,10 +1872,87 @@
       "label": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
       "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "intensity": 1,
+      "last_seen": "2026-10-24",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-istanbul",
+      "type": "conflict",
+      "location": {
+        "name": "Istanbul",
+        "lat": 41.0082,
+        "lon": 28.9784
+      },
+      "label": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+      "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.74229894172431,
+          "lon": 28.53017401112201
+        },
+        {
+          "lat": 42.42528960393842,
+          "lon": 31.799012814701307
+        },
+        {
+          "lat": 39.04622065994545,
+          "lon": 31.00332926852427
+        },
+        {
+          "lat": 40.98632338149597,
+          "lon": 28.749518249923717
+        },
+        {
+          "lat": 38.06761150944201,
+          "lon": 29.266865735336875
+        },
+        {
+          "lat": 40.083256573393534,
+          "lon": 26.290838620327143
+        },
+        {
+          "lat": 42.13297742650658,
+          "lon": 26.159970960251048
+        },
+        {
+          "lat": 42.12677345190797,
+          "lon": 28.93082831645357
+        },
+        {
+          "lat": 38.40116090286062,
+          "lon": 29.154907863955692
+        },
+        {
+          "lat": 41.138915293141714,
+          "lon": 29.946352251426866
+        },
+        {
+          "lat": 43.414039067745456,
+          "lon": 27.287635652747852
+        },
+        {
+          "lat": 40.85401303802455,
+          "lon": 30.12149861979985
+        },
+        {
+          "lat": 41.60243534469545,
+          "lon": 27.664370423204353
+        },
+        {
+          "lat": 40.911373755598994,
+          "lon": 29.456848587813987
+        },
+        {
+          "lat": 42.45884230925652,
+          "lon": 28.441707696036833
+        }
+      ]
     }
   ]
 }
