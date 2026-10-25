@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:45:46.652022+00:00",
+  "generated_at": "2026-10-25T09:01:51.833859+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,70 @@
   },
   "articles": [
     {
+      "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+      "summary": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 18:19:11 +0200"
+    },
+    {
+      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "summary": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 18:51:47 +0200"
+    },
+    {
+      "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "summary": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 14:19:07 +0200"
+    },
+    {
+      "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+      "summary": "Noch ist offen, ob SPD-Chef Klingbeil noch einmal für den Posten kandidiert. Der Juso-Vorsitzende Türmer hat eine klare Meinung: Er fordert einen Neustart an der Parteispitze. Bremens Bürgermeister Bovenschulte hält an Klingbeil fest.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 12:52:30 +0200"
+    },
+    {
       "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
       "summary": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -58,11 +122,11 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 24 Oct 2026 09:31:39 +0200"
+      "published": "Sat, 24 Oct 2026 10:59:50 +0200"
     },
     {
-      "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
+      "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
       "category": "politik",
@@ -74,7 +138,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 24 Oct 2026 10:11:10 +0200"
+      "published": "Sat, 24 Oct 2026 15:58:56 +0200"
     },
     {
       "title": "Wie sieht die Zukunft der Raffinerien aus?",
@@ -109,84 +173,20 @@
       "published": "Fri, 23 Oct 2026 21:45:20 +0200"
     },
     {
-      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-      "summary": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 20:10:26 +0200"
-    },
-    {
-      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-      "summary": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen. Gebracht aber hat die neue Grundsicherung bisher wenig. Von Isabell Karras.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 19:50:13 +0200"
-    },
-    {
-      "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
-      "summary": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 13:28:38 +0200"
-    },
-    {
-      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-      "summary": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 12:48:25 +0200"
-    },
-    {
-      "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-      "summary": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
+      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 24 Oct 2026 10:27:08 +0200"
+      "published": "Sun, 25 Oct 2026 05:10:34 +0100"
     },
     {
       "title": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
@@ -333,6 +333,51 @@
       "published": "Thu, 22 Oct 2026 18:35:29 +0200"
     },
     {
+      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+      "summary": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 25 Oct 2026 08:45:03 +0100"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "summary": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Kiew",
+            "lat": 50.4501,
+            "lon": 30.5234
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 17:29:30 +0200"
+    },
+    {
       "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
       "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -347,38 +392,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sat, 24 Oct 2026 03:01:43 +0200"
-    },
-    {
-      "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-      "summary": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Von C. Buttkereit.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Istanbul",
-        "lat": 41.0082,
-        "lon": 28.9784
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 19:43:10 +0200"
-    },
-    {
-      "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-      "summary": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 18:31:33 +0200"
     },
     {
       "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
@@ -453,6 +466,38 @@
       ],
       "chokepoint_lane": null,
       "published": "Wed, 21 Oct 2026 13:55:51 +0200"
+    },
+    {
+      "title": "Proteste in Europa - auch mit Gewalt",
+      "summary": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 25 Oct 2026 09:55:32 +0100"
+    },
+    {
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 24 Oct 2026 21:00:39 +0200"
     },
     {
       "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
@@ -551,42 +596,10 @@
       "published": "Fri, 23 Oct 2026 07:13:58 +0200"
     },
     {
-      "title": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
-      "summary": "An Sonntag wählen die Serben eine neues Parlament. Die oppositionelle \"Studentenliste\" tritt gegen die Partei Vucics an - Zehntausende Menschen kamen zu ihrer Abschlusskundgebung in Belgrad.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Belgrad",
-        "lat": 44.7866,
-        "lon": 20.4489
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 07:26:10 +0200"
-    },
-    {
-      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "summary": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 21 Oct 2026 19:48:20 +0200"
-    },
-    {
-      "title": "Ski nordisch: Wie der neue FIS-Präsident Ospelt den Nordischen Skisport retten will",
-      "summary": "Hat der Nordische Skisport nach dem Olympia-Aus der Kombination eine Zukunft? Der neue FIS-Präsident Alexander Ospelt will den Sport unter anderem mit jährlichen WM-Titeln retten. Das sorgt für Kritik.",
+      "title": "Ski Alpin: Emma Aicher rast beim Weltcup-Auftakt auf das Podest",
+      "summary": "Emma Aicher ist ein herausragender Start in die neue Weltcup-Saison gelungen. Beim Riesenslalom im österreichischen Sölden belegte die 22 Jahre alte Allrounderin den starken dritten Rang.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/wintersport/wie-der-fis-praesident-nordischen-skisport-retten-will,fis-praesident-ospelt-100.html",
+      "url": "https://www.sportschau.de/wintersport/ski-alpin/aicher-rast-beim-weltcup-auftakt-auf-podest,ski-alpin-soelden-riesenslalom-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -596,77 +609,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 16:44:43 +0200"
+      "published": "Sat, 24 Oct 2026 16:49:21 +0200"
     },
     {
-      "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
-      "summary": "Borussia Mönchengladbach hat den alleinigen Rekord-Fehlstart in der Bundesliga abgewendet und mit einem furiosen Sieg beim VfB Stuttgart für eine dicke Überraschung gesorgt.",
+      "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+      "summary": "Borussia Dortmund hat in der Bundesliga seine kurze Durststrecke überwunden. Vor dem Tor von Maximilian Beier sah es gegen Eintracht Frankfurt zunächst anders aus.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Stuttgart",
-        "lat": 48.7758,
-        "lon": 9.1829
+        "name": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 22:25:49 +0200"
+      "published": "Sat, 24 Oct 2026 20:59:09 +0200"
     },
     {
-      "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
-      "summary": "Vincent Kompany ist nach einer Trainingseinheit zusammengebrochen und wurde in ein Münchner Krankenhaus gebracht. Der Verein bestätigte entsprechende Medienberichte. Sein Zustand ist allerdings stabil.",
+      "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
+      "summary": "Bei Bayern München und Real Madrid hatte es Klatschen für RB Leipzig gegeben, doch die englische Woche endete mit einem 45-minütigen Feuerwerk. Die SV Elversberg enttäuschte wieder in der Fremde.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 24 Oct 2026 09:43:46 +0200"
-    },
-    {
-      "title": "Bochum malocht sich zum Remis gegen Wolfsburg",
-      "summary": "Im besten Malocherstil erkämpfte sich der VfL Bochum ein Remis gegen den Favoriten VfL Wolfsburg und bremste damit seine Krise in der 2. Liga.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/vfl-bochum-malocht-sich-zum-remis-gegen-wolfsburg,spielbericht-vfl-bochum-vfl-wolfsburg-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 22:04:42 +0200"
-    },
-    {
-      "title": "Krampf und Kampf beim Remis zwischen Darmstadt und St. Pauli",
-      "summary": "In einem spielerisch dürftigen, aber durchaus umkämpften Zweitligaspiel haben der SV Darmstadt 98 und der FC St. Pauli die Punkte geteilt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/krampf-und-kampf-zwischen-darmstadt-und-st-pauli,spielbericht-sv-darmstadt-st-pauli-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 20:54:41 +0200"
-    },
-    {
-      "title": "Frauen-Bundesliga: Bayern Schlägt Leipzig mit Feldspielerin im Tor",
-      "summary": "Bayern München hat in der Frauen-Bundesliga seine Erfolgsserie fortgesetzt. Gegen RB Leipzig feierte der Meister seinen 50. Liga-Sieg in Folge (5:1) und überstand dabei eine fatale rote Karte.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-bei-rot-fuer-mahmutovic-fcb-frauen-feiern-50-liga-sieg-in-folge-102.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -676,13 +641,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 22:10:21 +0200"
+      "published": "Sat, 24 Oct 2026 17:39:52 +0200"
     },
     {
-      "title": "Blakely Mehrkampf-Weltmeisterin - Nemour vergibt Afrika-Coup",
-      "summary": "US-Turnerin Skye Blakely ist die neue Weltmeisterin. Favoritin Kaylia Nemour patzte und verpasste damit historisches: Die 19-Jährige vergab die erste WM-Medaille im Vierkampf für Afrika.",
+      "title": "Leidenschaft allein wird dem 1. FC Köln nicht reichen",
+      "summary": "Der 1. FC Köln bringt gegen Schalke 04 erneut viel Leidenschaft auf den Platz. Trotz positiver Ansätze reicht das aber nicht für Siege.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-blakely-mehrkampf-weltmeisterin-nemour-vergibt-afrika-coup-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-leidenschaft-allein-wird-dem-1-fc-koeln-nicht-reichen-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 25 Oct 2026 09:49:33 +0100"
+    },
+    {
+      "title": "Sieg in Mainz: Füllkrug trifft für Bremen, wie er will",
+      "summary": "Der SV Werder Bremen gewinnt beim 1. FSV Mainz 05 und überrascht weiter in der Fußball-Bundesliga. Garant für den Erfolg ist Niclas Füllkrug, der schon wieder traf, und das doppelt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-immer-wieder-fuellkrug,spielbericht-mainz-05-werder-bremen-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -692,23 +673,55 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 22:49:56 +0200"
+      "published": "Sat, 24 Oct 2026 17:51:21 +0200"
     },
     {
-      "title": "Ausfall ein \"Segen\" - Real Madrids Superstar Vinicius Jr. vor \"El Clasico\" in der Krise",
-      "summary": "\"El Clasico\" steht vor der Tür und bei Real Madrid reden sie vor allem über einen, der gar nicht dabei ist: Superstar Vinicius Junior steckt tief in der Formkrise.",
+      "title": "Union holt ersten Auswärts-Punkt gegen hadernde Augsburger",
+      "summary": "Für Unions Felix Uduokhai war das Treffen mit dem Ex-Klub ein kurzes: Nach 19 Minuten musste er vom Platz. Als dann auch noch Augsburgs Juma Bah vom Platz flog, nahm die Partie so richtig Fahrt auf.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/la-liga-primera-division/ausfall-ein-segen-superstar-vinicius-jr-in-der-krise,vinicius-jr-real-madrid-104.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/berlin-holt-ersten-auswaerts-punkt-augsburg-schwaecht-sich-selbst,spielbericht-fc-augsburg-union-berlin-106.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 17:27:20 +0200"
+      "published": "Sat, 24 Oct 2026 18:46:07 +0200"
+    },
+    {
+      "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
+      "summary": "Eigentlich ist es nur noch eine Frage der Zeit: Kimi Antonelli ist auf dem Weg, der jüngste Formel-1-Weltmeister aller Zeiten zu werden. Das könnte sogar schon in Austin klappen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 20 Oct 2026 14:25:23 +0200"
+    },
+    {
+      "title": "Antonelli holt die Pole Position und greift nach dem WM-Titel",
+      "summary": "WM-Spitzenreiter Kimi Antonelli hat die Pole Position für den Großen Preis der USA erobert und damit den Grundstein für den erträumten Titelgewinn in der Formel 1 gelegt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/motorsport/formel1/antonelli-holt-die-pole-position-und-greift-nach-dem-wm-titel,gp-usa-qualifying-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 25 Oct 2026 00:32:18 +0200"
     }
   ],
   "crises": [
@@ -722,7 +735,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -939,7 +952,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1158,7 +1171,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1260,26 +1273,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -1295,7 +1288,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-21",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1357,26 +1350,6 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
-        },
-        {
-          "lat": 34.116119926358834,
-          "lon": -93.2073491890479
-        },
-        {
-          "lat": 39.004944855583354,
-          "lon": -94.7579894185447
-        },
-        {
-          "lat": 39.89036589951706,
-          "lon": -94.34687975210892
-        },
-        {
-          "lat": 38.00759246619805,
-          "lon": -98.6588583219015
-        },
-        {
-          "lat": 34.517970304127545,
-          "lon": -93.35953343984788
         }
       ]
     },
@@ -1388,70 +1361,13 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+      "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-italien",
-      "type": "conflict",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
-      "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-18",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 38.96354556816491,
-          "lon": 14.954405376952469
-        },
-        {
-          "lat": 40.77941933863096,
-          "lon": 12.666001159895444
-        },
-        {
-          "lat": 41.115819795901494,
-          "lon": 15.561402355726901
-        },
-        {
-          "lat": 41.2207650932789,
-          "lon": 14.576932100756077
-        },
-        {
-          "lat": 42.02290548489741,
-          "lon": 14.583231353845035
-        },
-        {
-          "lat": 42.12479287819827,
-          "lon": 13.078262670259285
-        },
-        {
-          "lat": 43.87671267017424,
-          "lon": 9.737887733131853
-        },
-        {
-          "lat": 44.72522332035837,
-          "lon": 12.892993543081914
-        },
-        {
-          "lat": 42.98494797840142,
-          "lon": 13.99736330057037
-        },
-        {
-          "lat": 40.05018851546586,
-          "lon": 10.067263518518363
-        }
-      ]
     },
     {
       "id": "conflict-br-ssel",
@@ -1537,8 +1453,8 @@
       "label": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
-      "intensity": 3,
+      "last_seen": "2026-10-25",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1550,11 +1466,11 @@
         "lat": 31.0461,
         "lon": 34.8516
       },
-      "label": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+      "label": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
-      "intensity": 3,
+      "last_seen": "2026-10-25",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1656,6 +1572,26 @@
         {
           "lat": 30.55955133793388,
           "lon": 34.87682500721394
+        },
+        {
+          "lat": 32.13664846644647,
+          "lon": 34.291712174591076
+        },
+        {
+          "lat": 28.984764538538702,
+          "lon": 37.80731675290254
+        },
+        {
+          "lat": 32.74581148266916,
+          "lon": 35.55695348069513
+        },
+        {
+          "lat": 32.7772367240574,
+          "lon": 32.92547101954638
+        },
+        {
+          "lat": 31.975414210528815,
+          "lon": 33.771209574582336
         }
       ]
     },
@@ -1743,8 +1679,8 @@
       "label": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
-      "intensity": 4,
+      "last_seen": "2026-10-25",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1775,8 +1711,8 @@
       "label": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "intensity": 2,
+      "last_seen": "2026-10-25",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1858,6 +1794,26 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
+        },
+        {
+          "lat": 60.59262660816582,
+          "lon": 17.40628773969104
+        },
+        {
+          "lat": 60.653755149075934,
+          "lon": 16.706898640384757
+        },
+        {
+          "lat": 60.209001540306026,
+          "lon": 20.508900766223995
+        },
+        {
+          "lat": 58.57864901069497,
+          "lon": 17.37653369892133
+        },
+        {
+          "lat": 62.20022520292998,
+          "lon": 19.417083908978288
         }
       ]
     },
@@ -1873,7 +1829,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-24",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1889,7 +1845,7 @@
       "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1931,26 +1887,6 @@
         {
           "lat": 41.138915293141714,
           "lon": 29.946352251426866
-        },
-        {
-          "lat": 43.414039067745456,
-          "lon": 27.287635652747852
-        },
-        {
-          "lat": 40.85401303802455,
-          "lon": 30.12149861979985
-        },
-        {
-          "lat": 41.60243534469545,
-          "lon": 27.664370423204353
-        },
-        {
-          "lat": 40.911373755598994,
-          "lon": 29.456848587813987
-        },
-        {
-          "lat": 42.45884230925652,
-          "lon": 28.441707696036833
         }
       ]
     }

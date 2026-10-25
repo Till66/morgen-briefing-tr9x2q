@@ -10,7 +10,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -548,26 +548,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -583,7 +563,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-21",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -645,26 +625,6 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
-        },
-        {
-          "lat": 34.116119926358834,
-          "lon": -93.2073491890479
-        },
-        {
-          "lat": 39.004944855583354,
-          "lon": -94.7579894185447
-        },
-        {
-          "lat": 39.89036589951706,
-          "lon": -94.34687975210892
-        },
-        {
-          "lat": 38.00759246619805,
-          "lon": -98.6588583219015
-        },
-        {
-          "lat": 34.517970304127545,
-          "lon": -93.35953343984788
         }
       ]
     },
@@ -676,70 +636,13 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+      "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-italien",
-      "type": "conflict",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
-      "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-18",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 38.96354556816491,
-          "lon": 14.954405376952469
-        },
-        {
-          "lat": 40.77941933863096,
-          "lon": 12.666001159895444
-        },
-        {
-          "lat": 41.115819795901494,
-          "lon": 15.561402355726901
-        },
-        {
-          "lat": 41.2207650932789,
-          "lon": 14.576932100756077
-        },
-        {
-          "lat": 42.02290548489741,
-          "lon": 14.583231353845035
-        },
-        {
-          "lat": 42.12479287819827,
-          "lon": 13.078262670259285
-        },
-        {
-          "lat": 43.87671267017424,
-          "lon": 9.737887733131853
-        },
-        {
-          "lat": 44.72522332035837,
-          "lon": 12.892993543081914
-        },
-        {
-          "lat": 42.98494797840142,
-          "lon": 13.99736330057037
-        },
-        {
-          "lat": 40.05018851546586,
-          "lon": 10.067263518518363
-        }
-      ]
     },
     {
       "id": "conflict-br-ssel",
@@ -825,8 +728,8 @@
       "label": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
-      "intensity": 3,
+      "last_seen": "2026-10-25",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -838,11 +741,11 @@
         "lat": 31.0461,
         "lon": 34.8516
       },
-      "label": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+      "label": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
-      "intensity": 3,
+      "last_seen": "2026-10-25",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -944,6 +847,26 @@
         {
           "lat": 30.55955133793388,
           "lon": 34.87682500721394
+        },
+        {
+          "lat": 32.13664846644647,
+          "lon": 34.291712174591076
+        },
+        {
+          "lat": 28.984764538538702,
+          "lon": 37.80731675290254
+        },
+        {
+          "lat": 32.74581148266916,
+          "lon": 35.55695348069513
+        },
+        {
+          "lat": 32.7772367240574,
+          "lon": 32.92547101954638
+        },
+        {
+          "lat": 31.975414210528815,
+          "lon": 33.771209574582336
         }
       ]
     },
@@ -1031,8 +954,8 @@
       "label": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
-      "intensity": 4,
+      "last_seen": "2026-10-25",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1063,8 +986,8 @@
       "label": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "intensity": 2,
+      "last_seen": "2026-10-25",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1146,6 +1069,26 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
+        },
+        {
+          "lat": 60.59262660816582,
+          "lon": 17.40628773969104
+        },
+        {
+          "lat": 60.653755149075934,
+          "lon": 16.706898640384757
+        },
+        {
+          "lat": 60.209001540306026,
+          "lon": 20.508900766223995
+        },
+        {
+          "lat": 58.57864901069497,
+          "lon": 17.37653369892133
+        },
+        {
+          "lat": 62.20022520292998,
+          "lon": 19.417083908978288
         }
       ]
     },
@@ -1161,7 +1104,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-24",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1177,7 +1120,7 @@
       "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1219,29 +1162,9 @@
         {
           "lat": 41.138915293141714,
           "lon": 29.946352251426866
-        },
-        {
-          "lat": 43.414039067745456,
-          "lon": 27.287635652747852
-        },
-        {
-          "lat": 40.85401303802455,
-          "lon": 30.12149861979985
-        },
-        {
-          "lat": 41.60243534469545,
-          "lon": 27.664370423204353
-        },
-        {
-          "lat": 40.911373755598994,
-          "lon": 29.456848587813987
-        },
-        {
-          "lat": 42.45884230925652,
-          "lon": 28.441707696036833
         }
       ]
     }
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-25"
 }
