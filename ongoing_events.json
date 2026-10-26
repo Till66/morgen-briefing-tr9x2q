@@ -10,7 +10,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -528,26 +528,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
         }
       ]
     },
@@ -563,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-21",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -605,26 +585,6 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
         }
       ]
     },
@@ -639,7 +599,7 @@
       "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -702,22 +662,6 @@
       ]
     },
     {
-      "id": "protest-br-ssel",
-      "type": "protest",
-      "location": {
-        "name": "Brüssel",
-        "lat": 50.8503,
-        "lon": 4.3517
-      },
-      "label": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-      "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "protest-italien",
       "type": "protest",
       "location": {
@@ -728,8 +672,8 @@
       "label": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-25",
-      "intensity": 4,
+      "last_seen": "2026-10-26",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -741,11 +685,11 @@
         "lat": 31.0461,
         "lon": 34.8516
       },
-      "label": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "label": "Israel will Westjordanland am Wahltag abriegeln",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-25",
-      "intensity": 4,
+      "last_seen": "2026-10-26",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -867,6 +811,26 @@
         {
           "lat": 31.975414210528815,
           "lon": 33.771209574582336
+        },
+        {
+          "lat": 28.1046581143523,
+          "lon": 37.7444440008063
+        },
+        {
+          "lat": 31.11241623978408,
+          "lon": 36.93963341702745
+        },
+        {
+          "lat": 31.71063959552211,
+          "lon": 35.176035933801444
+        },
+        {
+          "lat": 32.2228178117709,
+          "lon": 31.97291914406114
+        },
+        {
+          "lat": 30.156160927949394,
+          "lon": 33.85860804637908
         }
       ]
     },
@@ -955,7 +919,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-25",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -967,11 +931,11 @@
         "lat": 51.1657,
         "lon": 10.4515
       },
-      "label": "Erste schwerere Herbststürme in Deutschland erwartet",
-      "url": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+      "label": "Sturmtief \"Manja\" fegt über Deutschland",
+      "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "intensity": 0,
+      "last_seen": "2026-10-26",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -987,7 +951,7 @@
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-25",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1069,26 +1033,6 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
-        },
-        {
-          "lat": 60.59262660816582,
-          "lon": 17.40628773969104
-        },
-        {
-          "lat": 60.653755149075934,
-          "lon": 16.706898640384757
-        },
-        {
-          "lat": 60.209001540306026,
-          "lon": 20.508900766223995
-        },
-        {
-          "lat": 58.57864901069497,
-          "lon": 17.37653369892133
-        },
-        {
-          "lat": 62.20022520292998,
-          "lon": 19.417083908978288
         }
       ]
     },
@@ -1104,7 +1048,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-24",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1166,5 +1110,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-25"
+  "updated_at": "2026-10-26"
 }
