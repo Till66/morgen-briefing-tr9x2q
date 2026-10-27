@@ -10,7 +10,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
       "first_seen": "2026-08-30",
       "last_seen": "2026-10-21",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -508,26 +508,6 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
-        },
-        {
-          "lat": 51.45047349201747,
-          "lon": 28.871659015322724
-        },
-        {
-          "lat": 51.86005130557798,
-          "lon": 30.754070191168474
-        },
-        {
-          "lat": 49.68477979259665,
-          "lon": 31.144236065993837
-        },
-        {
-          "lat": 50.77939239313334,
-          "lon": 31.598203924671093
-        },
-        {
-          "lat": 50.357442341474105,
-          "lon": 32.2222066715884
         }
       ]
     },
@@ -539,11 +519,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "label": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-21",
-      "intensity": 0,
+      "last_seen": "2026-10-27",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -585,6 +565,26 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
         }
       ]
     },
@@ -599,67 +599,10 @@
       "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-br-ssel",
-      "type": "conflict",
-      "location": {
-        "name": "Brüssel",
-        "lat": 50.8503,
-        "lon": 4.3517
-      },
-      "label": "EU-Spitzen stärken Selenskyj den Rücken",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-20",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 48.92077288005018,
-          "lon": 5.65231821599971
-        },
-        {
-          "lat": 52.20772503086976,
-          "lon": 4.675350799534202
-        },
-        {
-          "lat": 49.994663134667356,
-          "lon": 5.2564839995251935
-        },
-        {
-          "lat": 49.620679635917575,
-          "lon": 6.273040367039978
-        },
-        {
-          "lat": 51.992839588767694,
-          "lon": 5.8703347990573
-        },
-        {
-          "lat": 49.817139859720044,
-          "lon": 4.687049022256059
-        },
-        {
-          "lat": 50.96464771053361,
-          "lon": 3.8257635832944104
-        },
-        {
-          "lat": 52.6423708131958,
-          "lon": 5.143269844305415
-        },
-        {
-          "lat": 48.060419451445085,
-          "lon": 6.767019526897585
-        },
-        {
-          "lat": 52.693592969940994,
-          "lon": 2.5564855470340664
-        }
-      ]
     },
     {
       "id": "protest-italien",
@@ -673,7 +616,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -688,8 +631,8 @@
       "label": "Israel will Westjordanland am Wahltag abriegeln",
       "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-26",
-      "intensity": 5,
+      "last_seen": "2026-10-27",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -831,6 +774,26 @@
         {
           "lat": 30.156160927949394,
           "lon": 33.85860804637908
+        },
+        {
+          "lat": 29.778507446422708,
+          "lon": 35.645685905839244
+        },
+        {
+          "lat": 33.50607922063339,
+          "lon": 37.78679595403578
+        },
+        {
+          "lat": 28.258772820829943,
+          "lon": 37.4253450852929
+        },
+        {
+          "lat": 33.78886528967143,
+          "lon": 35.205449363362845
+        },
+        {
+          "lat": 31.54467693479829,
+          "lon": 35.37583818165535
         }
       ]
     },
@@ -919,7 +882,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-25",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -935,7 +898,7 @@
       "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-26",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -951,7 +914,7 @@
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-25",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1013,26 +976,6 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
-        },
-        {
-          "lat": 57.657802307018265,
-          "lon": 18.030372000616712
-        },
-        {
-          "lat": 58.428104095311625,
-          "lon": 18.79612000708669
-        },
-        {
-          "lat": 62.264254485835146,
-          "lon": 20.564426601374738
-        },
-        {
-          "lat": 62.999660360444956,
-          "lon": 17.934568298809943
-        },
-        {
-          "lat": 60.504621070046824,
-          "lon": 17.792342373431858
         }
       ]
     },
@@ -1110,5 +1053,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-26"
+  "updated_at": "2026-10-27"
 }
