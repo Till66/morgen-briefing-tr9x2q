@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:41:25.116117+00:00",
+  "generated_at": "2026-10-28T10:26:32.898606+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,8 +45,120 @@
   },
   "articles": [
     {
+      "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+      "summary": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Markus Preiß.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 08:21:25 +0100"
+    },
+    {
+      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "summary": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen. Nun wird der von Ines Claus genannt. Hätte sie Chancen? Von Kirsten Girschick.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 20:52:58 +0100"
+    },
+    {
+      "title": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+      "summary": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 18:12:36 +0100"
+    },
+    {
+      "title": "Was die Israel-Wahl für Deutschland bedeutet",
+      "summary": "Die Wahl in Israel wird auch in Deutschland mit Spannung verfolgt. Trotz Kritik an Netanjahus Politik bleibt die Bundesregierung zurückhaltend. Einen grundsätzlichen Wandel erwartet niemand. Von Ruth Kirchner.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": "Israel",
+        "lat": 31.0461,
+        "lon": 34.8516
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 16:52:06 +0100"
+    },
+    {
+      "title": "Bundesgerichtshof verweist Streit um falsches Künast-Zitat an EuGH",
+      "summary": "Der Bundesgerichtshof hat den Rechtsstreit der Grünen-Politikerin Künast gegen Meta an den Europäischen Gerichtshof verwiesen. Der soll prüfen, ob der Internetkonzern für die Löschung eines rechtswidrigen Memes verantwortlich ist.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 16:35:01 +0100"
+    },
+    {
+      "title": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
+      "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 18:11:59 +0100"
+    },
+    {
+      "title": "Beate Zschäpe soll bis mindestens 2035 in Haft bleiben",
+      "summary": "Seit rund 15 Jahren sitzt die verurteilte Rechtsterroristin Beate Zschäpe im Gefängnis - das Mindestmaß bei einer lebenslangen Haftstrafe. Deshalb beantragte sie nun ihre vorzeitige Entlassung - allerdings ohne Erfolg.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/zschaepe-gericht-gegen-vorzeitige-haftentlassung-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 12:10:07 +0100"
+    },
+    {
       "title": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
-      "summary": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufnimmt. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
+      "summary": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufgenommen hat. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
       "source": "Aktuelle Nachrichten aus Deutschland",
       "url": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html",
       "category": "politik",
@@ -58,125 +170,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 10:39:07 +0100"
+      "published": "Tue, 27 Oct 2026 13:27:51 +0100"
     },
     {
-      "title": "Justizministerin Hubig sieht noch \"viele Fragezeichen\" bei Gesetz zu Vergesellschaftungen",
-      "summary": "Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen. Doch seine Kabinettskollegin Hubig sieht noch viel Klärungsbedarf - die Justizministerin verweist auf verfassungsrechtliche Bedenken.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 10:38:21 +0100"
-    },
-    {
-      "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
-      "summary": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/windkraft-reiche-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 09:24:01 +0100"
-    },
-    {
-      "title": "Muss Facebook rechtswidrige Memes aufspüren?",
-      "summary": "Über Social-Media-Accounts wurden Posts verbreitet, die der Grünen-Politikerin Künast falsche Zitate untergeschoben haben. Daraufhin verklagte Künast den Facebook-Betreiber Meta. Heute verhandelt der Bundesgerichtshof erneut. Von Klaus Hempel.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 05:20:26 +0100"
-    },
-    {
-      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 20:56:04 +0100"
-    },
-    {
-      "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-      "summary": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 18:56:13 +0100"
-    },
-    {
-      "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
-      "summary": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen hat und wie die Wahl abläuft.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 16:07:22 +0100"
-    },
-    {
-      "title": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
-      "summary": "Nach der Schiffskollision in Bremerhaven während eines Sturms ermittelt die Polizei gegen den Kapitän des Kreuzfahrtschiffs \"Mein Schiff 3\". Es geht um einen möglichen Verstoß gegen die Sorgfaltspflicht. Die Kreuzfahrt ist abgesagt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-      "category": "politik",
-      "event_type": "storm",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 15:30:41 +0100"
-    },
-    {
-      "title": "Künstliche Intelligenz: Wer kann KI-Texte erkennen?",
-      "summary": "Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde. Der Literaturwelt kann das helfen. Doch noch sind sie nicht für jeden nutzbar. Von J. Petrosiute und C. Gill.",
+      "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+      "summary": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-texte-erkennen-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,29 +186,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 08:38:25 +0100"
+      "published": "Wed, 28 Oct 2026 11:17:20 +0100"
     },
     {
-      "title": "Audi investiert in Amerika, Neckarsulm bangt",
-      "summary": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
+      "title": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+      "summary": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 18:56:22 +0100"
-    },
-    {
-      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "summary": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,13 +202,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 17:57:08 +0100"
+      "published": "Wed, 28 Oct 2026 06:19:59 +0100"
     },
     {
-      "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+      "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+      "summary": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 10:03:50 +0100"
+    },
+    {
+      "title": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+      "summary": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -234,45 +234,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 20:56:04 +0100"
+      "published": "Tue, 27 Oct 2026 18:12:36 +0100"
     },
     {
-      "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "summary": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+      "title": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
+      "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 13:48:59 +0100"
-    },
-    {
-      "title": "Muss Facebook rechtswidrige Memes aufspüren?",
-      "summary": "Über Social-Media-Accounts wurden Posts verbreitet, die der Grünen-Politikerin Künast falsche Zitate untergeschoben haben. Daraufhin verklagte Künast den Facebook-Betreiber Meta. Heute verhandelt der Bundesgerichtshof erneut. Von Klaus Hempel.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": null,
+        "name": "Deutschland",
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 05:20:26 +0100"
+      "published": "Tue, 27 Oct 2026 18:11:59 +0100"
     },
     {
-      "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-      "summary": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
+      "title": "Marktbericht: DAX noch unentschieden",
+      "summary": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -282,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 18:56:13 +0100"
+      "published": "Wed, 28 Oct 2026 10:36:36 +0100"
     },
     {
-      "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-      "summary": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
+      "title": "Wirtschaft vor acht vom 26.10.2026",
+      "summary": "Wirtschaft vor acht vom 26.10.2026",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+      "url": "https://www.tagesschau.de/video/video-1673070.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -298,23 +282,52 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 16:49:36 +0100"
+      "published": "Mon, 26 Oct 2026 20:06:30 +0100"
     },
     {
-      "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
-      "summary": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
+      "title": "Update Wirtschaft vom 28.10.2026",
+      "summary": "Update Wirtschaft vom 28.10.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1673842.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 09:51:10 +0100"
+    },
+    {
+      "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+      "summary": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "Belgrad",
+        "lat": 44.7866,
+        "lon": 20.4489
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Belgrad",
+            "lat": 44.7866,
+            "lon": 20.4489
+          },
+          "to": {
+            "name": "Israel",
+            "lat": 31.0461,
+            "lon": 34.8516
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 15:01:59 +0200"
+      "published": "Wed, 28 Oct 2026 10:54:58 +0100"
     },
     {
       "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
@@ -452,20 +465,81 @@
       "published": "Wed, 21 Oct 2026 13:55:51 +0200"
     },
     {
-      "title": "Israel will Westjordanland am Wahltag abriegeln",
-      "summary": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
+      "title": "Jordanische Luftwaffe greift Ziele in Syrien an",
+      "summary": "Nach dem Anschlag in Jordanien auf eine Kirche mit neun Toten hat die Luftwaffe mit Angriffen auf Ziele im Nachbarland Syrien reagiert. Mehrere Mitglieder der IS-Terrormiliz sollen getötet worden sein.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+      "url": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
+        "name": "Syrien",
+        "lat": 34.8021,
+        "lon": 38.9968
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 25 Oct 2026 09:51:16 +0100"
+      "published": "Tue, 27 Oct 2026 13:41:28 +0100"
+    },
+    {
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "summary": "Beim Zusammenstoß zweier Züge sind in Spanien mindestens zehn Menschen getötet worden. Die Zahl der Opfer könnte noch weiter steigen. Die Strecke zwischen der Hauptstadt Madrid und der südlichen Region Andalusien wurde gesperrt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+      "category": "welt",
+      "event_type": "transport",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Spanien",
+            "lat": 40.4637,
+            "lon": -3.7492
+          },
+          "to": {
+            "name": "Madrid",
+            "lat": 40.4168,
+            "lon": -3.7038
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 11:03:08 +0100"
+    },
+    {
+      "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+      "summary": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 10:03:50 +0100"
+    },
+    {
+      "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
+      "summary": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 18:56:21 +0100"
     },
     {
       "title": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
@@ -535,7 +609,7 @@
       "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
       "summary": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/burnham-freizuegigkeit-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
@@ -548,58 +622,10 @@
       "published": "Sun, 25 Oct 2026 16:12:04 +0100"
     },
     {
-      "title": "Proteste in Europa - auch mit Gewalt",
-      "summary": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 25 Oct 2026 13:21:49 +0100"
-    },
-    {
-      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 24 Oct 2026 21:00:39 +0200"
-    },
-    {
-      "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-      "summary": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 19:05:12 +0200"
-    },
-    {
-      "title": "DFB-Pokal: Warum die Außenseiter hoffen dürfen",
-      "summary": "Zum ersten Mal seit 2008 stehen alle Bundesligisten in der zweiten Pokalrunde - und dennoch: Die Außenseiter dürfen sich durchaus Hoffnung auf eine Überraschung machen.",
+      "title": "DFB-Pokal: BVB lässt seine Fans träumen - und dann wieder zittern",
+      "summary": "Borussia Dortmund besiegt Werder Bremen und steht im Achtelfinale des DFB-Pokals. Obwohl der BVB eine komfortable Führung aus der Hand hab, macht die Art und Weise des Weiterkommens Mut.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/kein-grund-zur-sorge-fuer-die-underdogs,vorbericht-dfb-pokal-runde-zwei-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-dortmund-laesst-seine-fans-traeumen-und-dann-wieder-zittern-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -609,13 +635,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 13:25:26 +0100"
+      "published": "Wed, 28 Oct 2026 11:11:00 +0100"
     },
     {
-      "title": "DFB-Pokal ohne Füllkrug? Werders Super-Stürmer braucht Verschnaufpause",
-      "summary": "In Mainz traf Niclas Füllkrug doppelt, war aber hintenraus platt. Trainer Thioune ist nicht sicher, ob er einen Einsatz in Dortmund am Dienstagabend riskieren sollte.",
+      "title": "Nach Pokal-Erfolg beim HSV: Eintracht Frankfurt im Aufwindchen",
+      "summary": "Die Eintracht steht nach dem Sieg beim HSV im Pokal-Achtelfinale. Trainer Adi Hütter hofft auf eine beflügelnde Wirkung. Es gibt positive Tendenzen. Noch aber ist der Aufwind nicht allzu stark.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rb/rb-dfb-pokal-ohne-fuellkrug-werders-super-stuermer-braucht-verschnaufpause-100.html",
+      "url": "https://www.sportschau.de/regional/hr/hr-nach-pokal-erfolg-beim-hsv-eintracht-frankfurt-im-aufwindchen-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Frankfurt",
+        "lat": 50.1109,
+        "lon": 8.6821
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 07:17:57 +0100"
+    },
+    {
+      "title": "Unions Pokal-Klatsche in Köln: Systemversagen",
+      "summary": "Nach dem bitteren 0:5 im Kölner Regen steht der 1. FC Union Berlin vor einem Rätsel: War der chancenlose Pokal-Auftritt nur ein temporärer Rückschritt oder offenbart er grundlegende Probleme?",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/rbb/rbb-unions-pokal-klatsche-in-koeln-systemversagen-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 28 Oct 2026 07:10:05 +0100"
+    },
+    {
+      "title": "Mönchengladbachs Sieg im DFB-Pokal - Teambuilding in Unterzahl",
+      "summary": "Borussia Mönchengladbach macht den nächsten Schritt aus der Krise. Die Art des Erfolgs im DFB-Pokal macht ihn noch wertvoller.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-moenchengladbachs-sieg-teambuilding-in-unterzahl-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -625,45 +683,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 13:09:00 +0100"
+      "published": "Wed, 28 Oct 2026 08:22:00 +0100"
     },
     {
-      "title": "Schafft Magdeburg die Sensation gegen die Bayern?",
-      "summary": "Zweitligist 1. FC Magdeburg muss beim Bundesligaprimus FC Bayern München in der 2. Runde des DFB-Pokals ran: Es gab Zeiten, in denen sich beide Teams auf Augenhöhe begegneten.",
+      "title": "Aus gegen Fleetwood Town: Arsenal blamiert sich bei Viertligist",
+      "summary": "Der FC Arsenal hat sich im englischen Ligapokal bei einem Viertligisten blamiert. Im Achtelfinale verlor der englische Meister bei Fleetwood Town.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.tagesschau.de/sport/schafft-magdeburg-die-sensation-gegen-die-bayern,faq-dfb-pokal-runde-zwei-bayern-magdeburg-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 19:23:30 +0100"
-    },
-    {
-      "title": "Ballon d'Or: Harry Kane vom FC Bayern gewinnt Auszeichnung",
-      "summary": "Harry Kane ist bei der Gala in London mit dem Ballon d'Or ausgezeichnet worden. Er ist der erste Bundesliga-Spieler seit Matthias Sammer 1996, der den Award gewinnt.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bayern-stuermer-harry-kane-gewinnt-ballon-dor,ballon-d-or-kane-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "London",
-        "lat": 51.5072,
-        "lon": -0.1276
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 10:36:38 +0100"
-    },
-    {
-      "title": "Dritter Ballon d'Or: Alexia Putellas zurück auf dem Thron",
-      "summary": "Alexia Putellas gewinnt zum dritten Mal den Ballon d’Or Feminin und krönt so eine überragende Saison mit dem FC Barcelona.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/dritter-ballon-dor-alexia-putellas-zurueck-auf-dem-thron,alexia-putellas-ballon-d-or-100.html",
+      "url": "https://www.sportschau.de/fussball/premier-league/aus-beim-viertligisten-arsenal-blamiert-sich-im-ligapokal,arsenal-blamiert-sich-im-ligapokal-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -673,29 +699,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 10:37:06 +0100"
+      "published": "Wed, 28 Oct 2026 08:26:54 +0100"
     },
     {
-      "title": "Galatasaray gegen Fenerbahce eskaliert nach Abpfiff",
-      "summary": "Kurz nach dem Abpfiff des Istanbul-Derbys zwischen Galatasaray und Fenerbahce kam es unter den Spielern zu heftigen Auseinandersetzungen.",
+      "title": "Was Kanes Ballon d'Or für Bayern bedeutet",
+      "summary": "Der Ballon-d'Or-Triumph von Harry Kane beendet eine lange Durststrecke des deutschen Rekordmeisters und könnte im zukünftigen Werben auf dem Transfermarkt ein wichtiger Trumpf werden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/mehr-internationale-ligen/istanbul-derby-eskaliert-nach-sieg-von-galatasaray,galatasaray-fenerbahce-tuerkei-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Istanbul",
-        "lat": 41.0082,
-        "lon": 28.9784
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 08:55:53 +0100"
-    },
-    {
-      "title": "Sinner-Comeback steht kurz bevor",
-      "summary": "Die derzeitige Nummer eins der Tennis-Weltrangliste, Jannik Sinner, wird offenbar noch in diesem Jahr auf den Court zurückkehren. Zudem hat der Italiener bald einen neuen Trainer.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/tennis/sinner-comeback-steht-kurz-bevor,tennis-sinner-comeback-frueher-100.html",
+      "url": "https://www.sportschau.de/regional/br/br-signal-an-die-welt-was-kanes-ballon-dor-fuer-bayern-bedeutet-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -705,13 +715,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 27 Oct 2026 08:37:35 +0100"
+      "published": "Tue, 27 Oct 2026 16:31:40 +0100"
     },
     {
-      "title": "Radsport: Carapaz, Ganna, Gall und Co - Stars im Wechselfieber",
-      "summary": "Geht's im Radsport bald zu wie im Fußball? Das Transferkarussell ist in Bewegung geraten wie noch nie zuvor. Carapaz, Ganna, Ciccone, Gall: Viele Topfahrer orientieren sich neu.",
+      "title": "Nicolo Tresoldi & Wael Mohya - Druckmacher von Jürgen Klopp",
+      "summary": "Die Durchstarter Nicolo Tresoldi und Wael Mohya gelten als künftige A-Nationalspieler - aber bei welchem Land? Diese Personalien sind auch eine Aufgabe für Jürgen Klopp.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/radsport/carapaz-ganna-und-co-radstars-im-wechselfieber,wechsel-radsportler-100.html",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/nicolo-tresoldi-und-wael-mohya-klopps-druckmacher,maza-warnendes-beispiel-tresoldi-mohya-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -721,7 +731,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 13:26:06 +0100"
+      "published": "Tue, 27 Oct 2026 13:58:47 +0100"
+    },
+    {
+      "title": "Nach \"Corona-Sperre\" - Schweiz holt Xhaka und Embolo zurück",
+      "summary": "Die Schweizer Fußball-Nationalmannschaft plant nach der Corona-Affäre um Kapitän Granit Xhaka und Stürmerstar Breel Embolo wieder mit dem Duo. Das bestätigte der Schweizer Verband SFV am Dienstag.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationsleague/nach-corona-sperre-schweiz-holt-xhaka-und-embolo-zurueck,schweiz-holt-xhaka-embolo-zurueck-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 27 Oct 2026 19:27:20 +0100"
     }
   ],
   "crises": [
@@ -735,7 +761,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -952,7 +978,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1160,83 +1186,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
     },
     {
-      "id": "conflict-kiew",
-      "type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "label": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-      "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-      "first_seen": "2026-08-30",
-      "last_seen": "2026-10-21",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 52.62998156601318,
-          "lon": 28.326232658589543
-        },
-        {
-          "lat": 50.3313085159312,
-          "lon": 33.389491863221046
-        },
-        {
-          "lat": 51.20745816912664,
-          "lon": 30.683347839835644
-        },
-        {
-          "lat": 52.64227211408358,
-          "lon": 29.159287383864232
-        },
-        {
-          "lat": 49.989688305293484,
-          "lon": 29.873332284175866
-        },
-        {
-          "lat": 52.789783221965024,
-          "lon": 32.13611678810304
-        },
-        {
-          "lat": 47.613306473030896,
-          "lon": 31.572025212639716
-        },
-        {
-          "lat": 50.49795398325134,
-          "lon": 28.57057723397705
-        },
-        {
-          "lat": 48.97908699220479,
-          "lon": 28.400787643530357
-        },
-        {
-          "lat": 48.940084609533564,
-          "lon": 28.087134363895778
-        },
-        {
-          "lat": 47.94889658466643,
-          "lon": 29.295217752572665
-        },
-        {
-          "lat": 49.311037932939485,
-          "lon": 29.905565967110117
-        },
-        {
-          "lat": 53.269015380122816,
-          "lon": 31.036540829632322
-        },
-        {
-          "lat": 50.509987159396864,
-          "lon": 27.66817148841712
-        },
-        {
-          "lat": 48.069011109543155,
-          "lon": 29.35509277567223
-        }
-      ]
-    },
-    {
       "id": "conflict-usa",
       "type": "conflict",
       "location": {
@@ -1247,8 +1196,8 @@
       "label": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-27",
-      "intensity": 1,
+      "last_seen": "2026-10-28",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1310,6 +1259,26 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
+        },
+        {
+          "lat": 34.116119926358834,
+          "lon": -93.2073491890479
+        },
+        {
+          "lat": 39.004944855583354,
+          "lon": -94.7579894185447
+        },
+        {
+          "lat": 39.89036589951706,
+          "lon": -94.34687975210892
+        },
+        {
+          "lat": 38.00759246619805,
+          "lon": -98.6588583219015
+        },
+        {
+          "lat": 34.517970304127545,
+          "lon": -93.35953343984788
         }
       ]
     },
@@ -1321,10 +1290,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+      "label": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1341,7 +1310,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1357,7 +1326,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-27",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1499,26 +1468,6 @@
         {
           "lat": 30.156160927949394,
           "lon": 33.85860804637908
-        },
-        {
-          "lat": 29.778507446422708,
-          "lon": 35.645685905839244
-        },
-        {
-          "lat": 33.50607922063339,
-          "lon": 37.78679595403578
-        },
-        {
-          "lat": 28.258772820829943,
-          "lon": 37.4253450852929
-        },
-        {
-          "lat": 33.78886528967143,
-          "lon": 35.205449363362845
-        },
-        {
-          "lat": 31.54467693479829,
-          "lon": 35.37583818165535
         }
       ]
     },
@@ -1607,7 +1556,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-25",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1639,7 +1588,7 @@
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-25",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1681,26 +1630,6 @@
         {
           "lat": 58.361046101101685,
           "lon": 17.47356624780364
-        },
-        {
-          "lat": 57.77746778260834,
-          "lon": 16.995446274599047
-        },
-        {
-          "lat": 61.60685057002721,
-          "lon": 20.816809426096572
-        },
-        {
-          "lat": 61.63176408406598,
-          "lon": 16.31936377930731
-        },
-        {
-          "lat": 62.54735414282567,
-          "lon": 16.64437327626554
-        },
-        {
-          "lat": 60.83234311711307,
-          "lon": 17.295866686065764
         }
       ]
     },
@@ -1774,6 +1703,160 @@
         {
           "lat": 41.138915293141714,
           "lon": 29.946352251426866
+        }
+      ]
+    },
+    {
+      "id": "conflict-belgrad",
+      "type": "conflict",
+      "location": {
+        "name": "Belgrad",
+        "lat": 44.7866,
+        "lon": 20.4489
+      },
+      "label": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 44.378262710204645,
+          "lon": 22.02344913122918
+        },
+        {
+          "lat": 44.72051886561502,
+          "lon": 19.363922300070854
+        },
+        {
+          "lat": 46.33873670864518,
+          "lon": 20.203083417827397
+        },
+        {
+          "lat": 43.63455464292354,
+          "lon": 19.921714946545475
+        },
+        {
+          "lat": 45.532141735027345,
+          "lon": 18.303384348756836
+        },
+        {
+          "lat": 42.338051707387216,
+          "lon": 18.152823613928238
+        },
+        {
+          "lat": 46.47227663819661,
+          "lon": 22.85716262519887
+        },
+        {
+          "lat": 46.79865538329949,
+          "lon": 18.290309758860573
+        },
+        {
+          "lat": 46.38743180260864,
+          "lon": 22.319864265631267
+        },
+        {
+          "lat": 45.1446170970778,
+          "lon": 18.66486612576767
+        },
+        {
+          "lat": 43.763534178726964,
+          "lon": 22.943739439982277
+        },
+        {
+          "lat": 42.19727659305657,
+          "lon": 18.537236696636008
+        },
+        {
+          "lat": 46.22610233804982,
+          "lon": 21.113617192683535
+        },
+        {
+          "lat": 47.01231487567055,
+          "lon": 22.287359242330503
+        },
+        {
+          "lat": 44.17450076607557,
+          "lon": 17.917538836515284
+        }
+      ]
+    },
+    {
+      "id": "conflict-syrien",
+      "type": "conflict",
+      "location": {
+        "name": "Syrien",
+        "lat": 34.8021,
+        "lon": 38.9968
+      },
+      "label": "Jordanische Luftwaffe greift Ziele in Syrien an",
+      "url": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 35.358871949296066,
+          "lon": 37.73681280677971
+        },
+        {
+          "lat": 37.267357975614,
+          "lon": 40.72038361369082
+        },
+        {
+          "lat": 34.9820321885174,
+          "lon": 36.96594288610433
+        },
+        {
+          "lat": 37.35249628398381,
+          "lon": 36.73038697926942
+        },
+        {
+          "lat": 35.647768710732294,
+          "lon": 41.59653248876625
+        },
+        {
+          "lat": 35.09759117975298,
+          "lon": 41.861389988222484
+        },
+        {
+          "lat": 34.773762134158346,
+          "lon": 38.41335738521753
+        },
+        {
+          "lat": 34.57079277161749,
+          "lon": 37.03701035950636
+        },
+        {
+          "lat": 36.708719725028665,
+          "lon": 36.73416270115184
+        },
+        {
+          "lat": 32.67754251393421,
+          "lon": 37.70949175869242
+        },
+        {
+          "lat": 34.335832305405134,
+          "lon": 37.77990727928372
+        },
+        {
+          "lat": 32.07193882679368,
+          "lon": 37.801193797136
+        },
+        {
+          "lat": 33.12739204742175,
+          "lon": 38.77125453795941
+        },
+        {
+          "lat": 37.32728239326896,
+          "lon": 39.3108270447624
+        },
+        {
+          "lat": 35.83723178462981,
+          "lon": 37.92405109167566
         }
       ]
     }

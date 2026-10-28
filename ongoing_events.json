@@ -10,7 +10,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -435,83 +435,6 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
     },
     {
-      "id": "conflict-kiew",
-      "type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "label": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-      "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-      "first_seen": "2026-08-30",
-      "last_seen": "2026-10-21",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 52.62998156601318,
-          "lon": 28.326232658589543
-        },
-        {
-          "lat": 50.3313085159312,
-          "lon": 33.389491863221046
-        },
-        {
-          "lat": 51.20745816912664,
-          "lon": 30.683347839835644
-        },
-        {
-          "lat": 52.64227211408358,
-          "lon": 29.159287383864232
-        },
-        {
-          "lat": 49.989688305293484,
-          "lon": 29.873332284175866
-        },
-        {
-          "lat": 52.789783221965024,
-          "lon": 32.13611678810304
-        },
-        {
-          "lat": 47.613306473030896,
-          "lon": 31.572025212639716
-        },
-        {
-          "lat": 50.49795398325134,
-          "lon": 28.57057723397705
-        },
-        {
-          "lat": 48.97908699220479,
-          "lon": 28.400787643530357
-        },
-        {
-          "lat": 48.940084609533564,
-          "lon": 28.087134363895778
-        },
-        {
-          "lat": 47.94889658466643,
-          "lon": 29.295217752572665
-        },
-        {
-          "lat": 49.311037932939485,
-          "lon": 29.905565967110117
-        },
-        {
-          "lat": 53.269015380122816,
-          "lon": 31.036540829632322
-        },
-        {
-          "lat": 50.509987159396864,
-          "lon": 27.66817148841712
-        },
-        {
-          "lat": 48.069011109543155,
-          "lon": 29.35509277567223
-        }
-      ]
-    },
-    {
       "id": "conflict-usa",
       "type": "conflict",
       "location": {
@@ -522,8 +445,8 @@
       "label": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-27",
-      "intensity": 1,
+      "last_seen": "2026-10-28",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -585,6 +508,26 @@
         {
           "lat": 37.152688269308236,
           "lon": -97.57292459676472
+        },
+        {
+          "lat": 34.116119926358834,
+          "lon": -93.2073491890479
+        },
+        {
+          "lat": 39.004944855583354,
+          "lon": -94.7579894185447
+        },
+        {
+          "lat": 39.89036589951706,
+          "lon": -94.34687975210892
+        },
+        {
+          "lat": 38.00759246619805,
+          "lon": -98.6588583219015
+        },
+        {
+          "lat": 34.517970304127545,
+          "lon": -93.35953343984788
         }
       ]
     },
@@ -596,10 +539,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+      "label": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -616,7 +559,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -632,7 +575,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-27",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -774,26 +717,6 @@
         {
           "lat": 30.156160927949394,
           "lon": 33.85860804637908
-        },
-        {
-          "lat": 29.778507446422708,
-          "lon": 35.645685905839244
-        },
-        {
-          "lat": 33.50607922063339,
-          "lon": 37.78679595403578
-        },
-        {
-          "lat": 28.258772820829943,
-          "lon": 37.4253450852929
-        },
-        {
-          "lat": 33.78886528967143,
-          "lon": 35.205449363362845
-        },
-        {
-          "lat": 31.54467693479829,
-          "lon": 35.37583818165535
         }
       ]
     },
@@ -882,7 +805,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-25",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -914,7 +837,7 @@
       "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-25",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -956,26 +879,6 @@
         {
           "lat": 58.361046101101685,
           "lon": 17.47356624780364
-        },
-        {
-          "lat": 57.77746778260834,
-          "lon": 16.995446274599047
-        },
-        {
-          "lat": 61.60685057002721,
-          "lon": 20.816809426096572
-        },
-        {
-          "lat": 61.63176408406598,
-          "lon": 16.31936377930731
-        },
-        {
-          "lat": 62.54735414282567,
-          "lon": 16.64437327626554
-        },
-        {
-          "lat": 60.83234311711307,
-          "lon": 17.295866686065764
         }
       ]
     },
@@ -1051,7 +954,161 @@
           "lon": 29.946352251426866
         }
       ]
+    },
+    {
+      "id": "conflict-belgrad",
+      "type": "conflict",
+      "location": {
+        "name": "Belgrad",
+        "lat": 44.7866,
+        "lon": 20.4489
+      },
+      "label": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 44.378262710204645,
+          "lon": 22.02344913122918
+        },
+        {
+          "lat": 44.72051886561502,
+          "lon": 19.363922300070854
+        },
+        {
+          "lat": 46.33873670864518,
+          "lon": 20.203083417827397
+        },
+        {
+          "lat": 43.63455464292354,
+          "lon": 19.921714946545475
+        },
+        {
+          "lat": 45.532141735027345,
+          "lon": 18.303384348756836
+        },
+        {
+          "lat": 42.338051707387216,
+          "lon": 18.152823613928238
+        },
+        {
+          "lat": 46.47227663819661,
+          "lon": 22.85716262519887
+        },
+        {
+          "lat": 46.79865538329949,
+          "lon": 18.290309758860573
+        },
+        {
+          "lat": 46.38743180260864,
+          "lon": 22.319864265631267
+        },
+        {
+          "lat": 45.1446170970778,
+          "lon": 18.66486612576767
+        },
+        {
+          "lat": 43.763534178726964,
+          "lon": 22.943739439982277
+        },
+        {
+          "lat": 42.19727659305657,
+          "lon": 18.537236696636008
+        },
+        {
+          "lat": 46.22610233804982,
+          "lon": 21.113617192683535
+        },
+        {
+          "lat": 47.01231487567055,
+          "lon": 22.287359242330503
+        },
+        {
+          "lat": 44.17450076607557,
+          "lon": 17.917538836515284
+        }
+      ]
+    },
+    {
+      "id": "conflict-syrien",
+      "type": "conflict",
+      "location": {
+        "name": "Syrien",
+        "lat": 34.8021,
+        "lon": 38.9968
+      },
+      "label": "Jordanische Luftwaffe greift Ziele in Syrien an",
+      "url": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 35.358871949296066,
+          "lon": 37.73681280677971
+        },
+        {
+          "lat": 37.267357975614,
+          "lon": 40.72038361369082
+        },
+        {
+          "lat": 34.9820321885174,
+          "lon": 36.96594288610433
+        },
+        {
+          "lat": 37.35249628398381,
+          "lon": 36.73038697926942
+        },
+        {
+          "lat": 35.647768710732294,
+          "lon": 41.59653248876625
+        },
+        {
+          "lat": 35.09759117975298,
+          "lon": 41.861389988222484
+        },
+        {
+          "lat": 34.773762134158346,
+          "lon": 38.41335738521753
+        },
+        {
+          "lat": 34.57079277161749,
+          "lon": 37.03701035950636
+        },
+        {
+          "lat": 36.708719725028665,
+          "lon": 36.73416270115184
+        },
+        {
+          "lat": 32.67754251393421,
+          "lon": 37.70949175869242
+        },
+        {
+          "lat": 34.335832305405134,
+          "lon": 37.77990727928372
+        },
+        {
+          "lat": 32.07193882679368,
+          "lon": 37.801193797136
+        },
+        {
+          "lat": 33.12739204742175,
+          "lon": 38.77125453795941
+        },
+        {
+          "lat": 37.32728239326896,
+          "lon": 39.3108270447624
+        },
+        {
+          "lat": 35.83723178462981,
+          "lon": 37.92405109167566
+        }
+      ]
     }
   ],
-  "updated_at": "2026-10-27"
+  "updated_at": "2026-10-28"
 }
