@@ -10,7 +10,7 @@
       },
       "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-28",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,26 +488,6 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
         }
       ]
     },
@@ -519,10 +499,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+      "label": "Frankreich bereitet sich auf neue Schülerproteste vor",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -539,7 +519,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-26",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -554,8 +534,8 @@
       "label": "Wahl in Israel: Keine klare Mehrheit, stattdessen Hoffnungen und Frust",
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-29",
-      "intensity": 6,
+      "last_seen": "2026-10-30",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -717,6 +697,26 @@
         {
           "lat": 31.54467693479829,
           "lon": 35.37583818165535
+        },
+        {
+          "lat": 33.52929012147449,
+          "lon": 37.19763631481203
+        },
+        {
+          "lat": 28.303292014310784,
+          "lon": 32.40454821657076
+        },
+        {
+          "lat": 31.43822412978339,
+          "lon": 34.989331808036965
+        },
+        {
+          "lat": 29.52447243682667,
+          "lon": 32.25620542412582
+        },
+        {
+          "lat": 33.05590121433032,
+          "lon": 32.68050301636161
         }
       ]
     },
@@ -732,7 +732,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-25",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -894,7 +894,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-29",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -956,26 +956,6 @@
         {
           "lat": 44.17450076607557,
           "lon": 17.917538836515284
-        },
-        {
-          "lat": 46.48024843719956,
-          "lon": 22.62761704725053
-        },
-        {
-          "lat": 42.95177953462088,
-          "lon": 17.62588541939654
-        },
-        {
-          "lat": 42.750787873751904,
-          "lon": 18.057169267857134
-        },
-        {
-          "lat": 45.63505313146907,
-          "lon": 22.15509669945589
-        },
-        {
-          "lat": 43.52292979992226,
-          "lon": 21.432512967185584
         }
       ]
     },
@@ -1035,7 +1015,84 @@
           "lon": 37.70949175869242
         }
       ]
+    },
+    {
+      "id": "conflict-italien",
+      "type": "conflict",
+      "location": {
+        "name": "Italien",
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "label": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
+      "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.96354556816491,
+          "lon": 14.954405376952469
+        },
+        {
+          "lat": 40.77941933863096,
+          "lon": 12.666001159895444
+        },
+        {
+          "lat": 41.115819795901494,
+          "lon": 15.561402355726901
+        },
+        {
+          "lat": 41.2207650932789,
+          "lon": 14.576932100756077
+        },
+        {
+          "lat": 42.02290548489741,
+          "lon": 14.583231353845035
+        },
+        {
+          "lat": 42.12479287819827,
+          "lon": 13.078262670259285
+        },
+        {
+          "lat": 43.87671267017424,
+          "lon": 9.737887733131853
+        },
+        {
+          "lat": 44.72522332035837,
+          "lon": 12.892993543081914
+        },
+        {
+          "lat": 42.98494797840142,
+          "lon": 13.99736330057037
+        },
+        {
+          "lat": 40.05018851546586,
+          "lon": 10.067263518518363
+        },
+        {
+          "lat": 41.034690375799585,
+          "lon": 14.115707447356243
+        },
+        {
+          "lat": 39.312250141013116,
+          "lon": 11.216163544775723
+        },
+        {
+          "lat": 40.380055754187175,
+          "lon": 14.273855916796451
+        },
+        {
+          "lat": 44.70445178663706,
+          "lon": 12.173927512568637
+        },
+        {
+          "lat": 44.02802147728822,
+          "lon": 12.934389760977911
+        }
+      ]
     }
   ],
-  "updated_at": "2026-10-29"
+  "updated_at": "2026-10-30"
 }
