@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+      "label": "Wie die Ukraine einen Soldaten per Drohne rettete",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -502,7 +502,7 @@
       "label": "Frankreich bereitet sich auf neue Schülerproteste vor",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -515,11 +515,11 @@
         "lat": 41.8719,
         "lon": 12.5674
       },
-      "label": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
+      "label": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-26",
-      "intensity": 1,
+      "last_seen": "2026-10-31",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -535,7 +535,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -697,26 +697,6 @@
         {
           "lat": 31.54467693479829,
           "lon": 35.37583818165535
-        },
-        {
-          "lat": 33.52929012147449,
-          "lon": 37.19763631481203
-        },
-        {
-          "lat": 28.303292014310784,
-          "lon": 32.40454821657076
-        },
-        {
-          "lat": 31.43822412978339,
-          "lon": 34.989331808036965
-        },
-        {
-          "lat": 29.52447243682667,
-          "lon": 32.25620542412582
-        },
-        {
-          "lat": 33.05590121433032,
-          "lon": 32.68050301636161
         }
       ]
     },
@@ -728,11 +708,11 @@
         "lat": 51.9194,
         "lon": 19.1451
       },
-      "label": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
+      "label": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-25",
-      "intensity": 0,
+      "last_seen": "2026-10-31",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -810,79 +790,6 @@
       ]
     },
     {
-      "id": "protest-belgrad",
-      "type": "protest",
-      "location": {
-        "name": "Belgrad",
-        "lat": 44.7866,
-        "lon": 20.4489
-      },
-      "label": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "conflict-istanbul",
-      "type": "conflict",
-      "location": {
-        "name": "Istanbul",
-        "lat": 41.0082,
-        "lon": 28.9784
-      },
-      "label": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-      "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 38.74229894172431,
-          "lon": 28.53017401112201
-        },
-        {
-          "lat": 42.42528960393842,
-          "lon": 31.799012814701307
-        },
-        {
-          "lat": 39.04622065994545,
-          "lon": 31.00332926852427
-        },
-        {
-          "lat": 40.98632338149597,
-          "lon": 28.749518249923717
-        },
-        {
-          "lat": 38.06761150944201,
-          "lon": 29.266865735336875
-        },
-        {
-          "lat": 40.083256573393534,
-          "lon": 26.290838620327143
-        },
-        {
-          "lat": 42.13297742650658,
-          "lon": 26.159970960251048
-        },
-        {
-          "lat": 42.12677345190797,
-          "lon": 28.93082831645357
-        },
-        {
-          "lat": 38.40116090286062,
-          "lon": 29.154907863955692
-        },
-        {
-          "lat": 41.138915293141714,
-          "lon": 29.946352251426866
-        }
-      ]
-    },
-    {
       "id": "conflict-belgrad",
       "type": "conflict",
       "location": {
@@ -894,7 +801,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-29",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -936,26 +843,6 @@
         {
           "lat": 45.1446170970778,
           "lon": 18.66486612576767
-        },
-        {
-          "lat": 43.763534178726964,
-          "lon": 22.943739439982277
-        },
-        {
-          "lat": 42.19727659305657,
-          "lon": 18.537236696636008
-        },
-        {
-          "lat": 46.22610233804982,
-          "lon": 21.113617192683535
-        },
-        {
-          "lat": 47.01231487567055,
-          "lon": 22.287359242330503
-        },
-        {
-          "lat": 44.17450076607557,
-          "lon": 17.917538836515284
         }
       ]
     },
@@ -1027,8 +914,8 @@
       "label": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "intensity": 1,
+      "last_seen": "2026-10-31",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1090,9 +977,29 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
+        },
+        {
+          "lat": 44.79071973806741,
+          "lon": 11.074754779519921
+        },
+        {
+          "lat": 43.15981340633479,
+          "lon": 15.513897103652566
+        },
+        {
+          "lat": 43.68310051648728,
+          "lon": 11.30539079836765
+        },
+        {
+          "lat": 39.73122930951456,
+          "lon": 15.493655383045937
+        },
+        {
+          "lat": 41.90542024989051,
+          "lon": 13.262696645559206
         }
       ]
     }
   ],
-  "updated_at": "2026-10-30"
+  "updated_at": "2026-10-31"
 }
