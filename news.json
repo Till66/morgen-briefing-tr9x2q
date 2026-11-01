@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:15:18.658307+00:00",
+  "generated_at": "2026-11-01T11:07:52.571495+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,118 @@
   },
   "articles": [
     {
+      "title": "Microcars boomen - aber wie sicher sind sie?",
+      "summary": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 09:41:59 +0100"
+    },
+    {
+      "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+      "summary": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+      "category": "politik",
+      "event_type": "tension",
+      "location": {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 09:01:11 +0100"
+    },
+    {
+      "title": "\"Gen Z regelt\" will Demos fortsetzen",
+      "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 10:45:30 +0100"
+    },
+    {
+      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 08:47:42 +0100"
+    },
+    {
+      "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+      "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 21:33:42 +0100"
+    },
+    {
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "summary": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch der Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 19:00:40 +0100"
+    },
+    {
+      "title": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "summary": "Am Nachmittag haben die angekündigten Proteste der \"GenZ\" begonnen. In Hamburg und Köln ging die Polizei unter anderem wegen des Einsatzes von Pyrotechnik gegen Demonstrierende vor. Die befürchteten großen Ausschreitungen blieben bislang aus.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 17:54:21 +0100"
+    },
+    {
       "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
       "summary": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -61,27 +173,27 @@
       "published": "Sat, 31 Oct 2026 11:09:19 +0100"
     },
     {
-      "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-      "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-      "category": "politik",
+      "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+      "summary": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 08:43:12 +0100"
+      "published": "Sun, 01 Nov 2026 09:00:49 +0100"
     },
     {
-      "title": "Jugendproteste in mehr als 30 Städten geplant",
-      "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-      "category": "politik",
+      "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "summary": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+      "category": "wirtschaft",
       "event_type": "protest",
       "location": {
         "name": null,
@@ -90,30 +202,14 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 05:52:31 +0100"
+      "published": "Sun, 01 Nov 2026 04:48:45 +0100"
     },
     {
-      "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
-      "summary": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-      "category": "politik",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 17:03:53 +0100"
-    },
-    {
-      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-      "category": "politik",
+      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "summary": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": null,
@@ -122,55 +218,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 16:55:15 +0100"
-    },
-    {
-      "title": "Gen-Z-Protest: Polizei will Anreise von Gewalttätern stoppen",
-      "summary": "Vor den \"Gen Z regelt\"-Demonstrationen am Samstag wollen die Behörden gewaltbereite Personen schon an der Grenze stoppen. Die Initiatoren machen der Bundesregierung schwere Vorwürfe und bekommen prominente Unterstützung für ihren Protest.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/genz-proteste-polizei-gewalttaeter-100.html",
-      "category": "politik",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 16:58:19 +0100"
-    },
-    {
-      "title": "Nach Eralp-Interview: Müssen sich Medien an Absprachen halten?",
-      "summary": "Wer Medien ein Interview gibt, verlangt mitunter die Freigabe des Gesprächs vor der Veröffentlichung. Absprachen können jedoch gebrochen werden - was folgt daraus? Und wie ist die Lage im Fall Eralp? Von Max Bauer.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/autorisierung-medien-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 15:56:30 +0100"
-    },
-    {
-      "title": "1992 in Halle veröffentlicht: Die Drahtzieher hinter der Stasi-Liste",
-      "summary": "Vor mehr als 30 Jahren sorgte eine Liste mit rund 4.500 Namen von geführten Stasi-Informanten in Halle für Aufsehen. Wer sie verfasste, blieb jahrzehntelang unbekannt. Nun sprechen die Verfasser erstmals öffentlich. Von Ottilie Wied.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/stasi-liste-halle-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 12:51:06 +0100"
+      "published": "Sat, 31 Oct 2026 17:21:31 +0100"
     },
     {
       "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
@@ -253,52 +301,20 @@
       "published": "Thu, 29 Oct 2026 09:16:16 +0100"
     },
     {
-      "title": "Mercedes hat noch größere Probleme im chinesischen Markt",
-      "summary": "Mercedes hat im dritten Quartal in seiner Autosparte operativ deutlich weniger verdient. Vor allem das schlechte China-Geschäft setzt dem Konzern zu. Die Strategie für den weltgrößten Automarkt will er nun überdenken.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "summary": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": "China",
-        "lat": 35.8617,
-        "lon": 104.1954
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 28 Oct 2026 12:58:54 +0100"
-    },
-    {
-      "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
-      "summary": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Nordkorea",
-        "lat": 40.3399,
-        "lon": 127.5101
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 13:32:21 +0100"
-    },
-    {
-      "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
-      "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 08:24:20 +0100"
+      "published": "Sun, 01 Nov 2026 05:26:15 +0100"
     },
     {
       "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
@@ -317,6 +333,22 @@
       "published": "Fri, 30 Oct 2026 00:05:38 +0100"
     },
     {
+      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "summary": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 16:06:39 +0100"
+    },
+    {
       "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
       "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -331,6 +363,22 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Sat, 31 Oct 2026 00:56:24 +0100"
+    },
+    {
+      "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+      "summary": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 09:43:57 +0100"
     },
     {
       "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
@@ -407,65 +455,68 @@
       "published": "Tue, 27 Oct 2026 07:56:19 +0100"
     },
     {
-      "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
-      "summary": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
+      "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "summary": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "category": "welt",
+      "event_type": "protest",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Portugal",
+        "lat": 39.3999,
+        "lon": -8.2245
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 26 Oct 2026 10:17:03 +0100"
+      "published": "Sun, 01 Nov 2026 10:46:44 +0100"
     },
     {
-      "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-      "summary": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+      "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "category": "welt",
+      "event_type": "protest",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 23 Oct 2026 19:26:28 +0200"
+      "published": "Sat, 31 Oct 2026 23:32:55 +0100"
     },
     {
-      "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
-      "summary": "Die gegenseitigen Angriffe gehen ungeachtet der US-Vermittlungsbemühungen weiter: Russland griff in der Nacht erneut die ukrainische Hauptstadt Kiew an, aus Moskau wurden Drohnenangriffe gemeldet.",
+      "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+      "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+      "category": "welt",
+      "event_type": "protest",
       "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
-      "connections": [
-        {
-          "from": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          },
-          "to": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          }
-        }
-      ],
+      "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 22 Oct 2026 10:56:23 +0200"
+      "published": "Sat, 31 Oct 2026 21:11:14 +0100"
+    },
+    {
+      "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+      "summary": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 13:08:42 +0100"
     },
     {
       "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
@@ -532,167 +583,10 @@
       "published": "Fri, 30 Oct 2026 02:44:07 +0100"
     },
     {
-      "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-      "summary": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-      "category": "welt",
-      "event_type": "transport",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 29 Oct 2026 17:59:55 +0100"
-    },
-    {
-      "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-      "summary": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
-      "category": "welt",
-      "event_type": "transport",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Spanien",
-            "lat": 40.4637,
-            "lon": -3.7492
-          },
-          "to": {
-            "name": "Madrid",
-            "lat": 40.4168,
-            "lon": -3.7038
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Thu, 29 Oct 2026 12:22:21 +0100"
-    },
-    {
-      "title": "Hoffnung auf unabhängige Medien in Serbien",
-      "summary": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 29 Oct 2026 07:46:15 +0100"
-    },
-    {
-      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-      "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Kanada",
-        "lat": 56.1304,
-        "lon": -106.3468
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 29 Oct 2026 07:20:37 +0100"
-    },
-    {
-      "title": "Nürnberg verliert Sportvorstand Chatzialexiou",
-      "summary": "Joti Chatzialexiou verlässt den 1. FC Nürnberg und schließt sich wohl Eintracht Frankfurt an. Bei der SGE übernimmt der ehemalige Sportliche Leiter des Deutschen Fußball-Bundes die Nachfolge von Markus Krösche und hinterlässt in Franken eine Lücke.",
+      "title": "BVB-Plan von Kovac geht bei Bayern München auf",
+      "summary": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-der-architekt-geht-fcn-verliert-sportvorstand-chatzialexiou-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 11:09:28 +0100"
-    },
-    {
-      "title": "Doppelter Grodowski lässt Bielefeld gegen Braunschweig jubeln",
-      "summary": "Dank Doppelpacker Joel Grodowski siegt Arminia Bielefeld verdient gegen Eintracht Braunschweig und setzt sich in der oberen Tabellenhälfte fest.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/doppelter-grodowski-laesst-bielefeld-jubeln,spielbericht-arminia-bielefeld-eintracht-braunschweig-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 20:22:51 +0100"
-    },
-    {
-      "title": "Bochum gewinnt nach Pokal-Coup auch in Cottbus",
-      "summary": "Der VfL Bochum hat nach dem Pokal-Erfolg gegen Mainz in der 2. Liga nachgelegt und verschärft die Krise bei Energie Cottbus.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/bochum-jubelt-nach-pokal-coup-auch-in-cottbus,spielbericht-energie-cottbus-vfl-bochum-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 20:46:34 +0100"
-    },
-    {
-      "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
-      "summary": "Aufsteiger SV Elversberg überrascht weiter in der Fußball-Bundesliga und nimmt den 1. FSV Mainz 05 schon in Hälfte eins auseinander. Der Höhepunkt aber kommt erst in der Nachspielzeit der Partie.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 22:37:30 +0100"
-    },
-    {
-      "title": "50+1 - Fanszenen stellen Forderungen an die Bundesliga",
-      "summary": "Das Bündnis \"Fanszenen Deutschlands\" hat für die Neuregelung von 50+1 eine konsequente Beendigung der Ausnahmen gefordert.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/501-fanszenen-stellen-forderungen,50-plus-1-proteste-forderungen-fanszenen-leverkusen-wolfsburg-leipzig-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 12:00:00 +0100"
-    },
-    {
-      "title": "TV, Stream, Aufstellung: Alle Infos zu Bayern gegen Dortmund",
-      "summary": "Der FC Bayern München erwartet Borussia Dortmund am Samstag zum Bundesliga-Spitzenspiel. Alles, was man dazu wissen muss.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-mehr-topspiel-geht-nicht,vorschau-bundesliga-bayern-muenchen-borussia-dortmund-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kova-geht-bei-bayern-muenchen-auf-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -702,39 +596,119 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 29 Oct 2026 15:59:18 +0100"
+      "published": "Sun, 01 Nov 2026 09:25:00 +0100"
     },
     {
-      "title": "BVB \"nahe dran\" und doch so weit weg",
-      "summary": "BVB-Trainer Niko Kovač sieht sein Team \"nahe dran\" am FC Bayern München. Ein Vergleich zeigt, dass die Münchner weit weg sind.",
+      "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+      "summary": "Vor dem Anpfiff hatte es die Weltfußballer-Party für Harry Kane gegeben, kurz vor Schluss sah auch alles nach einem Sieg des FC Bayern aus - doch dann schlug Borussia Dortmund durch Fabio Silva zu.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-nahe-dran-und-doch-so-weit-weg-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 11:25:00 +0100"
+      "published": "Sat, 31 Oct 2026 21:36:43 +0100"
     },
     {
-      "title": "Eintracht Frankfurt: Supertalent Ilicevic winkt Bundesliga-Rekord – mit 16",
-      "summary": "Am Samstag Geburtstag, am Sonntag Bundesliga-Premiere? Youngster Niko Ilicevic könnte im Heimspiel gegen den HSV erstmals für die Profis von Eintracht Frankfurt auflaufen und damit Geschichte schreiben. Der erste Schritt einer großen Karriere?",
+      "title": "Schalke 04 braucht neue Taktik-Revolution",
+      "summary": "Der FC Schalke 04 hat auch gegen Leipzig nicht getroffen. Trainer Miron Muslic will sein Team auf den Kopf stellen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-218.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-schalke-04-braucht-neue-taktik-revolution-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 14:09:57 +0100"
+      "published": "Sun, 01 Nov 2026 09:45:00 +0100"
+    },
+    {
+      "title": "Gladbach fehlte gegen Paderborn der Mut",
+      "summary": "Borussia Mönchengladbach bleibt nach der Nullnummer gegen Aufsteiger SC Paderborn Liga-Letzter - weil Mut und Aktivität fehlten.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-gladbach-fehlte-gegen-paderborn-der-mut-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 10:55:00 +0100"
+    },
+    {
+      "title": "Fans vieler Vereine mit Aktionen für 50+1",
+      "summary": "Fans von zahlreichen Vereinen in Deutschland haben sich mit Aktionen für den Fortbestand und eine klare Durchsetzung der 50+1-Regel ausgesprochen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/fans-vieler-vereine-mit-aktionen-fuer-501,50-plus-1-proteste-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 31 Oct 2026 16:13:17 +0100"
+    },
+    {
+      "title": "DFB-Pokal Auslosung am Sonntag live in der Sportschau",
+      "summary": "Das Achtelfinale im DFB-Pokal wird am 1. November live in der Sportschau ausgelost. Die Sendung beginnt um 19.15 Uhr.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/dfbpokal/bayern-gegen-magdeburg-live-im-ersten,auslosung-achtelfinale-120.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 29 Oct 2026 12:26:23 +0100"
+    },
+    {
+      "title": "WNBA-Finale: Golden State Valkyrie holen erstmals Titel",
+      "summary": "Angeführt von Starspielerin Gabby Williams haben die Golden State Valkyries erstmals den Titel in der WNBA gewonnen - und ausgelassen gefeiert.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/basketball/golden-state-valkyrie-jubeln-ueber-ersten-wnba-titel,wnba-valkyries-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 11:26:55 +0100"
+    },
+    {
+      "title": "Formel 1: Hamilton sorgt in Mexiko für Ferraris erste Saison-Pole",
+      "summary": "Im Qualifying zum Großen Preis von Mexiko hat sich kurz vor Schluss Lewis Hamilton durchgesetzt. WM-Favorit Kimi Antonelli hatte zu kämpfen. Wirbel gibt es im Haas-Rennstall.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/motorsport/formel1/hamilton-sorgt-fuer-ferraris-erste-saison-pole,qualifying-formel-mexiko-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Mexiko",
+        "lat": 23.6345,
+        "lon": -102.5528
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sun, 01 Nov 2026 09:12:40 +0100"
     }
   ],
   "crises": [
@@ -746,9 +720,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wie die Ukraine einen Soldaten per Drohne rettete",
+      "label": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -953,7 +927,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
     },
     {
       "id": "conflict-russland",
@@ -963,9 +937,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+      "label": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1170,7 +1144,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
     },
     {
       "id": "conflict-usa",
@@ -1240,7 +1214,7 @@
       "label": "Frankreich bereitet sich auf neue Schülerproteste vor",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1256,8 +1230,8 @@
       "label": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
       "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31",
-      "intensity": 2,
+      "last_seen": "2026-11-01",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1273,7 +1247,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1415,26 +1389,6 @@
         {
           "lat": 30.156160927949394,
           "lon": 33.85860804637908
-        },
-        {
-          "lat": 29.778507446422708,
-          "lon": 35.645685905839244
-        },
-        {
-          "lat": 33.50607922063339,
-          "lon": 37.78679595403578
-        },
-        {
-          "lat": 28.258772820829943,
-          "lon": 37.4253450852929
-        },
-        {
-          "lat": 33.78886528967143,
-          "lon": 35.205449363362845
-        },
-        {
-          "lat": 31.54467693479829,
-          "lon": 35.37583818165535
         }
       ]
     },
@@ -1449,8 +1403,8 @@
       "label": "Polen: Tumult und Protest vor dem Verfassungsgericht",
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-31",
-      "intensity": 1,
+      "last_seen": "2026-11-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1469,63 +1423,6 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-schweden",
-      "type": "conflict",
-      "location": {
-        "name": "Schweden",
-        "lat": 60.1282,
-        "lon": 18.6435
-      },
-      "label": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-      "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.65692408263588,
-          "lon": 18.842782254837285
-        },
-        {
-          "lat": 62.31696646719611,
-          "lon": 21.33714050582369
-        },
-        {
-          "lat": 58.256170893198615,
-          "lon": 16.092293663747792
-        },
-        {
-          "lat": 62.008070864767554,
-          "lon": 17.302641223798304
-        },
-        {
-          "lat": 58.01647941820218,
-          "lon": 19.415762529882663
-        },
-        {
-          "lat": 62.88870476212066,
-          "lon": 17.22176427220792
-        },
-        {
-          "lat": 61.61019639387475,
-          "lon": 20.354250006304763
-        },
-        {
-          "lat": 61.21853139750602,
-          "lon": 16.86916776518376
-        },
-        {
-          "lat": 62.446558178091784,
-          "lon": 17.66965707554532
-        },
-        {
-          "lat": 58.361046101101685,
-          "lon": 17.47356624780364
-        }
-      ]
     },
     {
       "id": "conflict-belgrad",
@@ -1652,8 +1549,8 @@
       "label": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
-      "intensity": 2,
+      "last_seen": "2026-11-01",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1735,8 +1632,137 @@
         {
           "lat": 41.90542024989051,
           "lon": 13.262696645559206
+        },
+        {
+          "lat": 43.571140161268794,
+          "lon": 10.846763971967102
+        },
+        {
+          "lat": 42.12974583698442,
+          "lon": 10.874628594857088
+        },
+        {
+          "lat": 39.77771598992129,
+          "lon": 15.459814985665215
+        },
+        {
+          "lat": 44.49592156359144,
+          "lon": 13.702674532282556
+        },
+        {
+          "lat": 44.4182335852945,
+          "lon": 9.95514344194395
         }
       ]
+    },
+    {
+      "id": "protest-hamburg",
+      "type": "protest",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "label": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "protest-portugal",
+      "type": "protest",
+      "location": {
+        "name": "Portugal",
+        "lat": 39.3999,
+        "lon": -8.2245
+      },
+      "label": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }

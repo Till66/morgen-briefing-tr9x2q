@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wie die Ukraine einen Soldaten per Drohne rettete",
+      "label": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,9 +225,9 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+      "label": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -432,7 +432,7 @@
           "lon": 107.84223893924808
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
     },
     {
       "id": "conflict-usa",
@@ -502,7 +502,7 @@
       "label": "Frankreich bereitet sich auf neue Schülerproteste vor",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -518,8 +518,8 @@
       "label": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
       "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31",
-      "intensity": 2,
+      "last_seen": "2026-11-01",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -535,7 +535,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -677,26 +677,6 @@
         {
           "lat": 30.156160927949394,
           "lon": 33.85860804637908
-        },
-        {
-          "lat": 29.778507446422708,
-          "lon": 35.645685905839244
-        },
-        {
-          "lat": 33.50607922063339,
-          "lon": 37.78679595403578
-        },
-        {
-          "lat": 28.258772820829943,
-          "lon": 37.4253450852929
-        },
-        {
-          "lat": 33.78886528967143,
-          "lon": 35.205449363362845
-        },
-        {
-          "lat": 31.54467693479829,
-          "lon": 35.37583818165535
         }
       ]
     },
@@ -711,8 +691,8 @@
       "label": "Polen: Tumult und Protest vor dem Verfassungsgericht",
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-31",
-      "intensity": 1,
+      "last_seen": "2026-11-01",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -731,63 +711,6 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-schweden",
-      "type": "conflict",
-      "location": {
-        "name": "Schweden",
-        "lat": 60.1282,
-        "lon": 18.6435
-      },
-      "label": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-      "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-25",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.65692408263588,
-          "lon": 18.842782254837285
-        },
-        {
-          "lat": 62.31696646719611,
-          "lon": 21.33714050582369
-        },
-        {
-          "lat": 58.256170893198615,
-          "lon": 16.092293663747792
-        },
-        {
-          "lat": 62.008070864767554,
-          "lon": 17.302641223798304
-        },
-        {
-          "lat": 58.01647941820218,
-          "lon": 19.415762529882663
-        },
-        {
-          "lat": 62.88870476212066,
-          "lon": 17.22176427220792
-        },
-        {
-          "lat": 61.61019639387475,
-          "lon": 20.354250006304763
-        },
-        {
-          "lat": 61.21853139750602,
-          "lon": 16.86916776518376
-        },
-        {
-          "lat": 62.446558178091784,
-          "lon": 17.66965707554532
-        },
-        {
-          "lat": 58.361046101101685,
-          "lon": 17.47356624780364
-        }
-      ]
     },
     {
       "id": "conflict-belgrad",
@@ -914,8 +837,8 @@
       "label": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
-      "intensity": 2,
+      "last_seen": "2026-11-01",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -997,9 +920,138 @@
         {
           "lat": 41.90542024989051,
           "lon": 13.262696645559206
+        },
+        {
+          "lat": 43.571140161268794,
+          "lon": 10.846763971967102
+        },
+        {
+          "lat": 42.12974583698442,
+          "lon": 10.874628594857088
+        },
+        {
+          "lat": 39.77771598992129,
+          "lon": 15.459814985665215
+        },
+        {
+          "lat": 44.49592156359144,
+          "lon": 13.702674532282556
+        },
+        {
+          "lat": 44.4182335852945,
+          "lon": 9.95514344194395
         }
       ]
+    },
+    {
+      "id": "protest-hamburg",
+      "type": "protest",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "label": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "protest-portugal",
+      "type": "protest",
+      "location": {
+        "name": "Portugal",
+        "lat": 39.3999,
+        "lon": -8.2245
+      },
+      "label": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-10-31"
+  "updated_at": "2026-11-01"
 }
