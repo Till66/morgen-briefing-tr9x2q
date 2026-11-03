@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:08:42.776962+00:00",
+  "generated_at": "2026-11-03T11:44:49.113698+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,10 @@
   },
   "articles": [
     {
-      "title": "Nadeln und Nägel in Halloween-Süßigkeiten entdeckt",
-      "summary": "Bundesweit häufen sich die Fälle gefundener Fremdkörper in Halloween-Süßigkeiten. Die Polizei bittet Eltern, die gesammelten Naschereien ihrer Kinder sorgfältig zu überprüfen. Die Ermittlungen laufen.",
+      "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+      "summary": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch in anderen Ländern.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/nadeln-suessigkeiten-halloween-100.html",
+      "url": "https://www.tagesschau.de/inland/cyberangriffe-supermarkt-hacker-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,15 +58,15 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 12:11:56 +0100"
+      "published": "Tue, 03 Nov 2026 12:28:32 +0100"
     },
     {
-      "title": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
-      "summary": "Nach einem Schicksalsschlag hat sich SPD-Politikerin Bas aus der ersten Reihe der Politik zurückgezogen. Ihr Rücktritt löste in der Koalition eine Krise aus. Im ARD-Interview spricht sie nun über Menschlichkeit und das \"harte politische Geschäft\".",
+      "title": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
+      "summary": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
       "category": "politik",
-      "event_type": "tension",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -74,45 +74,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 12:02:57 +0100"
+      "published": "Tue, 03 Nov 2026 10:22:54 +0100"
     },
     {
-      "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-      "summary": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
+      "title": "Bilger will sogenannte Handy-Blitzer bundesweit einführen",
+      "summary": "Mit sogenannten Handy-Blitzern können Fahrer erwischt werden, die das Mobiltelefon am Steuer nutzen. Das gibt es bislang nur in Rheinland-Pfalz, Bundesverkehrsminister Bilger will die Technik bundesweit einführen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
-      "category": "politik",
-      "event_type": "protest",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 10:21:20 +0100"
-    },
-    {
-      "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
-      "summary": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+      "url": "https://www.tagesschau.de/inland/bilger-handy-blitzer-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
-        "name": "Deutschland",
+        "name": null,
         "lat": 51.1657,
         "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 05:19:28 +0100"
+      "published": "Tue, 03 Nov 2026 08:39:12 +0100"
     },
     {
-      "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
-      "summary": "Nach Informationen der ARD hat es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Mitglieder der Bundesregierung gegeben. Im Bericht aus Berlin bestätigte Digitalminister Wildberger den Einsatz von Spyware. Details nannte er nicht.",
+      "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
+      "summary": "Eine Festlegung hatte der Kanzler lange vermieden - doch nun macht Merz klar: Eine Frau soll auf Bundespräsident Steinmeier folgen. Er kündigte an, eine Kandidatin der politischen Mitte vorzuschlagen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
+      "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 19:30:17 +0100"
+    },
+    {
+      "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
+      "summary": "In Berlin haben die Koalitionsverhandlungen zwischen Linken, Grünen und SPD begonnen. In der SPD gibt es weiterhin Vorbehalte - unter anderem bei Bundespolitikern wie Boris Pistorius und Karl Lauterbach. Von Anne-Katrin Mellmann.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -122,29 +122,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 20:59:02 +0100"
+      "published": "Mon, 02 Nov 2026 18:22:00 +0100"
     },
     {
-      "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-      "summary": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
+      "title": "Hubig legt Gesetzentwurf zur Verschärfung des Sexualstrafrechts vor",
+      "summary": "Längere Verjährungsfristen bei Vergewaltigungen, ein neuer Tatbestand bei sexueller Belästigung - Justizministerin Hubig hat einen Entwurf zur Verschärfung des Sexualstrafrechts vorgelegt. Das Ziel: mehr Schutz für Frauen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-      "category": "politik",
-      "event_type": "protest",
-      "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 21:27:02 +0100"
-    },
-    {
-      "title": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
-      "summary": "Jährlich erreichen mehrere Milliarden Kleinpakete die EU. Um diese Flut einzudämmen, wird jetzt eine Gebühr von mindestens zwei Euro pro Sendung fällig. Warum wird die Paketgebühr eingeführt? Werden Produkte jetzt teurer?",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
+      "url": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -154,14 +138,78 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 17:43:44 +0100"
+      "published": "Mon, 02 Nov 2026 17:36:39 +0100"
     },
     {
-      "title": "Warum sich junge Paare gegen Kinder entscheiden",
-      "summary": "In Deutschland gibt es so wenige Geburten wie seit 1946 nicht mehr. Doch junge Paare haben ihre Gründe, sich gegen Kinder zu entscheiden. Welche das sind - und was die sinkenden Zahlen für Auswirkungen haben. Von Alexandra Reese.",
+      "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "summary": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html",
+      "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
       "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 19:33:00 +0100"
+    },
+    {
+      "title": "Merz verurteilt Krawalle am Rande der Jugendproteste",
+      "summary": "Nach den Krawallen am Rande der Jugendproteste diskutiert die Politik über die Folgen - und darüber, von wem die Gewalt ausging. Kanzler Merz betont, man werde hart vorgehen. Zugleich zeigt er Verständnis für Forderungen von Demonstranten.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html",
+      "category": "politik",
+      "event_type": "protest",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 15:59:58 +0100"
+    },
+    {
+      "title": "Was Polens Wirtschaft boomen lässt",
+      "summary": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 03 Nov 2026 08:23:57 +0100"
+    },
+    {
+      "title": "Bundesnetzagentur fördert den Bau elf neuer Gaskraftwerke",
+      "summary": "Die Bundesnetzagentur vergibt erstmals eine Förderung für neue Gas-Reservekraftwerke. In Brandenburg, NRW und Sachsen sind die meisten Projekte geplant. Mehrere Unternehmen profitieren.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 03 Nov 2026 11:28:56 +0100"
+    },
+    {
+      "title": "Kahlschlag bei Schaeffler: Stellenabbau und Standortschließungen",
+      "summary": "Die Krise der deutschen Autoindustrie lässt Schaeffler zu drastischen Maßnahmen greifen. Tausende Stellen werden gestrichen. In Deutschland stehen vier Werke vor dem Aus.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
+      "category": "wirtschaft",
       "event_type": "standard",
       "location": {
         "name": "Deutschland",
@@ -170,13 +218,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 15:51:00 +0100"
+      "published": "Tue, 03 Nov 2026 10:02:12 +0100"
     },
     {
-      "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-      "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+      "title": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
+      "summary": "Apple hat unter dem neuen Konzernchef John Ternus ‌die Erwartungen von Börsenprofis übertroffen. Der iPhone-Umsatz und die Konzernerlöse haben im dritten Quartal Rekordwerte erreicht. Die Aktie fällt trotzdem.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,29 +234,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 09:59:47 +0100"
+      "published": "Tue, 03 Nov 2026 09:13:13 +0100"
     },
     {
-      "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-      "summary": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief die IG Metall zu Arbeitsniederlegungen auf.",
+      "title": "11KM-Podcast: Chip im Gehirn - wie KI und Mensch verbunden werden",
+      "summary": "Künstliche Intelligenz wird mit dem Menschen verknüpft über Sensoren im Gehirn. 11KM klärt, welche Chancen das für die Medizin bringt und ob auch private Gedanken von der KI manipuliert werden könnten.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
-      "category": "wirtschaft",
-      "event_type": "protest",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 03:15:40 +0100"
-    },
-    {
-      "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "summary": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+      "url": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,13 +250,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 10:06:31 +0100"
+      "published": "Tue, 03 Nov 2026 07:03:56 +0100"
     },
     {
-      "title": "Wirtschaft vor acht vom 30.10.2026",
-      "summary": "Wirtschaft vor acht vom 30.10.2026",
+      "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "summary": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/video/video-1675498.html",
+      "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 19:33:00 +0100"
+    },
+    {
+      "title": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
+      "summary": "Die Wirtschaft wächst, doch viele Amerikaner leiden unter hohen Lebenshaltungskosten. Der US-Arbeitsmarkt verliert an Schwung, die Staatsverschuldung steigt. Wie steht es um die Wirtschaft der Vereinigten Staaten? Von Michelle Goddemeier.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -234,15 +282,15 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 30 Oct 2026 21:26:47 +0100"
+      "published": "Mon, 02 Nov 2026 12:25:40 +0100"
     },
     {
-      "title": "Update Wirtschaft vom 02.11.2026",
-      "summary": "Update Wirtschaft vom 02.11.2026",
+      "title": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
+      "summary": "Die Sorge vor einer erneuten Eskalation im Nahen Osten drückt auf die Stimmung der Anleger. Und vor den US-Zwischenwahlen herrscht ohnehin Nervosität. Der DAX fällt zum Handelsstart weiter zurück.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1676508.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
       "category": "wirtschaft",
-      "event_type": "standard",
+      "event_type": "trade",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -250,55 +298,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 09:59:30 +0100"
-    },
-    {
-      "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-      "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 08:45:19 +0100"
-    },
-    {
-      "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
-      "summary": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 09:00:49 +0100"
-    },
-    {
-      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
-      "summary": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 17:21:31 +0100"
+      "published": "Tue, 03 Nov 2026 10:15:35 +0100"
     },
     {
       "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
@@ -317,33 +317,62 @@
       "published": "Sun, 01 Nov 2026 05:26:15 +0100"
     },
     {
-      "title": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
-      "summary": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst - vor allem in den Golfstaaten. Eine Folge: Aufrüstung. Auf einer Konferenz beraten Politiker aus der Region mit Experten. Auch Deutschland ist vertreten. Von M. Behrendt.",
+      "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "summary": "Vor allem wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den heutigen Midterms abgestraft werden. Die Folge könnte ein politisches Patt sein. Droht den USA der Stillstand? Von Anne Schneider.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [
         {
           "from": {
+            "name": "USA",
+            "lat": 37.0902,
+            "lon": -95.7129
+          },
+          "to": {
             "name": "Iran",
             "lat": 32.4279,
             "lon": 53.688
-          },
-          "to": {
-            "name": "Deutschland",
-            "lat": 51.1657,
-            "lon": 10.4515
           }
         }
       ],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 17:24:24 +0100"
+      "published": "Tue, 03 Nov 2026 01:44:25 +0100"
+    },
+    {
+      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Ukraine",
+            "lat": 48.3794,
+            "lon": 31.1656
+          },
+          "to": {
+            "name": "Moskau",
+            "lat": 55.7558,
+            "lon": 37.6173
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 03 Nov 2026 10:00:13 +0100"
     },
     {
       "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
@@ -452,20 +481,20 @@
       "published": "Sat, 31 Oct 2026 16:06:39 +0100"
     },
     {
-      "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
-      "summary": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+      "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+      "summary": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+      "category": "welt",
+      "event_type": "tension",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 10:14:41 +0100"
+      "published": "Tue, 03 Nov 2026 03:25:42 +0100"
     },
     {
       "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
@@ -580,58 +609,10 @@
       "published": "Sat, 31 Oct 2026 13:08:42 +0100"
     },
     {
-      "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-      "category": "welt",
-      "event_type": "protest",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 31 Oct 2026 09:25:36 +0100"
-    },
-    {
-      "title": "Eishockey-WM in Deutschland mit Russland? Bundesregierung in Schwierigkeiten",
-      "summary": "Russland soll bei einer Eishockey-WM in Deutschland mitspielen - die Bundesregierung muss gleichzeitig ihre politische Linie gegen Russland halten und Auswirkungen auf die deutsche Olympiabewerbung vermeiden.",
+      "title": "Teneriffa-Stürmer stirbt nach Zusammenprall mit Torwart",
+      "summary": "Jesus de Miguel, Stürmer des spanischen Fußball-Zweitligisten CD Teneriffa, ist an den Folgen eines schweren Zusammenpralls mit dem gegnerischen Torwart verstorben.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/eishockey/russland-bringt-bundesregierung-in-schwierigkeiten,eishockey-wm-russland-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 12:49:13 +0100"
-    },
-    {
-      "title": "DEL-Spitzenspiel der ewigen Rivalen: Adler schlagen Eisbären",
-      "summary": "Die Eisbären Berlin kassieren in der Deutschen Eishockey Liga eine bittere Niederlage. Am Sonntag verliert der Tabellenführer sein Spitzenspiel gegen den verhassten Rivalen Adler Mannheim zu Hause knapp mit 1:3 – und hadert mit einem nicht gegebenen Tor.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rbb/rbb-del-spitzenspiel-der-ewigen-rivalen-adler-schlagen-eisbaeren-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 08:21:27 +0100"
-    },
-    {
-      "title": "Kölner Haie ringen Iserlohn im Penaltyschießen nieder",
-      "summary": "Die Kölner Haie haben das NRW-Duell gegen die Iserlohn Roosters nach einem 0:2-Rückstand für sich entschieden.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-koelner-haie-ringen-iserlohn-im-penaltyschiessen-nieder-100.html",
+      "url": "https://www.sportschau.de/fussball/mehr-internationale-ligen/teneriffa-stuermer-jesus-de-miguel-stirbt-nach-foul,teneriffa-jesus-de-miguel-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -641,13 +622,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 22:20:52 +0100"
+      "published": "Tue, 03 Nov 2026 10:28:56 +0100"
     },
     {
-      "title": "Kimi Antonelli ist Formel-1-Weltmeister: Der Kronzprinz legt los",
-      "summary": "Kimi Antonelli ist der bislang jüngste Formel-1-Weltmeister. Der Titel ist kein Zufall - und auch nicht nur dadurch zu begründen, dass der Italiener über weite Strecken ein überlegenes Auto hatte.",
+      "title": "FIFA gewährt Einsicht in Investorenpläne",
+      "summary": "Die FIFA soll nach einem BBC-Bericht Einsicht in Dokumente zum geplanten Investorendeal für WM-Rechte gewähren. Alle Fragen der UEFA werden darin wohl aber nicht beantwortet.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/motorsport/formel1/kimi-antonelli-der-kronprinz-der-formel-1-legt-los,kimi-antonelli-portraet-100.html",
+      "url": "https://www.sportschau.de/fussball/medien-fifa-kuendigt-zugang-zu-brisanten-dokumenten-an,fifa-dokumente-uefa-deadline-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -657,61 +638,77 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 09:27:56 +0100"
+      "published": "Tue, 03 Nov 2026 08:50:33 +0100"
     },
     {
-      "title": "Antonelli krönt sich zum Formel-1-Weltmeister",
-      "summary": "Kimi Antonelli ist Formel-1-Weltmeister. Beim Großen Preis von Mexiko fuhr der Italiener auf Rang drei und sicherte sich den Gesamtsieg.",
+      "title": "Asien-Meisterschaft in Saudi-Arabien auf 2028 verschoben",
+      "summary": "Die Asien-Meisterschaft in Saudi-Arabien ist aufgrund der unsicheren Lage in der Golfregion verschoben worden.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/motorsport/formel1/antonelli-kroent-sich-zum-formel-1-weltmeister,gp-mexiko-antonelli-100.html",
+      "url": "https://www.sportschau.de/fussball/asien-meisterschaft-in-saudi-arabien-auf-2028-verschoben,asien-meisterschaft-saudi-arabien-verschoben-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Mexiko",
-        "lat": 23.6345,
-        "lon": -102.5528
+        "name": "Saudi-Arabien",
+        "lat": 23.8859,
+        "lon": 45.0792
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 10:42:33 +0100"
+      "published": "Tue, 03 Nov 2026 09:40:03 +0100"
     },
     {
-      "title": "Hamilton sauer - Leclercs Angriff bringt Zoff bei Ferrari",
-      "summary": "Lewis Hamilton hat seinem Teamkollegen Charles Leclerc mangelnde Zusammenarbeit vorgeworfen - der Streit entstand nach einem Angriff Leclercs beim Rennen in Mexiko.",
+      "title": "Stuttgart bei Gala: Stresstest für frisch getanktes Selbstvertrauen",
+      "summary": "In der Champions League gastiert der VfB Stuttgart bei Galatasaray Istanbul. Dort wartet ein Stadion, in dem es zuletzt wieder hitzig zuging.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/motorsport/formel1/hamilton-sauer-leclercs-angriff-bringt-zoff-bei-ferrari,hamilton-338.html",
+      "url": "https://www.sportschau.de/regional/swr/swr-champions-league-vfb-stuttgart-im-stresstest-bei-galatasaray-istanbul-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Mexiko",
-        "lat": 23.6345,
-        "lon": -102.5528
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 10:43:01 +0100"
+      "published": "Tue, 03 Nov 2026 12:13:51 +0100"
     },
     {
-      "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
-      "summary": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+      "title": "Champions League: VfB gegen Gala - Osimhen in Topform",
+      "summary": "Der VfB Stuttgart spielt erstmals in seiner Vereinsgeschichte gegen Galatasaray Istanbul und trifft dabei auf Stars wie Ilkay Gündogan und Leroy Sané.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+      "url": "https://www.sportschau.de/regional/swr/swr-gegnercheck-der-vfb-stuttgart-im-hexenkessel-von-galatasaray-istanbul-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
+        "name": "Stuttgart",
+        "lat": 48.7758,
+        "lon": 9.1829
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 00:00:00 +0100"
+      "published": "Mon, 02 Nov 2026 14:12:30 +0100"
     },
     {
-      "title": "BVB-Plan von Kovac geht bei Bayern München auf",
-      "summary": "Der BVB zeigt beim FC Bayern, dass es schwierig ist, ihn zu schlagen. Trainer Niko Kovac stellt um und sein Plan geht auf.",
+      "title": "Bayern unter Zugzwang, BVB mit Topgegnern",
+      "summary": "Simulationen am Computer, reale Tabellenstände und die Restprogramme: So stehen die Chancen der Bundesligaklubs vor dem vierten Spieltag der Champions League. Die Bayern haben wenig Punkte, der BVB Topgegner.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-plan-von-kovac-geht-bei-bayern-auf-100.html",
+      "url": "https://www.sportschau.de/fussball/championsleague/bayern-unter-zugzwang-bvb-mit-topgegnern,cl-spieltag-vier-104.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 16:39:41 +0100"
+    },
+    {
+      "title": "Olise trainiert vor Atlético - Auch Neuer zurück",
+      "summary": "Das Lazarett des FC Bayern München lichtet sich. Vor dem Champions-League-Kracher gegen Atlético Madrid am Dienstagabend konnten sowohl Michael Olise als auch Manuel Neuer am Abschlusstraining des deutschen Rekordmeisters teilnehmen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/br/br-fc-bayern-atmet-auf-olise-und-neuer-im-kader-fuer-atltico-104.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -721,7 +718,23 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Sun, 01 Nov 2026 09:25:00 +0100"
+      "published": "Mon, 02 Nov 2026 21:11:26 +0100"
+    },
+    {
+      "title": "In der Champions League: Goretzka und Sané kämpfen um Wahrnehmung",
+      "summary": "Noch sind sie nicht offiziell aus dem Nationalteam zurückgetreten, aber groß sind die Perspektiven von Leon Goretzka und Leroy Sané nicht mehr. In der Königsklasse können sie sich jetzt beweisen.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/championsleague/goretzka-und-sane-kaempfen-um-wahrnehmung,cl-vorbericht-sane-goretzka-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Mon, 02 Nov 2026 20:32:03 +0100"
     }
   ],
   "crises": [
@@ -733,9 +746,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+      "label": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -940,7 +953,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
     },
     {
       "id": "conflict-russland",
@@ -952,7 +965,7 @@
       },
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1167,11 +1180,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
+      "label": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-28",
-      "intensity": 0,
+      "last_seen": "2026-11-03",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1213,6 +1226,26 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
         }
       ]
     },
@@ -1227,7 +1260,7 @@
       "label": "Erneut Proteste und Zusammenstöße in Frankreich",
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1244,7 +1277,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1260,7 +1293,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1362,26 +1395,6 @@
         {
           "lat": 30.55955133793388,
           "lon": 34.87682500721394
-        },
-        {
-          "lat": 32.13664846644647,
-          "lon": 34.291712174591076
-        },
-        {
-          "lat": 28.984764538538702,
-          "lon": 37.80731675290254
-        },
-        {
-          "lat": 32.74581148266916,
-          "lon": 35.55695348069513
-        },
-        {
-          "lat": 32.7772367240574,
-          "lon": 32.92547101954638
-        },
-        {
-          "lat": 31.975414210528815,
-          "lon": 33.771209574582336
         }
       ]
     },
@@ -1397,7 +1410,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-02",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1527,7 +1540,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1589,26 +1602,6 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
-        },
-        {
-          "lat": 44.79071973806741,
-          "lon": 11.074754779519921
-        },
-        {
-          "lat": 43.15981340633479,
-          "lon": 15.513897103652566
-        },
-        {
-          "lat": 43.68310051648728,
-          "lon": 11.30539079836765
-        },
-        {
-          "lat": 39.73122930951456,
-          "lon": 15.493655383045937
-        },
-        {
-          "lat": 41.90542024989051,
-          "lon": 13.262696645559206
         }
       ]
     },
@@ -1639,8 +1632,8 @@
       "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "intensity": 2,
+      "last_seen": "2026-11-03",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1722,6 +1715,26 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
+        },
+        {
+          "lat": 50.628622392577036,
+          "lon": 19.54377604277066
+        },
+        {
+          "lat": 49.92625879751269,
+          "lon": 18.983356129258837
+        },
+        {
+          "lat": 54.375906749022874,
+          "lon": 17.898568780255285
+        },
+        {
+          "lat": 50.1121355987003,
+          "lon": 17.831168062597435
+        },
+        {
+          "lat": 54.24119048641627,
+          "lon": 17.910073879737073
         }
       ]
     },
@@ -1736,8 +1749,8 @@
       "label": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
       "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "intensity": 2,
+      "last_seen": "2026-11-03",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1753,7 +1766,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1769,7 +1782,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1785,7 +1798,7 @@
       "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1827,26 +1840,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -1861,8 +1854,8 @@
       "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
       "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "intensity": 1,
+      "last_seen": "2026-11-03",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1924,6 +1917,26 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
     }

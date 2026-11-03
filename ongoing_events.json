@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+      "label": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -442,11 +442,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
+      "label": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-28",
-      "intensity": 0,
+      "last_seen": "2026-11-03",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,6 +488,26 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
         }
       ]
     },
@@ -502,7 +522,7 @@
       "label": "Erneut Proteste und Zusammenstöße in Frankreich",
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -519,7 +539,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -535,7 +555,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -637,26 +657,6 @@
         {
           "lat": 30.55955133793388,
           "lon": 34.87682500721394
-        },
-        {
-          "lat": 32.13664846644647,
-          "lon": 34.291712174591076
-        },
-        {
-          "lat": 28.984764538538702,
-          "lon": 37.80731675290254
-        },
-        {
-          "lat": 32.74581148266916,
-          "lon": 35.55695348069513
-        },
-        {
-          "lat": 32.7772367240574,
-          "lon": 32.92547101954638
-        },
-        {
-          "lat": 31.975414210528815,
-          "lon": 33.771209574582336
         }
       ]
     },
@@ -672,7 +672,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-02",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -802,7 +802,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-01",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -864,26 +864,6 @@
         {
           "lat": 44.02802147728822,
           "lon": 12.934389760977911
-        },
-        {
-          "lat": 44.79071973806741,
-          "lon": 11.074754779519921
-        },
-        {
-          "lat": 43.15981340633479,
-          "lon": 15.513897103652566
-        },
-        {
-          "lat": 43.68310051648728,
-          "lon": 11.30539079836765
-        },
-        {
-          "lat": 39.73122930951456,
-          "lon": 15.493655383045937
-        },
-        {
-          "lat": 41.90542024989051,
-          "lon": 13.262696645559206
         }
       ]
     },
@@ -914,8 +894,8 @@
       "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "intensity": 2,
+      "last_seen": "2026-11-03",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -997,6 +977,26 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
+        },
+        {
+          "lat": 50.628622392577036,
+          "lon": 19.54377604277066
+        },
+        {
+          "lat": 49.92625879751269,
+          "lon": 18.983356129258837
+        },
+        {
+          "lat": 54.375906749022874,
+          "lon": 17.898568780255285
+        },
+        {
+          "lat": 50.1121355987003,
+          "lon": 17.831168062597435
+        },
+        {
+          "lat": 54.24119048641627,
+          "lon": 17.910073879737073
         }
       ]
     },
@@ -1011,8 +1011,8 @@
       "label": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
       "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "intensity": 2,
+      "last_seen": "2026-11-03",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1028,7 +1028,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1044,7 +1044,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1060,7 +1060,7 @@
       "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1102,26 +1102,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -1136,8 +1116,8 @@
       "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
       "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "intensity": 1,
+      "last_seen": "2026-11-03",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1199,9 +1179,29 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
     }
   ],
-  "updated_at": "2026-11-02"
+  "updated_at": "2026-11-03"
 }
