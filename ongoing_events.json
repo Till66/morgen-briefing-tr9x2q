@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+      "label": "Ukraine: Feuerpause in Oleschky ausgelaufen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-03",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,26 +410,6 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
@@ -446,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
       "first_seen": "2026-09-09",
       "last_seen": "2026-11-03",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -488,26 +468,6 @@
         {
           "lat": 39.92862994129249,
           "lon": -95.11059597547076
-        },
-        {
-          "lat": 38.43736073385141,
-          "lon": -98.65380752814453
-        },
-        {
-          "lat": 39.92925566154026,
-          "lon": -96.39854146144448
-        },
-        {
-          "lat": 36.972966781580354,
-          "lon": -94.59677147241362
-        },
-        {
-          "lat": 35.98751382809051,
-          "lon": -93.14693743916052
-        },
-        {
-          "lat": 37.152688269308236,
-          "lon": -97.57292459676472
         }
       ]
     },
@@ -523,7 +483,7 @@
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-03",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -539,7 +499,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-01",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -555,7 +515,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -637,26 +597,6 @@
         {
           "lat": 30.252966243436667,
           "lon": 32.82542904472151
-        },
-        {
-          "lat": 31.285475273985643,
-          "lon": 36.331246478425626
-        },
-        {
-          "lat": 28.88897232971817,
-          "lon": 33.41756507541043
-        },
-        {
-          "lat": 28.511118126756188,
-          "lon": 32.22067220640431
-        },
-        {
-          "lat": 32.40886875537885,
-          "lon": 34.43456164231909
-        },
-        {
-          "lat": 30.55955133793388,
-          "lon": 34.87682500721394
         }
       ]
     },
@@ -672,7 +612,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-02",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -734,63 +674,6 @@
       ]
     },
     {
-      "id": "conflict-syrien",
-      "type": "conflict",
-      "location": {
-        "name": "Syrien",
-        "lat": 34.8021,
-        "lon": 38.9968
-      },
-      "label": "Jordanische Luftwaffe greift Ziele in Syrien an",
-      "url": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 35.358871949296066,
-          "lon": 37.73681280677971
-        },
-        {
-          "lat": 37.267357975614,
-          "lon": 40.72038361369082
-        },
-        {
-          "lat": 34.9820321885174,
-          "lon": 36.96594288610433
-        },
-        {
-          "lat": 37.35249628398381,
-          "lon": 36.73038697926942
-        },
-        {
-          "lat": 35.647768710732294,
-          "lon": 41.59653248876625
-        },
-        {
-          "lat": 35.09759117975298,
-          "lon": 41.861389988222484
-        },
-        {
-          "lat": 34.773762134158346,
-          "lon": 38.41335738521753
-        },
-        {
-          "lat": 34.57079277161749,
-          "lon": 37.03701035950636
-        },
-        {
-          "lat": 36.708719725028665,
-          "lon": 36.73416270115184
-        },
-        {
-          "lat": 32.67754251393421,
-          "lon": 37.70949175869242
-        }
-      ]
-    },
-    {
       "id": "conflict-italien",
       "type": "conflict",
       "location": {
@@ -802,7 +685,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-01",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -844,26 +727,6 @@
         {
           "lat": 40.05018851546586,
           "lon": 10.067263518518363
-        },
-        {
-          "lat": 41.034690375799585,
-          "lon": 14.115707447356243
-        },
-        {
-          "lat": 39.312250141013116,
-          "lon": 11.216163544775723
-        },
-        {
-          "lat": 40.380055754187175,
-          "lon": 14.273855916796451
-        },
-        {
-          "lat": 44.70445178663706,
-          "lon": 12.173927512568637
-        },
-        {
-          "lat": 44.02802147728822,
-          "lon": 12.934389760977911
         }
       ]
     },
@@ -894,8 +757,8 @@
       "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03",
-      "intensity": 3,
+      "last_seen": "2026-11-04",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -997,6 +860,26 @@
         {
           "lat": 54.24119048641627,
           "lon": 17.910073879737073
+        },
+        {
+          "lat": 53.41580928313518,
+          "lon": 19.317814565222317
+        },
+        {
+          "lat": 51.660368707655785,
+          "lon": 20.63647702456009
+        },
+        {
+          "lat": 50.03643776361352,
+          "lon": 17.279217671086947
+        },
+        {
+          "lat": 49.71812231995658,
+          "lon": 19.534583496404597
+        },
+        {
+          "lat": 52.69267970875737,
+          "lon": 18.16814452704802
         }
       ]
     },
@@ -1012,7 +895,7 @@
       "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-03",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1116,8 +999,8 @@
       "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
       "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
-      "intensity": 2,
+      "last_seen": "2026-11-04",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1199,9 +1082,29 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
+        },
+        {
+          "lat": 50.948850684666155,
+          "lon": 28.325279312098463
+        },
+        {
+          "lat": 51.351796749008656,
+          "lon": 27.682541009710526
+        },
+        {
+          "lat": 50.25431719113463,
+          "lon": 31.461124293660774
+        },
+        {
+          "lat": 49.57292332967101,
+          "lon": 30.14628348204989
+        },
+        {
+          "lat": 50.74693274107446,
+          "lon": 28.645578690769284
         }
       ]
     }
   ],
-  "updated_at": "2026-11-03"
+  "updated_at": "2026-11-04"
 }
