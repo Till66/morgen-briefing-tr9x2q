@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+      "label": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+      "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-03",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +390,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
@@ -479,11 +459,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "label": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-03",
-      "intensity": 7,
+      "last_seen": "2026-11-05",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -515,7 +495,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-30",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -577,26 +557,6 @@
         {
           "lat": 33.23906464817435,
           "lon": 36.00755101522187
-        },
-        {
-          "lat": 33.63403254745843,
-          "lon": 33.76483443453601
-        },
-        {
-          "lat": 30.501726895757304,
-          "lon": 34.609262920457695
-        },
-        {
-          "lat": 31.49867832283447,
-          "lon": 33.31910561508059
-        },
-        {
-          "lat": 32.3832819537918,
-          "lon": 37.060095255841055
-        },
-        {
-          "lat": 30.252966243436667,
-          "lon": 32.82542904472151
         }
       ]
     },
@@ -612,66 +572,9 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-02",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "conflict-belgrad",
-      "type": "conflict",
-      "location": {
-        "name": "Belgrad",
-        "lat": 44.7866,
-        "lon": 20.4489
-      },
-      "label": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
       "intensity": 0,
       "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 44.378262710204645,
-          "lon": 22.02344913122918
-        },
-        {
-          "lat": 44.72051886561502,
-          "lon": 19.363922300070854
-        },
-        {
-          "lat": 46.33873670864518,
-          "lon": 20.203083417827397
-        },
-        {
-          "lat": 43.63455464292354,
-          "lon": 19.921714946545475
-        },
-        {
-          "lat": 45.532141735027345,
-          "lon": 18.303384348756836
-        },
-        {
-          "lat": 42.338051707387216,
-          "lon": 18.152823613928238
-        },
-        {
-          "lat": 46.47227663819661,
-          "lon": 22.85716262519887
-        },
-        {
-          "lat": 46.79865538329949,
-          "lon": 18.290309758860573
-        },
-        {
-          "lat": 46.38743180260864,
-          "lon": 22.319864265631267
-        },
-        {
-          "lat": 45.1446170970778,
-          "lon": 18.66486612576767
-        }
-      ]
+      "subpoints": []
     },
     {
       "id": "conflict-italien",
@@ -758,7 +661,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -860,26 +763,6 @@
         {
           "lat": 54.24119048641627,
           "lon": 17.910073879737073
-        },
-        {
-          "lat": 53.41580928313518,
-          "lon": 19.317814565222317
-        },
-        {
-          "lat": 51.660368707655785,
-          "lon": 20.63647702456009
-        },
-        {
-          "lat": 50.03643776361352,
-          "lon": 17.279217671086947
-        },
-        {
-          "lat": 49.71812231995658,
-          "lon": 19.534583496404597
-        },
-        {
-          "lat": 52.69267970875737,
-          "lon": 18.16814452704802
         }
       ]
     },
@@ -895,7 +778,7 @@
       "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-03",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -939,11 +822,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
-      "url": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
+      "label": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "intensity": 0,
+      "last_seen": "2026-11-05",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -985,6 +868,46 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
         }
       ]
     },
@@ -999,8 +922,8 @@
       "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
       "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-04",
-      "intensity": 3,
+      "last_seen": "2026-11-05",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1102,9 +1025,29 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
+        },
+        {
+          "lat": 50.391376215236,
+          "lon": 30.93697309311013
+        },
+        {
+          "lat": 53.067299172176696,
+          "lon": 29.814882944575018
+        },
+        {
+          "lat": 53.37514642762361,
+          "lon": 28.1725140012278
+        },
+        {
+          "lat": 53.413141797271706,
+          "lon": 28.009643628544325
+        },
+        {
+          "lat": 50.91290099671865,
+          "lon": 30.325940042158805
         }
       ]
     }
   ],
-  "updated_at": "2026-11-04"
+  "updated_at": "2026-11-05"
 }
