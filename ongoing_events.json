@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "label": "Ukraine: Feuerpause in Oleschky ausgelaufen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-03",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -370,26 +370,6 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
-        },
-        {
-          "lat": 63.01591423191035,
-          "lon": 106.50348857002088
-        },
-        {
-          "lat": 63.406282377426116,
-          "lon": 106.11403138929978
-        },
-        {
-          "lat": 63.56320607199874,
-          "lon": 107.52500839744951
-        },
-        {
-          "lat": 61.86481182566956,
-          "lon": 106.43257439045202
-        },
-        {
-          "lat": 62.867105840110945,
-          "lon": 106.93341763191377
         }
       ],
       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
@@ -459,10 +439,10 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+      "label": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -482,83 +462,6 @@
       "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-israel",
-      "type": "conflict",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "label": "Wahl in Israel: Keine klare Mehrheit, stattdessen Hoffnungen und Frust",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-30",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 33.66674323612038,
-          "lon": 35.19046252887055
-        },
-        {
-          "lat": 31.184756386439375,
-          "lon": 32.58215950010441
-        },
-        {
-          "lat": 32.43053201323609,
-          "lon": 34.225987581919874
-        },
-        {
-          "lat": 29.83770240939623,
-          "lon": 36.90332819808398
-        },
-        {
-          "lat": 29.223870797437467,
-          "lon": 35.960042034597606
-        },
-        {
-          "lat": 32.15285766321522,
-          "lon": 36.87970884989521
-        },
-        {
-          "lat": 32.065266119866806,
-          "lon": 34.76072980048664
-        },
-        {
-          "lat": 33.95746345265232,
-          "lon": 35.91208745942779
-        },
-        {
-          "lat": 29.576879213535314,
-          "lon": 36.828758643998476
-        },
-        {
-          "lat": 32.885738951895675,
-          "lon": 37.37357189804212
-        },
-        {
-          "lat": 33.667045385569,
-          "lon": 33.15317554738726
-        },
-        {
-          "lat": 29.549608924856667,
-          "lon": 34.40519982712045
-        },
-        {
-          "lat": 32.82189403034779,
-          "lon": 36.296864544441654
-        },
-        {
-          "lat": 33.22593395540617,
-          "lon": 36.612669738017644
-        },
-        {
-          "lat": 33.23906464817435,
-          "lon": 36.00755101522187
-        }
-      ]
     },
     {
       "id": "protest-polen",
@@ -661,7 +564,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -743,26 +646,6 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
-        },
-        {
-          "lat": 50.628622392577036,
-          "lon": 19.54377604277066
-        },
-        {
-          "lat": 49.92625879751269,
-          "lon": 18.983356129258837
-        },
-        {
-          "lat": 54.375906749022874,
-          "lon": 17.898568780255285
-        },
-        {
-          "lat": 50.1121355987003,
-          "lon": 17.831168062597435
-        },
-        {
-          "lat": 54.24119048641627,
-          "lon": 17.910073879737073
         }
       ]
     },
@@ -778,7 +661,7 @@
       "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-03",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -825,8 +708,8 @@
       "label": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-05",
-      "intensity": 2,
+      "last_seen": "2026-11-06",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -908,6 +791,26 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
+        },
+        {
+          "lat": 34.53650658602524,
+          "lon": 51.50872357386834
+        },
+        {
+          "lat": 29.788215092923195,
+          "lon": 52.06036586617594
+        },
+        {
+          "lat": 31.535998509280965,
+          "lon": 53.88033092181206
+        },
+        {
+          "lat": 32.291035899152405,
+          "lon": 52.377806241935545
+        },
+        {
+          "lat": 32.81624579833512,
+          "lon": 55.56409883790745
         }
       ]
     },
@@ -922,8 +825,8 @@
       "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
       "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-05",
-      "intensity": 4,
+      "last_seen": "2026-11-06",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1045,9 +948,45 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
+        },
+        {
+          "lat": 49.18340525302638,
+          "lon": 28.079588566739712
+        },
+        {
+          "lat": 52.8190998028262,
+          "lon": 29.558760026647185
+        },
+        {
+          "lat": 48.27402314887231,
+          "lon": 29.32772795449261
+        },
+        {
+          "lat": 50.96710365345855,
+          "lon": 32.00000546109001
+        },
+        {
+          "lat": 49.23793422982968,
+          "lon": 28.97863135863599
         }
       ]
+    },
+    {
+      "id": "protest-deutschland",
+      "type": "protest",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-11-05"
+  "updated_at": "2026-11-06"
 }
