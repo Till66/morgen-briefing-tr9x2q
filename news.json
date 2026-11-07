@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:56:03.049606+00:00",
+  "generated_at": "2026-11-07T10:56:24.279000+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,76 +45,12 @@
   },
   "articles": [
     {
-      "title": "Bundestag beschließt härtere Strafen für Einsatz von K.o.-Tropfen",
-      "summary": "Täter mischen ihren Opfern K.o.-Mittel unter, um sie gezielt wehrlos zu machen. Der Bundestag hat für solche Taten härtere Strafen beschlossen. Wie können sich Opfer schützen - und was droht jetzt den Tätern?",
+      "title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+      "summary": "Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
       "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 12:28:21 +0100"
-    },
-    {
-      "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-      "summary": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 10:30:52 +0100"
-    },
-    {
-      "title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
-      "summary": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 06:17:40 +0100"
-    },
-    {
-      "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-      "summary": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 01:55:35 +0100"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-      "summary": "82 Prozent der Menschen in Deutschland findet, dass die Politik die Anliegen junger Menschen nicht gut genug berücksichtigt. Die junge Generation selbst vertraut im ARD-DeutschlandTrend vor allem zwei Parteien. Von Christian Basl.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
-      "category": "politik",
-      "event_type": "protest",
+      "event_type": "tension",
       "location": {
         "name": "Deutschland",
         "lat": 51.1657,
@@ -122,13 +58,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 18:01:09 +0100"
+      "published": "Sat, 07 Nov 2026 10:44:35 +0100"
     },
     {
-      "title": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-      "summary": "Einen Tag nach dem plötzlichen Tod des Freie-Wähler-Chefs Aiwanger liegen erste Ermittlungsergebnisse vor. Für ein Fremdverschulden gibt es demnach keine Anhaltspunkte. Die Freien Wähler müssen sich jetzt neu aufstellen.",
+      "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+      "summary": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -138,13 +74,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 16:25:23 +0100"
+      "published": "Sat, 07 Nov 2026 10:28:52 +0100"
     },
     {
-      "title": "Linnemann kündigt Nachbesserungen bei Pflegereform an",
-      "summary": "Die Pläne für eine Reform der Pflegeversicherung sind umstritten. Patientenschützer sprechen von einer Mogelpackung. Im Bundestag verteidigte Gesundheitsminister Linnemann das Vorhaben - und kündigte zugleich Korrekturen an.",
+      "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+      "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -154,13 +90,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 15:07:06 +0100"
+      "published": "Sat, 07 Nov 2026 08:02:40 +0100"
     },
     {
-      "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "summary": "Wechsel an der Spitze der Bundeswehr: Christian Freuding wird neuer Generalinspekteur und damit ranghöchster Soldat der Truppe. Freuding sei der Richtige für \"das neue Zeitalter\", sagte Verteidigungsminister Pistorius.",
+      "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+      "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -170,10 +106,106 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 18:15:48 +0100"
+      "published": "Fri, 06 Nov 2026 21:54:46 +0100"
     },
     {
-      "title": "Welche Folgen die US-Zwischenwahlen für die deutsche Wirtschaft haben",
+      "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "summary": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Russland",
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 19:53:38 +0100"
+    },
+    {
+      "title": "Bundestag berät über umstrittene Autobahn-Reform",
+      "summary": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 18:04:16 +0100"
+    },
+    {
+      "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+      "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 21:36:48 +0100"
+    },
+    {
+      "title": "Übergriffe mit K.-o.-Tropfen: Warum anonyme Spurensicherung so wichtig ist",
+      "summary": "Ob im Club, an der Bar oder beim Karneval: K.-o.-Tropfen werden oft zur unsichtbaren Gefahr. Die anonyme Spurensicherung in Kliniken ermöglicht Betroffenen, Beweise zu sichern, ohne sofort die Polizei einschalten zu müssen. Von Jan Koch.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 15:27:53 +0100"
+    },
+    {
+      "title": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
+      "summary": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Berlin",
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 07 Nov 2026 03:54:24 +0100"
+    },
+    {
+      "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+      "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 18:30:36 +0100"
+    },
+    {
+      "title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
       "summary": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
       "source": "Wirtschaft und Börsen-Nachrichten",
       "url": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
@@ -250,10 +282,10 @@
       "published": "Fri, 06 Nov 2026 06:04:19 +0100"
     },
     {
-      "title": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-      "summary": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung bleiben.",
+      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+      "summary": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -263,29 +295,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 11:42:54 +0100"
+      "published": "Fri, 06 Nov 2026 14:09:10 +0100"
     },
     {
-      "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-      "summary": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
+      "title": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
+      "summary": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmaßliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 10:13:00 +0100"
-    },
-    {
-      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "summary": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -295,15 +311,15 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 10:29:54 +0100"
+      "published": "Fri, 06 Nov 2026 12:58:26 +0100"
     },
     {
-      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-      "summary": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Bandenchef bittet UN um Vermittlung in Haiti",
+      "summary": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -311,7 +327,71 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 20:11:03 +0100"
+      "published": "Sat, 07 Nov 2026 11:51:13 +0100"
+    },
+    {
+      "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "summary": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 07 Nov 2026 08:40:23 +0100"
+    },
+    {
+      "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Sat, 07 Nov 2026 05:19:10 +0100"
+    },
+    {
+      "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "summary": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 20:39:20 +0100"
+    },
+    {
+      "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
+      "summary": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 13:08:01 +0100"
     },
     {
       "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
@@ -328,22 +408,6 @@
       "connections": [],
       "chokepoint_lane": null,
       "published": "Thu, 05 Nov 2026 15:20:37 +0100"
-    },
-    {
-      "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-      "summary": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Iran",
-        "lat": 32.4279,
-        "lon": 53.688
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 04 Nov 2026 22:15:24 +0100"
     },
     {
       "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
@@ -378,126 +442,10 @@
       "published": "Tue, 03 Nov 2026 17:08:15 +0100"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
-      "summary": "Russland setzt seine Angriffe auf die Ukraine fort: Nach einem Hilfsgüter-Verteilzentrum am Montag wurden heute medizinische Einrichtungen und Energieanlagen bombardiert. Präsident Selenskyj ist zu einem Besuch in Berlin eingetroffen.",
+      "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+      "summary": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 03 Nov 2026 13:16:22 +0100"
-    },
-    {
-      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-      "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Moskau",
-            "lat": 55.7558,
-            "lon": 37.6173
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Tue, 03 Nov 2026 10:00:13 +0100"
-    },
-    {
-      "title": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
-      "summary": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          },
-          "to": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 07:35:32 +0100"
-    },
-    {
-      "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
-      "summary": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 02 Nov 2026 02:09:27 +0100"
-    },
-    {
-      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "summary": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+      "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
       "category": "welt",
       "event_type": "tension",
       "location": {
@@ -507,45 +455,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 10:29:54 +0100"
+      "published": "Sat, 07 Nov 2026 09:10:26 +0100"
     },
     {
-      "title": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
-      "summary": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador.",
+      "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+      "summary": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 09:25:15 +0100"
+      "published": "Sat, 07 Nov 2026 07:01:55 +0100"
     },
     {
-      "title": "Los Angeles bekommt linke Bürgermeisterin",
-      "summary": "Die künftige Bürgermeisterin von Los Angeles heißt Nithya Raman. Sie gehört dem linken Flügel der Demokraten an - genau wie New Yorks Bürgermeister. Dezidiert linke Politik scheint Wähler in den Großstädten nicht mehr zu verprellen. Von G. Biesinger.",
+      "title": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+      "summary": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
-        "name": "Los Angeles",
-        "lat": 34.0522,
-        "lon": -118.2437
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 08:32:23 +0100"
+      "published": "Fri, 06 Nov 2026 17:19:52 +0100"
     },
     {
-      "title": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
-      "summary": "Nach der Niederlage bei den Zwischenwahlen streiten die US-Republikaner über den künftigen Kurs der Partei. Fehleranalyse, Vorwürfe und eigene Bewerbungsreden sind dabei schwer auseinanderzuhalten. Von Samuel Jackisch.",
+      "title": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+      "summary": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+      "category": "welt",
+      "event_type": "transport",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 16:01:09 +0100"
+    },
+    {
+      "title": "Bombendrohungen auch gegen irische Medien",
+      "summary": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
       "category": "welt",
       "event_type": "tension",
       "location": {
@@ -555,23 +519,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 08:31:41 +0100"
-    },
-    {
-      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-      "summary": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 07:00:41 +0100"
+      "published": "Fri, 06 Nov 2026 14:49:52 +0100"
     },
     {
       "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
@@ -622,42 +570,10 @@
       "published": "Thu, 05 Nov 2026 15:32:28 +0100"
     },
     {
-      "title": "Europa League: Bayer Leverkusen verliert vor dem Derby gegen Marseille",
-      "summary": "Nach zuletzt zwei Niederlagen in der Bundesliga hat Bayer Leverkusen auch in der Europa League die erste Pleite kassiert.",
+      "title": "Ein kurdisch geprägter Verein mischt die Süperlig auf",
+      "summary": "Der Verein Amedspor aus Diyarbakır im Südosten der Türkei hat eine ausgeprägte kurdische Identität. Dafür wird er geliebt - und gehasst. Nun könnte er sogar an die Tabellenspitze klettern.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-marseille-verpasst-leverkusen-den-naechsten-daempfer-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 08:58:00 +0100"
-    },
-    {
-      "title": "Trotz Überzahl: Hoffenheim vergibt Sieg bei Crystal Palace",
-      "summary": "Am 4. Spieltag der Europa League hat die TSG Hoffenheim bei Crystal Palace unentschieden gespielt. Trotz Überzahl und einer guten Leistung kassierten die Kraichgauer den Ausgleichstreffer in der Nachspielzeit.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-trotz-ueberzahl-hoffenheim-vergibt-sieg-bei-crystal-palace-in-der-nachspielzeit-104.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 20:43:17 +0100"
-    },
-    {
-      "title": "SC Freiburg gewinnt Auswärtsspiel bei Trabzonspor dank starker Nerven",
-      "summary": "Der SC Freiburg gewinnt im Nordosten der Türkei in der Ligaphase der UEFA Conference League. Gegen Trabzonspor beweist das Team von Trainer Julian Schuster starke Nerven.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-sc-freiburg-gewinnt-auswaertsspiel-bei-trabzonspor-dank-starker-nerven-100.html",
+      "url": "https://www.sportschau.de/fussball/ein-kurdischer-verein-mischt-die-sueperlig-auf,amedsporr-tuerkei-fussball-erste-liga-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -667,13 +583,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 21:25:04 +0100"
+      "published": "Fri, 06 Nov 2026 18:50:12 +0100"
     },
     {
-      "title": "Franz Wagner wird zum Spielmacher - doch Orlando verliert weiter",
-      "summary": "Franz Wagner bekleidet eine neue Rolle bei den Orlando Magic. Aber auch 15 Vorlagen des deutschen Basketball-Nationalspielers verhindern nicht die sechste Niederlage in der NBA.",
+      "title": "Die Karibik erliegt Infantinos Verlockungen",
+      "summary": "Weitere Unterstützung für FIFA-Präsident Gianni Infantino im Machtkampf um seine Wiederwahl: Die Karibik steht geschlossen hinter ihm.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/basketball/nba/franz-wagner-wird-zum-spielmacher-doch-orlando-verliert-weiter,nba-franz-wagner-verliert-trotz-karriere-bestwert-100.html",
+      "url": "https://www.sportschau.de/fussball/die-karibik-erliegt-infantinos-verlockungen,fifa-karibik-infantino-unterstuetzung-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -683,13 +599,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 08:21:13 +0100"
+      "published": "Fri, 06 Nov 2026 22:19:53 +0100"
     },
     {
-      "title": "Steinbach und Anderson vorerst raus aus der NBA",
-      "summary": "Die Basketballer Hannes Steinbach und Christian Anderson stehen vorerst nicht mehr im Kader des NBA-Teams der Charlotte Hornets.",
+      "title": "Tuchel beruft erstmals beide Bellingham-Brüder",
+      "summary": "Thomas Tuchel hat erstmals beide Bellingham-Brüder in die englische A-Nationalmannschaft berufen. Auch dabei ist natürlich Harry Kane, der vor einem Rekord steht.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/basketball/steinbach-und-anderson-vorerst-raus-aus-der-nba,nba-steinbach-anderson-100.html",
+      "url": "https://www.sportschau.de/fussball/tuchel-beruft-erstmals-beide-bellingham-brueder,kader-england-116.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -699,29 +615,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 20:40:22 +0100"
+      "published": "Fri, 06 Nov 2026 15:25:43 +0100"
     },
     {
-      "title": "U21-Kader: Di Salvo nominiert Mika Baur, Paris Brunner und Nicolo Tresoldi",
-      "summary": "Die U21-Nationalmannschaft testet ein halbes Jahr vor der anstehenden Europameisterschaft gegen Belgien und Kroatien. Im Kader stehen einige Namen, die auch Bundestrainer Jürgen Klopp auf dem Zettel hat.",
+      "title": "Bayern und BVB vor Stolpergefahr in der Bundesliga",
+      "summary": "Bayern München und Borussia Dortmund haben nach ihrem direkten Duell und ihren Champions-League-Siegen im Liga-Alltag unangenehme Pflichtaufgaben in Mainz und gegen Elversberg zu erledigen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/u21/di-salvo-nominiert-baur-brunner-und-tresoldi,u21-kader-november-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/stolpergefahr-fuer-die-branchenriesen,stolpergefahr-fuer-bayern-und-bvb-100.html",
       "category": "sport",
-      "event_type": "celebration",
+      "event_type": "standard",
       "location": {
-        "name": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
+        "name": "München",
+        "lat": 48.1351,
+        "lon": 11.582
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Fri, 06 Nov 2026 11:03:34 +0100"
+      "published": "Sat, 07 Nov 2026 09:18:05 +0100"
     },
     {
-      "title": "DFB-Kader Nominierung: Klopp überrascht mit Mohya und Füllkrug",
-      "summary": "Bundestrainer Jürgen Klopp hat seinen Kader für die Länderspiele im November bekannt gegeben. Dabei sind auch Teenager Wael Mohya und Rückkehrer Niclas Füllkrug.",
+      "title": "Hamburger SV schießt Gladbach zurück in die Krise",
+      "summary": "Der Hamburger SV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-nominiert-mohya-el-mala-und-fuellkrug,kader-nations-league-klopp-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -731,13 +647,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 17:13:56 +0100"
+      "published": "Fri, 06 Nov 2026 23:24:16 +0100"
     },
     {
-      "title": "\"Unglaublicher Einfluss\": Klopp holt Werders Füllkrug ins DFB-Team",
-      "summary": "Der Bremer führt aktuell die Torschützenliste der Fußball-Bundesliga an – und wurde nun vom Bundestrainer für zwei Partien in den Kader der Nationalmannschaft aufgenommen.",
+      "title": "Vom Perlentaucher zum BVB-Sportdirektor",
+      "summary": "Samstag trifft BVB-Sportdirektor Ole Book mit Elversberg auf eine Mannschaft, die er über Jahre maßgeblich zusammengestellt hat.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rb/rb-unglaublicher-einfluss-klopp-holt-werders-fuellkrug-ins-dfb-team-100.html",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-vom-perlentaucher-zum-bvb-sportdirektor-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -747,7 +663,39 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Thu, 05 Nov 2026 13:05:48 +0100"
+      "published": "Fri, 06 Nov 2026 14:36:00 +0100"
+    },
+    {
+      "title": "Dynamo Dresden gelingt Befreiungsschlag gegen Greuther Fürth",
+      "summary": "Anders als zuletzt hat Dynamo Dresden eine Führung über die Zeit gebracht und mit dem Sieg gegen Greuther Fürth wichtige Punkte im Abstiegskampf gesammelt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/dresden-gelingt-befreiungsschlag-gegen-fuerth,spielbericht-dynamo-dresden-greuther-fuerth-108.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 20:40:17 +0100"
+    },
+    {
+      "title": "Braunschweig und Cottbus liefern Fußball aus dem Keller",
+      "summary": "Keine Treffer und auch kaum Chancen: Eintracht Braunschweig und Energie Cottbus haben sich im Kellerduell der 2. Fußball-Bundesliga torlos getrennt und bleiben beide im Abstiegskampf.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/braunschweig-und-cottbus-liefern-fussball-aus-dem-keller,spielbericht-eintracht-braunschweig-energie-cottbus-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Fri, 06 Nov 2026 20:38:50 +0100"
     }
   ],
   "crises": [
@@ -759,9 +707,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+      "label": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -966,7 +914,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
     },
     {
       "id": "conflict-russland",
@@ -979,7 +927,7 @@
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-03",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1101,26 +1049,6 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
@@ -1193,7 +1121,7 @@
       "label": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
       "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -1315,7 +1243,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1377,26 +1305,6 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
-        },
-        {
-          "lat": 50.76163129503481,
-          "lon": 19.024353967869853
-        },
-        {
-          "lat": 50.25640800764771,
-          "lon": 20.485090922329015
-        },
-        {
-          "lat": 50.27951507766324,
-          "lon": 19.93900006647303
-        },
-        {
-          "lat": 52.72821126406808,
-          "lon": 16.34274847312999
-        },
-        {
-          "lat": 53.57140967915636,
-          "lon": 20.1064498528398
         }
       ]
     },
@@ -1460,7 +1368,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-06",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1542,26 +1450,6 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
-        },
-        {
-          "lat": 34.53650658602524,
-          "lon": 51.50872357386834
-        },
-        {
-          "lat": 29.788215092923195,
-          "lon": 52.06036586617594
-        },
-        {
-          "lat": 31.535998509280965,
-          "lon": 53.88033092181206
-        },
-        {
-          "lat": 32.291035899152405,
-          "lon": 52.377806241935545
-        },
-        {
-          "lat": 32.81624579833512,
-          "lon": 55.56409883790745
         }
       ]
     },
@@ -1573,11 +1461,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
-      "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+      "label": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-06",
-      "intensity": 5,
+      "last_seen": "2026-11-07",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1719,6 +1607,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -1734,9 +1642,86 @@
       "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-spanien",
+      "type": "conflict",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 40.92892614533669,
+          "lon": -4.11890833208638
+        },
+        {
+          "lat": 39.99204498382368,
+          "lon": -2.76568715045687
+        },
+        {
+          "lat": 43.39012705001087,
+          "lon": -5.665524367960059
+        },
+        {
+          "lat": 38.52308602775787,
+          "lon": -1.7981199252447393
+        },
+        {
+          "lat": 43.225527317476704,
+          "lon": -6.517750873680169
+        },
+        {
+          "lat": 43.121711165833574,
+          "lon": -0.9543041424751992
+        },
+        {
+          "lat": 41.34013998905002,
+          "lon": -6.503827340881766
+        },
+        {
+          "lat": 40.651699000583776,
+          "lon": -6.262031853123576
+        },
+        {
+          "lat": 39.74048583615385,
+          "lon": -2.7980242004180385
+        },
+        {
+          "lat": 42.55157622980026,
+          "lon": -4.17985853543362
+        },
+        {
+          "lat": 39.38103142498819,
+          "lon": -2.859308076154745
+        },
+        {
+          "lat": 40.478036277966936,
+          "lon": -6.3641251464789095
+        },
+        {
+          "lat": 37.599171941469116,
+          "lon": -4.80544407344876
+        },
+        {
+          "lat": 40.522403851201275,
+          "lon": -1.8529621756791517
+        },
+        {
+          "lat": 42.88972345334041,
+          "lon": -2.779828748245218
+        }
+      ]
     }
   ]
 }

@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+      "label": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-03",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,26 +350,6 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
@@ -442,7 +422,7 @@
       "label": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
       "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
@@ -564,7 +544,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -626,26 +606,6 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
-        },
-        {
-          "lat": 50.76163129503481,
-          "lon": 19.024353967869853
-        },
-        {
-          "lat": 50.25640800764771,
-          "lon": 20.485090922329015
-        },
-        {
-          "lat": 50.27951507766324,
-          "lon": 19.93900006647303
-        },
-        {
-          "lat": 52.72821126406808,
-          "lon": 16.34274847312999
-        },
-        {
-          "lat": 53.57140967915636,
-          "lon": 20.1064498528398
         }
       ]
     },
@@ -709,7 +669,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-06",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -791,26 +751,6 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
-        },
-        {
-          "lat": 34.53650658602524,
-          "lon": 51.50872357386834
-        },
-        {
-          "lat": 29.788215092923195,
-          "lon": 52.06036586617594
-        },
-        {
-          "lat": 31.535998509280965,
-          "lon": 53.88033092181206
-        },
-        {
-          "lat": 32.291035899152405,
-          "lon": 52.377806241935545
-        },
-        {
-          "lat": 32.81624579833512,
-          "lon": 55.56409883790745
         }
       ]
     },
@@ -822,11 +762,11 @@
         "lat": 50.4501,
         "lon": 30.5234
       },
-      "label": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
-      "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+      "label": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-06",
-      "intensity": 5,
+      "last_seen": "2026-11-07",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -968,6 +908,26 @@
         {
           "lat": 49.23793422982968,
           "lon": 28.97863135863599
+        },
+        {
+          "lat": 53.43557468008135,
+          "lon": 33.214243411649306
+        },
+        {
+          "lat": 49.21286349084516,
+          "lon": 29.8246017682896
+        },
+        {
+          "lat": 51.043292299267556,
+          "lon": 28.402064929624334
+        },
+        {
+          "lat": 53.29054301459576,
+          "lon": 33.39491082369301
+        },
+        {
+          "lat": 48.159000078364855,
+          "lon": 30.26382984627663
         }
       ]
     },
@@ -983,10 +943,87 @@
       "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-spanien",
+      "type": "conflict",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 40.92892614533669,
+          "lon": -4.11890833208638
+        },
+        {
+          "lat": 39.99204498382368,
+          "lon": -2.76568715045687
+        },
+        {
+          "lat": 43.39012705001087,
+          "lon": -5.665524367960059
+        },
+        {
+          "lat": 38.52308602775787,
+          "lon": -1.7981199252447393
+        },
+        {
+          "lat": 43.225527317476704,
+          "lon": -6.517750873680169
+        },
+        {
+          "lat": 43.121711165833574,
+          "lon": -0.9543041424751992
+        },
+        {
+          "lat": 41.34013998905002,
+          "lon": -6.503827340881766
+        },
+        {
+          "lat": 40.651699000583776,
+          "lon": -6.262031853123576
+        },
+        {
+          "lat": 39.74048583615385,
+          "lon": -2.7980242004180385
+        },
+        {
+          "lat": 42.55157622980026,
+          "lon": -4.17985853543362
+        },
+        {
+          "lat": 39.38103142498819,
+          "lon": -2.859308076154745
+        },
+        {
+          "lat": 40.478036277966936,
+          "lon": -6.3641251464789095
+        },
+        {
+          "lat": 37.599171941469116,
+          "lon": -4.80544407344876
+        },
+        {
+          "lat": 40.522403851201275,
+          "lon": -1.8529621756791517
+        },
+        {
+          "lat": 42.88972345334041,
+          "lon": -2.779828748245218
+        }
+      ]
     }
   ],
-  "updated_at": "2026-11-06"
+  "updated_at": "2026-11-07"
 }
