@@ -11,7 +11,7 @@
       "label": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-07",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,26 +193,6 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
-        },
-        {
-          "lat": 47.2410417403942,
-          "lon": 29.61412063093533
-        },
-        {
-          "lat": 45.75347750458784,
-          "lon": 32.04224714080203
-        },
-        {
-          "lat": 47.48508185572179,
-          "lon": 29.96273554535926
-        },
-        {
-          "lat": 50.457943303319844,
-          "lon": 28.654934935902
-        },
-        {
-          "lat": 45.48967851656784,
-          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
@@ -225,10 +205,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "label": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-03",
-      "intensity": 4,
+      "last_seen": "2026-11-08",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,9 +330,29 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html"
     },
     {
       "id": "conflict-usa",
@@ -419,27 +419,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
-      "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
+      "label": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "intensity": 8,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-italien",
-      "type": "protest",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-01",
-      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -460,79 +444,6 @@
       "subpoints": []
     },
     {
-      "id": "conflict-italien",
-      "type": "conflict",
-      "location": {
-        "name": "Italien",
-        "lat": 41.8719,
-        "lon": 12.5674
-      },
-      "label": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
-      "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-01",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 38.96354556816491,
-          "lon": 14.954405376952469
-        },
-        {
-          "lat": 40.77941933863096,
-          "lon": 12.666001159895444
-        },
-        {
-          "lat": 41.115819795901494,
-          "lon": 15.561402355726901
-        },
-        {
-          "lat": 41.2207650932789,
-          "lon": 14.576932100756077
-        },
-        {
-          "lat": 42.02290548489741,
-          "lon": 14.583231353845035
-        },
-        {
-          "lat": 42.12479287819827,
-          "lon": 13.078262670259285
-        },
-        {
-          "lat": 43.87671267017424,
-          "lon": 9.737887733131853
-        },
-        {
-          "lat": 44.72522332035837,
-          "lon": 12.892993543081914
-        },
-        {
-          "lat": 42.98494797840142,
-          "lon": 13.99736330057037
-        },
-        {
-          "lat": 40.05018851546586,
-          "lon": 10.067263518518363
-        }
-      ]
-    },
-    {
-      "id": "protest-hamburg",
-      "type": "protest",
-      "location": {
-        "name": "Hamburg",
-        "lat": 53.5511,
-        "lon": 9.9937
-      },
-      "label": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-polen",
       "type": "conflict",
       "location": {
@@ -544,7 +455,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -586,26 +497,6 @@
         {
           "lat": 54.68723291757289,
           "lon": 18.97683596971476
-        },
-        {
-          "lat": 51.86856870606811,
-          "lon": 21.599171076925394
-        },
-        {
-          "lat": 49.301530560554134,
-          "lon": 16.365495189761276
-        },
-        {
-          "lat": 51.09892038212203,
-          "lon": 21.525218514732487
-        },
-        {
-          "lat": 53.701662015338584,
-          "lon": 18.48578713717644
-        },
-        {
-          "lat": 51.1023088195653,
-          "lon": 19.76106626686304
         }
       ]
     },
@@ -669,7 +560,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-06",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -731,26 +622,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -765,8 +636,8 @@
       "label": "Schwere Schäden nach Raketenangriffen auf Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-07",
-      "intensity": 6,
+      "last_seen": "2026-11-08",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -928,6 +799,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -958,8 +849,8 @@
       "label": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "intensity": 1,
+      "last_seen": "2026-11-08",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1021,9 +912,29 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
+        },
+        {
+          "lat": 37.898961882942935,
+          "lon": -2.7507253443274475
+        },
+        {
+          "lat": 42.983431754790935,
+          "lon": -2.4375869622108497
+        },
+        {
+          "lat": 39.345744290164966,
+          "lon": -1.3568267949788897
+        },
+        {
+          "lat": 42.20270805756893,
+          "lon": -3.3049837850776926
+        },
+        {
+          "lat": 38.46898548075941,
+          "lon": -0.9975888171260219
         }
       ]
     }
   ],
-  "updated_at": "2026-11-07"
+  "updated_at": "2026-11-08"
 }
