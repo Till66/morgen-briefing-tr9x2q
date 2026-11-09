@@ -8,10 +8,10 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+      "label": "Selenskyj, Merz und der Kampf gegen die Zweifel",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-07",
-      "intensity": 7,
+      "last_seen": "2026-11-09",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,9 +193,29 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
+        },
+        {
+          "lat": 47.2410417403942,
+          "lon": 29.61412063093533
+        },
+        {
+          "lat": 45.75347750458784,
+          "lon": 32.04224714080203
+        },
+        {
+          "lat": 47.48508185572179,
+          "lon": 29.96273554535926
+        },
+        {
+          "lat": 50.457943303319844,
+          "lon": 28.654934935902
+        },
+        {
+          "lat": 45.48967851656784,
+          "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+      "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
     },
     {
       "id": "conflict-russland",
@@ -205,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
+      "label": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-08",
-      "intensity": 5,
+      "last_seen": "2026-11-09",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,9 +370,29 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
+        },
+        {
+          "lat": 63.01591423191035,
+          "lon": 106.50348857002088
+        },
+        {
+          "lat": 63.406282377426116,
+          "lon": 106.11403138929978
+        },
+        {
+          "lat": 63.56320607199874,
+          "lon": 107.52500839744951
+        },
+        {
+          "lat": 61.86481182566956,
+          "lon": 106.43257439045202
+        },
+        {
+          "lat": 62.867105840110945,
+          "lon": 106.93341763191377
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"
     },
     {
       "id": "conflict-usa",
@@ -423,23 +463,7 @@
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-08",
-      "intensity": 8,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-polen",
-      "type": "protest",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "label": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-11-02",
-      "intensity": 0,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -517,38 +541,6 @@
       "subpoints": []
     },
     {
-      "id": "protest-frankfurt",
-      "type": "protest",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "label": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
-      "id": "protest-k-ln",
-      "type": "protest",
-      "location": {
-        "name": "Köln",
-        "lat": 50.9375,
-        "lon": 6.9603
-      },
-      "label": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-iran",
       "type": "conflict",
       "location": {
@@ -560,7 +552,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-06",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -602,26 +594,6 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
-        },
-        {
-          "lat": 30.746069227642515,
-          "lon": 54.36580543530309
-        },
-        {
-          "lat": 29.635537402277357,
-          "lon": 51.546781450162364
-        },
-        {
-          "lat": 29.491322623105212,
-          "lon": 51.383612127123314
-        },
-        {
-          "lat": 34.96524126722844,
-          "lon": 52.81293564610485
-        },
-        {
-          "lat": 35.299067077652914,
-          "lon": 53.862193762981846
         }
       ]
     },
@@ -636,8 +608,8 @@
       "label": "Schwere Schäden nach Raketenangriffen auf Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
-      "intensity": 7,
+      "last_seen": "2026-11-09",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -819,6 +791,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -849,8 +841,8 @@
       "label": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-08",
-      "intensity": 2,
+      "last_seen": "2026-11-09",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -932,9 +924,45 @@
         {
           "lat": 38.46898548075941,
           "lon": -0.9975888171260219
+        },
+        {
+          "lat": 43.322033562467794,
+          "lon": -6.1175846465704
+        },
+        {
+          "lat": 40.25942783056547,
+          "lon": -1.2402150478805916
+        },
+        {
+          "lat": 43.054044230549025,
+          "lon": -6.582712653092274
+        },
+        {
+          "lat": 39.4248240192226,
+          "lon": -5.458056372327743
+        },
+        {
+          "lat": 40.02068263471876,
+          "lon": -6.624948410792031
         }
       ]
+    },
+    {
+      "id": "protest-amsterdam",
+      "type": "protest",
+      "location": {
+        "name": "Amsterdam",
+        "lat": 52.3676,
+        "lon": 4.9041
+      },
+      "label": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+      "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-11-08"
+  "updated_at": "2026-11-09"
 }
