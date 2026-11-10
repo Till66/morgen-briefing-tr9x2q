@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Selenskyj, Merz und der Kampf gegen die Zweifel",
+      "label": "G7-Außenminister sprechen über Ukraine und Iran",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
     },
     {
       "id": "conflict-russland",
@@ -227,8 +227,8 @@
       },
       "label": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-09",
-      "intensity": 6,
+      "last_seen": "2026-11-10",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,66 +390,29 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
+        },
+        {
+          "lat": 58.63076494150114,
+          "lon": 106.1283869379606
+        },
+        {
+          "lat": 62.81477312310477,
+          "lon": 107.03005341363047
+        },
+        {
+          "lat": 61.04260386983459,
+          "lon": 106.10346300801017
+        },
+        {
+          "lat": 64.34490395871106,
+          "lon": 105.75354971303594
+        },
+        {
+          "lat": 61.7017411632188,
+          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"
-    },
-    {
-      "id": "conflict-usa",
-      "type": "conflict",
-      "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
-      },
-      "label": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-11-03",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 34.64032570008406,
-          "lon": -95.3466789293923
-        },
-        {
-          "lat": 38.93207474633611,
-          "lon": -92.9036841708024
-        },
-        {
-          "lat": 39.78729989328336,
-          "lon": -93.65078216331459
-        },
-        {
-          "lat": 35.25552380952624,
-          "lon": -97.49849583071284
-        },
-        {
-          "lat": 34.57719311318039,
-          "lon": -96.08695574586571
-        },
-        {
-          "lat": 39.513931597937585,
-          "lon": -97.6341478867083
-        },
-        {
-          "lat": 36.31327558828571,
-          "lon": -92.93220417889248
-        },
-        {
-          "lat": 35.286569142550135,
-          "lon": -93.01018556990095
-        },
-        {
-          "lat": 35.87396990784514,
-          "lon": -95.79719153568212
-        },
-        {
-          "lat": 39.92862994129249,
-          "lon": -95.11059597547076
-        }
-      ]
     },
     {
       "id": "protest-frankreich",
@@ -459,11 +422,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Weniger Teilnehmer bei neuen Demos in Frankreich",
-      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+      "label": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-08",
-      "intensity": 7,
+      "last_seen": "2026-11-10",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -523,22 +486,6 @@
           "lon": 18.97683596971476
         }
       ]
-    },
-    {
-      "id": "protest-portugal",
-      "type": "protest",
-      "location": {
-        "name": "Portugal",
-        "lat": 39.3999,
-        "lon": -8.2245
-      },
-      "label": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
-      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-iran",
@@ -609,7 +556,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -791,26 +738,6 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
-        },
-        {
-          "lat": 50.81441344863128,
-          "lon": 29.406422894124272
-        },
-        {
-          "lat": 48.65246507132704,
-          "lon": 33.12827777870262
-        },
-        {
-          "lat": 49.04367607448324,
-          "lon": 30.818688911856544
-        },
-        {
-          "lat": 50.54592653760347,
-          "lon": 30.094182622455335
-        },
-        {
-          "lat": 47.808661883764,
-          "lon": 32.86658647471796
         }
       ]
     },
@@ -842,7 +769,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -924,26 +851,6 @@
         {
           "lat": 38.46898548075941,
           "lon": -0.9975888171260219
-        },
-        {
-          "lat": 43.322033562467794,
-          "lon": -6.1175846465704
-        },
-        {
-          "lat": 40.25942783056547,
-          "lon": -1.2402150478805916
-        },
-        {
-          "lat": 43.054044230549025,
-          "lon": -6.582712653092274
-        },
-        {
-          "lat": 39.4248240192226,
-          "lon": -5.458056372327743
-        },
-        {
-          "lat": 40.02068263471876,
-          "lon": -6.624948410792031
         }
       ]
     },
@@ -959,10 +866,87 @@
       "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-frankreich",
+      "type": "conflict",
+      "location": {
+        "name": "Frankreich",
+        "lat": 46.2276,
+        "lon": 2.2137
+      },
+      "label": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+      "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 45.915260152718346,
+          "lon": -0.6345767860051894
+        },
+        {
+          "lat": 44.0141308962731,
+          "lon": 1.6519135338238935
+        },
+        {
+          "lat": 43.33155325583032,
+          "lon": 4.482713496411269
+        },
+        {
+          "lat": 45.6768928815189,
+          "lon": 3.1206365281394994
+        },
+        {
+          "lat": 47.93219036359205,
+          "lon": 1.7503498517190685
+        },
+        {
+          "lat": 47.859729563631525,
+          "lon": 0.32126278902002636
+        },
+        {
+          "lat": 45.55691212203794,
+          "lon": 3.3862586764916216
+        },
+        {
+          "lat": 45.97331231583732,
+          "lon": 5.10998907476931
+        },
+        {
+          "lat": 47.625256594495674,
+          "lon": 0.7184404653170937
+        },
+        {
+          "lat": 48.55797277574893,
+          "lon": 1.0608894506009268
+        },
+        {
+          "lat": 45.30961612487483,
+          "lon": 0.1883644550409782
+        },
+        {
+          "lat": 46.6189281185998,
+          "lon": 1.5031718019034415
+        },
+        {
+          "lat": 46.09819467538973,
+          "lon": 2.1692676660862675
+        },
+        {
+          "lat": 48.67583414446978,
+          "lon": 3.231686186784223
+        },
+        {
+          "lat": 43.360189050133854,
+          "lon": 3.098220124151492
+        }
+      ]
     }
   ],
-  "updated_at": "2026-11-09"
+  "updated_at": "2026-11-10"
 }
