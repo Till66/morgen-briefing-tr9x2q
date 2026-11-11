@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "G7-Außenminister sprechen über Ukraine und Iran",
+      "label": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
+      "url": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-10",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +390,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"
@@ -425,67 +405,10 @@
       "label": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-polen",
-      "type": "conflict",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-04",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 51.009310247384086,
-          "lon": 19.52671016241219
-        },
-        {
-          "lat": 51.268867333021916,
-          "lon": 20.220932986290528
-        },
-        {
-          "lat": 52.50150158152089,
-          "lon": 21.541303291927512
-        },
-        {
-          "lat": 52.426743978040705,
-          "lon": 20.054672188255743
-        },
-        {
-          "lat": 49.023836888849466,
-          "lon": 19.830324861298973
-        },
-        {
-          "lat": 51.99265653104886,
-          "lon": 21.201858155826656
-        },
-        {
-          "lat": 50.72566490754222,
-          "lon": 19.67325012064021
-        },
-        {
-          "lat": 51.43218876664881,
-          "lon": 19.400413936447563
-        },
-        {
-          "lat": 52.83624476749898,
-          "lon": 19.739278216437384
-        },
-        {
-          "lat": 54.68723291757289,
-          "lon": 18.97683596971476
-        }
-      ]
     },
     {
       "id": "conflict-iran",
@@ -495,11 +418,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+      "label": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-06",
-      "intensity": 0,
+      "last_seen": "2026-11-11",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -541,6 +464,66 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
+        },
+        {
+          "lat": 34.53650658602524,
+          "lon": 51.50872357386834
+        },
+        {
+          "lat": 29.788215092923195,
+          "lon": 52.06036586617594
+        },
+        {
+          "lat": 31.535998509280965,
+          "lon": 53.88033092181206
+        },
+        {
+          "lat": 32.291035899152405,
+          "lon": 52.377806241935545
+        },
+        {
+          "lat": 32.81624579833512,
+          "lon": 55.56409883790745
         }
       ]
     },
@@ -556,7 +539,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -718,26 +701,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -769,7 +732,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -831,26 +794,6 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
-        },
-        {
-          "lat": 37.898961882942935,
-          "lon": -2.7507253443274475
-        },
-        {
-          "lat": 42.983431754790935,
-          "lon": -2.4375869622108497
-        },
-        {
-          "lat": 39.345744290164966,
-          "lon": -1.3568267949788897
-        },
-        {
-          "lat": 42.20270805756893,
-          "lon": -3.3049837850776926
-        },
-        {
-          "lat": 38.46898548075941,
-          "lon": -0.9975888171260219
         }
       ]
     },
@@ -881,8 +824,8 @@
       "label": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
       "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "intensity": 1,
+      "last_seen": "2026-11-11",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -944,9 +887,122 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
+        },
+        {
+          "lat": 44.075225155199234,
+          "lon": 0.6815046506521767
+        },
+        {
+          "lat": 45.18800764170709,
+          "lon": 1.9553432832231845
+        },
+        {
+          "lat": 47.09365933724578,
+          "lon": 1.4702755462871342
+        },
+        {
+          "lat": 48.53023305020115,
+          "lon": -0.7168540728221076
+        },
+        {
+          "lat": 43.83830980564941,
+          "lon": 4.199873355715855
         }
       ]
+    },
+    {
+      "id": "conflict-usa",
+      "type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "label": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.64032570008406,
+          "lon": -95.3466789293923
+        },
+        {
+          "lat": 38.93207474633611,
+          "lon": -92.9036841708024
+        },
+        {
+          "lat": 39.78729989328336,
+          "lon": -93.65078216331459
+        },
+        {
+          "lat": 35.25552380952624,
+          "lon": -97.49849583071284
+        },
+        {
+          "lat": 34.57719311318039,
+          "lon": -96.08695574586571
+        },
+        {
+          "lat": 39.513931597937585,
+          "lon": -97.6341478867083
+        },
+        {
+          "lat": 36.31327558828571,
+          "lon": -92.93220417889248
+        },
+        {
+          "lat": 35.286569142550135,
+          "lon": -93.01018556990095
+        },
+        {
+          "lat": 35.87396990784514,
+          "lon": -95.79719153568212
+        },
+        {
+          "lat": 39.92862994129249,
+          "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
+        }
+      ]
+    },
+    {
+      "id": "protest-spanien",
+      "type": "protest",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-11-10"
+  "updated_at": "2026-11-11"
 }

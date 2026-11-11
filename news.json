@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:19:44.424467+00:00",
+  "generated_at": "2026-11-11T11:45:00.916410+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,6 +45,118 @@
   },
   "articles": [
     {
+      "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+      "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 12:30:22 +0100"
+    },
+    {
+      "title": "Profite von Rüstungskonzernen - Linke will Übergewinne besteuern",
+      "summary": "Die Linke fordert eine Übergewinnsteuer für Rüstungskonzerne angesichts stark gestiegener Gewinne durch höhere Verteidigungsausgaben. Wie wirksam wäre das? Von Alexander Budweg.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 09:24:17 +0100"
+    },
+    {
+      "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+      "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 06:56:45 +0100"
+    },
+    {
+      "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "summary": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 02:20:58 +0100"
+    },
+    {
+      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+      "summary": "Freundlich und überparteilich präsentiert sich die wohl künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 02:17:49 +0100"
+    },
+    {
+      "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+      "summary": "In Hamburg sind unweit der Elbphilharmonie zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde tot in einem Hotelzimmer gefunden. In Baden-Württemberg hat die Polizei zwei Leichen gefunden - und prüft einen Zusammenhang.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-eningen-schuesse-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 18:27:27 +0100"
+    },
+    {
+      "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+      "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 15:15:52 +0100"
+    },
+    {
       "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
       "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
       "source": "Aktuelle Nachrichten aus Deutschland",
@@ -61,122 +173,10 @@
       "published": "Tue, 10 Nov 2026 10:05:59 +0100"
     },
     {
-      "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-      "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Berlin",
-        "lat": 52.52,
-        "lon": 13.405
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 07:26:38 +0100"
-    },
-    {
-      "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
-      "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 05:10:12 +0100"
-    },
-    {
-      "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
-      "summary": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 00:40:08 +0100"
-    },
-    {
-      "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
-      "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 22:27:31 +0100"
-    },
-    {
-      "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
-      "summary": "Am Jahrestag der NS-Pogromnacht feiert die Münchner Hauptsynagoge ihr 20-jähriges Bestehen. Die Holocaust-Überlebende Knobloch warnte dabei vor einem als \"aufrichtige Haltung getarnten Israelhass\". Von S. Berninger.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "München",
-        "lat": 48.1351,
-        "lon": 11.582
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 20:14:42 +0100"
-    },
-    {
-      "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
-      "summary": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 17:24:36 +0100"
-    },
-    {
-      "title": "Steinmeier zu Novemberpogromen: \"Anlass, die Augen zu öffnen\"",
-      "summary": "Bundespräsident Steinmeier hat zum Jahrestag der Novemberpogrome von 1938 die historische Verantwortung Deutschlands betont. Dass wieder mehr Juden hierzulande Opfer von Gewalt würden, mache ihn wütend. Es gebe \"Anlass, die Augen zu öffnen\".",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 16:51:17 +0100"
-    },
-    {
-      "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-      "summary": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
+      "title": "Zahl der arbeitslosen Akademiker auf Höchststand",
+      "summary": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,13 +186,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 11:36:17 +0100"
+      "published": "Wed, 11 Nov 2026 11:07:28 +0100"
     },
     {
-      "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-      "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
+      "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+      "summary": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,13 +202,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 11:35:49 +0100"
+      "published": "Wed, 11 Nov 2026 07:51:52 +0100"
     },
     {
-      "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-      "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
+      "title": "Tankrabatt drückt Inflation im Oktober",
+      "summary": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der Tankrabatt zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 12:00:32 +0100"
+    },
+    {
+      "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
+      "summary": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,29 +234,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 10:42:31 +0100"
+      "published": "Wed, 11 Nov 2026 09:23:39 +0100"
     },
     {
-      "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-      "summary": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
+      "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+      "summary": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": "Australien",
-        "lat": -25.2744,
-        "lon": 133.7751
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 13:00:03 +0100"
-    },
-    {
-      "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-      "summary": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -250,29 +250,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 13:11:01 +0100"
+      "published": "Wed, 11 Nov 2026 06:28:10 +0100"
     },
     {
-      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-      "summary": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+      "title": "Marktbericht: DAX macht sich wieder nach oben auf",
+      "summary": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
-      "category": "wirtschaft",
-      "event_type": "trade",
-      "location": {
-        "name": "Peking",
-        "lat": 39.9042,
-        "lon": 116.4074
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 09:53:53 +0100"
-    },
-    {
-      "title": "Kalifornier lehnen Milliardärssteuer ab",
-      "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -282,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 08:15:02 +0100"
+      "published": "Wed, 11 Nov 2026 10:42:50 +0100"
     },
     {
-      "title": "Klimakonferenz COP31: Warum alle über Elektrifizierung reden",
-      "summary": "Ein Vorstoß des türkischen Gastgebers findet sich eigentlich gar nicht auf der offiziellen Tagesordnung. Und doch scheint das Thema Elektrifizierung im Zentrum der diesjährigen Klimakonferenz zu stehen. Von A. Schulz und J. Schreiber.",
+      "title": "Wirtschaft vor acht vom 10.11.2026",
+      "summary": "Wirtschaft vor acht vom 10.11.2026",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wissen/klima/klimakonferenz/klimaschutz-elektrifizierung-100.html",
+      "url": "https://www.tagesschau.de/video/video-1681634.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -298,13 +282,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 07:34:14 +0100"
+      "published": "Tue, 10 Nov 2026 19:52:27 +0100"
     },
     {
-      "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-      "summary": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
+      "title": "Update Wirtschaft vom 11.11.2026",
+      "summary": "Update Wirtschaft vom 11.11.2026",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681826.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 10:09:42 +0100"
+    },
+    {
+      "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+      "summary": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
@@ -320,30 +320,46 @@
             "lon": 31.1656
           },
           "to": {
-            "name": "USA",
-            "lat": 37.0902,
-            "lon": -95.7129
+            "name": "Russland",
+            "lat": 61.524,
+            "lon": 105.3188
           }
         }
       ],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 11:48:43 +0100"
+      "published": "Wed, 11 Nov 2026 12:27:20 +0100"
     },
     {
-      "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
-      "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+      "title": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+      "summary": "Die US-Justiz hat Anklage gegen drei Männer erhoben, die an der Planung von mehreren Anschlägen in Europa und in den USA beteiligt gewesen sein sollen. Dabei geht es auch um den vereitelten Anschlag auf den britischen Luftwaffenstützpunkt Fairford.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
       "category": "konflikte",
       "event_type": "conflict",
       "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 09:18:50 +0100"
+      "published": "Wed, 11 Nov 2026 09:09:54 +0100"
+    },
+    {
+      "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "summary": "Ein Parteikollege hatte die Amtsenthebung von US-Verteidigungsminister Hegseth angestrebt - vor allem wegen des Iran-Kriegs. Nun haben die Republikaner im US-Repräsentantenhaus den Vorstoß beendet. Sie stimmten nahezu geschlossen dagegen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 01:19:26 +0100"
     },
     {
       "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
@@ -375,6 +391,67 @@
       "published": "Mon, 09 Nov 2026 18:51:23 +0100"
     },
     {
+      "title": "Wadephul warnt Iran vor hybriden Angriffen",
+      "summary": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [
+        {
+          "from": {
+            "name": "Iran",
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "to": {
+            "name": "Frankreich",
+            "lat": 46.2276,
+            "lon": 2.2137
+          }
+        }
+      ],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 17:51:08 +0100"
+    },
+    {
+      "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+      "summary": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und sprach von einer Inszenierung.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 16:51:55 +0100"
+    },
+    {
+      "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+      "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 09:18:50 +0100"
+    },
+    {
       "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
       "summary": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -391,103 +468,58 @@
       "published": "Mon, 09 Nov 2026 19:19:45 +0100"
     },
     {
-      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-      "summary": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Alles nur ein Scherz, rudert Trump später zurück.",
+      "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+      "summary": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 03:49:02 +0100"
-    },
-    {
-      "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
-      "summary": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Außenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 18:19:07 +0100"
-    },
-    {
-      "title": "G7-Außenminister sprechen über Ukraine und Iran",
-      "summary": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Iran",
-            "lat": 32.4279,
-            "lon": 53.688
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 15:21:47 +0100"
-    },
-    {
-      "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
-      "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Russland",
-        "lat": 61.524,
-        "lon": 105.3188
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sun, 08 Nov 2026 13:05:57 +0100"
-    },
-    {
-      "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-      "summary": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
       "category": "welt",
-      "event_type": "tension",
+      "event_type": "standard",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Argentinien",
+        "lat": -38.4161,
+        "lon": -63.6167
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 13:13:48 +0100"
+      "published": "Wed, 11 Nov 2026 06:54:38 +0100"
     },
     {
-      "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-      "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
+      "title": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+      "summary": "Zum ersten Mal seit 2012 findet in Spanien heute ein Generalstreik statt. Die Idee dazu stammt nicht von Arbeitnehmervertretern, sondern von einem Mieterverbund. Das dürfte auch den anstehenden Wahlkampf beeinflussen. Von J. Macher.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+      "category": "welt",
+      "event_type": "protest",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 06:16:33 +0100"
+    },
+    {
+      "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+      "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "category": "welt",
+      "event_type": "transport",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 22:04:36 +0100"
+    },
+    {
+      "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+      "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
@@ -497,23 +529,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 10:42:31 +0100"
-    },
-    {
-      "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
-      "summary": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 09:13:27 +0100"
+      "published": "Tue, 10 Nov 2026 15:09:14 +0100"
     },
     {
       "title": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
@@ -580,24 +596,104 @@
       "published": "Mon, 09 Nov 2026 14:55:03 +0100"
     },
     {
-      "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
-      "summary": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
-      "category": "welt",
-      "event_type": "transport",
+      "title": "Deutschlands Nations-League-Gegner Serbien: Lethargie im \"Marakana\"",
+      "summary": "Die serbische Fußball-Nationalmannschaft durchlebt eine schwierige Zeit. Trainer Veljko Paunovic will beim DFB-Gegner in der Nations League einen \"Wechsel der Generationen\" einleiten.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationsleague/lethargie-im-marakana-was-serbien-dennoch-hoffnung-macht,dfb-gegner-serbien-umbruch-krise-100.html",
+      "category": "sport",
+      "event_type": "standard",
       "location": {
-        "name": "Libyen",
-        "lat": 26.3351,
-        "lon": 17.2283
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 10:59:46 +0100"
+      "published": "Tue, 10 Nov 2026 23:33:46 +0100"
     },
     {
-      "title": "BVB fordert Nmecha zu Torjubel-Verzicht auf",
-      "summary": "Der BVB reagiert nach WDR-Recherchen streng auf die Kritik an Felix Nmecha. Der \"Baller in God\" soll auf seinen Jubel verzichten.",
+      "title": "Portugal strahlt heller ohne seinen Fixstern",
+      "summary": "Portugal steht in der Nations League gegen Wales vor seinem ersten Spiel nach dem Rücktritt von Superstar Cristiano Ronaldo. Ein Problem scheint das nicht zu sein. Im Gegenteil.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationsleague/portugal-strahlt-heller-ohne-seinen-fixstern,portugal-nations-league-ohne-cristiano-ronaldo-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Portugal",
+        "lat": 39.3999,
+        "lon": -8.2245
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 12:33:29 +0100"
+    },
+    {
+      "title": "Vom Abstellgleis zur EM? Neue Perspektiven für Füllkrug",
+      "summary": "Niclas Füllkrug verpasste nach einer schwachen Saison die WM 2026 - im Alter von 33 Jahren könnte er jetzt eine wichtige Rolle bei der Nationalmannschaft einnehmen und mit zur EM fahren.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/neue-perspektiven-fuer-fuellkrug,fuellkrug-246.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 15:04:17 +0100"
+    },
+    {
+      "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
+      "summary": "Die FC Bayern Frauen bleiben auch im vierten Spiel der Champions-League-Ligaphase ungeschlagen. Beim Sieg bei Paris Saint-Germain überzeugen die Münchnerinnen vor allem in der ersten Halbzeit und haben nun beste Karten fürs Viertelfinale.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/br/br-sieg-in-paris-fc-bayern-frauen-dringen-in-cl-spitzengruppe-vor-102.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 23:35:46 +0100"
+    },
+    {
+      "title": "Eishockey-WM: Deutschland schlägt Tschechien und steht im Viertelfinale",
+      "summary": "Die DEB-Frauen haben sich mit einem knappen Sieg gegen Tschechien den Einzug ins WM-Viertelfinale gesichert. Entscheidenden Anteil hatten die Zwillinge Lilli und Luisa Welcke.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/eishockey/wm/welcke-zwillinge-fuehren-deutschland-ins-wm-viertelfinale,deutschland-tschechien-spielbericht-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Tue, 10 Nov 2026 19:35:06 +0100"
+    },
+    {
+      "title": "Schalke kann sich nur an Tiefschlägen hochziehen",
+      "summary": "Auch Schalkes offensiv beste Saisonleistung reichte nur für eine Niederlage. Es ist zum Verweifeln, doch das ist nicht erlaubt.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-schalke-kann-sich-nur-an-tiefschlaegen-hochziehen-104.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 11 Nov 2026 10:00:23 +0100"
+    },
+    {
+      "title": "BVB fordert Nmecha zu Verzicht auf umstrittenen Torjubel auf",
+      "summary": "Der BVB reagiert nach WDR-Recherchen auf die Kritik an Felix Nmecha. Der Nationalspieler soll auf seinen umstrittenen Jubel verzichten.",
       "source": "Aktuelle Sportmeldungen ",
       "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-fordert-nmecha-zu-torjubel-verzicht-auf-100.html",
       "category": "sport",
@@ -625,103 +721,7 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 12:59:06 +0100"
-    },
-    {
-      "title": "Füllkrug und Mohya Top, Gladbach und Schalke Flop",
-      "summary": "Niklas Füllkrug, Wael Mohya und die Aufsteiger überraschen, zwei Traditionsvereine taumeln und das Meisterrennen ist offen. Dazu kommen neue Hoffnungsträger und ein alter Torwart. Eine erste Zwischenbilanz nach neun Spieltagen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/bundesliga/von-wael-mohya-bis-niclas-fuellkrug-wie-die-bundesliga-lebt,zwischenbilanz-der-bundesliga-nach-neun-spieltagen-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 09 Nov 2026 16:16:02 +0100"
-    },
-    {
-      "title": "Niederlande ohne van Dijk gegen Deutschland",
-      "summary": "Die Niederlande müssen in der Nations League gegen Deutschland auf Kapitän Virgil van Dijk verzichten.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/niederlande-ohne-van-dijk-gegen-deutschland,niederelande-van-dijk-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Niederlande",
-        "lat": 52.1326,
-        "lon": 5.2913
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 12:38:30 +0100"
-    },
-    {
-      "title": "Nations League mit Tuchel und Co.: Diese Topspiele stehen jetzt an",
-      "summary": "In der Nations League stehen neben den Partien des DFB-Teams einige echte Topspiele an. Mit dabei: die Bellinghams, die neue Türkei, Schweizer vor dem Aufstieg. Nicht dabei: \"CR7\".",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/nationsleague/topspiele-mit-bellinghams-neuen-portugiesen-und-co,nations-league-top-partien-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Türkei",
-        "lat": 38.9637,
-        "lon": 35.2433
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 07:00:12 +0100"
-    },
-    {
-      "title": "FIFA-Machtkampf: Fordert Wenger Präsident Infantino heraus?",
-      "summary": "Arsène Wenger wird als möglicher Gegenkandidat für Gianni Infantino gehandelt - Chancen auf einen Sieg hat er kaum, könnte aber trotzdem sehr wichtig werden.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/fussball/fordert-wenger-praesident-infantino-heraus,fifa-infantino-wenger-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 11:42:04 +0100"
-    },
-    {
-      "title": "Teamsportarten suchen neue Formate für die GenZ und Alpha",
-      "summary": "Das neue 3x3 Ultimate-Eishockey steht für das Werben von Traditions-Sportarten um jüngere Zielgruppen - aus Furcht, abgehängt zu werden. Doch es gibt auch Zweifel am Sinn solcher Maßnahmen.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/investigativ/kein-bully-fuer-die-gen-z-und-die-generation-alpha,gen-z-und-sport-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 08:27:46 +0100"
-    },
-    {
-      "title": "DOSB meldet 30 Millionen Mitgliedschaften in Sportvereinen",
-      "summary": "Deutschlands Sportvereine haben erstmals seit Beginn der Bestandserhebung 1954 mehr als 30 Millionen Mitgliedschaften gemeldet. Einige Sportarten verloren aber auch Mitglieder.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/mehr-sport/dosb-meldet-30-millionen-mitgliedschaften-in-sportvereinen,dosb-mitglieder-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 10 Nov 2026 09:28:32 +0100"
+      "published": "Tue, 10 Nov 2026 15:17:46 +0100"
     }
   ],
   "crises": [
@@ -733,9 +733,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "G7-Außenminister sprechen über Ukraine und Iran",
+      "label": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -940,7 +940,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
+      "url": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
     },
     {
       "id": "conflict-russland",
@@ -953,7 +953,7 @@
       "label": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-10",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1115,26 +1115,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"
@@ -1150,67 +1130,10 @@
       "label": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": []
-    },
-    {
-      "id": "conflict-polen",
-      "type": "conflict",
-      "location": {
-        "name": "Polen",
-        "lat": 51.9194,
-        "lon": 19.1451
-      },
-      "label": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-04",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 51.009310247384086,
-          "lon": 19.52671016241219
-        },
-        {
-          "lat": 51.268867333021916,
-          "lon": 20.220932986290528
-        },
-        {
-          "lat": 52.50150158152089,
-          "lon": 21.541303291927512
-        },
-        {
-          "lat": 52.426743978040705,
-          "lon": 20.054672188255743
-        },
-        {
-          "lat": 49.023836888849466,
-          "lon": 19.830324861298973
-        },
-        {
-          "lat": 51.99265653104886,
-          "lon": 21.201858155826656
-        },
-        {
-          "lat": 50.72566490754222,
-          "lon": 19.67325012064021
-        },
-        {
-          "lat": 51.43218876664881,
-          "lon": 19.400413936447563
-        },
-        {
-          "lat": 52.83624476749898,
-          "lon": 19.739278216437384
-        },
-        {
-          "lat": 54.68723291757289,
-          "lon": 18.97683596971476
-        }
-      ]
     },
     {
       "id": "conflict-iran",
@@ -1220,11 +1143,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+      "label": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-06",
-      "intensity": 0,
+      "last_seen": "2026-11-11",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1266,6 +1189,66 @@
         {
           "lat": 35.17946601838571,
           "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
+        },
+        {
+          "lat": 35.12243445535492,
+          "lon": 56.26643792708089
+        },
+        {
+          "lat": 32.26638421062307,
+          "lon": 52.70885998096058
+        },
+        {
+          "lat": 33.90225158269349,
+          "lon": 54.011027908178754
+        },
+        {
+          "lat": 33.23949674790958,
+          "lon": 51.214738362975126
+        },
+        {
+          "lat": 30.222955083649946,
+          "lon": 52.005883823839454
+        },
+        {
+          "lat": 34.53650658602524,
+          "lon": 51.50872357386834
+        },
+        {
+          "lat": 29.788215092923195,
+          "lon": 52.06036586617594
+        },
+        {
+          "lat": 31.535998509280965,
+          "lon": 53.88033092181206
+        },
+        {
+          "lat": 32.291035899152405,
+          "lon": 52.377806241935545
+        },
+        {
+          "lat": 32.81624579833512,
+          "lon": 55.56409883790745
         }
       ]
     },
@@ -1281,7 +1264,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1443,26 +1426,6 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
-        },
-        {
-          "lat": 48.735792542159395,
-          "lon": 31.424989008025264
-        },
-        {
-          "lat": 51.001623694664126,
-          "lon": 32.27506644546009
-        },
-        {
-          "lat": 50.33175458126032,
-          "lon": 32.41785046728813
-        },
-        {
-          "lat": 49.60084634229549,
-          "lon": 27.57851135283278
-        },
-        {
-          "lat": 50.943135958961825,
-          "lon": 33.05490798788562
         }
       ]
     },
@@ -1494,7 +1457,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-09",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1556,26 +1519,6 @@
         {
           "lat": 42.88972345334041,
           "lon": -2.779828748245218
-        },
-        {
-          "lat": 37.898961882942935,
-          "lon": -2.7507253443274475
-        },
-        {
-          "lat": 42.983431754790935,
-          "lon": -2.4375869622108497
-        },
-        {
-          "lat": 39.345744290164966,
-          "lon": -1.3568267949788897
-        },
-        {
-          "lat": 42.20270805756893,
-          "lon": -3.3049837850776926
-        },
-        {
-          "lat": 38.46898548075941,
-          "lon": -0.9975888171260219
         }
       ]
     },
@@ -1606,8 +1549,8 @@
       "label": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
       "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "intensity": 1,
+      "last_seen": "2026-11-11",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1669,8 +1612,121 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
+        },
+        {
+          "lat": 44.075225155199234,
+          "lon": 0.6815046506521767
+        },
+        {
+          "lat": 45.18800764170709,
+          "lon": 1.9553432832231845
+        },
+        {
+          "lat": 47.09365933724578,
+          "lon": 1.4702755462871342
+        },
+        {
+          "lat": 48.53023305020115,
+          "lon": -0.7168540728221076
+        },
+        {
+          "lat": 43.83830980564941,
+          "lon": 4.199873355715855
         }
       ]
+    },
+    {
+      "id": "conflict-usa",
+      "type": "conflict",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "label": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.64032570008406,
+          "lon": -95.3466789293923
+        },
+        {
+          "lat": 38.93207474633611,
+          "lon": -92.9036841708024
+        },
+        {
+          "lat": 39.78729989328336,
+          "lon": -93.65078216331459
+        },
+        {
+          "lat": 35.25552380952624,
+          "lon": -97.49849583071284
+        },
+        {
+          "lat": 34.57719311318039,
+          "lon": -96.08695574586571
+        },
+        {
+          "lat": 39.513931597937585,
+          "lon": -97.6341478867083
+        },
+        {
+          "lat": 36.31327558828571,
+          "lon": -92.93220417889248
+        },
+        {
+          "lat": 35.286569142550135,
+          "lon": -93.01018556990095
+        },
+        {
+          "lat": 35.87396990784514,
+          "lon": -95.79719153568212
+        },
+        {
+          "lat": 39.92862994129249,
+          "lon": -95.11059597547076
+        },
+        {
+          "lat": 38.43736073385141,
+          "lon": -98.65380752814453
+        },
+        {
+          "lat": 39.92925566154026,
+          "lon": -96.39854146144448
+        },
+        {
+          "lat": 36.972966781580354,
+          "lon": -94.59677147241362
+        },
+        {
+          "lat": 35.98751382809051,
+          "lon": -93.14693743916052
+        },
+        {
+          "lat": 37.152688269308236,
+          "lon": -97.57292459676472
+        }
+      ]
+    },
+    {
+      "id": "protest-spanien",
+      "type": "protest",
+      "location": {
+        "name": "Spanien",
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "label": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ]
 }
