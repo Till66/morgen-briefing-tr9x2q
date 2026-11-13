@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+      "label": "Wadephul zweifelt an Russlands Verhandlungswillen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html"
     },
     {
       "id": "conflict-russland",
@@ -227,8 +227,8 @@
       },
       "label": "Zwei Tote bei russischen Luftangriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-12",
-      "intensity": 7,
+      "last_seen": "2026-11-13",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,6 +410,26 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
+        },
+        {
+          "lat": 61.935015246392,
+          "lon": 103.75120817250507
+        },
+        {
+          "lat": 63.15272420172876,
+          "lon": 106.45372480016661
+        },
+        {
+          "lat": 58.72673424736288,
+          "lon": 104.4538660156773
+        },
+        {
+          "lat": 59.14927611307457,
+          "lon": 102.39546079142984
+        },
+        {
+          "lat": 63.38707581906744,
+          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"
@@ -426,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-11",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -438,11 +458,11 @@
         "lat": 32.4279,
         "lon": 53.688
       },
-      "label": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+      "label": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
+      "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-12",
-      "intensity": 6,
+      "last_seen": "2026-11-13",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -604,6 +624,46 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
+        },
+        {
+          "lat": 33.61046136593003,
+          "lon": 53.362900371738455
+        },
+        {
+          "lat": 32.22757508949332,
+          "lon": 52.97180688007079
+        },
+        {
+          "lat": 35.36947751881089,
+          "lon": 52.418770842109524
+        },
+        {
+          "lat": 34.87814921545998,
+          "lon": 56.30658008373962
+        },
+        {
+          "lat": 34.22179771185673,
+          "lon": 54.95010433763036
+        },
+        {
+          "lat": 34.284216806016566,
+          "lon": 56.259383622375175
+        },
+        {
+          "lat": 32.3604558480184,
+          "lon": 56.28937088261577
+        },
+        {
+          "lat": 31.711185426507537,
+          "lon": 55.80954118416867
+        },
+        {
+          "lat": 29.721186162962507,
+          "lon": 51.42462317142278
+        },
+        {
+          "lat": 34.758996716535066,
+          "lon": 56.35543587275674
         }
       ]
     },
@@ -619,7 +679,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -741,44 +801,8 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
-        },
-        {
-          "lat": 49.18340525302638,
-          "lon": 28.079588566739712
-        },
-        {
-          "lat": 52.8190998028262,
-          "lon": 29.558760026647185
-        },
-        {
-          "lat": 48.27402314887231,
-          "lon": 29.32772795449261
-        },
-        {
-          "lat": 50.96710365345855,
-          "lon": 32.00000546109001
-        },
-        {
-          "lat": 49.23793422982968,
-          "lon": 28.97863135863599
         }
       ]
-    },
-    {
-      "id": "protest-deutschland",
-      "type": "protest",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-spanien",
@@ -865,7 +889,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -947,26 +971,6 @@
         {
           "lat": 43.83830980564941,
           "lon": 4.199873355715855
-        },
-        {
-          "lat": 44.02748710694013,
-          "lon": 0.6771608690309014
-        },
-        {
-          "lat": 45.15654840471655,
-          "lon": 3.355213689919727
-        },
-        {
-          "lat": 46.23358804210452,
-          "lon": 4.766603720539274
-        },
-        {
-          "lat": 48.31896392993186,
-          "lon": 0.9551396763177213
-        },
-        {
-          "lat": 45.887500047969986,
-          "lon": 3.3106191626871277
         }
       ]
     },
@@ -981,8 +985,8 @@
       "label": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "intensity": 2,
+      "last_seen": "2026-11-13",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1064,6 +1068,26 @@
         {
           "lat": 34.517970304127545,
           "lon": -93.35953343984788
+        },
+        {
+          "lat": 39.21289723441515,
+          "lon": -95.3185407491224
+        },
+        {
+          "lat": 34.85938201632081,
+          "lon": -98.08926331314602
+        },
+        {
+          "lat": 36.48879791435269,
+          "lon": -96.03788115844209
+        },
+        {
+          "lat": 37.97230655513269,
+          "lon": -93.49135820988958
+        },
+        {
+          "lat": 35.67827396692878,
+          "lon": -95.01808241792573
         }
       ]
     },
@@ -1079,7 +1103,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-12",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1094,8 +1118,8 @@
       "label": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
       "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "intensity": 1,
+      "last_seen": "2026-11-13",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1157,6 +1181,26 @@
         {
           "lat": 33.23906464817435,
           "lon": 36.00755101522187
+        },
+        {
+          "lat": 33.63403254745843,
+          "lon": 33.76483443453601
+        },
+        {
+          "lat": 30.501726895757304,
+          "lon": 34.609262920457695
+        },
+        {
+          "lat": 31.49867832283447,
+          "lon": 33.31910561508059
+        },
+        {
+          "lat": 32.3832819537918,
+          "lon": 37.060095255841055
+        },
+        {
+          "lat": 30.252966243436667,
+          "lon": 32.82542904472151
         }
       ]
     },
@@ -1172,10 +1216,10 @@
       "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     }
   ],
-  "updated_at": "2026-11-12"
+  "updated_at": "2026-11-13"
 }
