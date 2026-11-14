@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Wadephul zweifelt an Russlands Verhandlungswillen",
+      "label": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html"
     },
     {
       "id": "conflict-russland",
@@ -227,7 +227,7 @@
       },
       "label": "Zwei Tote bei russischen Luftangriffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -446,7 +446,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-11",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -461,7 +461,7 @@
       "label": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -679,7 +679,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -781,26 +781,6 @@
         {
           "lat": 50.74693274107446,
           "lon": 28.645578690769284
-        },
-        {
-          "lat": 50.391376215236,
-          "lon": 30.93697309311013
-        },
-        {
-          "lat": 53.067299172176696,
-          "lon": 29.814882944575018
-        },
-        {
-          "lat": 53.37514642762361,
-          "lon": 28.1725140012278
-        },
-        {
-          "lat": 53.413141797271706,
-          "lon": 28.009643628544325
-        },
-        {
-          "lat": 50.91290099671865,
-          "lon": 30.325940042158805
         }
       ]
     },
@@ -889,7 +869,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -951,26 +931,6 @@
         {
           "lat": 43.360189050133854,
           "lon": 3.098220124151492
-        },
-        {
-          "lat": 44.075225155199234,
-          "lon": 0.6815046506521767
-        },
-        {
-          "lat": 45.18800764170709,
-          "lon": 1.9553432832231845
-        },
-        {
-          "lat": 47.09365933724578,
-          "lon": 1.4702755462871342
-        },
-        {
-          "lat": 48.53023305020115,
-          "lon": -0.7168540728221076
-        },
-        {
-          "lat": 43.83830980564941,
-          "lon": 4.199873355715855
         }
       ]
     },
@@ -982,11 +942,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+      "label": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
-      "intensity": 3,
+      "last_seen": "2026-11-14",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1088,6 +1048,26 @@
         {
           "lat": 35.67827396692878,
           "lon": -95.01808241792573
+        },
+        {
+          "lat": 37.912293099314276,
+          "lon": -92.94674763864657
+        },
+        {
+          "lat": 34.091124287829764,
+          "lon": -93.97216174578706
+        },
+        {
+          "lat": 38.516843244090175,
+          "lon": -93.15389588562758
+        },
+        {
+          "lat": 37.95085245789026,
+          "lon": -95.99543142612114
+        },
+        {
+          "lat": 39.36966268424379,
+          "lon": -98.28475842366234
         }
       ]
     },
@@ -1103,7 +1083,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-12",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1118,8 +1098,8 @@
       "label": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
       "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
-      "intensity": 2,
+      "last_seen": "2026-11-14",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1201,6 +1181,26 @@
         {
           "lat": 30.252966243436667,
           "lon": 32.82542904472151
+        },
+        {
+          "lat": 31.285475273985643,
+          "lon": 36.331246478425626
+        },
+        {
+          "lat": 28.88897232971817,
+          "lon": 33.41756507541043
+        },
+        {
+          "lat": 28.511118126756188,
+          "lon": 32.22067220640431
+        },
+        {
+          "lat": 32.40886875537885,
+          "lon": 34.43456164231909
+        },
+        {
+          "lat": 30.55955133793388,
+          "lon": 34.87682500721394
         }
       ]
     },
@@ -1221,5 +1221,5 @@
       "subpoints": []
     }
   ],
-  "updated_at": "2026-11-13"
+  "updated_at": "2026-11-14"
 }
