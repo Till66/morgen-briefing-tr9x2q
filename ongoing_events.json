@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+      "label": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Zwei Tote bei russischen Luftangriffen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-14",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -410,26 +410,6 @@
         {
           "lat": 61.7017411632188,
           "lon": 102.6779045589091
-        },
-        {
-          "lat": 61.935015246392,
-          "lon": 103.75120817250507
-        },
-        {
-          "lat": 63.15272420172876,
-          "lon": 106.45372480016661
-        },
-        {
-          "lat": 58.72673424736288,
-          "lon": 104.4538660156773
-        },
-        {
-          "lat": 59.14927611307457,
-          "lon": 102.39546079142984
-        },
-        {
-          "lat": 63.38707581906744,
-          "lon": 107.84223893924808
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"
@@ -446,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-11",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -461,7 +441,7 @@
       "label": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -679,7 +659,7 @@
       "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -761,26 +741,6 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
-        },
-        {
-          "lat": 50.948850684666155,
-          "lon": 28.325279312098463
-        },
-        {
-          "lat": 51.351796749008656,
-          "lon": 27.682541009710526
-        },
-        {
-          "lat": 50.25431719113463,
-          "lon": 31.461124293660774
-        },
-        {
-          "lat": 49.57292332967101,
-          "lon": 30.14628348204989
-        },
-        {
-          "lat": 50.74693274107446,
-          "lon": 28.645578690769284
         }
       ]
     },
@@ -869,7 +829,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-12",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -911,26 +871,6 @@
         {
           "lat": 48.55797277574893,
           "lon": 1.0608894506009268
-        },
-        {
-          "lat": 45.30961612487483,
-          "lon": 0.1883644550409782
-        },
-        {
-          "lat": 46.6189281185998,
-          "lon": 1.5031718019034415
-        },
-        {
-          "lat": 46.09819467538973,
-          "lon": 2.1692676660862675
-        },
-        {
-          "lat": 48.67583414446978,
-          "lon": 3.231686186784223
-        },
-        {
-          "lat": 43.360189050133854,
-          "lon": 3.098220124151492
         }
       ]
     },
@@ -945,8 +885,8 @@
       "label": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
       "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14",
-      "intensity": 4,
+      "last_seen": "2026-11-15",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1068,6 +1008,26 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
+        },
+        {
+          "lat": 38.3697643560308,
+          "lon": -97.89607526559885
+        },
+        {
+          "lat": 36.35301957939799,
+          "lon": -96.42129793461105
+        },
+        {
+          "lat": 34.82961812122693,
+          "lon": -98.41133620753345
+        },
+        {
+          "lat": 35.57143333823896,
+          "lon": -97.90946640924435
+        },
+        {
+          "lat": 34.88158078978085,
+          "lon": -93.37189557915028
         }
       ]
     },
@@ -1083,7 +1043,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-12",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1099,7 +1059,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-14",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1181,26 +1141,6 @@
         {
           "lat": 30.252966243436667,
           "lon": 32.82542904472151
-        },
-        {
-          "lat": 31.285475273985643,
-          "lon": 36.331246478425626
-        },
-        {
-          "lat": 28.88897232971817,
-          "lon": 33.41756507541043
-        },
-        {
-          "lat": 28.511118126756188,
-          "lon": 32.22067220640431
-        },
-        {
-          "lat": 32.40886875537885,
-          "lon": 34.43456164231909
-        },
-        {
-          "lat": 30.55955133793388,
-          "lon": 34.87682500721394
         }
       ]
     },
@@ -1221,5 +1161,5 @@
       "subpoints": []
     }
   ],
-  "updated_at": "2026-11-14"
+  "updated_at": "2026-11-15"
 }
