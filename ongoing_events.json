@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "label": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Zwei Tote bei russischen Luftangriffen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-14",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -370,26 +370,6 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
-        },
-        {
-          "lat": 63.01591423191035,
-          "lon": 106.50348857002088
-        },
-        {
-          "lat": 63.406282377426116,
-          "lon": 106.11403138929978
-        },
-        {
-          "lat": 63.56320607199874,
-          "lon": 107.52500839744951
-        },
-        {
-          "lat": 61.86481182566956,
-          "lon": 106.43257439045202
-        },
-        {
-          "lat": 62.867105840110945,
-          "lon": 106.93341763191377
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"
@@ -402,11 +382,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+      "label": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-11",
-      "intensity": 3,
+      "last_seen": "2026-11-17",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -422,7 +402,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -584,103 +564,6 @@
         {
           "lat": 33.89578415370227,
           "lon": 55.43893438680073
-        },
-        {
-          "lat": 33.61046136593003,
-          "lon": 53.362900371738455
-        },
-        {
-          "lat": 32.22757508949332,
-          "lon": 52.97180688007079
-        },
-        {
-          "lat": 35.36947751881089,
-          "lon": 52.418770842109524
-        },
-        {
-          "lat": 34.87814921545998,
-          "lon": 56.30658008373962
-        },
-        {
-          "lat": 34.22179771185673,
-          "lon": 54.95010433763036
-        }
-      ]
-    },
-    {
-      "id": "conflict-kiew",
-      "type": "conflict",
-      "location": {
-        "name": "Kiew",
-        "lat": 50.4501,
-        "lon": 30.5234
-      },
-      "label": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-09",
-      "intensity": 1,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 52.62998156601318,
-          "lon": 28.326232658589543
-        },
-        {
-          "lat": 50.3313085159312,
-          "lon": 33.389491863221046
-        },
-        {
-          "lat": 51.20745816912664,
-          "lon": 30.683347839835644
-        },
-        {
-          "lat": 52.64227211408358,
-          "lon": 29.159287383864232
-        },
-        {
-          "lat": 49.989688305293484,
-          "lon": 29.873332284175866
-        },
-        {
-          "lat": 52.789783221965024,
-          "lon": 32.13611678810304
-        },
-        {
-          "lat": 47.613306473030896,
-          "lon": 31.572025212639716
-        },
-        {
-          "lat": 50.49795398325134,
-          "lon": 28.57057723397705
-        },
-        {
-          "lat": 48.97908699220479,
-          "lon": 28.400787643530357
-        },
-        {
-          "lat": 48.940084609533564,
-          "lon": 28.087134363895778
-        },
-        {
-          "lat": 47.94889658466643,
-          "lon": 29.295217752572665
-        },
-        {
-          "lat": 49.311037932939485,
-          "lon": 29.905565967110117
-        },
-        {
-          "lat": 53.269015380122816,
-          "lon": 31.036540829632322
-        },
-        {
-          "lat": 50.509987159396864,
-          "lon": 27.66817148841712
-        },
-        {
-          "lat": 48.069011109543155,
-          "lon": 29.35509277567223
         }
       ]
     },
@@ -752,8 +635,8 @@
       "label": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-16",
-      "intensity": 6,
+      "last_seen": "2026-11-17",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -915,6 +798,46 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
+        },
+        {
+          "lat": 39.33990691819901,
+          "lon": -96.35009825205329
+        },
+        {
+          "lat": 34.42646525856934,
+          "lon": -98.35575278591395
+        },
+        {
+          "lat": 37.90376965513285,
+          "lon": -97.62919960362714
+        },
+        {
+          "lat": 34.994509763318,
+          "lon": -95.77146224872604
+        },
+        {
+          "lat": 39.08391466575976,
+          "lon": -94.66305653640734
+        },
+        {
+          "lat": 35.49649690825155,
+          "lon": -96.95681869228424
+        },
+        {
+          "lat": 35.07679443040067,
+          "lon": -94.91941997164976
+        },
+        {
+          "lat": 36.02632213477868,
+          "lon": -95.97438396154435
+        },
+        {
+          "lat": 35.882513766151746,
+          "lon": -98.05890867269235
+        },
+        {
+          "lat": 37.420333201398456,
+          "lon": -94.39844462392013
         }
       ]
     },
@@ -946,7 +869,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-14",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -988,26 +911,6 @@
         {
           "lat": 32.885738951895675,
           "lon": 37.37357189804212
-        },
-        {
-          "lat": 33.667045385569,
-          "lon": 33.15317554738726
-        },
-        {
-          "lat": 29.549608924856667,
-          "lon": 34.40519982712045
-        },
-        {
-          "lat": 32.82189403034779,
-          "lon": 36.296864544441654
-        },
-        {
-          "lat": 33.22593395540617,
-          "lon": 36.612669738017644
-        },
-        {
-          "lat": 33.23906464817435,
-          "lon": 36.00755101522187
         }
       ]
     },
@@ -1039,7 +942,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1081,26 +984,6 @@
         {
           "lat": 47.43718926830571,
           "lon": 4.92954543339404
-        },
-        {
-          "lat": 45.859636929807635,
-          "lon": 6.921179263052805
-        },
-        {
-          "lat": 45.3772024920851,
-          "lon": 5.838527414827265
-        },
-        {
-          "lat": 48.71904347995693,
-          "lon": 6.214726865258703
-        },
-        {
-          "lat": 43.43579366047256,
-          "lon": 6.822136226684353
-        },
-        {
-          "lat": 43.74682207727917,
-          "lon": 5.798609169535947
         }
       ]
     },
@@ -1116,7 +999,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-16",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1158,26 +1041,6 @@
         {
           "lat": 18.471841408968515,
           "lon": 47.30537403734479
-        },
-        {
-          "lat": 13.416416144781493,
-          "lon": 47.44470952068984
-        },
-        {
-          "lat": 16.691016039959507,
-          "lon": 50.279728971053316
-        },
-        {
-          "lat": 18.22277807355143,
-          "lon": 48.484114361140435
-        },
-        {
-          "lat": 16.692580646518405,
-          "lon": 51.42675265939085
-        },
-        {
-          "lat": 15.932584859402636,
-          "lon": 49.076989996995536
         }
       ]
     },
@@ -1192,8 +1055,8 @@
       "label": "Banden in Schweden rekrutieren zunehmend junge Frauen",
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "intensity": 1,
+      "last_seen": "2026-11-17",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1255,9 +1118,29 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
+        },
+        {
+          "lat": 57.657802307018265,
+          "lon": 18.030372000616712
+        },
+        {
+          "lat": 58.428104095311625,
+          "lon": 18.79612000708669
+        },
+        {
+          "lat": 62.264254485835146,
+          "lon": 20.564426601374738
+        },
+        {
+          "lat": 62.999660360444956,
+          "lon": 17.934568298809943
+        },
+        {
+          "lat": 60.504621070046824,
+          "lon": 17.792342373431858
         }
       ]
     }
   ],
-  "updated_at": "2026-11-16"
+  "updated_at": "2026-11-17"
 }
