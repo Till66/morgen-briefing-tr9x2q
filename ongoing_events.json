@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
+      "label": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html"
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Zwei Tote bei russischen Luftangriffen",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-14",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,26 +350,6 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"
@@ -382,11 +362,11 @@
         "lat": 46.2276,
         "lon": 2.2137
       },
-      "label": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+      "label": "Sozialproteste in Frankreich reißen nicht ab",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-17",
-      "intensity": 4,
+      "last_seen": "2026-11-18",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -402,7 +382,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -544,26 +524,6 @@
         {
           "lat": 33.7522461168195,
           "lon": 52.63693288471479
-        },
-        {
-          "lat": 34.014725501310366,
-          "lon": 53.587224353697906
-        },
-        {
-          "lat": 31.855449622586825,
-          "lon": 52.18681148699178
-        },
-        {
-          "lat": 30.93758572811915,
-          "lon": 51.728242291763486
-        },
-        {
-          "lat": 33.597548523016286,
-          "lon": 53.25045432155264
-        },
-        {
-          "lat": 33.89578415370227,
-          "lon": 55.43893438680073
         }
       ]
     },
@@ -632,10 +592,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+      "label": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1055,8 +1015,8 @@
       "label": "Banden in Schweden rekrutieren zunehmend junge Frauen",
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
-      "intensity": 2,
+      "last_seen": "2026-11-18",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1138,9 +1098,29 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
+        },
+        {
+          "lat": 60.59262660816582,
+          "lon": 17.40628773969104
+        },
+        {
+          "lat": 60.653755149075934,
+          "lon": 16.706898640384757
+        },
+        {
+          "lat": 60.209001540306026,
+          "lon": 20.508900766223995
+        },
+        {
+          "lat": 58.57864901069497,
+          "lon": 17.37653369892133
+        },
+        {
+          "lat": 62.20022520292998,
+          "lon": 19.417083908978288
         }
       ]
     }
   ],
-  "updated_at": "2026-11-17"
+  "updated_at": "2026-11-18"
 }
