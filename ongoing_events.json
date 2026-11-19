@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
+      "label": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html"
     },
     {
       "id": "conflict-russland",
@@ -225,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Zwei Tote bei russischen Luftangriffen",
+      "label": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-14",
-      "intensity": 4,
+      "last_seen": "2026-11-19",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,9 +350,29 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
+        },
+        {
+          "lat": 62.169296246196446,
+          "lon": 106.18316318230451
+        },
+        {
+          "lat": 62.649695335708024,
+          "lon": 102.68721981913158
+        },
+        {
+          "lat": 64.3988228391341,
+          "lon": 107.51674095195781
+        },
+        {
+          "lat": 63.66411229508093,
+          "lon": 103.33920471439724
+        },
+        {
+          "lat": 60.9922118036943,
+          "lon": 102.43018537621856
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"
+      "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
     },
     {
       "id": "protest-frankreich",
@@ -365,8 +385,8 @@
       "label": "Sozialproteste in Frankreich reißen nicht ab",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-18",
-      "intensity": 5,
+      "last_seen": "2026-11-19",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -382,7 +402,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -504,83 +524,6 @@
         {
           "lat": 34.28541969294099,
           "lon": 54.37494936523376
-        },
-        {
-          "lat": 30.42818316234245,
-          "lon": 54.62271356712625
-        },
-        {
-          "lat": 32.03191824177336,
-          "lon": 51.766116605775
-        },
-        {
-          "lat": 35.262294281225834,
-          "lon": 50.93838971152399
-        },
-        {
-          "lat": 30.246050697000825,
-          "lon": 55.09211794381312
-        },
-        {
-          "lat": 33.7522461168195,
-          "lon": 52.63693288471479
-        }
-      ]
-    },
-    {
-      "id": "conflict-frankreich",
-      "type": "conflict",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-      "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 45.915260152718346,
-          "lon": -0.6345767860051894
-        },
-        {
-          "lat": 44.0141308962731,
-          "lon": 1.6519135338238935
-        },
-        {
-          "lat": 43.33155325583032,
-          "lon": 4.482713496411269
-        },
-        {
-          "lat": 45.6768928815189,
-          "lon": 3.1206365281394994
-        },
-        {
-          "lat": 47.93219036359205,
-          "lon": 1.7503498517190685
-        },
-        {
-          "lat": 47.859729563631525,
-          "lon": 0.32126278902002636
-        },
-        {
-          "lat": 45.55691212203794,
-          "lon": 3.3862586764916216
-        },
-        {
-          "lat": 45.97331231583732,
-          "lon": 5.10998907476931
-        },
-        {
-          "lat": 47.625256594495674,
-          "lon": 0.7184404653170937
-        },
-        {
-          "lat": 48.55797277574893,
-          "lon": 1.0608894506009268
         }
       ]
     },
@@ -592,10 +535,10 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
-      "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
+      "label": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
+      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -802,22 +745,6 @@
       ]
     },
     {
-      "id": "protest-spanien",
-      "type": "protest",
-      "location": {
-        "name": "Spanien",
-        "lat": 40.4637,
-        "lon": -3.7492
-      },
-      "label": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-israel",
       "type": "conflict",
       "location": {
@@ -873,22 +800,6 @@
           "lon": 37.37357189804212
         }
       ]
-    },
-    {
-      "id": "protest-warschau",
-      "type": "protest",
-      "location": {
-        "name": "Warschau",
-        "lat": 52.2297,
-        "lon": 21.0122
-      },
-      "label": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
-      "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-genf",
@@ -1015,8 +926,8 @@
       "label": "Banden in Schweden rekrutieren zunehmend junge Frauen",
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
-      "intensity": 3,
+      "last_seen": "2026-11-19",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1118,9 +1029,122 @@
         {
           "lat": 62.20022520292998,
           "lon": 19.417083908978288
+        },
+        {
+          "lat": 62.80073923222249,
+          "lon": 17.028248495040636
+        },
+        {
+          "lat": 62.96228098663997,
+          "lon": 17.106687850886765
+        },
+        {
+          "lat": 58.00324322241876,
+          "lon": 17.567697871686004
+        },
+        {
+          "lat": 57.78397834068234,
+          "lon": 17.34036273012703
+        },
+        {
+          "lat": 57.34168017133155,
+          "lon": 15.943715786858512
+        }
+      ]
+    },
+    {
+      "id": "storm-deutschland",
+      "type": "storm",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "label": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
+    },
+    {
+      "id": "conflict-venezuela",
+      "type": "conflict",
+      "location": {
+        "name": "Venezuela",
+        "lat": 6.4238,
+        "lon": -66.5897
+      },
+      "label": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 8.817334683946878,
+          "lon": -63.816849261680225
+        },
+        {
+          "lat": 5.244436596954576,
+          "lon": -68.7077330685149
+        },
+        {
+          "lat": 9.387291911060057,
+          "lon": -66.8767734271796
+        },
+        {
+          "lat": 9.352143065066343,
+          "lon": -66.00396067389879
+        },
+        {
+          "lat": 9.321275161565811,
+          "lon": -66.8490023840476
+        },
+        {
+          "lat": 4.629646433342865,
+          "lon": -68.07646643578492
+        },
+        {
+          "lat": 3.845205584183849,
+          "lon": -67.4416373838445
+        },
+        {
+          "lat": 7.336814982341094,
+          "lon": -64.02238072056413
+        },
+        {
+          "lat": 3.7483024854141527,
+          "lon": -64.8595090116656
+        },
+        {
+          "lat": 7.144762339015902,
+          "lon": -65.72526677432161
+        },
+        {
+          "lat": 5.890875024840207,
+          "lon": -68.5604680561046
+        },
+        {
+          "lat": 4.029297192266746,
+          "lon": -67.53164657261063
+        },
+        {
+          "lat": 3.586404143880914,
+          "lon": -67.72730990792364
+        },
+        {
+          "lat": 4.667589312719318,
+          "lon": -67.83329784839758
+        },
+        {
+          "lat": 4.859320827173144,
+          "lon": -67.3537068022916
         }
       ]
     }
   ],
-  "updated_at": "2026-11-18"
+  "updated_at": "2026-11-19"
 }
