@@ -10,7 +10,7 @@
       },
       "label": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -227,8 +227,8 @@
       },
       "label": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-19",
-      "intensity": 5,
+      "last_seen": "2026-11-20",
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -370,6 +370,26 @@
         {
           "lat": 60.9922118036943,
           "lon": 102.43018537621856
+        },
+        {
+          "lat": 63.01591423191035,
+          "lon": 106.50348857002088
+        },
+        {
+          "lat": 63.406282377426116,
+          "lon": 106.11403138929978
+        },
+        {
+          "lat": 63.56320607199874,
+          "lon": 107.52500839744951
+        },
+        {
+          "lat": 61.86481182566956,
+          "lon": 106.43257439045202
+        },
+        {
+          "lat": 62.867105840110945,
+          "lon": 106.93341763191377
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
@@ -386,7 +406,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-19",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -402,7 +422,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -504,26 +524,6 @@
         {
           "lat": 32.81624579833512,
           "lon": 55.56409883790745
-        },
-        {
-          "lat": 35.112305196384625,
-          "lon": 53.30711127497887
-        },
-        {
-          "lat": 32.89522257946099,
-          "lon": 54.07495529927196
-        },
-        {
-          "lat": 33.953080421426236,
-          "lon": 54.54675200523501
-        },
-        {
-          "lat": 32.91046266198181,
-          "lon": 56.06458339398368
-        },
-        {
-          "lat": 34.28541969294099,
-          "lon": 54.37494936523376
         }
       ]
     },
@@ -539,7 +539,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -721,26 +721,6 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        },
-        {
-          "lat": 35.49649690825155,
-          "lon": -96.95681869228424
-        },
-        {
-          "lat": 35.07679443040067,
-          "lon": -94.91941997164976
-        },
-        {
-          "lat": 36.02632213477868,
-          "lon": -95.97438396154435
-        },
-        {
-          "lat": 35.882513766151746,
-          "lon": -98.05890867269235
-        },
-        {
-          "lat": 37.420333201398456,
-          "lon": -94.39844462392013
         }
       ]
     },
@@ -927,7 +907,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1029,26 +1009,6 @@
         {
           "lat": 62.20022520292998,
           "lon": 19.417083908978288
-        },
-        {
-          "lat": 62.80073923222249,
-          "lon": 17.028248495040636
-        },
-        {
-          "lat": 62.96228098663997,
-          "lon": 17.106687850886765
-        },
-        {
-          "lat": 58.00324322241876,
-          "lon": 17.567697871686004
-        },
-        {
-          "lat": 57.78397834068234,
-          "lon": 17.34036273012703
-        },
-        {
-          "lat": 57.34168017133155,
-          "lon": 15.943715786858512
         }
       ]
     },
@@ -1064,7 +1024,7 @@
       "url": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -1079,8 +1039,8 @@
       "label": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "intensity": 1,
+      "last_seen": "2026-11-20",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1142,9 +1102,260 @@
         {
           "lat": 4.859320827173144,
           "lon": -67.3537068022916
+        },
+        {
+          "lat": 9.096145160430378,
+          "lon": -65.13640270195852
+        },
+        {
+          "lat": 5.810681164830849,
+          "lon": -65.83080660567904
+        },
+        {
+          "lat": 7.758728745947528,
+          "lon": -67.75642379760228
+        },
+        {
+          "lat": 6.675712935928422,
+          "lon": -64.32821273458882
+        },
+        {
+          "lat": 4.820304198060488,
+          "lon": -68.5547058720645
+        }
+      ]
+    },
+    {
+      "id": "conflict-kiew",
+      "type": "conflict",
+      "location": {
+        "name": "Kiew",
+        "lat": 50.4501,
+        "lon": 30.5234
+      },
+      "label": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 52.62998156601318,
+          "lon": 28.326232658589543
+        },
+        {
+          "lat": 50.3313085159312,
+          "lon": 33.389491863221046
+        },
+        {
+          "lat": 51.20745816912664,
+          "lon": 30.683347839835644
+        },
+        {
+          "lat": 52.64227211408358,
+          "lon": 29.159287383864232
+        },
+        {
+          "lat": 49.989688305293484,
+          "lon": 29.873332284175866
+        },
+        {
+          "lat": 52.789783221965024,
+          "lon": 32.13611678810304
+        },
+        {
+          "lat": 47.613306473030896,
+          "lon": 31.572025212639716
+        },
+        {
+          "lat": 50.49795398325134,
+          "lon": 28.57057723397705
+        },
+        {
+          "lat": 48.97908699220479,
+          "lon": 28.400787643530357
+        },
+        {
+          "lat": 48.940084609533564,
+          "lon": 28.087134363895778
+        },
+        {
+          "lat": 47.94889658466643,
+          "lon": 29.295217752572665
+        },
+        {
+          "lat": 49.311037932939485,
+          "lon": 29.905565967110117
+        },
+        {
+          "lat": 53.269015380122816,
+          "lon": 31.036540829632322
+        },
+        {
+          "lat": 50.509987159396864,
+          "lon": 27.66817148841712
+        },
+        {
+          "lat": 48.069011109543155,
+          "lon": 29.35509277567223
+        }
+      ]
+    },
+    {
+      "id": "conflict-polen",
+      "type": "conflict",
+      "location": {
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "label": "Pistorius will Militärpakt mit Polen ausbauen",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 51.009310247384086,
+          "lon": 19.52671016241219
+        },
+        {
+          "lat": 51.268867333021916,
+          "lon": 20.220932986290528
+        },
+        {
+          "lat": 52.50150158152089,
+          "lon": 21.541303291927512
+        },
+        {
+          "lat": 52.426743978040705,
+          "lon": 20.054672188255743
+        },
+        {
+          "lat": 49.023836888849466,
+          "lon": 19.830324861298973
+        },
+        {
+          "lat": 51.99265653104886,
+          "lon": 21.201858155826656
+        },
+        {
+          "lat": 50.72566490754222,
+          "lon": 19.67325012064021
+        },
+        {
+          "lat": 51.43218876664881,
+          "lon": 19.400413936447563
+        },
+        {
+          "lat": 52.83624476749898,
+          "lon": 19.739278216437384
+        },
+        {
+          "lat": 54.68723291757289,
+          "lon": 18.97683596971476
+        },
+        {
+          "lat": 51.86856870606811,
+          "lon": 21.599171076925394
+        },
+        {
+          "lat": 49.301530560554134,
+          "lon": 16.365495189761276
+        },
+        {
+          "lat": 51.09892038212203,
+          "lon": 21.525218514732487
+        },
+        {
+          "lat": 53.701662015338584,
+          "lon": 18.48578713717644
+        },
+        {
+          "lat": 51.1023088195653,
+          "lon": 19.76106626686304
+        }
+      ]
+    },
+    {
+      "id": "conflict-br-ssel",
+      "type": "conflict",
+      "location": {
+        "name": "Brüssel",
+        "lat": 50.8503,
+        "lon": 4.3517
+      },
+      "label": "KI-gestützter Cyberangriff auf EU-Kommission",
+      "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 48.92077288005018,
+          "lon": 5.65231821599971
+        },
+        {
+          "lat": 52.20772503086976,
+          "lon": 4.675350799534202
+        },
+        {
+          "lat": 49.994663134667356,
+          "lon": 5.2564839995251935
+        },
+        {
+          "lat": 49.620679635917575,
+          "lon": 6.273040367039978
+        },
+        {
+          "lat": 51.992839588767694,
+          "lon": 5.8703347990573
+        },
+        {
+          "lat": 49.817139859720044,
+          "lon": 4.687049022256059
+        },
+        {
+          "lat": 50.96464771053361,
+          "lon": 3.8257635832944104
+        },
+        {
+          "lat": 52.6423708131958,
+          "lon": 5.143269844305415
+        },
+        {
+          "lat": 48.060419451445085,
+          "lon": 6.767019526897585
+        },
+        {
+          "lat": 52.693592969940994,
+          "lon": 2.5564855470340664
+        },
+        {
+          "lat": 48.030830978408765,
+          "lon": 3.629076384538919
+        },
+        {
+          "lat": 47.86458190386255,
+          "lon": 5.030229926500872
+        },
+        {
+          "lat": 47.913399844395904,
+          "lon": 1.859414854205892
+        },
+        {
+          "lat": 51.18075602062029,
+          "lon": 2.869184527434568
+        },
+        {
+          "lat": 50.176232217372096,
+          "lon": 6.9059233897266505
         }
       ]
     }
   ],
-  "updated_at": "2026-11-19"
+  "updated_at": "2026-11-20"
 }
