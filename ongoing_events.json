@@ -10,7 +10,7 @@
       },
       "label": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -225,10 +225,10 @@
         "lat": 61.524,
         "lon": 105.3188
       },
-      "label": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+      "label": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-20",
-      "intensity": 6,
+      "last_seen": "2026-11-21",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,9 +390,29 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
+        },
+        {
+          "lat": 58.63076494150114,
+          "lon": 106.1283869379606
+        },
+        {
+          "lat": 62.81477312310477,
+          "lon": 107.03005341363047
+        },
+        {
+          "lat": 61.04260386983459,
+          "lon": 106.10346300801017
+        },
+        {
+          "lat": 64.34490395871106,
+          "lon": 105.75354971303594
+        },
+        {
+          "lat": 61.7017411632188,
+          "lon": 102.6779045589091
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
     },
     {
       "id": "protest-frankreich",
@@ -406,7 +426,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-19",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -422,7 +442,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -504,26 +524,6 @@
         {
           "lat": 30.222955083649946,
           "lon": 52.005883823839454
-        },
-        {
-          "lat": 34.53650658602524,
-          "lon": 51.50872357386834
-        },
-        {
-          "lat": 29.788215092923195,
-          "lon": 52.06036586617594
-        },
-        {
-          "lat": 31.535998509280965,
-          "lon": 53.88033092181206
-        },
-        {
-          "lat": 32.291035899152405,
-          "lon": 52.377806241935545
-        },
-        {
-          "lat": 32.81624579833512,
-          "lon": 55.56409883790745
         }
       ]
     },
@@ -535,11 +535,11 @@
         "lat": 37.0902,
         "lon": -95.7129
       },
-      "label": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
-      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
+      "label": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-19",
-      "intensity": 7,
+      "last_seen": "2026-11-21",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -721,63 +721,26 @@
         {
           "lat": 39.08391466575976,
           "lon": -94.66305653640734
-        }
-      ]
-    },
-    {
-      "id": "conflict-israel",
-      "type": "conflict",
-      "location": {
-        "name": "Israel",
-        "lat": 31.0461,
-        "lon": 34.8516
-      },
-      "label": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 33.66674323612038,
-          "lon": 35.19046252887055
         },
         {
-          "lat": 31.184756386439375,
-          "lon": 32.58215950010441
+          "lat": 35.49649690825155,
+          "lon": -96.95681869228424
         },
         {
-          "lat": 32.43053201323609,
-          "lon": 34.225987581919874
+          "lat": 35.07679443040067,
+          "lon": -94.91941997164976
         },
         {
-          "lat": 29.83770240939623,
-          "lon": 36.90332819808398
+          "lat": 36.02632213477868,
+          "lon": -95.97438396154435
         },
         {
-          "lat": 29.223870797437467,
-          "lon": 35.960042034597606
+          "lat": 35.882513766151746,
+          "lon": -98.05890867269235
         },
         {
-          "lat": 32.15285766321522,
-          "lon": 36.87970884989521
-        },
-        {
-          "lat": 32.065266119866806,
-          "lon": 34.76072980048664
-        },
-        {
-          "lat": 33.95746345265232,
-          "lon": 35.91208745942779
-        },
-        {
-          "lat": 29.576879213535314,
-          "lon": 36.828758643998476
-        },
-        {
-          "lat": 32.885738951895675,
-          "lon": 37.37357189804212
+          "lat": 37.420333201398456,
+          "lon": -94.39844462392013
         }
       ]
     },
@@ -907,7 +870,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -989,26 +952,6 @@
         {
           "lat": 60.504621070046824,
           "lon": 17.792342373431858
-        },
-        {
-          "lat": 60.59262660816582,
-          "lon": 17.40628773969104
-        },
-        {
-          "lat": 60.653755149075934,
-          "lon": 16.706898640384757
-        },
-        {
-          "lat": 60.209001540306026,
-          "lon": 20.508900766223995
-        },
-        {
-          "lat": 58.57864901069497,
-          "lon": 17.37653369892133
-        },
-        {
-          "lat": 62.20022520292998,
-          "lon": 19.417083908978288
         }
       ]
     },
@@ -1039,8 +982,8 @@
       "label": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "intensity": 2,
+      "last_seen": "2026-11-21",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1122,6 +1065,26 @@
         {
           "lat": 4.820304198060488,
           "lon": -68.5547058720645
+        },
+        {
+          "lat": 8.693605542954664,
+          "lon": -66.04468086476115
+        },
+        {
+          "lat": 7.275760559806777,
+          "lon": -63.7589468887589
+        },
+        {
+          "lat": 3.723158854605667,
+          "lon": -65.50549955115815
+        },
+        {
+          "lat": 5.612885896636612,
+          "lon": -69.42770715390546
+        },
+        {
+          "lat": 8.409271258169383,
+          "lon": -67.3626612271704
         }
       ]
     },
@@ -1136,8 +1099,8 @@
       "label": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "intensity": 1,
+      "last_seen": "2026-11-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1199,6 +1162,26 @@
         {
           "lat": 48.069011109543155,
           "lon": 29.35509277567223
+        },
+        {
+          "lat": 51.45047349201747,
+          "lon": 28.871659015322724
+        },
+        {
+          "lat": 51.86005130557798,
+          "lon": 30.754070191168474
+        },
+        {
+          "lat": 49.68477979259665,
+          "lon": 31.144236065993837
+        },
+        {
+          "lat": 50.77939239313334,
+          "lon": 31.598203924671093
+        },
+        {
+          "lat": 50.357442341474105,
+          "lon": 32.2222066715884
         }
       ]
     },
@@ -1213,8 +1196,8 @@
       "label": "Pistorius will Militärpakt mit Polen ausbauen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "intensity": 1,
+      "last_seen": "2026-11-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1276,6 +1259,26 @@
         {
           "lat": 51.1023088195653,
           "lon": 19.76106626686304
+        },
+        {
+          "lat": 50.76163129503481,
+          "lon": 19.024353967869853
+        },
+        {
+          "lat": 50.25640800764771,
+          "lon": 20.485090922329015
+        },
+        {
+          "lat": 50.27951507766324,
+          "lon": 19.93900006647303
+        },
+        {
+          "lat": 52.72821126406808,
+          "lon": 16.34274847312999
+        },
+        {
+          "lat": 53.57140967915636,
+          "lon": 20.1064498528398
         }
       ]
     },
@@ -1290,8 +1293,8 @@
       "label": "KI-gestützter Cyberangriff auf EU-Kommission",
       "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "intensity": 1,
+      "last_seen": "2026-11-21",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1353,9 +1356,45 @@
         {
           "lat": 50.176232217372096,
           "lon": 6.9059233897266505
+        },
+        {
+          "lat": 50.66845536013295,
+          "lon": 2.0539908108081417
+        },
+        {
+          "lat": 53.36792011030633,
+          "lon": 4.111433652872903
+        },
+        {
+          "lat": 52.17565544883584,
+          "lon": 4.732703967807862
+        },
+        {
+          "lat": 52.793260965201014,
+          "lon": 2.9371952059652413
+        },
+        {
+          "lat": 49.37536925853087,
+          "lon": 2.0070449641576373
         }
       ]
+    },
+    {
+      "id": "disaster-peru",
+      "type": "disaster",
+      "location": {
+        "name": "Peru",
+        "lat": -9.19,
+        "lon": -75.0152
+      },
+      "label": "Erdbeben erschüttert Perus Andenregion",
+      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-11-20"
+  "updated_at": "2026-11-21"
 }
