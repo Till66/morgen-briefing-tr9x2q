@@ -11,7 +11,7 @@
       "label": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-21",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,26 +193,6 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
-        },
-        {
-          "lat": 47.2410417403942,
-          "lon": 29.61412063093533
-        },
-        {
-          "lat": 45.75347750458784,
-          "lon": 32.04224714080203
-        },
-        {
-          "lat": 47.48508185572179,
-          "lon": 29.96273554535926
-        },
-        {
-          "lat": 50.457943303319844,
-          "lon": 28.654934935902
-        },
-        {
-          "lat": 45.48967851656784,
-          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html"
@@ -228,7 +208,7 @@
       "label": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-21",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +370,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
@@ -426,7 +386,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-19",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -442,7 +402,7 @@
       "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-15",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -504,26 +464,6 @@
         {
           "lat": 35.299067077652914,
           "lon": 53.862193762981846
-        },
-        {
-          "lat": 35.12243445535492,
-          "lon": 56.26643792708089
-        },
-        {
-          "lat": 32.26638421062307,
-          "lon": 52.70885998096058
-        },
-        {
-          "lat": 33.90225158269349,
-          "lon": 54.011027908178754
-        },
-        {
-          "lat": 33.23949674790958,
-          "lon": 51.214738362975126
-        },
-        {
-          "lat": 30.222955083649946,
-          "lon": 52.005883823839454
         }
       ]
     },
@@ -538,7 +478,7 @@
       "label": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -870,7 +810,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -932,26 +872,6 @@
         {
           "lat": 60.83234311711307,
           "lon": 17.295866686065764
-        },
-        {
-          "lat": 57.657802307018265,
-          "lon": 18.030372000616712
-        },
-        {
-          "lat": 58.428104095311625,
-          "lon": 18.79612000708669
-        },
-        {
-          "lat": 62.264254485835146,
-          "lon": 20.564426601374738
-        },
-        {
-          "lat": 62.999660360444956,
-          "lon": 17.934568298809943
-        },
-        {
-          "lat": 60.504621070046824,
-          "lon": 17.792342373431858
         }
       ]
     },
@@ -982,8 +902,8 @@
       "label": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
-      "intensity": 3,
+      "last_seen": "2026-11-22",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1085,6 +1005,26 @@
         {
           "lat": 8.409271258169383,
           "lon": -67.3626612271704
+        },
+        {
+          "lat": 4.256269884965678,
+          "lon": -68.63497093494433
+        },
+        {
+          "lat": 9.038426184947468,
+          "lon": -65.62489338044226
+        },
+        {
+          "lat": 8.002901088591642,
+          "lon": -64.49849983429536
+        },
+        {
+          "lat": 3.996623458018904,
+          "lon": -66.68796940975577
+        },
+        {
+          "lat": 6.700089292908341,
+          "lon": -69.48295940653058
         }
       ]
     },
@@ -1099,8 +1039,8 @@
       "label": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
-      "intensity": 2,
+      "last_seen": "2026-11-22",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1182,6 +1122,26 @@
         {
           "lat": 50.357442341474105,
           "lon": 32.2222066715884
+        },
+        {
+          "lat": 50.948850684666155,
+          "lon": 28.325279312098463
+        },
+        {
+          "lat": 51.351796749008656,
+          "lon": 27.682541009710526
+        },
+        {
+          "lat": 50.25431719113463,
+          "lon": 31.461124293660774
+        },
+        {
+          "lat": 49.57292332967101,
+          "lon": 30.14628348204989
+        },
+        {
+          "lat": 50.74693274107446,
+          "lon": 28.645578690769284
         }
       ]
     },
@@ -1196,8 +1156,8 @@
       "label": "Pistorius will Militärpakt mit Polen ausbauen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
-      "intensity": 2,
+      "last_seen": "2026-11-22",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1279,6 +1239,26 @@
         {
           "lat": 53.57140967915636,
           "lon": 20.1064498528398
+        },
+        {
+          "lat": 50.628622392577036,
+          "lon": 19.54377604277066
+        },
+        {
+          "lat": 49.92625879751269,
+          "lon": 18.983356129258837
+        },
+        {
+          "lat": 54.375906749022874,
+          "lon": 17.898568780255285
+        },
+        {
+          "lat": 50.1121355987003,
+          "lon": 17.831168062597435
+        },
+        {
+          "lat": 54.24119048641627,
+          "lon": 17.910073879737073
         }
       ]
     },
@@ -1294,7 +1274,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-21",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1356,26 +1336,6 @@
         {
           "lat": 50.176232217372096,
           "lon": 6.9059233897266505
-        },
-        {
-          "lat": 50.66845536013295,
-          "lon": 2.0539908108081417
-        },
-        {
-          "lat": 53.36792011030633,
-          "lon": 4.111433652872903
-        },
-        {
-          "lat": 52.17565544883584,
-          "lon": 4.732703967807862
-        },
-        {
-          "lat": 52.793260965201014,
-          "lon": 2.9371952059652413
-        },
-        {
-          "lat": 49.37536925853087,
-          "lon": 2.0070449641576373
         }
       ]
     },
@@ -1391,10 +1351,184 @@
       "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-finnland",
+      "type": "conflict",
+      "location": {
+        "name": "Finnland",
+        "lat": 61.9241,
+        "lon": 25.7482
+      },
+      "label": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "intensity": 2,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 62.30672159968322,
+          "lon": 27.17858149886541
+        },
+        {
+          "lat": 59.220770335414045,
+          "lon": 24.002133800210697
+        },
+        {
+          "lat": 59.48229835573393,
+          "lon": 27.738715846524045
+        },
+        {
+          "lat": 63.14017111539135,
+          "lon": 27.4764406437975
+        },
+        {
+          "lat": 64.82319201392417,
+          "lon": 24.836392215675534
+        },
+        {
+          "lat": 63.65674915187206,
+          "lon": 25.670649660236588
+        },
+        {
+          "lat": 62.76918940387636,
+          "lon": 23.199192752437245
+        },
+        {
+          "lat": 64.26424177213892,
+          "lon": 24.852290586328902
+        },
+        {
+          "lat": 59.865343346999694,
+          "lon": 24.99410054439518
+        },
+        {
+          "lat": 59.63571420566766,
+          "lon": 23.809951201064735
+        },
+        {
+          "lat": 61.849898525318,
+          "lon": 23.105397755565214
+        },
+        {
+          "lat": 60.072511320789815,
+          "lon": 23.293552488417493
+        },
+        {
+          "lat": 63.34814029714504,
+          "lon": 24.572652686082677
+        },
+        {
+          "lat": 60.61592768317215,
+          "lon": 23.864653793625454
+        },
+        {
+          "lat": 61.96861766168804,
+          "lon": 23.175483882728614
+        },
+        {
+          "lat": 64.59706843176544,
+          "lon": 24.32440611404446
+        },
+        {
+          "lat": 59.030616416675066,
+          "lon": 25.430342449236043
+        },
+        {
+          "lat": 61.83805976741658,
+          "lon": 22.988719257784012
+        },
+        {
+          "lat": 59.11085439622877,
+          "lon": 26.74884851623044
+        },
+        {
+          "lat": 61.92933315812583,
+          "lon": 27.38997603196394
+        }
+      ]
+    },
+    {
+      "id": "conflict-israel",
+      "type": "conflict",
+      "location": {
+        "name": "Israel",
+        "lat": 31.0461,
+        "lon": 34.8516
+      },
+      "label": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 33.66674323612038,
+          "lon": 35.19046252887055
+        },
+        {
+          "lat": 31.184756386439375,
+          "lon": 32.58215950010441
+        },
+        {
+          "lat": 32.43053201323609,
+          "lon": 34.225987581919874
+        },
+        {
+          "lat": 29.83770240939623,
+          "lon": 36.90332819808398
+        },
+        {
+          "lat": 29.223870797437467,
+          "lon": 35.960042034597606
+        },
+        {
+          "lat": 32.15285766321522,
+          "lon": 36.87970884989521
+        },
+        {
+          "lat": 32.065266119866806,
+          "lon": 34.76072980048664
+        },
+        {
+          "lat": 33.95746345265232,
+          "lon": 35.91208745942779
+        },
+        {
+          "lat": 29.576879213535314,
+          "lon": 36.828758643998476
+        },
+        {
+          "lat": 32.885738951895675,
+          "lon": 37.37357189804212
+        },
+        {
+          "lat": 33.667045385569,
+          "lon": 33.15317554738726
+        },
+        {
+          "lat": 29.549608924856667,
+          "lon": 34.40519982712045
+        },
+        {
+          "lat": 32.82189403034779,
+          "lon": 36.296864544441654
+        },
+        {
+          "lat": 33.22593395540617,
+          "lon": 36.612669738017644
+        },
+        {
+          "lat": 33.23906464817435,
+          "lon": 36.00755101522187
+        }
+      ]
     }
   ],
-  "updated_at": "2026-11-21"
+  "updated_at": "2026-11-22"
 }
