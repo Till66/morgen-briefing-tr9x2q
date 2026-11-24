@@ -11,7 +11,7 @@
       "label": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 8,
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -193,26 +193,6 @@
         {
           "lat": 48.94199973988928,
           "lon": 33.41227151673853
-        },
-        {
-          "lat": 47.2410417403942,
-          "lon": 29.61412063093533
-        },
-        {
-          "lat": 45.75347750458784,
-          "lon": 32.04224714080203
-        },
-        {
-          "lat": 47.48508185572179,
-          "lon": 29.96273554535926
-        },
-        {
-          "lat": 50.457943303319844,
-          "lon": 28.654934935902
-        },
-        {
-          "lat": 45.48967851656784,
-          "lon": 31.095251176307737
         }
       ],
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html"
@@ -228,7 +208,7 @@
       "label": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -390,26 +370,6 @@
         {
           "lat": 62.867105840110945,
           "lon": 106.93341763191377
-        },
-        {
-          "lat": 58.63076494150114,
-          "lon": 106.1283869379606
-        },
-        {
-          "lat": 62.81477312310477,
-          "lon": 107.03005341363047
-        },
-        {
-          "lat": 61.04260386983459,
-          "lon": 106.10346300801017
-        },
-        {
-          "lat": 64.34490395871106,
-          "lon": 105.75354971303594
-        },
-        {
-          "lat": 61.7017411632188,
-          "lon": 102.6779045589091
         }
       ],
       "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
@@ -426,7 +386,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
       "first_seen": "2026-09-30",
       "last_seen": "2026-11-19",
-      "intensity": 2,
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": []
     },
@@ -441,7 +401,7 @@
       "label": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -732,7 +692,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-22",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -814,26 +774,6 @@
         {
           "lat": 4.820304198060488,
           "lon": -68.5547058720645
-        },
-        {
-          "lat": 8.693605542954664,
-          "lon": -66.04468086476115
-        },
-        {
-          "lat": 7.275760559806777,
-          "lon": -63.7589468887589
-        },
-        {
-          "lat": 3.723158854605667,
-          "lon": -65.50549955115815
-        },
-        {
-          "lat": 5.612885896636612,
-          "lon": -69.42770715390546
-        },
-        {
-          "lat": 8.409271258169383,
-          "lon": -67.3626612271704
         }
       ]
     },
@@ -848,8 +788,8 @@
       "label": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
       "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
-      "intensity": 4,
+      "last_seen": "2026-11-24",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -971,6 +911,26 @@
         {
           "lat": 50.91290099671865,
           "lon": 30.325940042158805
+        },
+        {
+          "lat": 49.18340525302638,
+          "lon": 28.079588566739712
+        },
+        {
+          "lat": 52.8190998028262,
+          "lon": 29.558760026647185
+        },
+        {
+          "lat": 48.27402314887231,
+          "lon": 29.32772795449261
+        },
+        {
+          "lat": 50.96710365345855,
+          "lon": 32.00000546109001
+        },
+        {
+          "lat": 49.23793422982968,
+          "lon": 28.97863135863599
         }
       ]
     },
@@ -985,8 +945,8 @@
       "label": "Pistorius will Militärpakt mit Polen ausbauen",
       "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
-      "intensity": 5,
+      "last_seen": "2026-11-24",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1128,6 +1088,46 @@
         {
           "lat": 53.128736890422125,
           "lon": 20.66714624063383
+        },
+        {
+          "lat": 53.148183499502764,
+          "lon": 19.604327678240097
+        },
+        {
+          "lat": 53.72386997676149,
+          "lon": 17.14831574998163
+        },
+        {
+          "lat": 54.62993039834615,
+          "lon": 21.946562366199462
+        },
+        {
+          "lat": 49.69160621397072,
+          "lon": 20.628765369097998
+        },
+        {
+          "lat": 52.162314880449635,
+          "lon": 20.614929104484485
+        },
+        {
+          "lat": 51.04888948520457,
+          "lon": 16.413740765051507
+        },
+        {
+          "lat": 49.87940782143325,
+          "lon": 19.573777327332245
+        },
+        {
+          "lat": 50.04885635084283,
+          "lon": 16.187059597738916
+        },
+        {
+          "lat": 52.279278921732285,
+          "lon": 21.783857878364707
+        },
+        {
+          "lat": 50.08056871572127,
+          "lon": 18.386747411659744
         }
       ]
     },
@@ -1216,7 +1216,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1258,26 +1258,6 @@
         {
           "lat": 59.63571420566766,
           "lon": 23.809951201064735
-        },
-        {
-          "lat": 61.849898525318,
-          "lon": 23.105397755565214
-        },
-        {
-          "lat": 60.072511320789815,
-          "lon": 23.293552488417493
-        },
-        {
-          "lat": 63.34814029714504,
-          "lon": 24.572652686082677
-        },
-        {
-          "lat": 60.61592768317215,
-          "lon": 23.864653793625454
-        },
-        {
-          "lat": 61.96861766168804,
-          "lon": 23.175483882728614
         }
       ]
     },
@@ -1337,7 +1317,161 @@
           "lon": 37.37357189804212
         }
       ]
+    },
+    {
+      "id": "conflict-kolumbien",
+      "type": "conflict",
+      "location": {
+        "name": "Kolumbien",
+        "lat": 4.5709,
+        "lon": -74.2973
+      },
+      "label": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 2.5614758721266346,
+          "lon": -75.91052648045915
+        },
+        {
+          "lat": 3.3649691336509933,
+          "lon": -74.41013465547321
+        },
+        {
+          "lat": 5.675022296465589,
+          "lon": -72.29814933475612
+        },
+        {
+          "lat": 6.443839951455439,
+          "lon": -74.09373225828104
+        },
+        {
+          "lat": 2.3571052760986158,
+          "lon": -75.88724509898825
+        },
+        {
+          "lat": 6.416849271890788,
+          "lon": -77.20044660172518
+        },
+        {
+          "lat": 7.08311432059822,
+          "lon": -72.43015024071413
+        },
+        {
+          "lat": 4.452382031401592,
+          "lon": -71.89256461097303
+        },
+        {
+          "lat": 2.1885082097500583,
+          "lon": -77.26486982150665
+        },
+        {
+          "lat": 7.228549985434872,
+          "lon": -77.04670231669448
+        },
+        {
+          "lat": 3.845023792600381,
+          "lon": -76.62035769466867
+        },
+        {
+          "lat": 4.4764919598102555,
+          "lon": -74.95079068670849
+        },
+        {
+          "lat": 5.1289835970021045,
+          "lon": -75.38376031471121
+        },
+        {
+          "lat": 3.561333386059113,
+          "lon": -74.38436425807603
+        },
+        {
+          "lat": 5.542416710233763,
+          "lon": -75.52017187870194
+        }
+      ]
+    },
+    {
+      "id": "conflict-s-dkorea",
+      "type": "conflict",
+      "location": {
+        "name": "Südkorea",
+        "lat": 35.9078,
+        "lon": 127.7669
+      },
+      "label": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 38.42131019216551,
+          "lon": 129.37602234303753
+        },
+        {
+          "lat": 38.85453696578172,
+          "lon": 130.57576520720295
+        },
+        {
+          "lat": 35.310496197014935,
+          "lon": 125.20155219727593
+        },
+        {
+          "lat": 33.87842155440697,
+          "lon": 127.35561592501848
+        },
+        {
+          "lat": 34.56114830611324,
+          "lon": 129.5534204845524
+        },
+        {
+          "lat": 38.20955320042804,
+          "lon": 130.68069767607753
+        },
+        {
+          "lat": 35.434998694303445,
+          "lon": 130.43638165923113
+        },
+        {
+          "lat": 36.17892787199931,
+          "lon": 125.73798889300635
+        },
+        {
+          "lat": 38.827691571141756,
+          "lon": 129.04371929252036
+        },
+        {
+          "lat": 33.44768322255665,
+          "lon": 130.40057505595874
+        },
+        {
+          "lat": 35.40154891596235,
+          "lon": 130.2780546762081
+        },
+        {
+          "lat": 37.89769800666224,
+          "lon": 125.7521239026188
+        },
+        {
+          "lat": 35.80274901450699,
+          "lon": 126.99676404835942
+        },
+        {
+          "lat": 35.69850467892818,
+          "lon": 127.9073559405382
+        },
+        {
+          "lat": 34.72699276942946,
+          "lon": 125.2811422138048
+        }
+      ]
     }
   ],
-  "updated_at": "2026-11-23"
+  "updated_at": "2026-11-24"
 }
