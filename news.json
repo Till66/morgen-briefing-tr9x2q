@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:01:18.559628+00:00",
+  "generated_at": "2026-11-26T13:40:15.859572+00:00",
   "categories": [
     {
       "id": "politik",
@@ -45,10 +45,26 @@
   },
   "articles": [
     {
-      "title": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
-      "summary": "Langsamer gesprochen, erklärte Fachbegriffe, kaum Nebensätze - seit 2024 gibt es die tagesschau in Einfacher Sprache. Zehntausende nutzen sie jeden Tag. Nun wird das Angebot um einen WhatsApp-Kanal erweitert.",
+      "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
+      "summary": "Das Erzbistum Köln muss einem Missbrauchsopfer 550.000 Euro Schmerzensgeld zahlen - die bisher höchste Summe in einem solchen Fall. Das Oberlandesgericht Köln sieht die Kirche in der Verantwortung.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 14:37:34 +0100"
+    },
+    {
+      "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+      "summary": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -58,13 +74,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 14:45:35 +0100"
+      "published": "Thu, 26 Nov 2026 12:39:55 +0100"
     },
     {
-      "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
-      "summary": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer.",
+      "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
+      "summary": "Die Bundesanwaltschaft hat zwei Männer in Köln und Heidelberg festnehmen lassen. Sie sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben - möglicherweise auch einen auf eine Synagoge in Köln. Von H. Schmidt.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Köln",
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 10:39:12 +0100"
+    },
+    {
+      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
+      "summary": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -74,13 +106,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 14:15:59 +0100"
+      "published": "Thu, 26 Nov 2026 11:41:10 +0100"
     },
     {
-      "title": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
-      "summary": "Dass Bundestagspräsidentin Klöckner und viele andere bei der Generaldebatte Orange als Kleidungsfarbe gewählt hatten, war kein Zufall. Grund ist der Orange Day, an dem an Frauen erinnert wird, die Opfer von Gewalt wurden.",
+      "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
+      "summary": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -90,29 +122,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 11:55:47 +0100"
+      "published": "Thu, 26 Nov 2026 10:07:40 +0100"
     },
     {
-      "title": "AfD fordert Klage gegen Haushalt - Merz nennt Etat \"vertretbar\"",
-      "summary": "Die Aufstellung des Haushalts habe \"keinen Schönheitspreis verdient“, räumte der Kanzler ein. Doch er sei in der gegenwärtigen Lage vertretbar. Zuvor war er von AfD-Chef Chrupalla scharf kritisiert worden - auch in Sachen Ukraine.",
+      "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
+      "summary": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 11:44:12 +0100"
-    },
-    {
-      "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
-      "summary": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig gestritten werden könnte über die neuen Schulden.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
       "category": "politik",
       "event_type": "standard",
       "location": {
@@ -122,45 +138,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 07:32:57 +0100"
+      "published": "Wed, 25 Nov 2026 20:14:28 +0100"
     },
     {
-      "title": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
-      "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
+      "title": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
+      "summary": "Im Streit um die \"Rente mit 63\" gehen Unionsabgeordnete mit einem Kompromiss auf die SPD zu: Sie schlagen eine \"Respekt-Rente\" vor. Für Menschen mit kleinem Einkommen soll die abschlagsfreie Frühverrentung bestehen bleiben.",
       "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 07:11:51 +0100"
-    },
-    {
-      "title": "Keine schnelle Lösung bei Gewalt gegen Frauen",
-      "summary": "Der heutige Orange Day steht für eine Zukunft ohne Gewalt gegen Frauen. Doch die Realität sieht anders aus. Strafverschärfungen und Gesetzesänderungen sind angestoßen, aber schnelle Lösungen sind nicht in Sicht. Von A. Lagmöller.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
-      "category": "politik",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 05:00:11 +0100"
-    },
-    {
-      "title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-      "summary": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
-      "source": "Aktuelle Nachrichten aus Deutschland",
-      "url": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
       "category": "politik",
       "event_type": "tension",
       "location": {
@@ -170,13 +154,45 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 19:39:01 +0100"
+      "published": "Wed, 25 Nov 2026 21:40:23 +0100"
     },
     {
-      "title": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
-      "summary": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
+      "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
+      "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer Freiheit\". Von Nicole Markwald.",
+      "source": "Aktuelle Nachrichten aus Deutschland",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+      "category": "politik",
+      "event_type": "standard",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 25 Nov 2026 19:10:19 +0100"
+    },
+    {
+      "title": "Black Weeks: Wie die Rabattschlacht Handel und Kunden verändert",
+      "summary": "Früher war es ein einzelner Einkaufstag, heute zieht sich die Schnäppchenjagd über Wochen: Der Black Friday hat sich auf den ganzen Monat ausgedehnt. Verbraucher warten gezielt auf Rabatte, Händler müssen mitziehen. Von Anke Heinhaus.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html",
+      "category": "wirtschaft",
+      "event_type": "trade",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 11:54:56 +0100"
+    },
+    {
+      "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+      "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -186,13 +202,61 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 12:47:38 +0100"
+      "published": "Wed, 25 Nov 2026 18:37:52 +0100"
     },
     {
-      "title": "Viele offene Fragen bei Chipkonzern Nvidia",
-      "summary": "Jensen Huang steht wieder an der Spitze von Nvidia - und die Tech-Welt scheint wieder in Ordnung. Aber das kurzlebige Ausscheiden des Mitgründers hat Fragen aufgeworfen - und viele davon bleiben erst mal offen. Von Antje Sieb.",
+      "title": "Reallöhne sind im Sommer langsamer gewachsen",
+      "summary": "Beschäftigte in Deutschland haben im Schnitt etwas mehr Geld zur Verfügung: Im Sommer sind die Reallöhne weiter gestiegen. Abzüglich der Inflation bleibt ein Plus von 1,3 Prozent - das ist allerdings so wenig wie zuletzt Anfang 2025.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/loehne-wachstum-inflation-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 11:59:34 +0100"
+    },
+    {
+      "title": "Digitaler Führerschein startet ab Mitte Dezember",
+      "summary": "Ab Ende November sollten Autofahrer in Deutschland eigentlich den digitalen Führerschein nutzen können. Doch der Start verzögert sich. Nun soll es Mitte Dezember losgehen.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 08:10:45 +0100"
+    },
+    {
+      "title": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
+      "summary": "Schleuser bringen jährlich Zehntausende Migranten über den Ärmelkanal nach Großbritannien. Bei fast einem Drittel der Überfahrten sollen laut Recherchen von WDR, NDR und SZ zuletzt Boote oder Motoren einer deutschen Firma genutzt worden sein.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
+      "category": "wirtschaft",
+      "event_type": "standard",
+      "location": {
+        "name": "Großbritannien",
+        "lat": 55.3781,
+        "lon": -3.436
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 06:00:30 +0100"
+    },
+    {
+      "title": "UniCredit beantragt Hauptversammlung bei Commerzbank",
+      "summary": "Die UniCredit will den Einstieg bei der Commerzbank umsetzen und dafür die Macht im Aufsichtsrat übernehmen. Darum hat die italienische Bank eine Hauptversammlung beantragt, um eigene Vertreter zu entsenden.",
+      "source": "Wirtschaft und Börsen-Nachrichten",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -202,13 +266,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 12:32:09 +0100"
+      "published": "Thu, 26 Nov 2026 09:54:54 +0100"
     },
     {
-      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-      "summary": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
+      "summary": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
@@ -218,87 +282,52 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 21:17:10 +0100"
+      "published": "Thu, 26 Nov 2026 11:41:10 +0100"
     },
     {
-      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
-      "summary": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
+      "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+      "summary": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
       "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
       "category": "wirtschaft",
       "event_type": "standard",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 15:51:13 +0100"
+      "published": "Thu, 26 Nov 2026 12:04:32 +0100"
     },
     {
-      "title": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
-      "summary": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
+      "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+      "summary": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+      "category": "konflikte",
+      "event_type": "conflict",
       "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
+        "name": "Polen",
+        "lat": 51.9194,
+        "lon": 19.1451
       },
-      "connections": [],
+      "connections": [
+        {
+          "from": {
+            "name": "Polen",
+            "lat": 51.9194,
+            "lon": 19.1451
+          },
+          "to": {
+            "name": "Ungarn",
+            "lat": 47.1625,
+            "lon": 19.5033
+          }
+        }
+      ],
       "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 08:55:06 +0100"
-    },
-    {
-      "title": "Nvidia hält die Märkte in Atem",
-      "summary": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 15:01:35 +0100"
-    },
-    {
-      "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
-      "summary": "Die Firma Megaspeed erlangte innerhalb kurzer Zeit weltweite Aufmerksamkeit. Grund war die Affäre von Nvidia-Chef Huang mit einer früheren Managerin des Unternehmens, die der Spionage verdächtigt wird. Nun landete Megaspeed auf einer US-Sperrliste.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 08:42:34 +0100"
-    },
-    {
-      "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
-      "summary": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
-      "source": "Wirtschaft und Börsen-Nachrichten",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
-      "category": "wirtschaft",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Mon, 23 Nov 2026 10:56:20 +0100"
+      "published": "Thu, 26 Nov 2026 12:04:32 +0100"
     },
     {
       "title": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
@@ -378,6 +407,22 @@
       "published": "Tue, 24 Nov 2026 01:53:40 +0100"
     },
     {
+      "title": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
+      "summary": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
+      "category": "konflikte",
+      "event_type": "conflict",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 08:53:31 +0100"
+    },
+    {
       "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "summary": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
       "source": "Internationale Nachrichten aus aller Welt",
@@ -436,70 +481,12 @@
       "published": "Tue, 24 Nov 2026 02:46:30 +0100"
     },
     {
-      "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
-      "summary": "Die Angriffe auf russische Schiffe sind für die Ukraine ein Erfolg, sagt der Sicherheitsexperte Joachim Weber. Aber sie stellten auch eine Eskalation dar, die Russland zu Gegenmaßnahmen provozieren könnte. Ein Kalkül von Kiew?",
+      "title": "Staatsanwältin im Netanjahu-Prozess vor Dilemma",
+      "summary": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-ostsee-libyen-100.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Russland",
-            "lat": 61.524,
-            "lon": 105.3188
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 23 Nov 2026 18:59:22 +0100"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-      "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-      "category": "konflikte",
-      "event_type": "conflict",
-      "location": {
-        "name": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "connections": [
-        {
-          "from": {
-            "name": "Ukraine",
-            "lat": 48.3794,
-            "lon": 31.1656
-          },
-          "to": {
-            "name": "Kiew",
-            "lat": 50.4501,
-            "lon": 30.5234
-          }
-        }
-      ],
-      "chokepoint_lane": null,
-      "published": "Mon, 23 Nov 2026 05:43:07 +0100"
-    },
-    {
-      "title": "Tote und Vermisste nach Überflutung in Goldmine",
-      "summary": "In einer illegal errichteten indonesischen Goldmine sind Bergleute von Wassermassen überrascht und eingeschlossen worden. Die Rettungsmaßnahmen laufen. Bisher wurden drei Tote geborgen.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
       "category": "welt",
-      "event_type": "disaster",
+      "event_type": "standard",
       "location": {
         "name": null,
         "lat": 51.1657,
@@ -507,23 +494,87 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 13:31:45 +0100"
+      "published": "Thu, 26 Nov 2026 14:02:45 +0100"
     },
     {
-      "title": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
-      "summary": "2025 war der Salvadorianer Abrego Garcia aus den USA abgeschoben worden - rechtswidrig. Er landete in einem berüchtigten Gefängnis und wurde so zum Symbol für Trumps umstrittene Politik. Nun eine neue Wendung: Abrego Garcia ist in Spanien.",
+      "title": "Ein Jahr nach dem Hochhausbrand gedenkt Hongkong der Opfer individuell",
+      "summary": "Vor einem Jahr starben 168 Menschen bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong. Heute haben die Menschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
       "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
+      "url": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html",
       "category": "welt",
       "event_type": "standard",
       "location": {
-        "name": "USA",
-        "lat": 37.0902,
-        "lon": -95.7129
+        "name": "Hongkong",
+        "lat": 22.3193,
+        "lon": 114.1694
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 12:19:15 +0100"
+      "published": "Thu, 26 Nov 2026 13:42:48 +0100"
+    },
+    {
+      "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+      "summary": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Ukraine",
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 12:58:32 +0100"
+    },
+    {
+      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
+      "summary": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gesunken. Bei dem Unglück kam ein Seemann ums Leben.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+      "category": "welt",
+      "event_type": "transport",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 11:33:57 +0100"
+    },
+    {
+      "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+      "summary": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+      "category": "welt",
+      "event_type": "standard",
+      "location": {
+        "name": "Brüssel",
+        "lat": 50.8503,
+        "lon": 4.3517
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 05:00:53 +0100"
+    },
+    {
+      "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
+      "summary": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe.",
+      "source": "Internationale Nachrichten aus aller Welt",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
+      "category": "welt",
+      "event_type": "tension",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Wed, 25 Nov 2026 17:29:03 +0100"
     },
     {
       "title": "Run auf kostenlose Finnland-Reise für Singles",
@@ -542,8 +593,8 @@
       "published": "Wed, 25 Nov 2026 11:40:38 +0100"
     },
     {
-      "title": "EU will Versorgung mit Arzneimitteln sicherstellen",
-      "summary": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Heute stehen im Parlament zwei Gesetzesvorhaben zur Abstimmung.",
+      "title": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
+      "summary": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
       "source": "Internationale Nachrichten aus aller Welt",
       "url": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
       "category": "welt",
@@ -555,77 +606,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 09:24:12 +0100"
+      "published": "Wed, 25 Nov 2026 15:00:56 +0100"
     },
     {
-      "title": "Europas größte Satellitenfabrik eröffnet",
-      "summary": "Die EU will bis 2030 ein eigenes sicheres Kommunikationsnetz im Weltraum aufbauen. Ziel ist es, unabhängiger von Anbietern wie dem US-Dienst Starlink zu werden. Helfen soll dabei Europas größte Satellitenfabrik - sie wurde nun eröffnet.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/satellitenfabrik-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 09:06:22 +0100"
-    },
-    {
-      "title": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
-      "summary": "Setzt ein Drittstaat Migration gezielt als Druckmittel ein, darf der betroffene EU-Staat Migranten an der Grenze zurückweisen. Das hat jetzt der EGMR geurteilt. Rechte besonders schutzbedürftiger Menschen müssen aber gewahrt bleiben. Von A. Stephany.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 17:24:25 +0100"
-    },
-    {
-      "title": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
-      "summary": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 14:28:55 +0100"
-    },
-    {
-      "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
-      "summary": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
-      "source": "Internationale Nachrichten aus aller Welt",
-      "url": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
-      "category": "welt",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Sat, 21 Nov 2026 15:07:14 +0100"
-    },
-    {
-      "title": "FC Bayern stellt klar: Musiala-Symptome nach Vertragsabschluss",
-      "summary": "Der FC Bayern hat Spekulationen über den Zeitpunkt der Erkrankung von Jamal Musiala zurückgewiesen. Demnach zeigten sich die Symptome erst Monate, nachdem Musiala seinen Vertrag verlängert hatte.",
+      "title": "Mia san Kimmich - Kommentar zum Fall Musiala beim FC Bayern München",
+      "summary": "Was Joshua Kimmich am Mittwochabend getan hat, ist im Profifußball und beim FC Bayern München ein Tabubruch - und letztendlich ein Segen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-fc-bayern-stellt-klar-musiala-symptome-nach-vertragsabschluss-102.html",
+      "url": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "München",
+        "lat": 48.1351,
+        "lon": 11.582
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 13:18:19 +0100"
+    },
+    {
+      "title": "Champions League: Bayern verstolpern Sieg in Lille",
+      "summary": "Der FC Bayern hat in der Champions League in Lille verloren - zugleich nahm die Debatte um Jamal Musialas Zukunft weiter Fahrt auf.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/championsleague/bayern-verstolpern-sieg-in-lille,spielbericht-lille-bayern-muenchen-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -635,93 +638,13 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 11:53:45 +0100"
+      "published": "Wed, 25 Nov 2026 22:52:50 +0100"
     },
     {
-      "title": "\"Ruhe und Vertrauen\" - Eberl erklärt Musiala-Debatte für beendet",
-      "summary": "Die Diskussion um mögliche Gehaltskürzungen bei Jamal Musiala beendete Max Eberl am Dienstag. Nach einem Gespräch des FC Bayern mit Beratern des 23-Jährigen spricht der Sportvorstand von einem \"Konsens\".",
+      "title": "Champions League: Inter Mailand kocht den VfB Stuttgart ab",
+      "summary": "Trotz einer ordentlichen Leistung bei Inter Mailand hat der VfB Stuttgart in der Champions League die nächste Niederlage kassiert.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-eberl-beendet-gehaltsdebatte-werden-musiala-staerker-erleben-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 19:15:06 +0100"
-    },
-    {
-      "title": "Wintertransfer von Gladbachs Torwart Moritz Nicolas rückt näher",
-      "summary": "Mindestens bis Weihnachten soll Daniel Batz bei Borussia Mönchengladbach Nummer eins sein. Verlässt Moritz Nicolas jetzt den VfL?",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-wintertransfer-von-moritz-nicolas-rueckt-naeher-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 14:14:09 +0100"
-    },
-    {
-      "title": "Weltverband zieht gegen CAS-Urteil vor Gericht",
-      "summary": "Der Streit um die Teilnahme Russlands an internationalen Eishockey-Turnieren - wie der WM 2027 in Deutschland - landet erneut vor Gericht.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/eishockey/weltverband-zieht-gegen-cas-urteil-vor-gericht,iihf-bundesgericht-russland-cas-100.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 13:09:18 +0100"
-    },
-    {
-      "title": "Höchster Saisonsieg: Eisbären deklassieren Löwen Frankfurt",
-      "summary": "Die Eisbären Berlin haben in der Deutschen Eishockey Liga das dritte Spiel innerhalb von fünf Tagen gewonnen und die Tabellenführung erfolgreich verteidigt. Dabei feierten sie auch noch ihren höchsten Sieg der bisherigen Saison.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/rbb/rbb-hoechster-del-saisonsieg-102.html",
-      "category": "sport",
-      "event_type": "standard",
-      "location": {
-        "name": "Frankfurt",
-        "lat": 50.1109,
-        "lon": 8.6821
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 22:22:33 +0100"
-    },
-    {
-      "title": "Brown, Bischof & Binder - Die jungen Bs für den Bayern-Sturm",
-      "summary": "Weil aktuell Bayerns A-Offensive ausfällt, wird es beim Champions-League-Spiel in Lille besonders auf drei junge Bs ankommen: Brown, Bischof und Binder.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/br/br-brown-bischof--binder-die-jungen-bs-fuer-den-bayern-sturm-102.html",
-      "category": "sport",
-      "event_type": "storm",
-      "location": {
-        "name": null,
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "connections": [],
-      "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 10:19:15 +0100"
-    },
-    {
-      "title": "Stuttgarts Vorfreude aufs San Siro: \"Unglaubliche Geschichte\"",
-      "summary": "Gegen Inter Mailand darf der VfB Stuttgart im altehrwürdigen San Siro Stadion ran. VfB-Coach Sebastian Hoeneß kommt ins Schwärmen und verkündet auch die Rückkehr eines wichtigen Profis im Mittelfeld.",
-      "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-vfb-stuttgart-mit-vorfreude-auf-inter-im-san-siro-unglaubliche-geschichte-100.html",
+      "url": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -731,13 +654,29 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Wed, 25 Nov 2026 07:33:43 +0100"
+      "published": "Wed, 25 Nov 2026 23:01:50 +0100"
     },
     {
-      "title": "Inter Mailands Motor läuft - aber stottert noch",
-      "summary": "Die Schwaben reisen am Mittwoch in die Mode-Hauptstadt Mailand. Dabei läuft der VfB das erste Mal im traditionsreichen San Siro auf.",
+      "title": "Champions League: AS Rom bremst PSG-Serie aus",
+      "summary": "Der ehemalige Dortmunder Donyell Malen verhindert einen weiteren Pflichtspielsieg von PSG - es wäre der 13. in Folge gewesen.",
       "source": "Aktuelle Sportmeldungen ",
-      "url": "https://www.sportschau.de/regional/swr/swr-inter-mailand-im-gegnercheck-der-vfb-stuttgart-zum-ersten-mal-im-san-siro-zu-gast-100.html",
+      "url": "https://www.sportschau.de/fussball/championsleague/staerkster-gegner-grandiose-as-rom-stoppt-psg,paris-saint-germain-as-rom-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Rom",
+        "lat": 41.9028,
+        "lon": 12.4964
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 09:29:35 +0100"
+    },
+    {
+      "title": "Champions League: Wirtz trifft erneut, Liverpool gewinnt in Brügge",
+      "summary": "Der FC Liverpool hat in der Champions League beim FC Brügge klar gewonnen. Florian Witz traf dabei erneut sehenswert.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/championsleague/wirtz-trifft-erneut-liverpool-gewinnt-in-bruegge,spielbericht-cl-bruegge-liverpool-100.html",
       "category": "sport",
       "event_type": "standard",
       "location": {
@@ -747,7 +686,55 @@
       },
       "connections": [],
       "chokepoint_lane": null,
-      "published": "Tue, 24 Nov 2026 12:59:06 +0100"
+      "published": "Wed, 25 Nov 2026 23:16:09 +0100"
+    },
+    {
+      "title": "Nationalspielerin Laura Freigang bis Oktober 2027 gesperrt",
+      "summary": "Saisonaus für Laura Freigang: Wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen fehlt die Eintracht-Kapitänin lange und verpasst auch die kommende Fußball-WM.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": null,
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 14:20:48 +0100"
+    },
+    {
+      "title": "DFB-Frauen in Brasilien: Alle Infos zur Auslosung der Frauen-WM 2027",
+      "summary": "Am 11. Dezember findet die Auslosung zur ersten Fußball-WM der Frauen in Südamerika statt. Dann entscheidet sich, auf wen das DFB-Team trifft. Alle Information hier in der Übersicht.",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/fussball/fifa-frauen-wm/fifa-frauen-wm-auslosung-faq,auslosung-frauen-wm-faq-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Brasilien",
+        "lat": -14.235,
+        "lon": -51.9253
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 07:23:57 +0100"
+    },
+    {
+      "title": "Davis-Cup-Viertelfinale in Bologna: Starker Zverev wahrt deutsche Chance aufs Weiterkommen",
+      "summary": "Weil Alexander Zverev seine Aufgabe souverän erledigt, fällt die Entscheidung über den Einzug ins Davis-Cup-Halbfinale zwischen Deutschland und Großbritannien im Doppel. Die Protagonisten erwarten ein \"50:50-Spiel\".",
+      "source": "Aktuelle Sportmeldungen ",
+      "url": "https://www.sportschau.de/tennis/davis-cup/davis-cup-viertelfinale-zverev-ausgleich,davis-cup-viertelfinale-100.html",
+      "category": "sport",
+      "event_type": "standard",
+      "location": {
+        "name": "Deutschland",
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "connections": [],
+      "chokepoint_lane": null,
+      "published": "Thu, 26 Nov 2026 13:41:36 +0100"
     }
   ],
   "crises": [
@@ -759,9 +746,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
+      "label": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -966,7 +953,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
     },
     {
       "id": "conflict-russland",
@@ -979,7 +966,7 @@
       "label": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1101,45 +1088,9 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
-    },
-    {
-      "id": "protest-frankreich",
-      "type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Sozialproteste in Frankreich reißen nicht ab",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-usa",
@@ -1153,7 +1104,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-24",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1315,101 +1266,8 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
-    },
-    {
-      "id": "conflict-schweden",
-      "type": "conflict",
-      "location": {
-        "name": "Schweden",
-        "lat": 60.1282,
-        "lon": 18.6435
-      },
-      "label": "Banden in Schweden rekrutieren zunehmend junge Frauen",
-      "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.65692408263588,
-          "lon": 18.842782254837285
-        },
-        {
-          "lat": 62.31696646719611,
-          "lon": 21.33714050582369
-        },
-        {
-          "lat": 58.256170893198615,
-          "lon": 16.092293663747792
-        },
-        {
-          "lat": 62.008070864767554,
-          "lon": 17.302641223798304
-        },
-        {
-          "lat": 58.01647941820218,
-          "lon": 19.415762529882663
-        },
-        {
-          "lat": 62.88870476212066,
-          "lon": 17.22176427220792
-        },
-        {
-          "lat": 61.61019639387475,
-          "lon": 20.354250006304763
-        },
-        {
-          "lat": 61.21853139750602,
-          "lon": 16.86916776518376
-        },
-        {
-          "lat": 62.446558178091784,
-          "lon": 17.66965707554532
-        },
-        {
-          "lat": 58.361046101101685,
-          "lon": 17.47356624780364
-        }
-      ]
-    },
-    {
-      "id": "storm-deutschland",
-      "type": "storm",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-venezuela",
@@ -1423,7 +1281,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1465,26 +1323,6 @@
         {
           "lat": 7.144762339015902,
           "lon": -65.72526677432161
-        },
-        {
-          "lat": 5.890875024840207,
-          "lon": -68.5604680561046
-        },
-        {
-          "lat": 4.029297192266746,
-          "lon": -67.53164657261063
-        },
-        {
-          "lat": 3.586404143880914,
-          "lon": -67.72730990792364
-        },
-        {
-          "lat": 4.667589312719318,
-          "lon": -67.83329784839758
-        },
-        {
-          "lat": 4.859320827173144,
-          "lon": -67.3537068022916
         }
       ]
     },
@@ -1499,8 +1337,8 @@
       "label": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
-      "intensity": 6,
+      "last_seen": "2026-11-26",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1662,6 +1500,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -1676,7 +1534,7 @@
       "label": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
       "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -2080,8 +1938,8 @@
       "label": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
       "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
-      "intensity": 2,
+      "last_seen": "2026-11-26",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2163,6 +2021,26 @@
         {
           "lat": 6.834180362650585,
           "lon": -72.15311752957214
+        },
+        {
+          "lat": 5.789677264519311,
+          "lon": -73.44997272436821
+        },
+        {
+          "lat": 4.41065071619259,
+          "lon": -74.40655310177479
+        },
+        {
+          "lat": 7.4655983418182235,
+          "lon": -72.74267203466646
+        },
+        {
+          "lat": 4.204128545690241,
+          "lon": -73.94445487664733
+        },
+        {
+          "lat": 2.77087109640389,
+          "lon": -76.22478603572313
         }
       ]
     },
@@ -2234,8 +2112,8 @@
       "label": "Deutschland baut künftig ukrainische Drohnen",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "intensity": 1,
+      "last_seen": "2026-11-26",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -2297,6 +2175,26 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
+        },
+        {
+          "lat": 49.51761492907515,
+          "lon": 8.686865152180978
+        },
+        {
+          "lat": 49.444432054698915,
+          "lon": 10.35149013834167
+        },
+        {
+          "lat": 49.353474452191726,
+          "lon": 9.222896063214957
+        },
+        {
+          "lat": 53.15928180700652,
+          "lon": 12.677392928248711
+        },
+        {
+          "lat": 51.17650378913572,
+          "lon": 11.876194805039255
         }
       ]
     }

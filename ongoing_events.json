@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
+      "label": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -350,45 +350,9 @@
         {
           "lat": 61.581154175605896,
           "lon": 102.3256459054471
-        },
-        {
-          "lat": 62.169296246196446,
-          "lon": 106.18316318230451
-        },
-        {
-          "lat": 62.649695335708024,
-          "lon": 102.68721981913158
-        },
-        {
-          "lat": 64.3988228391341,
-          "lon": 107.51674095195781
-        },
-        {
-          "lat": 63.66411229508093,
-          "lon": 103.33920471439724
-        },
-        {
-          "lat": 60.9922118036943,
-          "lon": 102.43018537621856
         }
       ],
       "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
-    },
-    {
-      "id": "protest-frankreich",
-      "type": "protest",
-      "location": {
-        "name": "Frankreich",
-        "lat": 46.2276,
-        "lon": 2.2137
-      },
-      "label": "Sozialproteste in Frankreich reißen nicht ab",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-usa",
@@ -402,7 +366,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-24",
-      "intensity": 7,
+      "intensity": 6,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -564,101 +528,8 @@
         {
           "lat": 35.60809005368899,
           "lon": -93.91632261325648
-        },
-        {
-          "lat": 39.33990691819901,
-          "lon": -96.35009825205329
-        },
-        {
-          "lat": 34.42646525856934,
-          "lon": -98.35575278591395
-        },
-        {
-          "lat": 37.90376965513285,
-          "lon": -97.62919960362714
-        },
-        {
-          "lat": 34.994509763318,
-          "lon": -95.77146224872604
-        },
-        {
-          "lat": 39.08391466575976,
-          "lon": -94.66305653640734
         }
       ]
-    },
-    {
-      "id": "conflict-schweden",
-      "type": "conflict",
-      "location": {
-        "name": "Schweden",
-        "lat": 60.1282,
-        "lon": 18.6435
-      },
-      "label": "Banden in Schweden rekrutieren zunehmend junge Frauen",
-      "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 58.65692408263588,
-          "lon": 18.842782254837285
-        },
-        {
-          "lat": 62.31696646719611,
-          "lon": 21.33714050582369
-        },
-        {
-          "lat": 58.256170893198615,
-          "lon": 16.092293663747792
-        },
-        {
-          "lat": 62.008070864767554,
-          "lon": 17.302641223798304
-        },
-        {
-          "lat": 58.01647941820218,
-          "lon": 19.415762529882663
-        },
-        {
-          "lat": 62.88870476212066,
-          "lon": 17.22176427220792
-        },
-        {
-          "lat": 61.61019639387475,
-          "lon": 20.354250006304763
-        },
-        {
-          "lat": 61.21853139750602,
-          "lon": 16.86916776518376
-        },
-        {
-          "lat": 62.446558178091784,
-          "lon": 17.66965707554532
-        },
-        {
-          "lat": 58.361046101101685,
-          "lon": 17.47356624780364
-        }
-      ]
-    },
-    {
-      "id": "storm-deutschland",
-      "type": "storm",
-      "location": {
-        "name": "Deutschland",
-        "lat": 51.1657,
-        "lon": 10.4515
-      },
-      "label": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
     },
     {
       "id": "conflict-venezuela",
@@ -672,7 +543,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-22",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -714,26 +585,6 @@
         {
           "lat": 7.144762339015902,
           "lon": -65.72526677432161
-        },
-        {
-          "lat": 5.890875024840207,
-          "lon": -68.5604680561046
-        },
-        {
-          "lat": 4.029297192266746,
-          "lon": -67.53164657261063
-        },
-        {
-          "lat": 3.586404143880914,
-          "lon": -67.72730990792364
-        },
-        {
-          "lat": 4.667589312719318,
-          "lon": -67.83329784839758
-        },
-        {
-          "lat": 4.859320827173144,
-          "lon": -67.3537068022916
         }
       ]
     },
@@ -748,8 +599,8 @@
       "label": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
-      "intensity": 6,
+      "last_seen": "2026-11-26",
+      "intensity": 7,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -911,6 +762,26 @@
         {
           "lat": 48.159000078364855,
           "lon": 30.26382984627663
+        },
+        {
+          "lat": 48.735792542159395,
+          "lon": 31.424989008025264
+        },
+        {
+          "lat": 51.001623694664126,
+          "lon": 32.27506644546009
+        },
+        {
+          "lat": 50.33175458126032,
+          "lon": 32.41785046728813
+        },
+        {
+          "lat": 49.60084634229549,
+          "lon": 27.57851135283278
+        },
+        {
+          "lat": 50.943135958961825,
+          "lon": 33.05490798788562
         }
       ]
     },
@@ -925,7 +796,7 @@
       "label": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
       "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1329,8 +1200,8 @@
       "label": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
       "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
-      "intensity": 2,
+      "last_seen": "2026-11-26",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1412,6 +1283,26 @@
         {
           "lat": 6.834180362650585,
           "lon": -72.15311752957214
+        },
+        {
+          "lat": 5.789677264519311,
+          "lon": -73.44997272436821
+        },
+        {
+          "lat": 4.41065071619259,
+          "lon": -74.40655310177479
+        },
+        {
+          "lat": 7.4655983418182235,
+          "lon": -72.74267203466646
+        },
+        {
+          "lat": 4.204128545690241,
+          "lon": -73.94445487664733
+        },
+        {
+          "lat": 2.77087109640389,
+          "lon": -76.22478603572313
         }
       ]
     },
@@ -1483,8 +1374,8 @@
       "label": "Deutschland baut künftig ukrainische Drohnen",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "intensity": 1,
+      "last_seen": "2026-11-26",
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1546,9 +1437,29 @@
         {
           "lat": 51.4887623228762,
           "lon": 7.895969145136994
+        },
+        {
+          "lat": 49.51761492907515,
+          "lon": 8.686865152180978
+        },
+        {
+          "lat": 49.444432054698915,
+          "lon": 10.35149013834167
+        },
+        {
+          "lat": 49.353474452191726,
+          "lon": 9.222896063214957
+        },
+        {
+          "lat": 53.15928180700652,
+          "lon": 12.677392928248711
+        },
+        {
+          "lat": 51.17650378913572,
+          "lon": 11.876194805039255
         }
       ]
     }
   ],
-  "updated_at": "2026-11-25"
+  "updated_at": "2026-11-26"
 }
