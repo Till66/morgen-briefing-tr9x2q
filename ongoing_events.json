@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
+      "label": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-ostsee-libyen-100.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 4,
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -330,26 +330,6 @@
         {
           "lat": 62.15599283174053,
           "lon": 106.21990910076208
-        },
-        {
-          "lat": 63.42260115779997,
-          "lon": 103.77809201633187
-        },
-        {
-          "lat": 62.30523703640449,
-          "lon": 106.93983084954922
-        },
-        {
-          "lat": 60.45305853733631,
-          "lon": 103.62578970921966
-        },
-        {
-          "lat": 59.3231286075672,
-          "lon": 107.25013836121562
-        },
-        {
-          "lat": 61.581154175605896,
-          "lon": 102.3256459054471
         }
       ],
       "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
@@ -366,7 +346,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-24",
-      "intensity": 6,
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -508,26 +488,6 @@
         {
           "lat": 34.88158078978085,
           "lon": -93.37189557915028
-        },
-        {
-          "lat": 35.45554713706127,
-          "lon": -97.73926851673629
-        },
-        {
-          "lat": 34.2282419028313,
-          "lon": -93.11416115372434
-        },
-        {
-          "lat": 37.212055023578245,
-          "lon": -95.10445200132904
-        },
-        {
-          "lat": 39.680696771407895,
-          "lon": -93.01773723299225
-        },
-        {
-          "lat": 35.60809005368899,
-          "lon": -93.91632261325648
         }
       ]
     },
@@ -599,8 +559,8 @@
       "label": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
-      "intensity": 7,
+      "last_seen": "2026-11-27",
+      "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -782,6 +742,26 @@
         {
           "lat": 50.943135958961825,
           "lon": 33.05490798788562
+        },
+        {
+          "lat": 50.81441344863128,
+          "lon": 29.406422894124272
+        },
+        {
+          "lat": 48.65246507132704,
+          "lon": 33.12827777870262
+        },
+        {
+          "lat": 49.04367607448324,
+          "lon": 30.818688911856544
+        },
+        {
+          "lat": 50.54592653760347,
+          "lon": 30.094182622455335
+        },
+        {
+          "lat": 47.808661883764,
+          "lon": 32.86658647471796
         }
       ]
     },
@@ -793,10 +773,10 @@
         "lat": 51.9194,
         "lon": 19.1451
       },
-      "label": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
-      "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+      "label": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -1200,8 +1180,8 @@
       "label": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
       "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
-      "intensity": 3,
+      "last_seen": "2026-11-27",
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1303,6 +1283,26 @@
         {
           "lat": 2.77087109640389,
           "lon": -76.22478603572313
+        },
+        {
+          "lat": 4.966993533699423,
+          "lon": -76.19692385755489
+        },
+        {
+          "lat": 5.164852753020906,
+          "lon": -73.52556350159671
+        },
+        {
+          "lat": 1.7878501171952461,
+          "lon": -75.14700175005723
+        },
+        {
+          "lat": 4.076001686926815,
+          "lon": -76.91596340265113
+        },
+        {
+          "lat": 4.155472672048717,
+          "lon": -77.10116920315305
         }
       ]
     },
@@ -1374,8 +1374,8 @@
       "label": "Deutschland baut künftig ukrainische Drohnen",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
-      "intensity": 2,
+      "last_seen": "2026-11-27",
+      "intensity": 3,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1457,9 +1457,45 @@
         {
           "lat": 51.17650378913572,
           "lon": 11.876194805039255
+        },
+        {
+          "lat": 54.115883693773625,
+          "lon": 7.475122098849997
+        },
+        {
+          "lat": 51.19202600651736,
+          "lon": 13.315057435540378
+        },
+        {
+          "lat": 51.06018689643631,
+          "lon": 9.876924173107701
+        },
+        {
+          "lat": 53.43679764965044,
+          "lon": 10.75168839130648
+        },
+        {
+          "lat": 50.28100893810915,
+          "lon": 11.92784432149966
         }
       ]
+    },
+    {
+      "id": "storm-usa",
+      "type": "storm",
+      "location": {
+        "name": "USA",
+        "lat": 37.0902,
+        "lon": -95.7129
+      },
+      "label": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": []
     }
   ],
-  "updated_at": "2026-11-26"
+  "updated_at": "2026-11-27"
 }
