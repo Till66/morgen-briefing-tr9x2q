@@ -8,9 +8,9 @@
         "lat": 48.3794,
         "lon": 31.1656
       },
-      "label": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
+      "label": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
       "first_seen": "2026-07-11",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -215,7 +215,7 @@
           "lon": 31.095251176307737
         }
       ],
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-ostsee-libyen-100.html"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
     },
     {
       "id": "conflict-russland",
@@ -228,7 +228,7 @@
       "label": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
       "first_seen": "2026-07-11",
       "last_seen": "2026-11-23",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -310,26 +310,6 @@
         {
           "lat": 61.854176447827875,
           "lon": 107.23642564585488
-        },
-        {
-          "lat": 60.550484926703035,
-          "lon": 103.69942325757476
-        },
-        {
-          "lat": 61.63667356367611,
-          "lon": 104.9261489167279
-        },
-        {
-          "lat": 58.643891106644624,
-          "lon": 103.74914459683819
-        },
-        {
-          "lat": 64.20791109157445,
-          "lon": 106.40524031828419
-        },
-        {
-          "lat": 62.15599283174053,
-          "lon": 106.21990910076208
         }
       ],
       "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
@@ -346,7 +326,7 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-24",
-      "intensity": 5,
+      "intensity": 4,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -468,26 +448,6 @@
         {
           "lat": 39.36966268424379,
           "lon": -98.28475842366234
-        },
-        {
-          "lat": 38.3697643560308,
-          "lon": -97.89607526559885
-        },
-        {
-          "lat": 36.35301957939799,
-          "lon": -96.42129793461105
-        },
-        {
-          "lat": 34.82961812122693,
-          "lon": -98.41133620753345
-        },
-        {
-          "lat": 35.57143333823896,
-          "lon": -97.90946640924435
-        },
-        {
-          "lat": 34.88158078978085,
-          "lon": -93.37189557915028
         }
       ]
     },
@@ -559,7 +519,7 @@
       "label": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -776,7 +736,7 @@
       "label": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
       "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "intensity": 8,
       "chokepoint_lane": null,
       "subpoints": [
@@ -983,79 +943,6 @@
       ]
     },
     {
-      "id": "conflict-br-ssel",
-      "type": "conflict",
-      "location": {
-        "name": "Brüssel",
-        "lat": 50.8503,
-        "lon": 4.3517
-      },
-      "label": "KI-gestützter Cyberangriff auf EU-Kommission",
-      "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": [
-        {
-          "lat": 48.92077288005018,
-          "lon": 5.65231821599971
-        },
-        {
-          "lat": 52.20772503086976,
-          "lon": 4.675350799534202
-        },
-        {
-          "lat": 49.994663134667356,
-          "lon": 5.2564839995251935
-        },
-        {
-          "lat": 49.620679635917575,
-          "lon": 6.273040367039978
-        },
-        {
-          "lat": 51.992839588767694,
-          "lon": 5.8703347990573
-        },
-        {
-          "lat": 49.817139859720044,
-          "lon": 4.687049022256059
-        },
-        {
-          "lat": 50.96464771053361,
-          "lon": 3.8257635832944104
-        },
-        {
-          "lat": 52.6423708131958,
-          "lon": 5.143269844305415
-        },
-        {
-          "lat": 48.060419451445085,
-          "lon": 6.767019526897585
-        },
-        {
-          "lat": 52.693592969940994,
-          "lon": 2.5564855470340664
-        }
-      ]
-    },
-    {
-      "id": "disaster-peru",
-      "type": "disaster",
-      "location": {
-        "name": "Peru",
-        "lat": -9.19,
-        "lon": -75.0152
-      },
-      "label": "Erdbeben erschüttert Perus Andenregion",
-      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "intensity": 0,
-      "chokepoint_lane": null,
-      "subpoints": []
-    },
-    {
       "id": "conflict-finnland",
       "type": "conflict",
       "location": {
@@ -1120,11 +1007,11 @@
         "lat": 31.0461,
         "lon": 34.8516
       },
-      "label": "Israel: Warum die Stadt Bat Yam Iran verklagt",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+      "label": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "intensity": 0,
+      "last_seen": "2026-11-28",
+      "intensity": 1,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1166,6 +1053,26 @@
         {
           "lat": 32.885738951895675,
           "lon": 37.37357189804212
+        },
+        {
+          "lat": 33.667045385569,
+          "lon": 33.15317554738726
+        },
+        {
+          "lat": 29.549608924856667,
+          "lon": 34.40519982712045
+        },
+        {
+          "lat": 32.82189403034779,
+          "lon": 36.296864544441654
+        },
+        {
+          "lat": 33.22593395540617,
+          "lon": 36.612669738017644
+        },
+        {
+          "lat": 33.23906464817435,
+          "lon": 36.00755101522187
         }
       ]
     },
@@ -1180,8 +1087,8 @@
       "label": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
       "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-27",
-      "intensity": 4,
+      "last_seen": "2026-11-28",
+      "intensity": 5,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1303,6 +1210,26 @@
         {
           "lat": 4.155472672048717,
           "lon": -77.10116920315305
+        },
+        {
+          "lat": 7.14903248913226,
+          "lon": -74.86856911440196
+        },
+        {
+          "lat": 5.702418735580965,
+          "lon": -74.82501585144283
+        },
+        {
+          "lat": 7.494182176703979,
+          "lon": -76.66335091238535
+        },
+        {
+          "lat": 6.7388238730966865,
+          "lon": -73.49481198920364
+        },
+        {
+          "lat": 4.951203261657316,
+          "lon": -73.4216497091635
         }
       ]
     },
@@ -1375,7 +1302,7 @@
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-27",
-      "intensity": 3,
+      "intensity": 2,
       "chokepoint_lane": null,
       "subpoints": [
         {
@@ -1457,26 +1384,6 @@
         {
           "lat": 51.17650378913572,
           "lon": 11.876194805039255
-        },
-        {
-          "lat": 54.115883693773625,
-          "lon": 7.475122098849997
-        },
-        {
-          "lat": 51.19202600651736,
-          "lon": 13.315057435540378
-        },
-        {
-          "lat": 51.06018689643631,
-          "lon": 9.876924173107701
-        },
-        {
-          "lat": 53.43679764965044,
-          "lon": 10.75168839130648
-        },
-        {
-          "lat": 50.28100893810915,
-          "lon": 11.92784432149966
         }
       ]
     },
@@ -1492,10 +1399,164 @@
       "url": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
-      "intensity": 1,
+      "intensity": 0,
       "chokepoint_lane": null,
       "subpoints": []
+    },
+    {
+      "id": "conflict-schweiz",
+      "type": "conflict",
+      "location": {
+        "name": "Schweiz",
+        "lat": 46.8182,
+        "lon": 8.2275
+      },
+      "label": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 48.914727605572836,
+          "lon": 5.259496774028985
+        },
+        {
+          "lat": 46.44655627250102,
+          "lon": 6.043143454626119
+        },
+        {
+          "lat": 46.64835912138628,
+          "lon": 8.496550361418409
+        },
+        {
+          "lat": 49.03554715607421,
+          "lon": 7.155870395658623
+        },
+        {
+          "lat": 49.32258204116756,
+          "lon": 8.481700700962497
+        },
+        {
+          "lat": 45.59653208250308,
+          "lon": 11.157014462577532
+        },
+        {
+          "lat": 45.0266226490018,
+          "lon": 10.918739967870348
+        },
+        {
+          "lat": 44.92035989106851,
+          "lon": 10.940042854182547
+        },
+        {
+          "lat": 43.950094147054266,
+          "lon": 8.366888105631663
+        },
+        {
+          "lat": 44.4042445579947,
+          "lon": 8.46405493260281
+        },
+        {
+          "lat": 44.39745023757369,
+          "lon": 8.690759134782304
+        },
+        {
+          "lat": 48.65713087944922,
+          "lon": 7.81734492127547
+        },
+        {
+          "lat": 43.935721963109614,
+          "lon": 8.94611363614877
+        },
+        {
+          "lat": 47.821579204776924,
+          "lon": 6.504279991871858
+        },
+        {
+          "lat": 47.76184917882337,
+          "lon": 10.448911370491006
+        }
+      ]
+    },
+    {
+      "id": "conflict-iran",
+      "type": "conflict",
+      "location": {
+        "name": "Iran",
+        "lat": 32.4279,
+        "lon": 53.688
+      },
+      "label": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+      "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "intensity": 1,
+      "chokepoint_lane": null,
+      "subpoints": [
+        {
+          "lat": 34.314317452452336,
+          "lon": 54.308931541458925
+        },
+        {
+          "lat": 31.76886970091131,
+          "lon": 54.692949896597526
+        },
+        {
+          "lat": 29.538438052420723,
+          "lon": 51.63503596293624
+        },
+        {
+          "lat": 33.59221060018118,
+          "lon": 51.948650845072386
+        },
+        {
+          "lat": 32.01312081668145,
+          "lon": 51.39715410730736
+        },
+        {
+          "lat": 30.094153977610326,
+          "lon": 56.561110202577225
+        },
+        {
+          "lat": 30.595025316608496,
+          "lon": 54.547099416960755
+        },
+        {
+          "lat": 35.42161254304278,
+          "lon": 54.89078023607163
+        },
+        {
+          "lat": 34.08406327260066,
+          "lon": 55.9460103234523
+        },
+        {
+          "lat": 35.17946601838571,
+          "lon": 51.50571259168576
+        },
+        {
+          "lat": 30.746069227642515,
+          "lon": 54.36580543530309
+        },
+        {
+          "lat": 29.635537402277357,
+          "lon": 51.546781450162364
+        },
+        {
+          "lat": 29.491322623105212,
+          "lon": 51.383612127123314
+        },
+        {
+          "lat": 34.96524126722844,
+          "lon": 52.81293564610485
+        },
+        {
+          "lat": 35.299067077652914,
+          "lon": 53.862193762981846
+        }
+      ]
     }
   ],
-  "updated_at": "2026-11-27"
+  "updated_at": "2026-11-28"
 }
